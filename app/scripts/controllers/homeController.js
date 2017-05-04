@@ -25,7 +25,7 @@ angular.module('IonicGulpSeed')
         // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
         var url = '//cdn.mozilla.net/pdfjs/tracemonkey.pdf';
-        url='http://cdn.mozilla.net/pdfjs/helloworld.pdf';
+        //url='http://cdn.mozilla.net/pdfjs/helloworld.pdf';
 
 // The workerSrc property shall be specified.
         PDFJS.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
