@@ -7,5 +7,7 @@
     "bower_components/ionic/js/ionic.js",
     "bower_components/ionic/js/ionic-angular.js",
     "bower_components/lodash/lodash.js",
-    "bower_components/ngCordova/dist/ng-cordova.js"
+    "bower_components/ngCordova/dist/ng-cordova.js",
+    "bower_components/pdfjs-dist/build/pdf.min.js"
+
 ]
