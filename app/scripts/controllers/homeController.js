@@ -28,7 +28,8 @@ angular.module('IonicGulpSeed')
         //url='http://cdn.mozilla.net/pdfjs/helloworld.pdf';
 
 // The workerSrc property shall be specified.
-        PDFJS.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
+        //PDFJS.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
+        PDFJS.workerSrc = 'pdf.worker.min.js';
 
         var pdfDoc = null,
             pageNum = 1,

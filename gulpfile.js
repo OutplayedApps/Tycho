@@ -218,6 +218,12 @@ gulp.task('vendor', function() {
     .on('error', errorHandler);
 });
 
+gulp.task('extra', function() {
+    gulp.src('bower_components/pdfjs-dist/build/pdf.worker.min.js')
+        .pipe(plugins.concat('pdf.worker.min.js'))
+        .pipe(gulp.dest(targetDir));
+});
+
 
 // inject the files in index.html
 gulp.task('index', ['jsHint', 'scripts'], function() {
@@ -390,7 +396,8 @@ gulp.task('default', function(done) {
       'templates',
       'styles',
       'images',
-      'vendor'
+      'vendor',
+        'extra'
     ],
     'index',
     build ? 'noop' : 'watchers',
