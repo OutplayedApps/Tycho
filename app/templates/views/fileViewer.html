@@ -1,0 +1,23 @@
+<ion-view>
+    <!--ion-header-bar align-title="center" class="bar-positive">
+    <button class="button button-icon icon ion-navicon" menu-toggle="left"></button>
+        <h1 class="title">Tycho</h1>
+    </ion-header-bar-->
+
+    <ion-content>
+        <div class="loader" ng-if="!fileLoaded">
+            <ion-spinner></ion-spinner>
+        </div>
+
+        <div>
+            <button id="prev">Previous</button>
+            <button id="next">Next</button>
+            &nbsp; &nbsp;
+            <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+        </div>
+
+        <canvas id="the-canvas"></canvas>
+        <small style="color:rgb(128,128,128);">A Universe of knowledge</small>
+    </ion-content>
+
+</ion-view>

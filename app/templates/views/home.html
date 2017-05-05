@@ -1,29 +1,20 @@
-<ion-view>
-    <ion-header-bar align-title="center" class="bar-positive">
+<ion-view hide-nav-bar="true">
+    <!--ion-header-bar align-title="center" class="bar-positive">
     <button class="button button-icon icon ion-navicon" menu-toggle="left"></button>
         <h1 class="title">Tycho</h1>
-    </ion-header-bar>
+    </ion-header-bar-->
 
-    <ion-content>
-        <ion-refresher
-            pulling-text="Pull to refresh..."
-            on-refresh="fetchRandomText()">
-        </ion-refresher>
-        <div class="loader" ng-if="!myHTML">
-            <ion-spinner></ion-spinner>
-        </div>
-        <div class="content" ng-bind-html="myHTML">
-        </div>
+    <ion-content class="padding text-center">
 
-        <div>
-            <button id="prev">Previous</button>
-            <button id="next">Next</button>
-            &nbsp; &nbsp;
-            <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
-        </div>
+        <h1 class="title padding-top">Tycho</h1>
 
-        <canvas id="the-canvas"></canvas>
-        <small style="color:rgb(128,128,128);">A Universe of knowledge</small>
+        <h3 style="color:rgb(128,128,128);">A Universe of knowledge</h3>
+        <div class="padding"></div>
+        <a ui-sref="app.fileViewer">
+            <button class="button button-positive button-full" >
+            Start
+            </button>
+        </a>
     </ion-content>
 
 </ion-view>

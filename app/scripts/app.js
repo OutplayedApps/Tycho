@@ -44,6 +44,16 @@ angular.module('IonicGulpSeed', ['ionic', 'ngCordova', 'ngResource', 'ngSanitize
                     }
                 }
             })
+            .state('app.fileViewer', {
+                url: '/fileViewer',
+                cache: true,
+                views: {
+                    'viewContent': {
+                        templateUrl: 'templates/views/fileViewer.html',
+                        controller: 'FileViewerController'
+                    }
+                }
+            })
             .state('app.settings', {
                 url: '/settings',
                 cache: true,
