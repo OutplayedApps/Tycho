@@ -12,5 +12,6 @@ www/
 *.DS_Store
 *.log
 tmp.run.file
+.idea/
 
 coverage
