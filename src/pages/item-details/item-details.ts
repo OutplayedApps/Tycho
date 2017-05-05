@@ -17,12 +17,17 @@ export class ItemDetailsPage {
   constructor(public navCtrl: NavController, public navParams: NavParams, public loadingCtrl: LoadingController) {
     // If we navigated to this page, we will have an item available as a nav param
     this.selectedItem = navParams.get('item');
+    console.log(this.selectedItem);
     //loadPDF();
   }
   ionViewDidLoad() {
     //loadPDF();
     this.presentLoadingCustom();
     var url = '//cdn.mozilla.net/pdfjs/tracemonkey.pdf';
+    url = 'assets/files/YGKschoolsofthought.pdf'
+    console.log(this.selectedItem);
+    console.log(this.selectedItem.url);
+    //url = this.selectedItem.url;
     var canvasContainer = document.getElementById("pdf-canvas");
     this.renderPDF(url, canvasContainer);
   }
