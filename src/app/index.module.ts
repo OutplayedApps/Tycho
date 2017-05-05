@@ -7,7 +7,7 @@ import runBlock from './index.run';
 import BrowseController from './locations/browse/browse.controller';
 import HelpController from './locations/help/help.controller';
 
-angular.module('angularGulpIonicBoilerplate', ['ionic', 'ui.router'])
+angular.module('Tycho', ['ionic', 'ui.router'])
   .config(config)
 
   .config(routerConfig)

@@ -1,7 +1,15 @@
 class HelpController {
   constructor() {
-    'njInject';
-  }
+    'ngInject';
+  };
+  stuff="AHUAHEEE";
+
+
+  ionViewWillEnter() {
+    let stuff = "AHUAHUA";
+    console.log(stuff);
+    console.log("AHUAHAUEEE");
+  };
 }
 
 export default HelpController;
