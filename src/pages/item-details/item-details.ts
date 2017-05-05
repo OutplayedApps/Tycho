@@ -17,7 +17,10 @@ export class ItemDetailsPage {
     //loadPDF();
   }
   ionViewDidLoad() {
-    loadPDF();
+    //loadPDF();
+    var url = '//cdn.mozilla.net/pdfjs/tracemonkey.pdf';
+    var canvasContainer = document.getElementById("pdf-canvas");
+    renderPDF(url, canvasContainer);
   }
 }
 
@@ -39,7 +42,7 @@ function loadPDF() {
     pageRendering = false,
     pageNumPending = null,
     scale = 0.8,
-    canvas = <HTMLCanvasElement> document.getElementById('the-canvas'),
+    canvas = <HTMLCanvasElement> document.getElementById('pdf-canvas'),
     ctx = canvas.getContext('2d');
 
   /**
@@ -123,4 +126,32 @@ function loadPDF() {
     renderPage(pageNum);
   });
 
+}
+
+function renderPDF(url, canvasContainer, options?) {
+  var options = options || { scale: 1 };
+
+  function renderPage(page) {
+    var viewport = page.getViewport(options.scale);
+    var canvas = document.createElement('canvas');
+    var ctx = canvas.getContext('2d');
+    var renderContext = {
+      canvasContext: ctx,
+      viewport: viewport
+    };
+
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+    canvasContainer.appendChild(canvas);
+
+    page.render(renderContext);
+  }
+
+  function renderPages(pdfDoc) {
+    for(var num = 1; num <= pdfDoc.numPages; num++)
+      pdfDoc.getPage(num).then(renderPage);
+  }
+  PDFJS.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
+  PDFJS.disableWorker = false;
+  PDFJS.getDocument(url).then(renderPages);
 }
