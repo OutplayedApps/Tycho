@@ -158,6 +158,14 @@ gulp.task('fonts', function() {
 });
 
 
+// copy the PDF files over
+gulp.task('files', function() {
+    return gulp.src('app/files/**/*.*')
+        .pipe(gulp.dest(path.join(targetDir, 'files')))
+
+        .on('error', errorHandler);
+});
+
 // copy templates
 gulp.task('templates', function() {
   return gulp.src('app/templates/**/*.*')
@@ -321,6 +329,7 @@ gulp.task('watchers', function() {
   gulp.watch('app/fonts/**', ['fonts']);
   gulp.watch('app/icons/**', ['iconfont']);
   gulp.watch('app/images/**', ['images']);
+  gulp.watch('app/files/**', ['files']);
   gulp.watch('app/scripts/**/*.js', ['index']);
   gulp.watch('./vendor.json', ['vendor']);
   gulp.watch('app/templates/**/*.html', ['index']);
@@ -396,6 +405,7 @@ gulp.task('default', function(done) {
       'templates',
       'styles',
       'images',
+        'files',
       'vendor',
         'extra'
     ],
