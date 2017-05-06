@@ -9,7 +9,31 @@ page-hello-ionic {
 
     }
   }
+  $color-primary: rgb(190,0,0);
+  $logoSize: 100px;
+  $logoFontSize: 50px;
+ /* .logo {
+    margin: 50px auto;
+    width: $logoSize;
+    height: $logoSize;
+    border-radius: 50%;
+    font-size: $logoFontSize;
+    color: $color-primary;
+    line-height: $logoSize;
+    text-align: center;
+    background: white;
+    font-family: Lucida;
+    font-weight: 900;
+    border:5px solid $color-primary;
+  }*/
+  .logo {
+    margin: 50px auto;
+    width: 100px;
+    height: 100px;
+    background-image: url(../assets/images/tau.svg);
+    background-size: contain;
+  }
   .mainBtn {
-    margin-top: 50vh;
+    //margin-top: 50vh;
   }
 }
