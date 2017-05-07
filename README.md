@@ -14,6 +14,8 @@ tycho!!!
 ## Database instructions
 Connect to SSH server
 - `mysql -u root -p`
+- `use mysql; `
+- `update user set authentication_string=password('pwd') where user='username';`
 
 ## History
 April-end: Idea conceived
