@@ -4,4 +4,9 @@ page-item-details {
 
 div#pageContent {
   padding: 30px;
+  img {
+    max-width: 80vw;
+    display: block;
+    height: auto !important;
+  }
 }
