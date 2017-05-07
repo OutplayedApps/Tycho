@@ -11,6 +11,10 @@ tycho!!!
 - Go to inspect element, then click on "Toggle device toolbar" to view the app from a device-sized screen. (Or press Ctrl-Shift-M).
 <img src="http://i.imgur.com/inZjBKJ.png">
 
+## Database instructions
+Connect to SSH server
+- `mysql -u root -p`
+
 ## History
 April-end: Idea conceived
 
