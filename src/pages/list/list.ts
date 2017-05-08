@@ -26,14 +26,21 @@ export class ListPage {
       subcatId: navParams.get('subcatId')
     };
   };
-
-  public randomHue() {
-    var darkness = 100;
-    var hue = 'rgb(' + (Math.floor((256-(darkness-1))*Math.random()) + darkness) + ',' + (Math.floor((256-(darkness-1))*Math.random()) + darkness) + ',' + (Math.floor((256-(darkness-1))*Math.random()) + darkness) + ')';
-    return function() {
-      return hue;
-    };
+  public hashCode(str:any) { // java String#hashCode
+  var hash = 0;
+  for (var i = 0; i < str.length; i++) {
+    hash = str.charCodeAt(i) + ((hash << 5) - hash);
   }
+  return hash;
+}
+
+  public intToRGB(i){
+  var c = (i & 0x00FFFFFF)
+    .toString(16)
+    .toUpperCase();
+
+  return "00000".substring(0, 6 - c.length) + c;
+}
 
   ionViewDidLoad()
    {
