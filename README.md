@@ -15,7 +15,10 @@ tycho!!!
 Connect to SSH server
 - `mysql -u root -p`
 - `use mysql; `
-- `update user set authentication_string=password('pwd') where user='username';`
+- `update user set authentication_string=password('pwd') where user='username';
+
+Access database at http://outplayedapps.com/tycho/
+`select subcatName from subcats join cats on (subcats.catId = cats.catId)`
 
 ## History
 April-end: Idea conceived
