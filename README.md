@@ -19,11 +19,11 @@ Connect to SSH server
 - `update user set authentication_string=password('pwd') where user='username';
 
 Access database at http://outplayedapps.com/tycho/
-`select subcatName from subcats join cats on (subcats.catId = cats.catId)`
+`select * from subcats join cats on (subcats.catId = cats.catId)`
 
 ## History
 April-end: Idea conceived
 
 5/4 - Created the app using Ionic 1 
-
 5/5 - Upgrade to Ionic 2
+5/7 - Created the backend database

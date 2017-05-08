@@ -8,10 +8,10 @@
 </ion-header>
 
 <ion-content>
-  <ion-list>
-    <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
+  <ion-list *ngIf = "type=='cat'">
+    <button ion-item *ngFor="let item of items" (click)="catTapped($event, item)">
       <ion-icon name="{{item.icon}}" item-left></ion-icon>
-      {{item.title}}
+      {{item.catName}}
       <div class="item-note" item-right>
         {{item.note}}
       </div>

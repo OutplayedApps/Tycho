@@ -4,7 +4,7 @@ import { Http, Response } from '@angular/http';
 import { ApiService } from '../../app/services/ApiService';
 import 'rxjs/add/operator/map';
 
-import { NavController, NavParams, LoadingController } from 'ionic-angular';
+import { NavController, NavParams } from 'ionic-angular';
 
 @Injectable()
 @Component({
@@ -19,7 +19,7 @@ export class ItemDetailsPage {
 
   loading:any;
 
-  constructor(public navCtrl:NavController, public navParams:NavParams, public loadingCtrl:LoadingController,
+  constructor(public navCtrl:NavController, public navParams:NavParams,
               private http:Http, private apiService: ApiService) {
     // If we navigated to this page, we will have an item available as a nav param
     this.selectedItem = navParams.get('item');
@@ -28,12 +28,13 @@ export class ItemDetailsPage {
 
   ionViewDidLoad() {
 
-    this.presentLoadingCustom();
+    this.apiService.presentLoadingCustom();
     var url = '//cdn.mozilla.net/pdfjs/tracemonkey.pdf';
     url = 'assets/files/YGKschoolsofthought.pdf'
     console.log(this.selectedItem);
     console.log(this.selectedItem.url);
-    this.apiService.getFile().subscribe(data => {
+    url = 'https://www.googleapis.com/drive/v3/files/fileId/export?fileId=1Xxqt2V9gu0ghEMBgVm4xNbEO579Pq8uNXbc5r1OD58I&mimeType=text/html&key=AIzaSyDIzqeDtau8sP6OtsURRSsSjUxDR1Qd1RA';
+    this.apiService.getFile(url).subscribe(data => {
       console.log(data);
       function stripScripts(s) {
         var div = document.createElement('div');
@@ -58,22 +59,6 @@ export class ItemDetailsPage {
 
 
 
-  presentLoadingCustom() {
-    let loading = this.loadingCtrl.create({
-      spinner: 'hide',
-      content: `
-      <div class="loading-custom-spinner-container">
-        <div class="loading-custom-spinner-box"></div>
-        <div class="loading-content">Loading file...</div>
-      </div>`
-    });
 
-    loading.onDidDismiss(() => {
-      console.log('Dismissed loading');
-    });
-
-    loading.present();
-    (<any>window).loading = loading;
-  }
 
 }

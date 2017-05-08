@@ -1,18 +1,34 @@
 import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
+import {LoadingController} from 'ionic-angular';
 
 @Injectable()
 export class ApiService {
 
-  constructor(private http:Http) {
+  constructor(private http:Http, public loadingCtrl:LoadingController) {
   }
 
-  getFile() {
-    var url = '';
-    url = 'https://docs.google.com/document/d/1K7rh9iKomflEKEs5ApstHQM9vvNV73UIY8j3LA_rcpU/pub';
-    url = 'https://www.googleapis.com/drive/v3/files/fileId/export?fileId=1Xxqt2V9gu0ghEMBgVm4xNbEO579Pq8uNXbc5r1OD58I&mimeType=text/html&key=AIzaSyDIzqeDtau8sP6OtsURRSsSjUxDR1Qd1RA';
+  getFile(url:string) {
     return this.http.get(url)
       .map((res:Response) => res.text());
+  };
+
+  presentLoadingCustom() {
+    let loading = this.loadingCtrl.create({
+      spinner: 'hide',
+      content: `
+      <div class="loading-custom-spinner-container">
+        <div class="loading-custom-spinner-box"></div>
+        <div class="loading-content">Loading file...</div>
+      </div>`
+    });
+
+    loading.onDidDismiss(() => {
+      console.log('Dismissed loading');
+    });
+
+    loading.present();
+    (<any>window).loading = loading;
   }
 
 }
