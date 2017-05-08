@@ -55,6 +55,9 @@ export class ListPage {
       (<any>window).loading.dismiss();
       (<any>window).data = data;
       var data2 : any[] = JSON.parse(data);
+      data2 = data2.filter(function(e) {
+        return (!e.catName || e.catName != "None");
+      })
       for (let i = 0; i < data2.length; i++) {
         let item = data2[i];
         item.title = this.apiService.coalesce(item.catName, item.subcatName, item.guideName);

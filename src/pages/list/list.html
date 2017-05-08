@@ -9,7 +9,18 @@
 
 <ion-content>
   <span  *ngIf = "type=='cat'"></span>
-  <ion-list>
+  <ion-card *ngFor="let item of items" (click)="itemTapped($event, item)">
+    <ion-card-content>
+      <ion-card-title>
+        {{item.title}}
+      </ion-card-title>
+      <p>
+        {{item.description}}
+      </p>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-list style="display:none">
     <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
       <ion-icon name="ion-beaker"></ion-icon>
       <ion-icon name="{{item.icon}}" item-left></ion-icon>
