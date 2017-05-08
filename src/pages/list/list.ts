@@ -58,6 +58,24 @@ export class ListPage {
       for (let i = 0; i < data2.length; i++) {
         let item = data2[i];
         item.title = this.apiService.coalesce(item.catName, item.subcatName, item.guideName);
+        if (item.guideName) {item.icon = "document";}
+        else if (item.subcatName) {item.icon = "folder";}
+        else {
+          switch (item.title.toLowerCase()) {
+            case "science":
+              item.icon = "flask";
+              break;
+            case "literature":
+              item.icon = "book";
+              break;
+            case "history":
+              item.icon = "globe";
+              break;
+            default:
+              item.icon = "folder";
+          }
+        }
+
       };
       this.items = data2;
       console.log(data2);
