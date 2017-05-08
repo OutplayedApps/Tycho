@@ -13,7 +13,9 @@
     <ion-card-content>
       <ion-card-title>
         {{item.title}}
+        <ion-icon name="{{item.icon}}" item-right class="listIcon" [ngStyle]="{'color':randomHue()()}"></ion-icon>
       </ion-card-title>
+
       <p>
         {{item.description}}
       </p>

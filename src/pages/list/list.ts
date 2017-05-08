@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-
 import { NavController, NavParams } from 'ionic-angular';
 
 import { ItemDetailsPage } from '../item-details/item-details';
@@ -27,6 +26,13 @@ export class ListPage {
       subcatId: navParams.get('subcatId')
     };
   };
+
+  public randomHue() {
+    var hue = 'rgb(' + (Math.floor((256-199)*Math.random()) + 200) + ',' + (Math.floor((256-199)*Math.random()) + 200) + ',' + (Math.floor((256-199)*Math.random()) + 200) + ')';
+    return function() {
+      return hue;
+    };
+  }
 
   ionViewDidLoad()
    {
@@ -81,6 +87,7 @@ export class ListPage {
 
       };
       this.items = data2;
+
       console.log(data2);
     });
 
