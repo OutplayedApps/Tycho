@@ -31,4 +31,14 @@ export class ApiService {
     (<any>window).loading = loading;
   }
 
+  coalesce(...args: any[]) {
+    var len = args.length;
+    for (var i=0; i<len; i++) {
+      if (args[i] !== null && args[i] !== undefined) {
+        return args[i];
+      }
+    }
+    return null;
+  }
+
 }

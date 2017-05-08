@@ -3,15 +3,16 @@
     <button ion-button menuToggle>
       <ion-icon name="menu"></ion-icon>
     </button>
-    <ion-title>My First List</ion-title>
+    <ion-title>{{listTitle}}</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content>
-  <ion-list *ngIf = "type=='cat'">
-    <button ion-item *ngFor="let item of items" (click)="catTapped($event, item)">
+  <span  *ngIf = "type=='cat'"></span>
+  <ion-list>
+    <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
       <ion-icon name="{{item.icon}}" item-left></ion-icon>
-      {{item.catName}}
+      {{item.title}}
       <div class="item-note" item-right>
         {{item.note}}
       </div>
