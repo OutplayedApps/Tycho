@@ -28,7 +28,8 @@ export class ListPage {
   };
 
   public randomHue() {
-    var hue = 'rgb(' + (Math.floor((256-199)*Math.random()) + 200) + ',' + (Math.floor((256-199)*Math.random()) + 200) + ',' + (Math.floor((256-199)*Math.random()) + 200) + ')';
+    var darkness = 100;
+    var hue = 'rgb(' + (Math.floor((256-(darkness-1))*Math.random()) + darkness) + ',' + (Math.floor((256-(darkness-1))*Math.random()) + darkness) + ',' + (Math.floor((256-(darkness-1))*Math.random()) + darkness) + ')';
     return function() {
       return hue;
     };
