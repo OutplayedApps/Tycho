@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/epicfaace/Tycho.png?label=ready&title=Ready)](https://waffle.io/epicfaace/Tycho)
 # Tycho
 tycho!!!
 
