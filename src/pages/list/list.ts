@@ -15,14 +15,16 @@ export class ListPage {
   items: any;
   type: string;
   listTitle: string;
-  params: {catName: string, subcatName: string};
+  params: {catName: string, subcatName: string, catId: string, subcatId: string};
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public apiService: ApiService) {
     this.type = navParams.get('type');
     console.log(this.type);
     if (!this.type) this.type = "cat";
     this.params = {catName: navParams.get('catName'),
-      subcatName: navParams.get('subcatName')
+      subcatName: navParams.get('subcatName'),
+      catId: navParams.get('catId'),
+      subcatId: navParams.get('subcatId')
     };
   };
 
@@ -38,10 +40,12 @@ export class ListPage {
          break;
        case "subcat":
          queryUrl = "http://outplayedapps.com/tycho-api/?query=subcats";
+         queryUrl += "&catId="+this.params.catId;
          this.listTitle = this.params.catName;
          break;
        case "guide":
          queryUrl = "http://outplayedapps.com/tycho-api/?query=guides";
+         queryUrl += "&subcatId="+this.params.subcatId;
          this.listTitle = this.params.catName + " - " + this.params.subcatName;
          break;
        default:
@@ -68,16 +72,21 @@ export class ListPage {
       type: 'cat',
       catName: '',
       subcatName: '',
-      guideName: ''
+      guideName: '',
+      subcatId: '',
+      catId: ''
     };
     if (item.catName) {
       queryParams.type = 'subcat';
       queryParams.catName = item.catName;
+      queryParams.catId = item.catId;
     }
     else if (item.subcatName) {
       queryParams.type = 'guide';
       queryParams.catName = this.params.catName;
+      queryParams.catId = this.params.catId;
       queryParams.subcatName = item.subcatName;
+      queryParams.subcatId = item.subcatId;
     }
     if (item.guideId) {
       this.navCtrl.push(ItemDetailsPage, queryParams);
