@@ -1,11 +1,11 @@
 import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
-import {LoadingController} from 'ionic-angular';
+import {LoadingController, AlertController} from 'ionic-angular';
 
 @Injectable()
 export class ApiService {
 
-  constructor(private http:Http, public loadingCtrl:LoadingController) {
+  constructor(private http:Http, public loadingCtrl:LoadingController, public alertCtrl: AlertController) {
   }
 
   getFile(url:string) {
@@ -29,6 +29,17 @@ export class ApiService {
 
     loading.present();
     (<any>window).loading = loading;
+  }
+
+  error() {
+    //showAlert() {
+      let alert = this.alertCtrl.create({
+        title: 'Error',
+        subTitle: 'Sorry, there was an error. Please try again later.',
+        buttons: ['OK']
+      });
+      alert.present();
+    //}
   }
 
   coalesce(...args: any[]) {

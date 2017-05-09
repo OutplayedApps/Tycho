@@ -26,7 +26,7 @@ export class ListPage {
       subcatId: navParams.get('subcatId')
     };
   };
-  public hashCode(str:any) { // java String#hashCode
+  private hashCode(str:any) { // java String#hashCode
   var hash = 0;
   for (var i = 0; i < str.length; i++) {
     hash = str.charCodeAt(i) + ((hash << 5) - hash);
@@ -34,13 +34,17 @@ export class ListPage {
   return hash;
 }
 
-  public intToRGB(i){
+  private intToRGB(i){
   var c = (i & 0x00FFFFFF)
     .toString(16)
     .toUpperCase();
 
   return "00000".substring(0, 6 - c.length) + c;
 }
+
+  public colorHash(title) {
+    return '#' + this.intToRGB(this.hashCode(title));
+  }
 
   ionViewDidLoad()
    {
@@ -75,6 +79,7 @@ export class ListPage {
       for (let i = 0; i < data2.length; i++) {
         let item = data2[i];
         item.title = this.apiService.coalesce(item.catName, item.subcatName, item.guideName);
+        if (typeof item.price != 'undefined') item.tags = [item.price!=0 ? "Needs subscription": "Free"];
         if (item.guideName) {item.icon = "document";}
         else if (item.subcatName) {item.icon = "folder";}
         else {

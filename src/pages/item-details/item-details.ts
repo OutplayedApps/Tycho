@@ -32,8 +32,8 @@ export class ItemDetailsPage {
     var url = '//cdn.mozilla.net/pdfjs/tracemonkey.pdf';
     url = 'assets/files/YGKschoolsofthought.pdf'
     console.log(this.selectedItem);
-    console.log(this.selectedItem.url);
-    url = 'https://www.googleapis.com/drive/v3/files/fileId/export?fileId=1Xxqt2V9gu0ghEMBgVm4xNbEO579Pq8uNXbc5r1OD58I&mimeType=text/html&key=AIzaSyDIzqeDtau8sP6OtsURRSsSjUxDR1Qd1RA';
+    console.log(this.selectedItem.googleDocsId);
+    url = 'https://www.googleapis.com/drive/v3/files/fileId/export?fileId='+this.selectedItem.googleDocsId+'&mimeType=text/html&key=AIzaSyDIzqeDtau8sP6OtsURRSsSjUxDR1Qd1RA';
     this.apiService.getFile(url).subscribe(data => {
       console.log(data);
       function stripScripts(s) {
@@ -50,7 +50,12 @@ export class ItemDetailsPage {
       //data = stripScripts(data);
       (<any>window).loading.dismiss();
       this.pageContent = data;
-    });
+    },
+      (err) => {
+        (<any>window).loading.dismiss();
+        this.apiService.error();
+      }
+    );
 
     //url = this.selectedItem.url;
 
