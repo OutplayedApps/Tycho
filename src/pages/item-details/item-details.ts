@@ -4,13 +4,15 @@ import { Http, Response } from '@angular/http';
 import { ApiService } from '../../app/services/ApiService';
 import 'rxjs/add/operator/map';
 
-import { NavController, NavParams } from 'ionic-angular';
+import { GalleryModal } from 'ionic-gallery-modal';
+import { ModalController, NavController, NavParams } from 'ionic-angular';
+import { PhotoViewer } from '@ionic-native/photo-viewer';
 
 @Injectable()
 @Component({
   selector: 'page-item-details',
   templateUrl: 'item-details.html',
-  providers: [ApiService]
+  providers: [ApiService, PhotoViewer]
 })
 export class ItemDetailsPage {
   Class:any;
@@ -20,7 +22,8 @@ export class ItemDetailsPage {
   loading:any;
 
   constructor(public navCtrl:NavController, public navParams:NavParams,
-              private http:Http, private apiService: ApiService) {
+              private http:Http, private apiService: ApiService, public modalCtrl:ModalController,
+              public photoViewer: PhotoViewer) {
     // If we navigated to this page, we will have an item available as a nav param
     this.selectedItem = navParams.get('item');
     console.log(this.selectedItem);
@@ -39,10 +42,14 @@ export class ItemDetailsPage {
       function stripScripts(s) {
         var div = document.createElement('div');
         div.innerHTML = s;
-        var scripts = div.getElementsByTagName('style');
-        var i = scripts.length;
-        while (i--) {
+        //var scripts = div.getElementsByTagName('style');
+        //var i = scripts.length;
+        /*while (i--) {
           scripts[i].parentNode.removeChild(scripts[i]);
+        }*/
+        var images = div.getElementsByTagName('IMG');
+        for (let i = 0; i<images.length; i++) {
+          images[i].setAttribute("imageViewer","");
         }
         return div.innerHTML;
       }
@@ -60,6 +67,19 @@ export class ItemDetailsPage {
     //url = this.selectedItem.url;
 
 
+  }
+  pageClickHandler(e: HTMLElement){
+    console.log(e); // here is the element which has been clicked
+    (<any>window).e = e;
+    if (e.tagName=="IMG") {
+      //e.setAttribute("imageViewer","");
+      /*let modal = this.modalCtrl.create(GalleryModal, {
+        photos: [{url: e.getAttribute("src")}],
+        initialSlide: 0
+      });
+      modal.present();*/
+      this.photoViewer.show(e.getAttribute("src"));
+    }
   }
 
 
