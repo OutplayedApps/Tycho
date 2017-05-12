@@ -4,7 +4,6 @@ import { Http, Response } from '@angular/http';
 import { ApiService } from '../../app/services/ApiService';
 import 'rxjs/add/operator/map';
 
-import { GalleryModal } from 'ionic-gallery-modal';
 import { ModalController, NavController, NavParams } from 'ionic-angular';
 import { PhotoViewer } from '@ionic-native/photo-viewer';
 
@@ -73,11 +72,6 @@ export class ItemDetailsPage {
     (<any>window).e = e;
     if (e.tagName=="IMG") {
       //e.setAttribute("imageViewer","");
-      /*let modal = this.modalCtrl.create(GalleryModal, {
-        photos: [{url: e.getAttribute("src")}],
-        initialSlide: 0
-      });
-      modal.present();*/
       this.photoViewer.show(e.getAttribute("src"));
     }
   }

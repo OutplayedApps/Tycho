@@ -12,8 +12,6 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { SafeHtml } from './pipes/SafeHtml';
-import { GalleryModal } from 'ionic-gallery-modal';
-import { ZoomableImage } from 'ionic-gallery-modal';
 
 @NgModule({
   declarations: [
@@ -21,9 +19,7 @@ import { ZoomableImage } from 'ionic-gallery-modal';
     HelloIonicPage,
     ItemDetailsPage,
     ListPage,
-    SafeHtml,
-    GalleryModal,
-    ZoomableImage
+    SafeHtml
   ],
   imports: [
     HttpModule,
@@ -36,8 +32,7 @@ import { ZoomableImage } from 'ionic-gallery-modal';
     MyApp,
     HelloIonicPage,
     ItemDetailsPage,
-    ListPage,
-    GalleryModal
+    ListPage
   ],
   providers: [
     StatusBar,
