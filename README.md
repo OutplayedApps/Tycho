@@ -1,6 +1,12 @@
 [![Stories in Ready](https://badge.waffle.io/epicfaace/Tycho.png?label=ready&title=Ready)](https://waffle.io/epicfaace/Tycho)
 # Tycho
-tycho!!!
+## What is Tycho?
+Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
+
+## Technologies used:
+- Ionic 2 and Angular 2 to make the app for both iOS and Android.
+- Using PHP for the backend, developed a CRUD interface to edit database entries.
+
 
 ## Setup
 - Install Node JS at https://nodejs.org/en/download/
