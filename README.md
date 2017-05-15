@@ -1,7 +1,7 @@
-[![Stories in Ready](https://badge.waffle.io/epicfaace/Tycho.png?label=ready&title=Ready)](https://waffle.io/epicfaace/Tycho)
 # Tycho
 ## What is Tycho?
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
+
 <img src="http://i.imgur.com/ikJJ7No.png">
 
 ## Technologies used:
