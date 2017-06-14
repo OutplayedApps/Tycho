@@ -1,7 +1,8 @@
-[![Stories in Ready](https://badge.waffle.io/epicfaace/Tycho.png?label=ready&title=Ready)](https://waffle.io/epicfaace/Tycho)
 # Tycho
 ## What is Tycho?
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
+
+<img src="http://i.imgur.com/ikJJ7No.png">
 
 ## Technologies used:
 - Ionic 2 and Angular 2 to make the app for both iOS and Android.
@@ -25,11 +26,16 @@ Connect to SSH server
 - `update user set authentication_string=password('pwd') where user='username';
 
 Access database at http://outplayedapps.com/tycho/
+
 `select * from subcats join cats on (subcats.catId = cats.catId)`
 
 ## History
 April-end: Idea conceived
 
 5/4 - Created the app using Ionic 1 
+
 5/5 - Upgrade to Ionic 2
+
 5/7 - Created the backend database
+
+5/11 (around this time) - Created CRUD interface using jsGrid
