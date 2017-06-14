@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+
+
+<HEAD>
+    <TITLE>Collegiate Quizbowl Packet Archive</TITLE>
+    <base href="http://collegiate.quizbowlpackets.com/">
+    <LINK REL="stylesheet" href="http://www.hsquizbowl.org/db/style.css?7">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</HEAD>
+
+<BODY>
+    <script type="text/javascript" src="core.js?3">
+    // Core javascript
+    </script>
+    <!-- MARGIN CONTAINER -->
+    <DIV CLASS="Container">
+        <!-- BORDERED MAIN BODY -->
+        <DIV CLASS="OverallBody">
+            <!-- PAGE HEADER -->
+            <DIV CLASS="MainHeader">
+                <DIV class="FloatLeft"><a href=""><img alt="hsquizbowl logo" src="http://www.hsquizbowl.org/forums/styles/prosilver/imageset/quizbowl-logo-border.gif"></a></DIV>
+                <DIV class="FloatLeft">
+                    <H1><a href="">Collegiate Quizbowl Packet Archive</a></H1>
+                    <H2>Free quizbowl packets for practice</H2>
+                </DIV>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+
+            <!-- NAVIGATION BAR -->
+                        <DIV CLASS="Navigation">
+                <UL CLASS="MainNav">
+                    <LI><a href="http://ms.quizbowlpackets.com/">Middle School</a></LI>
+                    <LI><a href="http://www.quizbowlpackets.com/">High School</a></LI>
+                    <LI><a href="http://collegiate.quizbowlpackets.com/">Collegiate</a></LI>
+                    <LI><a href="http://trash.quizbowlpackets.com/">Trash</a></LI>
+                </UL>
+                <UL CLASS="Account">
+                    <LI><a href="http://www.hsquizbowl.org/db/">The Quizbowl Resource Center</a></LI>
+                </UL>
+                <DIV CLASS="FloatDivider"></DIV>
+            </DIV>
+                    <!-- MAIN PAGE CONTENT SECTION -->
+            <DIV class="ContentContainer">
+                <script type="text/javascript" src="formbox.js?3"></script><script type="text/javascript">registerFormBox("QuestionSetFile", "Form submitted successfully.", "File does not exist.", "The following errors must be corrected before this form can be submitted.", "", 2);</script><div id="QuestionSetFile_FormBox" class="FormBox FBError">
+<P>File does not exist.</P>
+</div>
+            </DIV> <!-- END CONTENT CONTAINER --> 
+        </DIV>
+        <!-- END BORDERED MAIN BODY -->
+
+        <!-- FOOTER -->
+                <DIV CLASS="Footer">
+            <P class="Copyright">Collegiate Quizbowl Packet Archive &copy; 2011-2015 hsquizbowl.org<BR>All question packets are the property of their respective owners.</P>
+            <P class="Contact">Database application maintained by <a href="mailto:goff.dan@gmail.com">Dan Goff</a> and <a href="mailto:jeffrey@hillonline.net">Jeffrey Hill</a><BR>Packet uploads managed by <a href="mailto:jeffrey@hillonline.net">Jeffrey Hill</a></P>
+        </DIV>
+    </DIV>
+    <!-- END MARGIN CONTAINER -->
+</BODY>
+</HTML>
