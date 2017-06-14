@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>{{listTitle}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <span  *ngIf = "type=='cat'"></span>
+  <ion-card *ngFor="let item of items" (click)="itemTapped($event, item)">
+    <ion-card-content>
+      <ion-card-title>
+        {{item.title}}
+        <ion-icon name="{{item.icon}}" item-right class="listIcon" [ngStyle]="{'color': colorHash(item.title)}"></ion-icon>
+      </ion-card-title>
+
+      <p>
+        {{item.description}}
+      </p>
+      <p>
+        <ion-badge *ngFor="let tag of item.tags" [ngStyle]="{'background-color': colorHash(tag)}" item-right>{{tag}}</ion-badge>
+      </p>
+    </ion-card-content>
+  </ion-card>
+  <!--
+    <ion-list style="display:none">
+      <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
+        <ion-icon name="ion-beaker"></ion-icon>
+        <ion-icon name="{{item.icon}}" item-left></ion-icon>
+
+        {{item.title}}
+        <div class="item-note" item-right>
+          {{item.note}}
+        </div>
+      </button>
+    </ion-list>-->
+</ion-content>

@@ -7,9 +7,11 @@ import { HttpModule } from '@angular/http';
 import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
 import { ItemDetailsPage } from '../pages/item-details/item-details';
 import { ListPage } from '../pages/list/list';
+import {PacketListPage} from "../pages/packet-list/packet-list";
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { File } from '@ionic-native/file';
 
 import { SafeHtml } from './pipes/SafeHtml';
 
@@ -19,6 +21,7 @@ import { SafeHtml } from './pipes/SafeHtml';
     HelloIonicPage,
     ItemDetailsPage,
     ListPage,
+    PacketListPage,
     SafeHtml
   ],
   imports: [
@@ -32,11 +35,13 @@ import { SafeHtml } from './pipes/SafeHtml';
     MyApp,
     HelloIonicPage,
     ItemDetailsPage,
-    ListPage
+    ListPage,
+    PacketListPage
   ],
   providers: [
     StatusBar,
     SplashScreen,
+    File,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
