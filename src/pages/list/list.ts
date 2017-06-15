@@ -26,25 +26,7 @@ export class ListPage {
       subcatId: navParams.get('subcatId')
     };
   };
-  private hashCode(str:any) { // java String#hashCode
-  var hash = 0;
-  for (var i = 0; i < str.length; i++) {
-    hash = str.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  return hash;
-}
-
-  private intToRGB(i){
-  var c = (i & 0x00FFFFFF)
-    .toString(16)
-    .toUpperCase();
-
-  return "00000".substring(0, 6 - c.length) + c;
-}
-
-  public colorHash(title) {
-    return '#' + this.intToRGB(this.hashCode(title));
-  }
+  public colorHash = this.apiService.colorHash;
 
   ionViewDidLoad()
    {
