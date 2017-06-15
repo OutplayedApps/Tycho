@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { PacketDetails } from '../packet-details/packet-details';
 import { ApiService } from '../../app/services/ApiService';
+import { File } from '@ionic-native/file';
 
 /**
  * Generated class for the PacketList page.
@@ -25,7 +26,8 @@ export class PacketListPage {
   PACKETLIST: 3
   };
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public apiService: ApiService) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, public apiService: ApiService,
+              private file: File) {
     this.type = navParams.get('type');
 
     if (!this.type) this.type = this.TYPES.DIFFICULTYLIST;
@@ -34,8 +36,11 @@ export class PacketListPage {
   }
 
   ionViewDidLoad() {
-    console.log(this.type);
     var items;
+    (<any>window).file = this.file;
+    this.file.checkDir(this.file.dataDirectory, '')
+      .then((files) => console.log('Directory exists'))
+      .catch((err) => console.log('Directory doesnt exist'));
     switch (this.type) {
       case this.TYPES.DIFFICULTYLIST:
         items = [
