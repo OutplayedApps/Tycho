@@ -19,6 +19,7 @@ import { File } from '@ionic-native/file';
 export class PacketListPage {
   type: Number;
   path: String;
+  listTitle: String;
   items: any;
   TYPES: any = {
   DIFFICULTYLIST: 1,
@@ -36,7 +37,7 @@ export class PacketListPage {
   }
 
   ionViewDidLoad() {
-    var items;
+    var items, listTitle;
     (<any>window).file = this.file;
     this.file.checkDir(this.file.dataDirectory, '')
       .then((files) => console.log('Directory exists'))
@@ -48,6 +49,7 @@ export class PacketListPage {
           {"title": "High School", "icon": "md-laptop", "description":"High school packet archive.\n\nExample: LIST, FKT, PACE NSC"},
           {"title": "Collegiate ", "icon": "md-school", "description":"Collegiate and open packets.\n\nExample: MUT, ACF Fall, ACF Nationals, Chicago Open"}
         ];
+        listTitle = "Choose a packet difficulty";
         break;
       case this.TYPES.SETLIST:
 
@@ -57,6 +59,7 @@ export class PacketListPage {
         break;
     }
     this.items = items;
+    this.listTitle = listTitle;
   }
 
   itemTapped(event, item) {
