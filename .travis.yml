@@ -32,6 +32,7 @@ before_install:
   - nvm use node
   - npm install -g cordova ionic
   - ionic state clear
+  - npm install
 
 install: npm install
 
