@@ -8,8 +8,8 @@
 </ion-header>
 
 <ion-content>
-  <span  *ngIf = "type=='cat'"></span>
-  <ion-card *ngFor="let item of items" (click)="itemTapped($event, item)">
+  <div  *ngIf = "type==TYPES.DIFFICULTYLIST">
+    <ion-card *ngFor="let item of items" (click)="itemTapped($event, item)">
     <ion-card-content>
       <ion-card-title>
         {{item.title}}
@@ -24,6 +24,17 @@
       </p>
     </ion-card-content>
   </ion-card>
+  </div>
+  <div  *ngIf = "type!=TYPES.DIFFICULTYLIST">
+    <ion-card *ngFor="let item of items" (click)="itemTapped($event, item)">
+      <ion-card-content>
+        <ion-card-title>
+          {{item.name}}
+        </ion-card-title>
+      </ion-card-content>
+    </ion-card>
+  </div>
+
   <!--
     <ion-list style="display:none">
       <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
