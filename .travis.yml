@@ -40,13 +40,13 @@ before_script:
   - export DISPLAY=:99.0
   - sh -e /etc/init.d/xvfb start
 
-script:
-  - npm run test-ci  # unit tests
-  - npm run e2e      # run e2e tests against ionic
+#script:
+#  - npm run test-ci  # unit tests
+#  - npm run e2e      # run e2e tests against ionic
 
 after_success:
   # Send coverage info off to cloud ppl
-  - ./node_modules/.bin/codecov
+#  - ./node_modules/.bin/codecov
 
 before_deploy:
   # start install android
