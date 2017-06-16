@@ -1,4 +1,4 @@
-find . -maxdepth 3 -iname "HFT XI Round 2 FINISHED.pdf" | while read x
+find . -maxdepth 3 -iname "*.pdf" | while read x
 do
 	filename="${x##*/}"
 	directory=`dirname "$x"`
@@ -16,5 +16,5 @@ do
 		echo "\tnow we're replacing it..."
 	fi
 	#second optimization:
-	./pdfsizeopt/pdfsizeopt --use-jbig2=no --use-pngout=no  --do-optimize-images=no "$newPath" "$newPath"
+	./pdfsizeopt/pdfsizeopt --use-jbig2=no --use-pngout=no  --do-optimize-images=no "$newPath" "$newPath" > out.log
 done
