@@ -40,8 +40,8 @@
     </ion-card-->
     <ion-list>
       <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
-        <ion-icon *ngIf = "type==TYPES.SETLIST" name="ion-folder" item-left [ngStyle]="{'color': colorHash(item.name)}"></ion-icon>
-        <ion-icon *ngIf = "type==TYPES.PACKETLIST" name="ion-document" item-left [ngStyle]="{'color': colorHash(item.name)}"></ion-icon>
+        <ion-icon *ngIf = "type==TYPES.SETLIST" name="md-folder" item-left [ngStyle]="{'color': colorHash(item.name)}"></ion-icon>
+        <ion-icon *ngIf = "type==TYPES.PACKETLIST" name="md-copy" item-left [ngStyle]="{'color': colorHash(item.name)}"></ion-icon>
 
         {{item.name}}
       </button>

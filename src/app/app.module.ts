@@ -8,6 +8,7 @@ import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
 import { ItemDetailsPage } from '../pages/item-details/item-details';
 import { ListPage } from '../pages/list/list';
 import {PacketListPage} from "../pages/packet-list/packet-list";
+import {PacketDetails} from "../pages/packet-details/packet-details";
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -22,7 +23,8 @@ import { SafeHtml } from './pipes/SafeHtml';
     ItemDetailsPage,
     ListPage,
     PacketListPage,
-    SafeHtml
+    SafeHtml,
+    PacketDetails
   ],
   imports: [
     HttpModule,
@@ -36,7 +38,8 @@ import { SafeHtml } from './pipes/SafeHtml';
     HelloIonicPage,
     ItemDetailsPage,
     ListPage,
-    PacketListPage
+    PacketListPage,
+    PacketDetails
   ],
   providers: [
     StatusBar,
