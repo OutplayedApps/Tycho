@@ -2,11 +2,12 @@
 
 # change these depending on where you want to pull from
 # for the hs archive, the URL should be 'http://www.quizbowlpackets.com'
-baseurl='http://collegiate.quizbowlpackets.com'
-outdir='collegiate'
+baseurl='http://www.quizbowlpackets.com'
+outdir='hs'
 
 curl -s $baseurl | # get index page
-	grep '<SPAN class="Name">' | # extract lines containing packet links
+	#grep '<SPAN class="Name">' | # extract lines containing packet links
+	grep '<SPAN class="Name RecommendedSet">' | # extract lines containing packet links
 	sed -e 's/^.*href="//' -e 's/">/*/' -e 's/<\/a>.*$//' | # parse url and name
 	while read -r line; do
 		# parse url and name for each set
