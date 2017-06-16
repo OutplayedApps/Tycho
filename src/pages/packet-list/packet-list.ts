@@ -37,10 +37,9 @@ export class PacketListPage {
     this.type = navParams.get('type');
 
     if (!this.type) this.type = this.TYPES.DIFFICULTYLIST;
-    //console.log(this.type);
     this.path = navParams.get('path');
     this.currentLevel = navParams.get('currentLevel');
-    this.currentSet = decodeURIComponent(navParams.get('currentSet'));
+    this.currentSet = navParams.get('currentSet');
     if (this.currentLevel == "undefined" || this.currentLevel == "null") this.currentLevel = null;
     if (this.currentSet == "undefined" || this.currentSet == "null") this.currentSet = null;
     if (this.currentLevel) {this.type = this.TYPES.SETLIST;}
@@ -52,21 +51,16 @@ export class PacketListPage {
     var items, listTitle;
     (<any>window).file = this.file;
     (<any>window).This = this;
-    this.file.checkDir(this.file.dataDirectory, '')
-      .then((files) => console.log('Directory exists'))
-      .catch((err) => console.log('Directory doesnt exist'));
     this.apiService.presentLoadingCustom();
     switch (this.type) {
       case this.TYPES.DIFFICULTYLIST:
         this.apiService.getFileStructure().subscribe(data => {
           data = data.children;
-          console.log(data);
           data = data.filter(function (item) {
             return item.type == 'directory';
           });
           for (let i = 0; i < data.length; i++) {
             let item = data[i];
-            console.log(item);
             if (item.name == "ms") {
               item.title = "Middle School";
               item.icon = "md-book";
@@ -104,7 +98,6 @@ export class PacketListPage {
         break;
       case this.TYPES.PACKETLIST:
         var data = this.item.children;
-        console.log(data);
         for (let i = 0; i < data.length; i++) {
           var item = data[i];
           item["currentLevel"] = this.currentLevel;
@@ -117,7 +110,6 @@ export class PacketListPage {
     }
     this.items = items;
     this.itemsAll = items;
-    console.log("ITEMS ARE",this.items);
     this.listTitle = listTitle;
   }
 

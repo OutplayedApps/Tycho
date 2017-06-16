@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams, LoadingController } from 'ionic-angular';
-
+import { ApiService } from '../../app/services/ApiService';
 import {PDFJS} from 'pdfjs-dist';
 
 /**
@@ -13,48 +13,38 @@ import {PDFJS} from 'pdfjs-dist';
 @Component({
   selector: 'page-packet-details',
   templateUrl: 'packet-details.html',
+  providers: [ApiService]
 })
 export class PacketDetails {
 
   Class: any;
-  selectedItem: any;
+  currentLevel: String;
+  currentSet: String;
+  currentPacket: String;
+  item: any;
 
   loading: any;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public loadingCtrl: LoadingController) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, public loadingCtrl: LoadingController,
+              public apiService: ApiService) {
     // If we navigated to this page, we will have an item available as a nav param
-    this.selectedItem = navParams.get('item');
-    console.log(this.selectedItem);
+    this.item = navParams.get('item');
+    this.currentLevel = navParams.get('currentLevel');
+    this.currentSet = navParams.get('currentSet');
+    this.currentPacket = navParams.get('currentPacket');
+    console.log(this.item);
     //loadPDF();
   }
   ionViewDidLoad() {
     //loadPDF();
-    this.presentLoadingCustom();
+
+    this.apiService.presentLoadingCustom();
     var url = '//cdn.mozilla.net/pdfjs/tracemonkey.pdf';
-    url = 'assets/files/YGKschoolsofthought.pdf'
-    console.log(this.selectedItem);
-    console.log(this.selectedItem.url);
+    url = 'assets/files/YGKschoolsofthought.pdf';
+    url = 'assets/packets/'+this.currentLevel+'/'+this.currentSet+'/'+this.currentPacket;
     //url = this.selectedItem.url;
     var canvasContainer = document.getElementById("pdf-canvas");
     this.renderPDF(url, canvasContainer);
-  }
-
-  presentLoadingCustom() {
-    let loading = this.loadingCtrl.create({
-      spinner: 'hide',
-      content: `
-      <div class="loading-custom-spinner-container">
-        <div class="loading-custom-spinner-box"></div>
-        <div class="loading-content">Loading file...</div>
-      </div>`
-    });
-
-    loading.onDidDismiss(() => {
-      console.log('Dismissed loading');
-    });
-
-    loading.present();
-    (<any>window).loading = loading;
   }
 
   renderPDF(url, canvasContainer, options?) {
@@ -90,7 +80,7 @@ export class PacketDetails {
       });
     }
 
-    PDFJS.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
+    PDFJS.workerSrc = 'assets/files/pdf.worker.js';
     PDFJS.disableWorker = false;
     PDFJS.getDocument(url).then(renderPages);
   }
