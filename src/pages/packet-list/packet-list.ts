@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { PacketDetails } from '../packet-details/packet-details';
 import { ApiService } from '../../app/services/ApiService';
-import { File } from '@ionic-native/file';
+import { FileOpener } from '@ionic-native/file-opener';
 
 /**
  * Generated class for the PacketList page.
@@ -33,7 +33,7 @@ export class PacketListPage {
 
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public apiService: ApiService,
-              private file: File) {
+              private fileOpener: FileOpener) {
     this.type = navParams.get('type');
 
     if (!this.type) this.type = this.TYPES.DIFFICULTYLIST;
@@ -49,7 +49,25 @@ export class PacketListPage {
 
   ionViewDidLoad() {
     var items, listTitle;
-    (<any>window).file = this.file;
+    var difficulties = [{
+      id: "ms",
+      title: "Middle School",
+    icon: "md-book",
+    description: "Middle school packet archive.\n\nExample: CMST",
+    },
+      {
+        id: "hs",
+        title: "High School"},
+      {
+        id: "collegiate",
+        title: "Collegiate"}
+        ];
+    function formatLevel(lvl) {
+      for (let i = 0; i < difficulties.length; i++) {
+        if (difficulties[i].id == lvl) return difficulties[i].title;
+      }
+      return "";
+    }
     (<any>window).This = this;
     this.apiService.presentLoadingCustom();
     switch (this.type) {
@@ -57,27 +75,31 @@ export class PacketListPage {
         this.apiService.getFileStructure().subscribe(data => {
           data = data.children;
           data = data.filter(function (item) {
-            return item.type == 'directory';
+            return ~["ms","hs","collegiate"].indexOf(item.name);
           });
           for (let i = 0; i < data.length; i++) {
             let item = data[i];
-            if (item.name == "ms") {
-              item.title = "Middle School";
+            if (item.name == difficulties[0].id) {
+              item.title = difficulties[0].title;
               item.icon = "md-book";
               item.description = "Middle school packet archive.\n\nExample: CMST";
               item.currentLevel = "ms";
             }
-            else if (item.name == "hs") {
-              item.title = "High School";
+            else if (item.name == difficulties[1].id) {
+              item.title = difficulties[1].title;
               item.icon = "md-laptop";
               item.description = "High school packet archive.\n\nExample: LIST, FKT, PACE NSC";
               item.currentLevel = "hs";
             }
-            else if (item.name == "collegiate") {
-              item.title = "Collegiate";
+            else if (item.name == difficulties[2].id) {
+              item.title = difficulties[2].title;
               item.icon = "md-school";
               item.description = "Collegiate and open packets.\n\nExample: MUT, ACF Fall, ACF Nationals, Chicago Open";
               item.currentLevel = "collegiate";
+            }
+            else {
+              item.title = "Not found";
+              item.currentLevel = "null";
             }
           }
           this.items = data;
@@ -94,6 +116,7 @@ export class PacketListPage {
           data[i].currentSet = data[i].name;
         }
         items = data;
+        this.listTitle = formatLevel(this.currentLevel);
         (<any>window).loading.dismiss();
         break;
       case this.TYPES.PACKETLIST:
@@ -103,9 +126,9 @@ export class PacketListPage {
           item["currentLevel"] = this.currentLevel;
           item["currentSet"] = this.currentSet;
           item["currentPacket"] = item.name;
-          item["name"] = item.name;
         }
         items = data;
+        this.listTitle = formatLevel(this.currentLevel) + " - " + this.currentSet;
         (<any>window).loading.dismiss();
     }
     this.items = items;
@@ -136,7 +159,8 @@ export class PacketListPage {
       currentPacket: item.currentPacket || null
     };
     if (item.currentPacket) {
-      this.navCtrl.push(PacketDetails, queryParams);
+      //this.navCtrl.push(PacketDetails, queryParams);
+      this.fileOpener.open('assets/packets/'+item.currentLevel+'/'+item.currentSet+'/'+item.currentPacket, 'application/pdf');
       // opens the study guide itself.
     }
     else {

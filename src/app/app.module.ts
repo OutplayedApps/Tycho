@@ -12,7 +12,7 @@ import {PacketDetails} from "../pages/packet-details/packet-details";
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
-import { File } from '@ionic-native/file';
+import { FileOpener } from '@ionic-native/file-opener';
 
 import { SafeHtml } from './pipes/SafeHtml';
 
@@ -44,7 +44,7 @@ import { SafeHtml } from './pipes/SafeHtml';
   providers: [
     StatusBar,
     SplashScreen,
-    File,
+    FileOpener,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
