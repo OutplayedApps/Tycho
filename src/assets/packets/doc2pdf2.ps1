@@ -1,4 +1,4 @@
-$Folders = Get-ChildItem 'C:\Users\arama\git\tycho2\tycho\src\assets\packets\collegiate' -Directory
+$Folders = Get-ChildItem 'C:\Users\arama\git\tycho2\tycho\src\assets\packets\hs' -Directory
 
 ForEach ($Folder in $Folders)
 {
