@@ -4,6 +4,7 @@ import {LoadingController, AlertController} from 'ionic-angular';
 
 @Injectable()
 export class ApiService {
+  private fileStructure;
 
   constructor(private http:Http, public loadingCtrl:LoadingController, public alertCtrl: AlertController) {
   }
@@ -11,6 +12,11 @@ export class ApiService {
   getFile(url:string) {
     return this.http.get(url)
       .map((res:Response) => res.text());
+  };
+
+  getFileStructure() {
+    return this.http.get("assets/packets/filestructure.json")
+        .map((res:Response) => res.json());
   };
 
   presentLoadingCustom() {

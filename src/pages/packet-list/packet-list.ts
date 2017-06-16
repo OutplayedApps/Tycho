@@ -22,7 +22,9 @@ export class PacketListPage {
   listTitle: String;
   currentSet: String;
   currentLevel: String;
-  items: any;
+  items: any[];
+  itemsAll: any[];
+  item: any;
   TYPES: any = {
     DIFFICULTYLIST: 1,
     SETLIST: 2,
@@ -43,6 +45,7 @@ export class PacketListPage {
     if (this.currentSet == "undefined" || this.currentSet == "null") this.currentSet = null;
     if (this.currentLevel) {this.type = this.TYPES.SETLIST;}
     if (this.currentSet) {this.type = this.TYPES.PACKETLIST;}
+    this.item = navParams.get('item');
   }
 
   ionViewDidLoad() {
@@ -55,58 +58,82 @@ export class PacketListPage {
     this.apiService.presentLoadingCustom();
     switch (this.type) {
       case this.TYPES.DIFFICULTYLIST:
-        items = [
-          {"title": "Middle School", "icon": "md-book", "description": "Middle school packet archive.\n\nExample: CMST",
-           "currentLevel": "ms"},
-          {"title": "High School", "icon": "md-laptop", "description":"High school packet archive.\n\nExample: LIST, FKT, PACE NSC",
-            "currentLevel": "hs"},
-          {"title": "Collegiate ", "icon": "md-school", "description":"Collegiate and open packets.\n\nExample: MUT, ACF Fall, ACF Nationals, Chicago Open",
-          "currentLevel": "collegiate"}
-        ];
-        listTitle = "Choose a packet difficulty";
-        (<any>window).loading.dismiss();
+        this.apiService.getFileStructure().subscribe(data => {
+          data = data.children;
+          console.log(data);
+          data = data.filter(function (item) {
+            return item.type == 'directory';
+          });
+          for (let i = 0; i < data.length; i++) {
+            let item = data[i];
+            console.log(item);
+            if (item.name == "ms") {
+              item.title = "Middle School";
+              item.icon = "md-book";
+              item.description = "Middle school packet archive.\n\nExample: CMST";
+              item.currentLevel = "ms";
+            }
+            else if (item.name == "hs") {
+              item.title = "High School";
+              item.icon = "md-laptop";
+              item.description = "High school packet archive.\n\nExample: LIST, FKT, PACE NSC";
+              item.currentLevel = "hs";
+            }
+            else if (item.name == "collegiate") {
+              item.title = "Collegiate";
+              item.icon = "md-school";
+              item.description = "Collegiate and open packets.\n\nExample: MUT, ACF Fall, ACF Nationals, Chicago Open";
+              item.currentLevel = "collegiate";
+            }
+          }
+          this.items = data;
+          this.itemsAll = data;
+          listTitle = "Choose a packet difficulty";
+          (<any>window).loading.dismiss();
+        });
         break;
       case this.TYPES.SETLIST:
 
-        this.file.listDir(this.file.applicationDirectory,"www/assets/packets/"+this.currentLevel+"/").then((data) => {
-          console.log(data);
-          items = [];
-          for (let i = 0; i < data.length; i++) {
-            var newItem = {};
-            newItem["currentLevel"] = this.currentLevel;
-            newItem["currentSet"] = data[i].name;
-            newItem["name"] = data[i].name;
-            items.push(newItem);
-          }
-          console.log(items);
-          this.items = items;
-          (<any>window).loading.dismiss();
-        }).catch((err) => {
-          console.error(err);
-        });
+        var data = this.item.children;
+        for (let i = 0; i < data.length; i++) {
+          data[i].currentLevel = this.currentLevel;
+          data[i].currentSet = data[i].name;
+        }
+        items = data;
+        (<any>window).loading.dismiss();
         break;
       case this.TYPES.PACKETLIST:
-        this.file.listDir(this.file.applicationDirectory,"www/assets/packets/"+this.currentLevel+"/"+this.currentSet+"/").then((data) => {
-          console.log(data);
-          items = [];
-          for (let i = 0; i < data.length; i++) {
-            var newItem = {};
-            newItem["currentLevel"] = this.currentLevel;
-            newItem["currentSet"] = this.currentSet;
-            newItem["currentPacket"] = data[i].name;
-            newItem["name"] = data[i].name;
-            items.push(newItem);
-          }
-          console.log(items);
-          this.items = items;
-          (<any>window).loading.dismiss();
-        }).catch((err) => {
-          console.error(err);
-        });
-        break;
+        var data = this.item.children;
+        console.log(data);
+        for (let i = 0; i < data.length; i++) {
+          var item = data[i];
+          item["currentLevel"] = this.currentLevel;
+          item["currentSet"] = this.currentSet;
+          item["currentPacket"] = item.name;
+          item["name"] = item.name;
+        }
+        items = data;
+        (<any>window).loading.dismiss();
     }
     this.items = items;
+    this.itemsAll = items;
+    console.log("ITEMS ARE",this.items);
     this.listTitle = listTitle;
+  }
+
+  getItems(ev: any) {
+    // Reset items back to all of the items
+    this.items = this.itemsAll;
+
+    // set val to the value of the searchbar
+    let val = ev.target.value;
+
+    // if the value is an empty string don't filter the items
+    if (val && val.trim() != '') {
+      this.items = this.items.filter((item) => {
+        return (item.name.toLowerCase().indexOf(val.toLowerCase()) > -1);
+      })
+    }
   }
 
   itemTapped(event, item) {

@@ -26,13 +26,26 @@
   </ion-card>
   </div>
   <div  *ngIf = "type!=TYPES.DIFFICULTYLIST">
-    <ion-card *ngFor="let item of items" (click)="itemTapped($event, item)">
+    <ion-searchbar
+      (ionInput)="getItems($event)"
+      [showCancelButton]="true">
+    </ion-searchbar>
+
+    <!--ion-card *ngFor="let item of items" (click)="itemTapped($event, item)">
       <ion-card-content>
         <ion-card-title>
           {{item.name}}
         </ion-card-title>
       </ion-card-content>
-    </ion-card>
+    </ion-card-->
+    <ion-list>
+      <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
+        <ion-icon *ngIf = "type==TYPES.SETLIST" name="ion-folder" item-left [ngStyle]="{'color': colorHash(item.name)}"></ion-icon>
+        <ion-icon *ngIf = "type==TYPES.PACKETLIST" name="ion-document" item-left [ngStyle]="{'color': colorHash(item.name)}"></ion-icon>
+
+        {{item.name}}
+      </button>
+    </ion-list>
   </div>
 
   <!--
