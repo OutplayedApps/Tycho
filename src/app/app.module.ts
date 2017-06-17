@@ -15,6 +15,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { FileOpener } from '@ionic-native/file-opener';
 
 import { SafeHtml } from './pipes/SafeHtml';
+import { InAppBrowser } from '@ionic-native/in-app-browser';
 
 @NgModule({
   declarations: [
@@ -45,6 +46,7 @@ import { SafeHtml } from './pipes/SafeHtml';
     StatusBar,
     SplashScreen,
     FileOpener,
+    InAppBrowser,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

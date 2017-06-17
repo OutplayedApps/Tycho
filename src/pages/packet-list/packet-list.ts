@@ -3,6 +3,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { PacketDetails } from '../packet-details/packet-details';
 import { ApiService } from '../../app/services/ApiService';
 import { FileOpener } from '@ionic-native/file-opener';
+import { InAppBrowser } from '@ionic-native/in-app-browser';
 
 /**
  * Generated class for the PacketList page.
@@ -33,7 +34,7 @@ export class PacketListPage {
 
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public apiService: ApiService,
-              private fileOpener: FileOpener) {
+              private fileOpener: FileOpener, private iab: InAppBrowser) {
     this.type = navParams.get('type');
 
     if (!this.type) this.type = this.TYPES.DIFFICULTYLIST;
@@ -160,7 +161,9 @@ export class PacketListPage {
     };
     if (item.currentPacket) {
       //this.navCtrl.push(PacketDetails, queryParams);
-      this.fileOpener.open('assets/packets/'+item.currentLevel+'/'+item.currentSet+'/'+item.currentPacket, 'application/pdf');
+      var url = 'assets/packets/'+item.currentLevel+'/'+item.currentSet+'/'+item.currentPacket;
+      this.iab.create(url, '_system', 'location=yes');
+      //this.fileOpener.open(, 'application/pdf');
       // opens the study guide itself.
     }
     else {
