@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 
 import {ListPage} from '../list/list';
 import {PacketListPage} from "../packet-list/packet-list";
+import {AboutPage} from "../about-page/about-page";
 
 @Component({
   selector: 'page-hello-ionic',
@@ -10,6 +11,7 @@ import {PacketListPage} from "../packet-list/packet-list";
 export class HelloIonicPage {
   listPage = ListPage;
   packetListPage = PacketListPage;
+  aboutPage = AboutPage;
 
   constructor() {
     console.log("test");
