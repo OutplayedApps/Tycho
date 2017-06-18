@@ -123,6 +123,9 @@ export class PacketListPage {
           data[i].currentSet = data[i].name;
         }
         items = data;
+        items = items.sort((a,b) => {
+          return b.name.localeCompare(a.name); //sorts z to a
+        });
         listTitle = formatLevel(this.currentLevel);
         (<any>window).loading.dismiss();
         break;
@@ -135,14 +138,14 @@ export class PacketListPage {
           item["currentPacket"] = item.name;
         }
         items = data;
+        items = items.sort((a, b) => {
+          return a.name.localeCompare(b.name); //sorts a to z
+        });
         listTitle = formatLevel(this.currentLevel) + " - " + this.currentSet;
         (<any>window).loading.dismiss();
         break;
     }
     if (items) {
-      items = items.sort(function (a, b) {
-        return b.name.localeCompare(a.name);
-      });
       this.items = items;
       this.itemsAll = items;
       this.listTitle = listTitle;
