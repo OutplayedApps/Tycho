@@ -4,6 +4,8 @@ import { PacketDetails } from '../packet-details/packet-details';
 import { ApiService } from '../../app/services/ApiService';
 import { FileOpener } from '@ionic-native/file-opener';
 import { InAppBrowser } from '@ionic-native/in-app-browser';
+declare var cordova: any;
+declare var window: any;
 
 /**
  * Generated class for the PacketList page.
@@ -53,22 +55,26 @@ export class PacketListPage {
     var difficulties = [{
       id: "ms",
       title: "Middle School",
-    icon: "md-book",
-    description: "Middle school packet archive.\n\nExample: CMST",
+      icon: "md-book",
+      description: "Middle school packet archive.\n\nExample: CMST",
     },
       {
         id: "hs",
-        title: "High School"},
+        title: "High School"
+      },
       {
         id: "collegiate",
-        title: "Collegiate"}
-        ];
+        title: "Collegiate"
+      }
+    ];
+
     function formatLevel(lvl) {
       for (let i = 0; i < difficulties.length; i++) {
         if (difficulties[i].id == lvl) return difficulties[i].title;
       }
       return "";
     }
+
     (<any>window).This = this;
     this.apiService.presentLoadingCustom();
     switch (this.type) {
@@ -76,7 +82,7 @@ export class PacketListPage {
         this.apiService.getFileStructure().subscribe(data => {
           data = data.children;
           data = data.filter(function (item) {
-            return ~["ms","hs","collegiate"].indexOf(item.name);
+            return ~["ms", "hs", "collegiate"].indexOf(item.name);
           });
           for (let i = 0; i < data.length; i++) {
             let item = data[i];
@@ -105,7 +111,7 @@ export class PacketListPage {
           }
           this.items = data;
           this.itemsAll = data;
-          listTitle = "Choose a packet difficulty";
+          this.listTitle = "Choose a packet difficulty";
           (<any>window).loading.dismiss();
         });
         break;
@@ -117,7 +123,7 @@ export class PacketListPage {
           data[i].currentSet = data[i].name;
         }
         items = data;
-        this.listTitle = formatLevel(this.currentLevel);
+        listTitle = formatLevel(this.currentLevel);
         (<any>window).loading.dismiss();
         break;
       case this.TYPES.PACKETLIST:
@@ -129,12 +135,18 @@ export class PacketListPage {
           item["currentPacket"] = item.name;
         }
         items = data;
-        this.listTitle = formatLevel(this.currentLevel) + " - " + this.currentSet;
+        listTitle = formatLevel(this.currentLevel) + " - " + this.currentSet;
         (<any>window).loading.dismiss();
+        break;
     }
-    this.items = items;
-    this.itemsAll = items;
-    this.listTitle = listTitle;
+    if (items) {
+      items = items.sort(function (a, b) {
+        return b.name.localeCompare(a.name);
+      });
+      this.items = items;
+      this.itemsAll = items;
+      this.listTitle = listTitle;
+    }
   }
 
   getItems(ev: any) {
@@ -159,10 +171,24 @@ export class PacketListPage {
       currentSet: item.currentSet || null,
       currentPacket: item.currentPacket || null
     };
+    var iab = this.iab;
     if (item.currentPacket) {
       //this.navCtrl.push(PacketDetails, queryParams);
-      var url = 'assets/packets/'+item.currentLevel+'/'+item.currentSet+'/'+item.currentPacket;
-      this.iab.create(url, '_system', 'location=yes');
+      var url = 'www/assets/packets/'+item.currentLevel+'/'+item.currentSet+'/'+item.currentPacket;
+
+      //queryParams.url = url;
+      window.resolveLocalFileSystemURL(cordova.file.applicationDirectory + url, function(fileEntry) {
+
+        window.resolveLocalFileSystemURL(cordova.file.externalDataDirectory, function(dirEntry: any) {
+
+          fileEntry.copyTo(dirEntry, url.split('/').pop(), function(newFileEntry) {
+            var option:string = "_blank";
+            if (~navigator.userAgent.indexOf('Android')) {option = "_system";}
+            iab.create(newFileEntry.nativeURL, option, 'location=yes');
+          });
+        });
+      });
+      //this.iab.create(url, '_system', 'location=yes');
       //this.fileOpener.open(, 'application/pdf');
       // opens the study guide itself.
     }

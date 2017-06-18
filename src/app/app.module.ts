@@ -8,7 +8,7 @@ import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
 import { ItemDetailsPage } from '../pages/item-details/item-details';
 import { ListPage } from '../pages/list/list';
 import {PacketListPage} from "../pages/packet-list/packet-list";
-import {PacketDetails} from "../pages/packet-details/packet-details";
+import {AboutPage} from "../pages/about-page/about-page";
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -25,7 +25,7 @@ import { InAppBrowser } from '@ionic-native/in-app-browser';
     ListPage,
     PacketListPage,
     SafeHtml,
-    PacketDetails
+    AboutPage
   ],
   imports: [
     HttpModule,
@@ -40,7 +40,7 @@ import { InAppBrowser } from '@ionic-native/in-app-browser';
     ItemDetailsPage,
     ListPage,
     PacketListPage,
-    PacketDetails
+    AboutPage
   ],
   providers: [
     StatusBar,
