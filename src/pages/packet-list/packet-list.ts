@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
-import { PacketDetails } from '../packet-details/packet-details';
+import { NavController, NavParams } from 'ionic-angular';
 import { ApiService } from '../../app/services/ApiService';
 import { FileOpener } from '@ionic-native/file-opener';
 import { InAppBrowser } from '@ionic-native/in-app-browser';
@@ -13,7 +12,6 @@ declare var window: any;
  * See http://ionicframework.com/docs/components/#navigation for more info
  * on Ionic pages and navigation.
  */
-@IonicPage()
 @Component({
   selector: 'page-packet-list',
   templateUrl: 'packet-list.html',
