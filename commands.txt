@@ -1,0 +1,7 @@
+ionic build android --aot --release
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore tycho.jks platforms/android/build/outputs/apk/android-release-unsigned.apk tycho  -tsa http://timestamp.digicert.com
+
+zipalign -v 4 platforms/android/build/outputs/apk/android-release-unsigned.apk platforms/android/build/outputs/apk/release.apk
+
+apksigner verify platforms/android/build/outputs/apk/release.apk
