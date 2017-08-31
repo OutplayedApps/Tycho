@@ -34,6 +34,14 @@
   <ns2:namedview bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10.0" guidetolerance="10.0" height="2000px" id="base" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false" width="3000px" ns1:current-layer="layer1" ns1:cx="453.15551" ns1:cy="978.43486" ns1:pageopacity="0.0" ns1:pageshadow="2" ns1:showpageshadow="false" ns1:window-height="720" ns1:window-maximized="0" ns1:window-width="1280" ns1:window-x="-4" ns1:window-y="-4" ns1:zoom="0.19947368" />
   <ns0:text id="text2171" style="font-style:normal;font-weight:normal;font-size:12px;font-family:Lello;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="-647.92218" y="-843.53699" xml:space="preserve"><ns0:tspan id="tspan2173" x="-647.92218" y="-843.53699" ns2:role="line" /></ns0:text>
   <ns0:g id="layer1" ns1:groupmode="layer" ns1:label="circle">
-    <ns0:circle cx="1041.2318" cy="563.38684" id="path4152" r="978.06934" style="opacity:0.49000005;fill:none;fill-opacity:1;stroke:#be0000;stroke-width:138.80019283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1665.60231396, 138.80019282999999000;stroke-dashoffset:326.36076119;stroke-opacity:1" ns1:export-xdpi="87" ns1:export-ydpi="87" />
+    <ns0:circle cx="1041.2318" cy="563.38684" id="path4152" r="978.06934" style="opacity:0.49000005;fill:none;fill-opacity:1;stroke:#be0000;stroke-width:138.80019283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1665.60231396, 138.80019282999999000;stroke-dashoffset:326.36076119;stroke-opacity:1" ns1:export-xdpi="87" ns1:export-ydpi="87" >
+      <ns0:animateTransform attributeType="xml"
+                    attributeName="transform"
+                    type="rotate"
+                    from="0 1041.2318 563.38684"
+                    to="360 1041.2318 563.38684"
+                    dur="4s"
+                    repeatCount="indefinite"/>
+      </ns0:circle>
   </ns0:g>
   </ns0:svg>
