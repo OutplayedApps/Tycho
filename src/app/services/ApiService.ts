@@ -14,6 +14,11 @@ export class ApiService {
       .map((res:Response) => res.text());
   };
 
+  getNSBQuestions() {
+    return this.http.get("assets/files/nsbquestions.json")
+      .map((res:Response) => res.json());
+  }
+
   getFileStructure() {
     return this.http.get("assets/packets/filestructure.json")
         .map((res:Response) => res.json());
@@ -25,7 +30,7 @@ export class ApiService {
       content: `
       <div class="loading-custom-spinner-container">
         <div class="loading-custom-spinner-box"></div>
-        <div class="loading-content">Loading file...</div>
+        <div class="loading-content">Loading...</div>
       </div>`
     });
 
