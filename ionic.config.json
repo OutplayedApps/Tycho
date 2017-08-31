@@ -2,7 +2,8 @@
   "name": "tycho",
   "app_id": "aa488f20",
   "integrations": {
-    "gulp": {}
+    "gulp": {},
+    "cordova": {}
   },
   "type": "ionic-angular",
   "watchPatterns": []

@@ -1,12 +1,13 @@
 import { Component, ViewChild } from '@angular/core';
 
-import { Platform, MenuController, Nav } from 'ionic-angular';
+import { Platform, MenuController, ModalController, Nav } from 'ionic-angular';
 
 import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
 import { ListPage } from '../pages/list/list';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { SplashPage } from '../pages/splash/splash';
 
 
 @Component({
@@ -23,9 +24,11 @@ export class MyApp {
     public platform: Platform,
     public menu: MenuController,
     public statusBar: StatusBar,
-    public splashScreen: SplashScreen
+    public splashScreen: SplashScreen,
+    public modalCtrl: ModalController
   ) {
     this.initializeApp();
+    this.showSplash();
 
     // set our app's pages
     this.pages = [
@@ -39,8 +42,13 @@ export class MyApp {
       // Okay, so the platform is ready and our plugins are available.
       // Here you can do any higher level native things you might need.
       this.statusBar.styleDefault();
-      setTimeout(() => this.splashScreen.hide(), 100);
+      //setTimeout(() => this.splashScreen.hide(), 100);
     });
+  }
+
+  showSplash() {
+    let splash = this.modalCtrl.create(SplashPage);
+    splash.present();
   }
 
   openPage(page) {
