@@ -1,8 +1,64 @@
-page-splash {
+page-splash * {
     background: black;
 }
+.outplayedContainer {
+    height: 30%;
+    margin-bottom: 10%;
+}
+.logoContainer {
+    height: 50%;
+    img {
+        //max-width: 50%;
+    }
+}
+.outplayedContainer, .logoContainer {
+    text-align: center;
+    img {
+        width: auto;
+        max-height: 100%;
+        margin: 0 auto;
+    }
+}
 
-.ios, .md {
+@-webkit-keyframes rotating /* Safari and Chrome */ {
+    from {
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes rotating {
+    from {
+      -ms-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -webkit-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    to {
+      -ms-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      -webkit-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      transform: rotate(360deg);
+    }
+  }
+  .rotating {
+    -webkit-animation: rotating 2s linear infinite;
+    -moz-animation: rotating 2s linear infinite;
+    -ms-animation: rotating 2s linear infinite;
+    -o-animation: rotating 2s linear infinite;
+    animation: rotating 2s linear infinite;
+  }
+
+
+
+/*.ios, .md {
     
        page-splash {
     
@@ -71,3 +127,4 @@ page-splash {
        }
     
    }
+*/

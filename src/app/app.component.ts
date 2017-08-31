@@ -47,7 +47,7 @@ export class MyApp {
   }
 
   showSplash() {
-    let splash = this.modalCtrl.create(SplashPage);
+    let splash = this.modalCtrl.create(SplashPage, {animation: 'none'}); //not working as of now
     splash.present();
   }
 
