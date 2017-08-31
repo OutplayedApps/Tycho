@@ -32,6 +32,7 @@ export class NsbmenuPage {
     (<any>window).This = this;
     this.options = this.nsbService.options;
     this.optionValues = this.nsbService.optionValues;
+    this.setChosen = null;
     this.nsbService.loadData();
 
     console.log('ionViewDidLoad NsbappPage');
@@ -47,8 +48,12 @@ export class NsbmenuPage {
     return index;
   }
 
-  updateSetNum() {
-    this.options.setNum = this.setChosen.index;
+  getSetChosen() {
+    // sets setChosen to the object, so that then setChosen.packets can be used to fill the last dropdown (packet #)
+    this.setChosen = this.nsbService.setInfo[this.options.difficulty].filter(obj => {
+      return (obj.index == this.options.setNum) ;
+    })[0];
+    return this.setChosen;
   }
 
 }

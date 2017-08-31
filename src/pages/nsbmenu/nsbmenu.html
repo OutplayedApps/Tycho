@@ -44,14 +44,14 @@
         </ion-list-header>
         <ion-item>
           <ion-label>Set</ion-label>
-          <ion-select [(ngModel)]="setChosen" okText="Okay" cancelText="Dismiss">
-              <ion-option *ngFor="let o of nsbService.setInfo[options.difficulty]" [value]="o">{{o.index}}</ion-option>
+          <ion-select [(ngModel)]="options.setNum" okText="Okay" cancelText="Dismiss">
+              <ion-option *ngFor="let o of nsbService.setInfo[options.difficulty]" [value]="o.index">{{o.index}}</ion-option>
           </ion-select>
         </ion-item>
-        <ion-item ng-if = "setChosen">
+        <ion-item ng-if = "options.setNum">
             <ion-label>Packet</ion-label>
             <ion-select [(ngModel)]="options.packetNum">
-                <ion-option *ngFor="let ao of setChosen" [value]="ao">{{ao}}</ion-option>
+                <ion-option *ngFor="let o of getSetChosen().packets" [value]="o">{{o}}</ion-option>
             </ion-select>
         </ion-item>
     </ion-list>
