@@ -56,4 +56,11 @@ export class NsbmenuPage {
     return this.setChosen;
   }
 
+  navigateNsbappPage() {
+    this.navCtrl.push(NsbappPage, {
+      options: this.nsbService.options,
+      data: this.nsbService.data
+    })
+  }
+
 }

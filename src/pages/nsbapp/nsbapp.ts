@@ -19,6 +19,9 @@ declare var window: any;
 export class NsbappPage {
   data: any;
   options: any;
+  questions: [];
+  currentQuestionNumber: number;
+  currentQuestion: any;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
@@ -29,10 +32,24 @@ export class NsbappPage {
   ionViewWillEnter() {
     (<any>window).This = this;
     //this.apiService.presentLoadingCustom();
-    this.options = this.nsbService.options;
-    console.log(this.options);
+    this.options = this.navParams.get('options');
+    this.data = this.navParams.get('data');
+
+    this.nsbService.options = this.options;
+    this.nsbService.data = this.data;
+    console.log(this.data);
     
+    this.questions = this.nsbService.filterSetBasedOnOptions();
+    this.currentQuestionNumber = -1;
+
+    this.nextQuestion();
     console.log('ionViewDidLoad NsbappPage');
+  }
+
+  nextQuestion() {
+    this.currentQuestionNumber++;
+    console.log(this.questions, this.currentQuestionNumber);
+    this.currentQuestion = this.questions[this.currentQuestionNumber];
   }
 
 }

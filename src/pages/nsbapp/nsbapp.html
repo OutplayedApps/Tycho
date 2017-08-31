@@ -18,11 +18,23 @@
   </ion-navbar>
 
 </ion-header>
-  {{data}}
 
 
 <ion-content padding>
 
-    <button color="buzzButtonColor" ion-button>Buzz</button>
+
+  <div *ngIf="currentQuestion">
+    {{currentQuestion.tossupQ}}
+
+    {{currentQuestion.tossupA}}
+
+    {{currentQuestion.bonusQ}}
+
+    {{currentQuestion.bonusA}}
+  </div>
+
+    <button color="buzzButtonColor" ion-button btn-lg>Buzz</button>
+
+    <button ng-click="nextQuestion()" ion-button btn-lg>Next question</button>
     
 </ion-content>

@@ -34,8 +34,8 @@ export class NSBService {
           console.log(data);
           this.data = data;
           this.setInfo = {
-              "HS": this.getSetInfo(data, "questionsHS"),
-              "MS": this.getSetInfo(data, "questionsMS")
+              "HS": this.getSetInfo(data, "HS"),
+              "MS": this.getSetInfo(data, "MS")
           };
         });
     }
@@ -53,6 +53,16 @@ export class NSBService {
         }
         console.log(sets);
         return sets;
+    }
+
+    filterSetBasedOnOptions() {
+        console.log(this.data);
+        let questions = this.data[this.options.difficulty];
+        var array = Object.keys(questions).map(key => questions[key])
+        array = array.filter(obj => {
+            return obj.setNum == this.options.setNum && obj.packetNum == this.options.packetNum;
+        });
+        return array;
     }
 
 }
