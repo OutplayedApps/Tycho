@@ -17,6 +17,16 @@ declare var window: any;
 })
 export class NsbappPage {
   data: any;
+  options: {
+    mode: Number;
+    setNum: Number;
+    packetNum: Number;
+  }
+  MODES: any = {
+    READER: 1,
+    SETLIST: 2,
+    PACKETLIST: 3
+  };
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,

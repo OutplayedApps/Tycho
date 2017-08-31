@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 import {ListPage} from '../list/list';
 import {PacketListPage} from "../packet-list/packet-list";
 import {AboutPage} from "../about-page/about-page";
-import {NsbappPage} from "../nsbapp/nsbapp";
+import {NsbmenuPage} from "../nsbmenu/nsbmenu";
 
 @Component({
   selector: 'page-hello-ionic',
@@ -13,7 +13,7 @@ export class HelloIonicPage {
   listPage = ListPage;
   packetListPage = PacketListPage;
   aboutPage = AboutPage;
-  NsbappPage = NsbappPage;
+  NsbmenuPage = NsbmenuPage;
 
   constructor() {
     console.log("test");

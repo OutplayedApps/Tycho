@@ -10,6 +10,7 @@ import { ListPage } from '../pages/list/list';
 import {PacketListPage} from "../pages/packet-list/packet-list";
 import {AboutPage} from "../pages/about-page/about-page";
 import {NsbappPage} from "../pages/nsbapp/nsbapp";
+import {NsbmenuPage} from "../pages/nsbmenu/nsbmenu";
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -27,7 +28,8 @@ import { InAppBrowser } from '@ionic-native/in-app-browser';
     PacketListPage,
     SafeHtml,
     AboutPage,
-    NsbappPage
+    NsbappPage,
+    NsbmenuPage
   ],
   imports: [
     HttpModule,
@@ -43,7 +45,8 @@ import { InAppBrowser } from '@ionic-native/in-app-browser';
     ListPage,
     PacketListPage,
     AboutPage,
-    NsbappPage
+    NsbappPage,
+    NsbmenuPage
   ],
   providers: [
     StatusBar,
