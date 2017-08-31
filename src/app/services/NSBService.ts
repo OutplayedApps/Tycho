@@ -1,0 +1,58 @@
+import { Injectable } from '@angular/core';
+import { Http, Response } from '@angular/http';
+import { ApiService } from '../../app/services/ApiService';
+declare var window: any;
+
+@Injectable()
+export class NSBService {
+  private fileStructure;
+  public options: any;
+  public optionValues: any;
+  public data: any;
+  public setInfo: any;
+
+  constructor(private http:Http, public apiService: ApiService) {
+    console.log('constructing');
+    this.optionValues = {
+        difficulty: ["MS", "HS"],
+        mode: ["Reader mode", "Game mode"],
+        setNum: Number,
+        packetNum: Number
+    }
+    this.options = {
+        difficulty: this.optionValues.difficulty[0],
+        mode: this.optionValues.mode[0],
+        setNum: 1,
+        packetNum: 1
+    };
+}
+
+    loadData() {
+        this.apiService.presentLoadingCustom();
+        return this.apiService.getNSBQuestions().subscribe(data => {
+          (<any>window).loading.dismiss();
+          console.log(data);
+          this.data = data;
+          this.setInfo = {
+              "HS": this.getSetInfo(data, "questionsHS"),
+              "MS": this.getSetInfo(data, "questionsMS")
+          };
+        });
+    }
+
+    getSetInfo(data, name) {
+        let questions = data[name];
+        let sets = [];
+        
+        for (let i = 1; questions[i+"_1_1"]; i++) {
+            let set = {"index": i, "packets": [] };
+            for (let j = 1; questions[i+"_"+j+"_1"]; j++) {
+                set.packets.push(j);
+            }
+            sets.push(set);
+        }
+        console.log(sets);
+        return sets;
+    }
+
+}

@@ -13,19 +13,6 @@ $font-path: "../assets/fonts";
 // http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/
 
 
-//for splash screen:
-ion-modal {
-    .modal-wrapper {
-        position: absolute;
-        top: 0;
-        left: 0;
-        display: block;
-        width: 100%;
-        height: 100%;
-    }
-}
-
-
 // Named Color Variables
 // --------------------------------------------------
 // Named colors makes it easy to reuse colors on various components.
@@ -37,6 +24,7 @@ ion-modal {
 $colors: (
   primary: #00b300,//#488aff,
   secondary: #c93f4c,//#32db64,
+  buzzButtonColor: #c93f4c,
   danger:     #f53d3d,
   light:      #f4f4f4,
   dark:       #222

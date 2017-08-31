@@ -14,8 +14,53 @@
 
 
 <ion-content padding>
+  <div *ngIf="options">
+    <ion-list radio-group [(ngModel)]="options.difficulty">
+        <ion-list-header>
+          Difficulty
+        </ion-list-header>
+    
+        <ion-item *ngFor="let o of optionValues.difficulty" > 
+          <ion-label color="dark">{{o}}</ion-label>
+          <ion-radio value="{{o}}"></ion-radio>
+        </ion-item>
+    </ion-list>
 
-    <button ion-button color="primary" large
-    [navPush]="NsbappPage" class="mainBtn">Start</button>
+    <ion-list radio-group [(ngModel)]="options.mode">
+        <ion-list-header>
+          Mode
+        </ion-list-header>
+    
+        <ion-item *ngFor="let o of optionValues.mode" > 
+          <ion-label color="dark">{{o}}</ion-label>
+          <ion-radio value="{{o}}"></ion-radio>
+        </ion-item>
+
+    </ion-list>
+
+    <ion-list *ngIf="options.mode && options.difficulty && nsbService.setInfo">
+        <ion-list-header>
+          Select a packet:
+        </ion-list-header>
+        <ion-item>
+          <ion-label>Set</ion-label>
+          <ion-select [(ngModel)]="setChosen" okText="Okay" cancelText="Dismiss">
+              <ion-option *ngFor="let o of nsbService.setInfo[options.difficulty]" [value]="o">{{o.index}}</ion-option>
+          </ion-select>
+        </ion-item>
+        <ion-item ng-if = "setChosen">
+            <ion-label>Packet</ion-label>
+            <ion-select [(ngModel)]="options.packetNum">
+                <ion-option *ngFor="let ao of setChosen" [value]="ao">{{ao}}</ion-option>
+            </ion-select>
+        </ion-item>
+    </ion-list>
+  </div>
+  <ion-list>
+    <ion-item text-center>
+      <button ion-button color="primary" large
+      [navPush]="NsbappPage" class="mainBtn">Start</button>
+    </ion-item>
+  </ion-list>
 
 </ion-content>

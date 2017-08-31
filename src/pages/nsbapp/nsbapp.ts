@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ApiService } from '../../app/services/ApiService';
+import {NSBService} from '../../app/services/NSBService';
 declare var window: any;
 
 /**
@@ -13,34 +14,24 @@ declare var window: any;
 @Component({
   selector: 'page-nsbapp',
   templateUrl: 'nsbapp.html',
-  providers: [ApiService]
+  providers: [ApiService, NSBService]
 })
 export class NsbappPage {
   data: any;
-  options: {
-    mode: Number;
-    setNum: Number;
-    packetNum: Number;
-  }
-  MODES: any = {
-    READER: 1,
-    SETLIST: 2,
-    PACKETLIST: 3
-  };
+  options: any;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
-              public apiService: ApiService ) {
+              public apiService: ApiService,
+              public nsbService: NSBService ) {
   }
 
-  ionViewDidLoad() {
+  ionViewWillEnter() {
     (<any>window).This = this;
-    this.apiService.presentLoadingCustom();
-    this.apiService.getNSBQuestions().subscribe(data => {
-      (<any>window).loading.dismiss();
-      console.log(data);
-      this.data = data;
-      });
+    //this.apiService.presentLoadingCustom();
+    this.options = this.nsbService.options;
+    console.log(this.options);
+    
     console.log('ionViewDidLoad NsbappPage');
   }
 

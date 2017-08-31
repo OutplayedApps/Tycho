@@ -1,3 +1,5 @@
 page-nsbapp {
-
+    .buzzButton {
+        background-color: color($colors, buzzButtonColor, base);
+    }
 }
