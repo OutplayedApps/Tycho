@@ -28,7 +28,6 @@ export class MyApp {
     public modalCtrl: ModalController
   ) {
     this.initializeApp();
-    this.showSplash();
 
     // set our app's pages
     this.pages = [
@@ -43,6 +42,7 @@ export class MyApp {
       // Here you can do any higher level native things you might need.
       this.statusBar.styleDefault();
       //setTimeout(() => this.splashScreen.hide(), 100);
+      this.showSplash();
     });
   }
 
