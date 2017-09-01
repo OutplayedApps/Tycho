@@ -39,8 +39,8 @@ export class NsbappPage {
               public apiService: ApiService,
               public nsbService: NSBService ) {
     this.timers = {
-        "tossup": {"object": null, "subscription": null, "duration": 5, "text": "Timer (5 s)"},
-        "bonus": {"object": null, "subscription": null, "duration": 20, "text": "Timer (20 s)"}
+        "tossup": {"object": null, "subscription": null, "duration": 5, "text": "5"},
+        "bonus": {"object": null, "subscription": null, "duration": 20, "text": "20"}
     }
     this.timers.tossup.origText = this.timers.tossup.text;
     this.timers.bonus.origText = this.timers.bonus.text;
@@ -71,6 +71,7 @@ export class NsbappPage {
   }
   advanceQuestion(num) {
     // generic method for next / previous question.
+    this.resetAllTimers(); //first resets all timers.
     if (this.currentQuestionNumber + num >= this.questions.length) {
       this.currentQuestionNumber = 0;
     }
@@ -85,26 +86,36 @@ export class NsbappPage {
   }
 
   clickTimer(timer) {
-    if (!timer.object) {
-      timer.object = Observable.timer(0, 1000);
-      timer.subscription = timer.object.subscribe(t=> {
-          let timeRemaining = timer.duration - t;
-          if (timeRemaining < 1) {
-            timer.subscription.unsubscribe();
-            timer.text = timer.origText;
-            this.timeUp();
-          }
-          else {
-            timer.text = timeRemaining;
-          }
-          
-          
-      });
+    if (timer.object) {
+      this.timeUp(timer, false);
+      return;
+    }
+    timer.object = Observable.timer(0, 1000);
+    timer.subscription = timer.object.subscribe(t=> {
+        let timeRemaining = timer.duration - t;
+        if (timeRemaining < 1) {
+          this.timeUp(timer);
+        }
+        else {
+          timer.text = (timeRemaining - 1); //counts 4, 3, 2, 1, ...
+        }
+    });
+  }
+
+  timeUp(timer, showDialog = true) {
+    if (timer.subscription) timer.subscription.unsubscribe();
+    timer.text = timer.origText;
+    timer.subscription = null;
+    timer.object = null;
+    if (showDialog == true) {
+      this.nsbService.timeUp();
     }
   }
 
-  timeUp() {
-    return this.nsbService.timeUp();
+  resetAllTimers() {
+    for (let i in this.timers) {
+      this.timeUp(this.timers[i], false);
+    }
   }
 
 }
