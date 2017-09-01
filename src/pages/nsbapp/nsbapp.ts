@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ApiService } from '../../app/services/ApiService';
 import {NSBService} from '../../app/services/NSBService';
+import {Observable} from 'rxjs/Rx';
 declare var window: any;
 
 /**
@@ -31,11 +32,18 @@ export class NsbappPage {
     "catDiff": String
   };
   questions: any[];
+  timers: any;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
               public apiService: ApiService,
               public nsbService: NSBService ) {
+    this.timers = {
+        "tossup": {"object": null, "subscription": null, "duration": 5, "text": "Timer (5 s)"},
+        "bonus": {"object": null, "subscription": null, "duration": 20, "text": "Timer (20 s)"}
+    }
+    this.timers.tossup.origText = this.timers.tossup.text;
+    this.timers.bonus.origText = this.timers.bonus.text;
   }
 
   ionViewWillEnter() {
@@ -74,6 +82,29 @@ export class NsbappPage {
     }
     
     this.currentQuestion = this.questions[this.currentQuestionNumber];
+  }
+
+  clickTimer(timer) {
+    if (!timer.object) {
+      timer.object = Observable.timer(0, 1000);
+      timer.subscription = timer.object.subscribe(t=> {
+          let timeRemaining = timer.duration - t;
+          if (timeRemaining < 1) {
+            timer.subscription.unsubscribe();
+            timer.text = timer.origText;
+            this.timeUp();
+          }
+          else {
+            timer.text = timeRemaining;
+          }
+          
+          
+      });
+    }
+  }
+
+  timeUp() {
+    return this.nsbService.timeUp();
   }
 
 }

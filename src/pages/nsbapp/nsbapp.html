@@ -37,8 +37,10 @@
 
   <ion-footer>
       <ion-toolbar>
-        <button (click)="previousQuestion()" ion-button btn-lg>Previous question</button>
         <button (click)="nextQuestion()" ion-button btn-lg>Next question</button>
+        <button (click)="previousQuestion()" ion-button btn-lg>Previous question</button>
+        <button color="timerButtonColor" (click)="clickTimer(timers.tossup)" ion-button btn-lg>{{timers.tossup.text}}</button>
+        <button color="timerButtonColor" (click)="clickTimer(timers.bonus)" ion-button btn-lg>{{timers.bonus.text}}</button>
       </ion-toolbar>
     </ion-footer>
 

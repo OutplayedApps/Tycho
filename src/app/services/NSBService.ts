@@ -77,4 +77,13 @@ export class NSBService {
         return text.replace(/([W-Z]\))/g, "<br>$1");
     }
 
+    timeUp() {
+        let alert = this.apiService.alertCtrl.create({
+            title: 'Time up!',
+            subTitle: 'Time\'s up.',
+            buttons: ['OK']
+          });
+          alert.present();
+    }
+
 }
