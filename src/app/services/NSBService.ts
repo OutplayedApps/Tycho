@@ -62,7 +62,19 @@ export class NSBService {
         array = array.filter(obj => {
             return obj.setNum == this.options.setNum && obj.packetNum == this.options.packetNum;
         });
+        return this.formatMultipleChoice(array);
+    }
+
+    formatMultipleChoice(array) {
+        for (let i in array) {
+            array[i]["tossupQ"] = this.addLineBreaksToMultipleChoice(array[i]["tossupQ"]);
+            array[i]["bonusQ"] = this.addLineBreaksToMultipleChoice(array[i]["bonusQ"]);
+        }
         return array;
+    }
+
+    addLineBreaksToMultipleChoice(text) {
+        return text.replace(/([W-Z]\))/g, "<br>$1");
     }
 
 }

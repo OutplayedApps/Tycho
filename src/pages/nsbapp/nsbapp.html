@@ -26,11 +26,11 @@
   <div *ngIf="currentQuestion">
     Set {{options.setNum}} | Round {{options.packetNum}} | {{ currentQuestionNumber + 1}} out of {{questions.length}}<br><br>
     
-    {{currentQuestion.tossupQ}}<br>
+    <div [innerHTML]="currentQuestion.tossupQ"></div><br>
 
     <b>ANSWER: </b>{{currentQuestion.tossupA}}<br><br>
 
-    {{currentQuestion.bonusQ}}<br>
+    <div [innerHTML]="currentQuestion.bonusQ"></div><br>
 
     <b>ANSWER: </b>{{currentQuestion.bonusA}}
   </div>
