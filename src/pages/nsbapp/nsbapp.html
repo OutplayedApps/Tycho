@@ -24,17 +24,26 @@
 
 
   <div *ngIf="currentQuestion">
-    {{currentQuestion.tossupQ}}
+    Set {{options.setNum}} | Round {{options.packetNum}} | {{ currentQuestionNumber + 1}} out of {{questions.length}}<br><br>
+    
+    {{currentQuestion.tossupQ}}<br>
 
-    {{currentQuestion.tossupA}}
+    <b>ANSWER: </b>{{currentQuestion.tossupA}}<br><br>
 
-    {{currentQuestion.bonusQ}}
+    {{currentQuestion.bonusQ}}<br>
 
-    {{currentQuestion.bonusA}}
+    <b>ANSWER: </b>{{currentQuestion.bonusA}}
   </div>
 
-    <button color="buzzButtonColor" ion-button btn-lg>Buzz</button>
+  <ion-footer>
+      <ion-toolbar>
+        <button (click)="previousQuestion()" ion-button btn-lg>Previous question</button>
+        <button (click)="nextQuestion()" ion-button btn-lg>Next question</button>
+      </ion-toolbar>
+    </ion-footer>
 
-    <button ng-click="nextQuestion()" ion-button btn-lg>Next question</button>
+    <!--button color="buzzButtonColor" ion-button btn-lg>Buzz</button-->
+
+    
     
 </ion-content>

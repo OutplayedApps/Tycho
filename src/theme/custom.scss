@@ -84,3 +84,15 @@ ion-modal {
       height: 100%;
   }
 }
+
+//buttons skew styling
+
+button.button-md {
+  transform: skew(-20deg);
+  max-width: 90%;
+  padding: 0 2em;
+}
+
+button.button-md span {
+  transform: skew(20deg);
+}

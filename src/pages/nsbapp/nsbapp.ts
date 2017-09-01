@@ -19,9 +19,18 @@ declare var window: any;
 export class NsbappPage {
   data: any;
   options: any;
-  questions: [];
   currentQuestionNumber: number;
-  currentQuestion: any;
+  currentQuestion: {
+    "tossupQ": String,
+    "tossupA": String,
+    "bonusQ": String,
+    "bonusA": String,
+    "category": number,
+    "setNum": number,
+    "packetNum": number,
+    "catDiff": String
+  };
+  questions: any[];
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
@@ -47,8 +56,23 @@ export class NsbappPage {
   }
 
   nextQuestion() {
-    this.currentQuestionNumber++;
-    console.log(this.questions, this.currentQuestionNumber);
+    this.advanceQuestion(1);
+  }
+  previousQuestion() {
+    this.advanceQuestion(-1);
+  }
+  advanceQuestion(num) {
+    // generic method for next / previous question.
+    if (this.currentQuestionNumber + num >= this.questions.length) {
+      this.currentQuestionNumber = 0;
+    }
+    else if (this.currentQuestionNumber + num < 0) {
+      this.currentQuestionNumber = this.questions.length - 1;
+    }
+    else {
+      this.currentQuestionNumber += num;
+    }
+    
     this.currentQuestion = this.questions[this.currentQuestionNumber];
   }
 
