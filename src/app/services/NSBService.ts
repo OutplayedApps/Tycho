@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
 import { ApiService } from '../../app/services/ApiService';
+import { TextToSpeech } from '@ionic-native/text-to-speech';
 declare var window: any;
 
 @Injectable()
@@ -11,7 +12,7 @@ export class NSBService {
   public data: any;
   public setInfo: any;
 
-  constructor(private http:Http, public apiService: ApiService) {
+  constructor(private http:Http, public apiService: ApiService, public tts: TextToSpeech) {
     console.log('constructing');
     this.optionValues = {
         difficulty: ["MS", "HS"],
@@ -84,6 +85,12 @@ export class NSBService {
             buttons: ['OK']
           });
           alert.present();
+    }
+
+    speakText(text) {
+        this.tts.speak('Hello World')
+        .then(() => console.log('Success'))
+        .catch((reason: any) => console.log(reason));
     }
 
 }

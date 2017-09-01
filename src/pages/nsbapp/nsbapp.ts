@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ApiService } from '../../app/services/ApiService';
+import { TextToSpeech } from '@ionic-native/text-to-speech';
 import {NSBService} from '../../app/services/NSBService';
 import {Observable} from 'rxjs/Rx';
 declare var window: any;
@@ -15,7 +16,7 @@ declare var window: any;
 @Component({
   selector: 'page-nsbapp',
   templateUrl: 'nsbapp.html',
-  providers: [ApiService, NSBService]
+  providers: [TextToSpeech, ApiService, NSBService]
 })
 export class NsbappPage {
   data: any;
@@ -83,6 +84,7 @@ export class NsbappPage {
     }
     
     this.currentQuestion = this.questions[this.currentQuestionNumber];
+    this.nsbService.speakText(this.currentQuestion.tossupQ);
   }
 
   clickTimer(timer) {

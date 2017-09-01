@@ -19,6 +19,7 @@ import { FileOpener } from '@ionic-native/file-opener';
 
 import { SafeHtml } from './pipes/SafeHtml';
 import { InAppBrowser } from '@ionic-native/in-app-browser';
+import { TextToSpeech } from '@ionic-native/text-to-speech';
 
 @NgModule({
   declarations: [
@@ -56,6 +57,7 @@ import { InAppBrowser } from '@ionic-native/in-app-browser';
     SplashScreen,
     FileOpener,
     InAppBrowser,
+    TextToSpeech,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
