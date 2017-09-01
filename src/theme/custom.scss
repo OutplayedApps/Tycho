@@ -102,7 +102,7 @@ button.button-large {
 button:hover {
   
 }
-button:active {
+button.button-md:active {
   -webkit-transform: skew($buttonSkew) scale(0.7); /* Safari */
   transform: skew($buttonSkew) scale(0.7);
 }
