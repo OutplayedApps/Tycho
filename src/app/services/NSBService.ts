@@ -6,7 +6,6 @@ declare var window: any;
 
 @Injectable()
 export class NSBService {
-  private fileStructure;
   public options: any;
   public optionValues: any;
   public data: any;
