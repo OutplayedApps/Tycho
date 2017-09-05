@@ -55,7 +55,7 @@
         "@ionic/app-scripts": "1.3.6",
         "gulp": "^3.9.1",
         "gulp-shell": "^0.6.3",
-        "typescript": "^2.2.1"
+        "typescript": "^2.0.9"
     },
     "cordovaPlugins": [
         "cordova-plugin-whitelist",
@@ -83,6 +83,7 @@
             "cordova-plugin-tts": {}
         },
         "platforms": [
+            "android",
             "ios"
         ]
     }
