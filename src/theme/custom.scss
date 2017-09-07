@@ -89,7 +89,7 @@ ion-modal {
 
 $buttonSkew: -20deg;
 
-button.button-md {
+button.button-default {
   -webkit-transform: skew($buttonSkew);
   transform: skew($buttonSkew);
   max-width: 90%;
@@ -102,11 +102,11 @@ button.button-large {
 button:hover {
   
 }
-button.button-md:active {
+button.button-default:active {
   -webkit-transform: skew($buttonSkew) scale(0.7); /* Safari */
   transform: skew($buttonSkew) scale(0.7);
 }
 
-button.button-md span {
-  transform: skew(20deg);
+button.button-default span {
+  transform: skew(-1 * $buttonSkew);
 }
