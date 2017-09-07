@@ -14,14 +14,25 @@ export class NSBService {
   constructor(private http:Http, public apiService: ApiService, public tts: TextToSpeech) {
     console.log('constructing');
     this.optionValues = {
-        difficulty: ["MS", "HS"],
-        mode: ["Reader mode", "Game mode"],
+        difficulty: [
+            {"label": "Middle School", value: "MS"},
+            {"label": "High School", value: "HS"}
+        ],
+        mode: [
+            {"label": "Reader mode", value: "READER"},
+            {"label": "Game mode", value: "GAME"}
+        ],
+        audio: [
+            {"label": "Audio on (Read questions out loud)", value: true},
+            {"label": "Audio off (Text only)", value: false}
+        ],
         setNum: Number,
         packetNum: Number
     }
     this.options = {
-        difficulty: this.optionValues.difficulty[0],
-        mode: this.optionValues.mode[0],
+        difficulty: this.optionValues.difficulty[0].value,
+        mode: this.optionValues.mode[0].value,
+        audio: true,
         setNum: 1,
         packetNum: 1
     };
@@ -57,7 +68,7 @@ export class NSBService {
 
     filterSetBasedOnOptions() {
         console.log(this.data);
-        let questions = this.data[this.options.difficulty];
+        let questions = this.data[this.options.difficulty.value];
         var array = Object.keys(questions).map(key => questions[key])
         array = array.filter(obj => {
             return obj.setNum == this.options.setNum && obj.packetNum == this.options.packetNum;

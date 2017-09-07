@@ -21,8 +21,8 @@
         </ion-list-header>
     
         <ion-item *ngFor="let o of optionValues.difficulty" > 
-          <ion-label color="dark">{{o}}</ion-label>
-          <ion-radio value="{{o}}"></ion-radio>
+          <ion-label color="dark">{{o.label || o}}</ion-label>
+          <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
         </ion-item>
     </ion-list>
 
@@ -32,8 +32,20 @@
         </ion-list-header>
     
         <ion-item *ngFor="let o of optionValues.mode" > 
-          <ion-label color="dark">{{o}}</ion-label>
-          <ion-radio value="{{o}}"></ion-radio>
+          <ion-label color="dark">{{o.label || o}}</ion-label>
+          <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
+        </ion-item>
+
+    </ion-list>
+
+    <ion-list radio-group [(ngModel)]="options.audio">
+        <ion-list-header>
+          Read tossups aloud?
+        </ion-list-header>
+    
+        <ion-item *ngFor="let o of optionValues.audio" > 
+          <ion-label color="dark">{{o.label || o}}</ion-label>
+          <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
         </ion-item>
 
     </ion-list>
