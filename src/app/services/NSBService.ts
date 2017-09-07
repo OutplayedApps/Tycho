@@ -68,7 +68,7 @@ export class NSBService {
 
     filterSetBasedOnOptions() {
         console.log(this.data);
-        let questions = this.data[this.options.difficulty.value];
+        let questions = this.data[this.options.difficulty];
         var array = Object.keys(questions).map(key => questions[key])
         array = array.filter(obj => {
             return obj.setNum == this.options.setNum && obj.packetNum == this.options.packetNum;
