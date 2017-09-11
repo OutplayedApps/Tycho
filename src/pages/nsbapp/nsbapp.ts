@@ -33,6 +33,9 @@ export class NsbappPage {
   };
   questions: any[];
   timers: any;
+  progress: number;
+  currentQ: String;
+  currentA: String;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
@@ -59,18 +62,23 @@ export class NsbappPage {
     this.questions = this.nsbService.filterSetBasedOnOptions();
     this.currentQuestionNumber = -1;
 
+    this.progress = -1;
     this.nextQuestion();
     console.log('ionViewDidLoad NsbappPage');
   }
 
   nextQuestion() {
-    this.advanceQuestion(1);
+    this.progress = (++this.progress % 4);
+    if (this.progress == 0) {
+      this.advanceQuestion(1);
+    }
   }
   previousQuestion() {
     this.advanceQuestion(-1);
   }
   advanceQuestion(num) {
     // generic method for next / previous question.
+    this.progress = 0; //reset progress.
     this.resetAllTimers(); //first resets all timers.
     if (this.currentQuestionNumber + num >= this.questions.length) {
       this.currentQuestionNumber = 0;
@@ -83,7 +91,17 @@ export class NsbappPage {
     }
     
     this.currentQuestion = this.questions[this.currentQuestionNumber];
-    this.nsbService.speakText(this.currentQuestion.tossupQ);
+    
+    //this.setCurrentQuestionText();
+
+  }
+
+  setCurrentQuestionTextAndSpeak() {
+
+    
+  }
+  speak() {
+    //this.nsbService.speakText(this.currentQuestion.tossupQ);
   }
 
   clickTimer(timer) {
