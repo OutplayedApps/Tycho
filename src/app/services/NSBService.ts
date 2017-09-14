@@ -106,7 +106,7 @@ export class NSBService {
     }
 
     speakText(text) {
-        this.tts.speak('Hello World')
+        this.tts.speak(text)
         .then(() => console.log('Success'))
         .catch((reason: any) => console.log(reason));
     }

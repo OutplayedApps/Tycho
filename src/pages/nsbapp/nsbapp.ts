@@ -59,12 +59,10 @@ export class NsbappPage {
   ionViewWillEnter() {
     (<any>window).This = this;
     //this.apiService.presentLoadingCustom();
-    this.options = this.navParams.get('options');
-    this.data = this.navParams.get('data');
-
-    this.nsbService.options = this.options;
-    this.nsbService.data = this.data;
-    console.log(this.data);
+    this.nsbService.options = this.navParams.get('options');
+    this.nsbService.data = this.navParams.get('data');
+    this.options = this.nsbService.options;
+    this.data = this.nsbService.data;
     
     this.questions = this.nsbService.filterSetBasedOnOptions();
     this.currentQuestionNumber = -1;
@@ -108,31 +106,36 @@ export class NsbappPage {
   }
 
   displayCurrentQuestion() {
+    var textToSpeak : String = "";
     switch (this.progress) {
       case 0:
         this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + this.currentQuestion.tossupQ;
         this.currentQuestionDisplayed.answer = "";
+        textToSpeak = this.currentQuestionDisplayed.question;
         break;
       case 1:
         //this.currentQuestionDisplayed.question = this.currentQuestion.tossupQ;
         this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.tossupA;
+        textToSpeak = this.currentQuestionDisplayed.answer;
         break;
       case 2:
         this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
         this.currentQuestionDisplayed.answer = "";
+        textToSpeak = this.currentQuestionDisplayed.question;
         break;
       case 3:
         //this.currentQuestionDisplayed.question = this.currentQuestion.tossupQ;
         this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.tossupA;
+        textToSpeak = this.currentQuestionDisplayed.answer;
         break;
+    }
+    if (this.nsbService.options.audio === true) {
+      //this.speakCurrentQuestion();
+      this.nsbService.speakText(textToSpeak);
     }
   }
 
-  setCurrentQuestionTextAndSpeak() {
-
-    
-  }
-  speak() {
+  speakCurrentQuestion() {
     //this.nsbService.speakText(this.currentQuestion.tossupQ);
   }
 
