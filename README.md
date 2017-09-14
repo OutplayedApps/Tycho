@@ -2,7 +2,13 @@
 ## What is Tycho?
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
 
-<img src="http://i.imgur.com/ikJJ7No.png">
+<img src="https://user-images.githubusercontent.com/1689183/30305693-20e4cf9a-9729-11e7-874f-79abdb039712.png" width="200">
+
+<img src="https://user-images.githubusercontent.com/1689183/30305697-2610e382-9729-11e7-93c5-91de7aac0245.png" width="200">
+
+<img src="https://user-images.githubusercontent.com/1689183/30305702-29d3d9b6-9729-11e7-8a15-413ba402d927.png" width="200">
+
+<img src="http://i.imgur.com/ikJJ7No.png" width="100">
 
 ## Technologies used:
 - Ionic 2 and Angular 2 to make the app for both iOS and Android.
