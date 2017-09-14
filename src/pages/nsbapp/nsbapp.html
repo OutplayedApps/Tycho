@@ -25,7 +25,8 @@
 
   <div *ngIf="currentQuestion">
     Set {{options.setNum}} | Round {{options.packetNum}} | {{ currentQuestionNumber + 1}} out of {{questions.length}}<br><br>
-    <div>
+  <!--
+    <div *ngIf="false">
       <span *ngIf="(progress == 0 || progress == 1)">
         <b>TOSSUP:</b>
         <span [innerHTML]="currentQuestion.tossupQ"></span>
@@ -36,7 +37,7 @@
         <span [innerHTML]="currentQuestion.bonusQ"></span>
       </span>
     </div>
-    <div>
+    <div *ngIf="false">
         <span *ngIf="(progress == 1)">
           <b>ANSWER: </b>{{currentQuestion.tossupA}}
         </span>
@@ -44,6 +45,13 @@
         <span *ngIf="(progress == 3)">
           <b>ANSWER: </b>{{currentQuestion.bonusA}}
         </span>        
+    </div>
+  -->
+    <div [innerHTML]="currentQuestionDisplayed.question">
+
+    </div>
+    <div [innerHTML]="currentQuestionDisplayed.answer">
+      
     </div>
 
     </div>

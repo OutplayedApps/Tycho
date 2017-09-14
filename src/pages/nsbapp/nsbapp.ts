@@ -12,6 +12,20 @@ declare var window: any;
  * See http://ionicframework.com/docs/components/#navigation for more info
  * on Ionic pages and navigation.
  */
+export interface CurrentQuestionDisplayed {
+  question: String,
+  answer: String
+}
+export interface CurrentQuestion {
+  "tossupQ": String,
+  "tossupA": String,
+  "bonusQ": String,
+  "bonusA": String,
+  "category": number,
+  "setNum": number,
+  "packetNum": number,
+  "catDiff": String
+}
 @Component({
   selector: 'page-nsbapp',
   templateUrl: 'nsbapp.html',
@@ -21,21 +35,13 @@ export class NsbappPage {
   data: any;
   options: any;
   currentQuestionNumber: number;
-  currentQuestion: {
-    "tossupQ": String,
-    "tossupA": String,
-    "bonusQ": String,
-    "bonusA": String,
-    "category": number,
-    "setNum": number,
-    "packetNum": number,
-    "catDiff": String
-  };
+  currentQuestion: CurrentQuestion;
   questions: any[];
   timers: any;
   progress: number;
   currentQ: String;
   currentA: String;
+  currentQuestionDisplayed: CurrentQuestionDisplayed;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
@@ -47,6 +53,7 @@ export class NsbappPage {
     }
     this.timers.tossup.origText = this.timers.tossup.text;
     this.timers.bonus.origText = this.timers.bonus.text;
+    this.currentQuestionDisplayed = {"question": "", "answer": ""};
   }
 
   ionViewWillEnter() {
@@ -72,6 +79,9 @@ export class NsbappPage {
     if (this.progress == 0) {
       this.advanceQuestion(1);
     }
+    else {
+      this.displayCurrentQuestion();
+    }
   }
   previousQuestion() {
     this.advanceQuestion(-1);
@@ -92,8 +102,30 @@ export class NsbappPage {
     
     this.currentQuestion = this.questions[this.currentQuestionNumber];
     
+    this.displayCurrentQuestion();
     //this.setCurrentQuestionText();
 
+  }
+
+  displayCurrentQuestion() {
+    switch (this.progress) {
+      case 0:
+        this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + this.currentQuestion.tossupQ;
+        this.currentQuestionDisplayed.answer = "";
+        break;
+      case 1:
+        //this.currentQuestionDisplayed.question = this.currentQuestion.tossupQ;
+        this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.tossupA;
+        break;
+      case 2:
+        this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
+        this.currentQuestionDisplayed.answer = "";
+        break;
+      case 3:
+        //this.currentQuestionDisplayed.question = this.currentQuestion.tossupQ;
+        this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.tossupA;
+        break;
+    }
   }
 
   setCurrentQuestionTextAndSpeak() {

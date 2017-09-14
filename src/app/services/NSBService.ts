@@ -4,9 +4,17 @@ import { ApiService } from '../../app/services/ApiService';
 import { TextToSpeech } from '@ionic-native/text-to-speech';
 declare var window: any;
 
+export interface optionsInterface {
+    difficulty: string,
+    mode: string,
+    audio: boolean,
+    setNum: number,
+    packetNum: number
+}
+
 @Injectable()
 export class NSBService {
-  public options: any;
+  public options: optionsInterface;
   public optionValues: any;
   public data: any;
   public setInfo: any;
