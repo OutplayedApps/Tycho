@@ -129,9 +129,12 @@ export class NsbappPage {
         textToSpeak = this.currentQuestionDisplayed.answer;
         break;
     }
-    if (this.nsbService.options.audio === true) {
+    if (this.nsbService.options.audio) {
       //this.speakCurrentQuestion();
       this.nsbService.speakText(textToSpeak);
+    }
+    else {
+      //alert(this.nsbService.options.audio);
     }
   }
 

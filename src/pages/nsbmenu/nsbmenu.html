@@ -56,7 +56,7 @@
         </ion-list-header>
         <ion-item>
           <ion-label>Set</ion-label>
-          <ion-select [(ngModel)]="options.setNum" okText="Okay" cancelText="Dismiss">
+          <ion-select [(ngModel)]="options.setNum">
               <ion-option *ngFor="let o of nsbService.setInfo[options.difficulty]" [value]="o.index">{{o.index}}</ion-option>
           </ion-select>
         </ion-item>

@@ -89,24 +89,58 @@ ion-modal {
 
 $buttonSkew: -20deg;
 
-button.button-default {
-  -webkit-transform: skew($buttonSkew);
-  transform: skew($buttonSkew);
-  max-width: 90%;
-  -webkit-transition: 0.5s; /* Safari */
-  transition: all 0.5s;
-}
-button.button-large {
-  padding: 0 2em;
-}
-button:hover {
+button:not(.noSkew) {
+
+  &.button-default {
+    -webkit-transform: skew($buttonSkew);
+    transform: skew($buttonSkew);
+    max-width: 90%;
+    -webkit-transition: 0.5s; /* Safari */
+    transition: all 0.5s;
+  }
+  &.button-large {
+    padding: 0 2em;
+  }
+  &:hover {
+    
+  }
+  &.button-default:active {
+    -webkit-transform: skew($buttonSkew) scale(0.7); /* Safari */
+    transform: skew($buttonSkew) scale(0.7);
+  }
   
-}
-button.button-default:active {
-  -webkit-transform: skew($buttonSkew) scale(0.7); /* Safari */
-  transform: skew($buttonSkew) scale(0.7);
+  &.button-default span {
+    transform: skew(-1 * $buttonSkew);
+  }
 }
 
-button.button-default span {
-  transform: skew(-1 * $buttonSkew);
+
+button.buzzBtn {
+  border-radius: 50%;
+  width: 50vh;
+  height: 50vh;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 96px;
+  font-size: 300%;
+  font-weight: bold;
+  z-index: 19;
+  opacity: .9;
+}
+//landscape
+ion-scroll {
+  height: 100%;
+}
+.mode.game {
+  @media (max-height: 500px) {
+    button.buzzBtn {
+      margin-right: 0;
+    }
+    div.currentQuestion {
+      padding-right: 50vh;
+    }
+  }
 }

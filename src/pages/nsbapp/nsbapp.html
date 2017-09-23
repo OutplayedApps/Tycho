@@ -20,33 +20,36 @@
 </ion-header>
 
 
-<ion-content padding>
+<ion-content padding
+[ngClass]="{'mode': true, 'game': nsbService.options.mode=='GAME', 'reader': nsbService.options.mode=='READER'}"
+>
 
-
-  <div *ngIf="currentQuestion">
+<ion-scroll scrollY="true"
+>
+  <div class="currentQuestion" *ngIf="currentQuestion">
     Set {{options.setNum}} | Round {{options.packetNum}} | {{ currentQuestionNumber + 1}} out of {{questions.length}}<br><br>
-  <!--
-    <div *ngIf="false">
-      <span *ngIf="(progress == 0 || progress == 1)">
-        <b>TOSSUP:</b>
-        <span [innerHTML]="currentQuestion.tossupQ"></span>
-      </span>
-
-      <span *ngIf="(progress == 2 || progress == 3)">
-        <b>BONUS:</b>
-        <span [innerHTML]="currentQuestion.bonusQ"></span>
-      </span>
-    </div>
-    <div *ngIf="false">
-        <span *ngIf="(progress == 1)">
-          <b>ANSWER: </b>{{currentQuestion.tossupA}}
+    <!--
+      <div *ngIf="false">
+        <span *ngIf="(progress == 0 || progress == 1)">
+          <b>TOSSUP:</b>
+          <span [innerHTML]="currentQuestion.tossupQ"></span>
         </span>
-        
-        <span *ngIf="(progress == 3)">
-          <b>ANSWER: </b>{{currentQuestion.bonusA}}
-        </span>        
-    </div>
-  -->
+
+        <span *ngIf="(progress == 2 || progress == 3)">
+          <b>BONUS:</b>
+          <span [innerHTML]="currentQuestion.bonusQ"></span>
+        </span>
+      </div>
+      <div *ngIf="false">
+          <span *ngIf="(progress == 1)">
+            <b>ANSWER: </b>{{currentQuestion.tossupA}}
+          </span>
+          
+          <span *ngIf="(progress == 3)">
+            <b>ANSWER: </b>{{currentQuestion.bonusA}}
+          </span>        
+      </div>
+    -->
     <div [innerHTML]="currentQuestionDisplayed.question">
 
     </div>
@@ -55,8 +58,9 @@
       
     </div>
 
-    </div>
-
+  </div>
+</ion-scroll>
+<button *ngIf="(nsbService.options.mode == 'GAME')" (click)="nextQuestion()" color="danger" ion-button class="noSkew buzzBtn">BUZZ</button>
   <ion-footer>
       <ion-toolbar>
         <button (click)="previousQuestion()" ion-button btn-lg>Previous question</button>
