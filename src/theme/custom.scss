@@ -94,7 +94,7 @@ button:not(.noSkew) {
   &.button-default {
     -webkit-transform: skew($buttonSkew);
     transform: skew($buttonSkew);
-    max-width: 100%;
+    max-width: 99%;
     -webkit-transition: 0.5s; /* Safari */
     transition: all 0.5s;
   }
@@ -143,4 +143,33 @@ ion-scroll {
       padding-right: 50vh;
     }
   }
+}
+
+//no scroll css
+.no-scroll {
+  .scroll-content {
+      overflow-y: hidden;
+  }
+}
+
+.scroll {
+  .scroll-content {
+      overflow-y: scroll;
+  }
+}
+
+//ipad-only css
+@media only screen and (device-width: 768px) {
+  /* For general iPad layouts */
+  html {
+    font-size: 100% !important;
+  }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+  /* For portrait layouts only */
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+  /* For landscape layouts only */
 }
