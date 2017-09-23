@@ -114,37 +114,6 @@ button:not(.noSkew) {
   }
 }
 
-
-button.buzzBtn {
-  border-radius: 50%;
-  width: 50vh;
-  height: 50vh;
-  position: absolute;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  bottom: 96px;
-  font-size: 300%;
-  font-weight: bold;
-  z-index: 19;
-  opacity: .9;
-}
-//landscape
-ion-scroll {
-  height: 100%;
-}
-.mode.game {
-  @media (max-height: 500px) {
-    button.buzzBtn {
-      margin-right: 0;
-    }
-    div.currentQuestion {
-      padding-right: 50vh;
-    }
-  }
-}
-
 //no scroll css
 .no-scroll {
   .scroll-content {

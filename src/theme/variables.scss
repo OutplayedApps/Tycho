@@ -51,7 +51,8 @@ $colors: (
 // Windows only Sass variables can go here
 
 
-
+// grid variables
+$grid-breakpoints:	( xs: 0, sm: 550px, md: 768px, lg: 992px, xl: 1200px );
 
 // App Theme
 // --------------------------------------------------
