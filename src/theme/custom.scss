@@ -94,7 +94,7 @@ button:not(.noSkew) {
   &.button-default {
     -webkit-transform: skew($buttonSkew);
     transform: skew($buttonSkew);
-    max-width: 90%;
+    max-width: 100%;
     -webkit-transition: 0.5s; /* Safari */
     transition: all 0.5s;
   }
