@@ -27,7 +27,9 @@ page-hello-ionic {
     border:5px solid $color-primary;
   }*/
   .logo {
-    margin: 50px auto;
+   // margin: 50px auto;
+   margin: auto;
+   margin-bottom: 12px;
     width: 100px;
     height: 100px;
     background-image: url(../assets/images/original.svg);
