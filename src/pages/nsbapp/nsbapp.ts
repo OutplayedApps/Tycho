@@ -132,7 +132,7 @@ export class NsbappPage {
         textToSpeak = this.currentQuestionDisplayed.answer;
         break;
     }
-    if (this.nsbService.options.audio) {
+    if (this.nsbService.options.audio == "TRUE") {
       //this.speakCurrentQuestion();
       this.nsbService.speakText(textToSpeak);
     }

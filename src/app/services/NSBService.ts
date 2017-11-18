@@ -7,7 +7,7 @@ declare var window: any;
 export interface optionsInterface {
     difficulty: string,
     mode: string,
-    audio: boolean,
+    audio: string,
     setNum: number,
     packetNum: number
 }
@@ -20,7 +20,6 @@ export class NSBService {
   public setInfo: any;
 
   constructor(private http:Http, public apiService: ApiService, public tts: TextToSpeech) {
-    console.log('constructing');
     this.optionValues = {
         difficulty: [
             {"label": "Middle School", value: "MS"},
@@ -31,8 +30,8 @@ export class NSBService {
             {"label": "Game mode", value: "GAME"}
         ],
         audio: [
-            {"label": "Audio on (Read questions out loud)", value: true},
-            {"label": "Audio off (Text only)", value: false}
+            {"label": "Audio on (Read questions out loud)", value: "TRUE"},
+            {"label": "Audio off (Text only)", value: "FALSE"}
         ],
         setNum: Number,
         packetNum: Number
@@ -40,7 +39,7 @@ export class NSBService {
     this.options = {
         difficulty: this.optionValues.difficulty[0].value,
         mode: this.optionValues.mode[0].value,
-        audio: true,
+        audio: "TRUE",
         setNum: 1,
         packetNum: 1
     };
