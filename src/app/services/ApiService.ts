@@ -14,8 +14,19 @@ export class ApiService {
       .map((res:Response) => res.text());
   };
 
-  getNSBQuestions() {
-    return this.http.get("assets/files/nsbquestions.json")
+  getJSONFile(url:string) {
+    return this.http.get(url)
+      .map((res:Response) => res.json());
+  };
+
+  getNSBQuestionFile(vendorNum, setNum, packetNum) {
+    var fileName = vendorNum + "-" + setNum + "-" + packetNum;
+    return this.http.get("assets/files/questions/"+ fileName +".json")
+      .map((res:Response) => res.json());
+  }
+
+  getNSBMetadata() {
+    return this.http.get("assets/files/questions/metadata.json")
       .map((res:Response) => res.json());
   }
 

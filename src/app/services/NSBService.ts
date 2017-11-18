@@ -8,15 +8,16 @@ export interface optionsInterface {
     difficulty: string,
     mode: string,
     audio: string,
-    setNum: number,
-    packetNum: number
+    vendorNum: string,
+    setNum: string,
+    packetNum: string,
 }
 
 @Injectable()
 export class NSBService {
   public options: optionsInterface;
   public optionValues: any;
-  public data: any;
+  public metadata: any;
   public setInfo: any;
 
   constructor(private http:Http, public apiService: ApiService, public tts: TextToSpeech) {
@@ -33,54 +34,37 @@ export class NSBService {
             {"label": "Audio on (Read questions out loud)", value: "TRUE"},
             {"label": "Audio off (Text only)", value: "FALSE"}
         ],
-        setNum: Number,
-        packetNum: Number
+        vendorNum: String,
+        setNum: String,
+        packetNum: String
     }
     this.options = {
         difficulty: this.optionValues.difficulty[0].value,
         mode: this.optionValues.mode[0].value,
         audio: "TRUE",
-        setNum: 1,
-        packetNum: 1
+        vendorNum: "DOE-MS",
+        setNum: "1",
+        packetNum: "1"
     };
 }
 
-    loadData() {
+    loadMetaData() {
         this.apiService.presentLoadingCustom();
-        return this.apiService.getNSBQuestions().subscribe(data => {
+        return this.apiService.getNSBMetadata().subscribe(metadata => {
           (<any>window).loading.dismiss();
-          console.log(data);
-          this.data = data;
-          this.setInfo = {
-              "HS": this.getSetInfo(data, "HS"),
-              "MS": this.getSetInfo(data, "MS")
-          };
+          console.log(metadata);
+          this.metadata = metadata.vendorNum;
+          
         });
     }
 
-    getSetInfo(data, name) {
-        let questions = data[name];
-        let sets = [];
-        
-        for (let i = 1; questions[i+"_1_1"]; i++) {
-            let set = {"index": i, "packets": [] };
-            for (let j = 1; questions[i+"_"+j+"_1"]; j++) {
-                set.packets.push(j);
-            }
-            sets.push(set);
-        }
-        console.log(sets);
-        return sets;
-    }
-
-    filterSetBasedOnOptions() {
-        console.log(this.data);
-        let questions = this.data[this.options.difficulty];
-        var array = Object.keys(questions).map(key => questions[key])
-        array = array.filter(obj => {
-            return obj.setNum == this.options.setNum && obj.packetNum == this.options.packetNum;
+    getSetAndFilter(fileName) {
+        // gets set by file name, and then filters it.
+        this.apiService.presentLoadingCustom();
+        return this.apiService.getJSONFile("assets/files/questions/" + fileName + ".json").map(data => {
+            (<any>window).loading.dismiss();
+            return this.formatMultipleChoice(data);
         });
-        return this.formatMultipleChoice(array);
     }
 
     formatMultipleChoice(array) {

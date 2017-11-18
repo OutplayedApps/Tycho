@@ -3,7 +3,7 @@
     <name>Tycho</name>
     <description>Tycho is a mobile app that allows people both to access packets and to access study guides for academic competitions such as quizbowl.</description>
     <author email="questions@outplayedapps.com" href="http://outplayed.com/">Outplayed Apps</author>
-    <content original-src="index.html" src="http://192.168.87.23:8102" />
+    <content original-src="index.html" src="http://192.168.42.11:8100" />
     <access origin="*" />
     <allow-navigation href="http://ionic.local/*" />
     <allow-intent href="http://*/*" />
@@ -82,6 +82,8 @@
     <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
     <allow-navigation href="http://192.168.87.23:8101" />
     <allow-navigation href="http://192.168.87.23:8102" />
+    <allow-navigation href="http://192.168.56.1:8100" />
+    <allow-navigation href="http://192.168.42.11:8100" />
     <engine name="android" spec="^6.2.3" />
     <engine name="ios" spec="^4.4.0" />
     <plugin name="com-sarriaroman-photoviewer" spec="^1.1.10" />

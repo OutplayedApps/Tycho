@@ -14,22 +14,28 @@
 
 
 <ion-content padding>
-  <div *ngIf="options && options.mode && options.difficulty && nsbService.setInfo">
+  <div *ngIf="options && options.mode && options.difficulty && nsbService.metadata">
     <ion-list radio-group [(ngModel)]="options.difficulty">
       <ion-item *ngFor="let o of optionValues.difficulty" > 
         <ion-label color="dark">{{o.label || o}}</ion-label>
         <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
       </ion-item>
       <ion-item>
+          <ion-label>Vendor</ion-label>
+          <ion-select [(ngModel)]="options.vendorNum">
+              <ion-option *ngFor="let o of getVendors()" [value]="o">{{prettifyVendorName(o)}}</ion-option>
+          </ion-select>
+      </ion-item>
+      <ion-item ng-if = "options.vendorNum">
         <ion-label>Set</ion-label>
         <ion-select [(ngModel)]="options.setNum">
-            <ion-option *ngFor="let o of nsbService.setInfo[options.difficulty]" [value]="o.index">{{o.index}}</ion-option>
+            <ion-option *ngFor="let o of getSets()" [value]="o">{{o}}</ion-option>
         </ion-select>
       </ion-item>
       <ion-item ng-if = "options.setNum">
           <ion-label>Packet</ion-label>
           <ion-select [(ngModel)]="options.packetNum">
-              <ion-option *ngFor="let o of getSetChosen().packets" [value]="o">{{o}}</ion-option>
+              <ion-option *ngFor="let o of getPackets()" [value]="o">{{o}}</ion-option>
           </ion-select>
       </ion-item>
     </ion-list>

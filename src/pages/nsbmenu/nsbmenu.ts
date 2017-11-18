@@ -32,7 +32,7 @@ export class NsbmenuPage {
     this.options = this.nsbService.options;
     this.optionValues = this.nsbService.optionValues;
     this.setChosen = null;
-    this.nsbService.loadData();
+    this.nsbService.loadMetaData();
 
     console.log('ionViewDidLoad NsbappPage');
 
@@ -47,18 +47,54 @@ export class NsbmenuPage {
     return index;
   }
 
-  getSetChosen() {
-    // sets setChosen to the object, so that then setChosen.packets can be used to fill the last dropdown (packet #)
-    this.setChosen = this.nsbService.setInfo[this.options.difficulty].filter(obj => {
-      return (obj.index == this.options.setNum) ;
-    })[0];
-    return this.setChosen;
+  getSets() {
+    let sets = [];
+    for (let setNum in this.nsbService.metadata[this.options.vendorNum]) {
+      sets.push(setNum);
+    }
+    return sets;
+  }
+
+  prettifyVendorName(name) {
+    switch (name) {
+      case "DOE-MS":
+        return "Official DOE MS sample questions";
+      case "DOE-HS":
+        return "Official DOE HS sample questions";
+      default:
+        return name;
+    }
+  }
+
+  getVendors() {
+    let vendors = [];
+    for (let vendorNum in this.nsbService.metadata) {
+      console.log(this.options.difficulty);
+      if (~vendorNum.indexOf("-" + this.options.difficulty))
+        vendors.push(vendorNum);
+    }
+    // Set default vendorNum
+    if (!~vendors.indexOf(this.options.vendorNum)) {
+      this.options.vendorNum = vendors[0];
+    }
+
+    return vendors;
+  }
+
+  getPackets() {
+    let packets = [];
+    for (let packetNum in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
+      packets.push(packetNum);
+    }
+    return packets;
   }
 
   navigateNsbappPage() {
+    var packetInfo = this.nsbService.metadata[this.options.vendorNum][this.options.setNum][this.options.packetNum];
     this.navCtrl.push(NsbappPage, {
       options: this.nsbService.options,
-      data: this.nsbService.data
+      numQuestions: packetInfo.numQuestions,
+      fileName: packetInfo.fileName
     })
   }
 

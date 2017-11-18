@@ -60,15 +60,18 @@ export class NsbappPage {
     (<any>window).This = this;
     //this.apiService.presentLoadingCustom();
     this.nsbService.options = this.navParams.get('options');
-    this.nsbService.data = this.navParams.get('data');
+    //this.nsbService.data = this.navParams.get('data');
     this.options = this.nsbService.options;
-    this.data = this.nsbService.data;
+    this.data = null; // todo fix
     
-    this.questions = this.nsbService.filterSetBasedOnOptions();
-    this.currentQuestionNumber = -1;
+    this.nsbService.getSetAndFilter(this.navParams.get('fileName')).subscribe((data) => {
+      this.questions = data;
+      this.currentQuestionNumber = -1;
 
-    this.progress = -1;
-    this.nextQuestion();
+      this.progress = -1;
+      this.nextQuestion();
+    });
+    
   }
 
   ionViewWillLeave() {
