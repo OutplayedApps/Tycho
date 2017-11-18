@@ -7,30 +7,34 @@
 <ion-header>
 
   <ion-navbar>
-    <ion-title>Science Bowl</ion-title>
+    <ion-title>Science Bowl - Options</ion-title>
   </ion-navbar>
 
 </ion-header>
 
 
 <ion-content padding>
-  <div *ngIf="options">
+  <div *ngIf="options && options.mode && options.difficulty && nsbService.setInfo">
     <ion-list radio-group [(ngModel)]="options.difficulty">
-        <ion-list-header>
-          Difficulty
-        </ion-list-header>
-    
-        <ion-item *ngFor="let o of optionValues.difficulty" > 
-          <ion-label color="dark">{{o.label || o}}</ion-label>
-          <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
-        </ion-item>
+      <ion-item *ngFor="let o of optionValues.difficulty" > 
+        <ion-label color="dark">{{o.label || o}}</ion-label>
+        <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label>Set</ion-label>
+        <ion-select [(ngModel)]="options.setNum">
+            <ion-option *ngFor="let o of nsbService.setInfo[options.difficulty]" [value]="o.index">{{o.index}}</ion-option>
+        </ion-select>
+      </ion-item>
+      <ion-item ng-if = "options.setNum">
+          <ion-label>Packet</ion-label>
+          <ion-select [(ngModel)]="options.packetNum">
+              <ion-option *ngFor="let o of getSetChosen().packets" [value]="o">{{o}}</ion-option>
+          </ion-select>
+      </ion-item>
     </ion-list>
 
     <ion-list radio-group [(ngModel)]="options.mode">
-        <ion-list-header>
-          Mode
-        </ion-list-header>
-    
         <ion-item *ngFor="let o of optionValues.mode" > 
           <ion-label color="dark">{{o.label || o}}</ion-label>
           <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
@@ -39,33 +43,11 @@
     </ion-list>
 
     <ion-list radio-group [(ngModel)]="options.audio">
-        <ion-list-header>
-          Read tossups aloud?
-        </ion-list-header>
-    
         <ion-item *ngFor="let o of optionValues.audio" > 
           <ion-label color="dark">{{o.label || o}}</ion-label>
           <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
         </ion-item>
 
-    </ion-list>
-
-    <ion-list *ngIf="options.mode && options.difficulty && nsbService.setInfo">
-        <ion-list-header>
-          Select a packet:
-        </ion-list-header>
-        <ion-item>
-          <ion-label>Set</ion-label>
-          <ion-select [(ngModel)]="options.setNum">
-              <ion-option *ngFor="let o of nsbService.setInfo[options.difficulty]" [value]="o.index">{{o.index}}</ion-option>
-          </ion-select>
-        </ion-item>
-        <ion-item ng-if = "options.setNum">
-            <ion-label>Packet</ion-label>
-            <ion-select [(ngModel)]="options.packetNum">
-                <ion-option *ngFor="let o of getSetChosen().packets" [value]="o">{{o}}</ion-option>
-            </ion-select>
-        </ion-item>
     </ion-list>
   </div>
   <ion-list>
