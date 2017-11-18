@@ -102,13 +102,26 @@ export class NSBService {
             subTitle: 'Time\'s up.',
             buttons: ['OK']
           });
-          alert.present();
+        alert.present();
     }
 
     speakText(text) {
-        this.tts.speak(text)
+        /* Speaks given text (question or answer) by first converting it to HTML.
+         */
+        this.tts.speak(this.htmlToPlaintext(text))
         .then(() => console.log('Success'))
         .catch((reason: any) => console.log(reason));
+    }
+
+    stopSpeaking() {
+        /* Stops speaking all text; called when user leaves window.
+         * stop() function doesn't work so speaks empty text instead to work around that.
+         */
+        this.tts.speak("");
+    }
+
+    htmlToPlaintext(text) {
+        return text ? String(text).replace(/<[^>]+>/gm, '') : '';
     }
 
 }

@@ -69,7 +69,10 @@ export class NsbappPage {
 
     this.progress = -1;
     this.nextQuestion();
-    console.log('ionViewDidLoad NsbappPage');
+  }
+
+  ionViewWillLeave() {
+    this.nsbService.stopSpeaking();
   }
 
   nextQuestion() {
