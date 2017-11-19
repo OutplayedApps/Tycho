@@ -69,7 +69,6 @@ export class NsbmenuPage {
   getVendors() {
     let vendors = [];
     for (let vendorNum in this.nsbService.metadata) {
-      console.log(this.options.difficulty);
       if (~vendorNum.indexOf("-" + this.options.difficulty))
         vendors.push(vendorNum);
     }

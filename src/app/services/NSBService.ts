@@ -53,7 +53,7 @@ export class NSBService {
         return this.apiService.getNSBMetadata().subscribe(metadata => {
           (<any>window).loading.dismiss();
           console.log(metadata);
-          this.metadata = metadata.vendorNum;
+          this.metadata = metadata;
           
         });
     }
