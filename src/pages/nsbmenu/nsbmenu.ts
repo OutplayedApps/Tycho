@@ -58,9 +58,13 @@ export class NsbmenuPage {
   prettifyVendorName(name) {
     switch (name) {
       case "DOE-MS":
-        return "Official DOE MS sample questions";
+        return "DOE Website Official Sample Questions";
       case "DOE-HS":
-        return "Official DOE HS sample questions";
+        return "DOE Website Official Sample Questions";
+      case "SAMPLE-RR-HS":
+        return "Sample RR (easy and medium)";
+      case "SAMPLE-DE-HS":
+        return "Sample DE (difficult)";
       default:
         return name;
     }

@@ -15,7 +15,7 @@
 
 <ion-content padding>
   <div *ngIf="options && options.mode && options.difficulty && nsbService.metadata">
-    <ion-list radio-group [(ngModel)]="options.difficulty">
+    <ion-list radio-group [(ngModel)]="options.difficulty" (ngModelChange)="getVendors()">
       <ion-item *ngFor="let o of optionValues.difficulty" > 
         <ion-label color="dark">{{o.label || o}}</ion-label>
         <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
