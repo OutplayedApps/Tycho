@@ -56,18 +56,21 @@ export class NsbmenuPage {
   }
 
   prettifyVendorName(name) {
-    switch (name) {
-      case "DOE-MS":
-        return "DOE Website Official Sample Questions";
-      case "DOE-HS":
-        return "DOE Website Official Sample Questions";
-      case "SAMPLE-RR-HS":
-        return "Sample RR (easy and medium)";
-      case "SAMPLE-DE-HS":
-        return "Sample DE (difficult)";
-      default:
-        return name;
+    /* Grabs vendor name from metadata.
+     * If displayLabel is defined,
+     */
+    var displayName = name;
+    var currentMetadata = this.nsbService.metadata[name]["metadata"];
+    if (currentMetadata && currentMetadata["displayLabel"]) {
+      if (typeof currentMetadata["displayLabel"] === 'string') {
+        displayName = currentMetadata["displayLabel"];
+      }
+      else if (currentMetadata[name]["displayLabel"] === true &&
+            typeof currentMetadata[name]["label"] === 'string') {
+        displayName = currentMetadata[name]["label"];
+      }
     }
+    return displayName;
   }
 
   getVendors() {

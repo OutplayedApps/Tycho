@@ -619,6 +619,9 @@
         "numQuestions": 23, 
         "fileName": "DOE-HS-8-17"
       }
+    }, 
+    "metadata": {
+      "label": "Official DOE Sample Questions"
     }
   }, 
   "DOE-MS": {
@@ -1145,6 +1148,9 @@
         "numQuestions": 23, 
         "fileName": "DOE-MS-8-17"
       }
+    }, 
+    "metadata": {
+      "label": "Official DOE Sample Questions"
     }
   }
 }

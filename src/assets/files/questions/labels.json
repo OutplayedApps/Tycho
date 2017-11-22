@@ -1,4 +1,14 @@
 {
+    "DOE-MS": {
+        "metadata": {
+            "label": "Official DOE Sample Questions"
+        }
+    },
+    "DOE-HS": {
+        "metadata": {
+            "label": "Official DOE Sample Questions"
+        }
+    },
     "SAMPLE-RR-HS": {
         "metadata": {
             "label": "Sample RR (easy and medium)",
