@@ -49,18 +49,23 @@ export class NsbmenuPage {
 
   getSets() {
     let sets = [];
-    for (let setNum in this.nsbService.metadata[this.options.vendorNum]) {
-      sets.push(setNum);
+    var setNum = 0;
+    for (let key in this.nsbService.metadata[this.options.vendorNum]) {
+      setNum++;
+      if (key == "metadata") continue;
+      sets.push(
+        this.getDisplayNameFromMetadata(
+          this.nsbService.metadata[this.options.vendorNum][key]["metadata"],
+          setNum + "")
+      );
     }
     return sets;
   }
 
-  prettifyVendorName(name) {
-    /* Grabs vendor name from metadata.
-     * If displayLabel is defined,
-     */
-    var displayName = name;
-    var currentMetadata = this.nsbService.metadata[name]["metadata"];
+  getDisplayNameFromMetadata(currentMetadata, displayName="") {
+    /* If displayLabel is defined, will either get displayLabel or label (if displayLabel is true).
+     * Defaults to displayName
+    */
     if (currentMetadata && currentMetadata["displayLabel"]) {
       if (typeof currentMetadata["displayLabel"] === 'string') {
         displayName = currentMetadata["displayLabel"];
@@ -71,6 +76,14 @@ export class NsbmenuPage {
       }
     }
     return displayName;
+  }
+
+  prettifyVendorName(name) {
+    /* Grabs vendor name from metadata.
+     */
+    return this.getDisplayNameFromMetadata(
+      this.nsbService.metadata[name]["metadata"],
+      name);
   }
 
   getVendors() {
@@ -89,8 +102,15 @@ export class NsbmenuPage {
 
   getPackets() {
     let packets = [];
-    for (let packetNum in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
-      packets.push(packetNum);
+    var packetNum = 0;
+    for (let key in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
+      packetNum++;
+      if (key == "metadata") continue;
+      packets.push(
+        this.getDisplayNameFromMetadata(
+          this.nsbService.metadata[this.options.vendorNum][this.options.setNum][key]["metadata"],
+          packetNum + "")
+      );
     }
     return packets;
   }
