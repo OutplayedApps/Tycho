@@ -6,13 +6,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Consider the closed equilibrium [ee-kwuh-LIB-ree-uhm] \r\nsystem of calcium carbonate, carbon dioxide, and water, which yields calcium ions and \r\nbicarbonate ions. Adding sodium bicarbonate to the solution will make which of the following \r\ntrue in the reaction?  \r\n \r\nW) Q will be greater than K \r\nX) Q will be less than K \r\nY) Q will be equal to K \r\nZ) Q and K both increase", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  What is the electron configuration of bromine in noble gas \r\nnotation?", 
     "tossupA": "W) Q WILL BE GREATER THAN K", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde27"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -21,28 +23,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following changes has NOT contributed \r\nto the current warming trend for Earth\u2019s atmosphere? \r\n \r\nW) Greenhouse gas concentrations \r\nX) Global deforestation \r\nY) Incoming solar energy \r\nZ) Farming practices", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  The composition of what objects led to the inference \r\nthat the core of the Earth is made of iron?", 
     "tossupA": "Y) INCOMING SOLAR ENERGY", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde28"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "3", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Short Answer  Two charges, Q and -Q, are placed at x = -3 and x = +1 on the x-\r\naxis. Where on the x-axis between +Q and -Q can another charge be placed so that it \r\nexperiences no net force?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Short Answer  Suppose that you support a meter stick horizontally by positioning \r\none finger under one of the ends and the other finger about one-quarter of the way from the \r\nopposite end. Now suppose you move your fingers slowly together until they touch. By number, \r\nidentify what will most likely happen to the meter stick: 1) it will fall off the side with the finger \r\nunder the end; 2) it will fall off the side with the finger about one quarter of the way from the end; \r\nor 3) it will stay balanced on your fingers.", 
-    "tossupA": "NOWHERE, DOES NOT EXIST", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecde29"
-    }, 
-    "questionNum": "3"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -51,13 +40,15 @@
     "tossupQ": "MATH  Short Answer  What is the determinant of the 2 by 2 matrix such that row \r\none includes 2 and negative 3, and row 2 includes negative 8 and negative 4?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  A coin is tossed 10 times. Providing your answer as a fraction in lowest \r\nterms, what is the probability that there are 3 heads and 7 tails?", 
     "tossupA": "-32", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde2a"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,28 +57,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  An animal\u2019s respiratory tidal volume is 500 milliliters and its \r\ncardiac output is 250 milliliters per minute with a stroke volume of 5 milliliters. Which of the \r\nfollowing is its heart rate in beats per minute? \r\n \r\nW) 10 \r\nX) 20 \r\nY) 50 \r\nZ) 100", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  In humans, which of the following structures is NOT derived from \r\nmyeloid [MY-uh-loid] stem cells? \r\n \r\nW) Lymphocytes [LIM-fuh-syts] \r\nX) Eosinophils [ee-uh-SIN-uh-fils] \r\nY) Basophils [BAY-suh-fils] \r\nZ) Platelets [PLAYT-lits]", 
     "tossupA": "Y) 50", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde2b"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "ELLIPSE, (-3, 1)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  What is the limit of x<sup>x</sup> as x approaches 0?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Given the equation 9x<sup>2</sup> + 4y<sup>2</sup> + 54x \u2013 8y + 49 = 0, what kind of shape is \r\nits graph, and what are the coordinates of its center?", 
-    "tossupA": "1", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecde2c"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 2, 
@@ -96,28 +74,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following pairings of quantum numbers n, l, and \r\nm  CANNOT be correct? \r\n \r\nW) An electron in nickel\u2019s 3d orbital: 3, 2, 2 \r\nX) An electron in phosphorus\u2019s 2s orbital: 2, 0, 0 \r\nY) An electron in potassium\u2019s 3p orbital: 3, 2, -1 \r\nZ) An electron in oxygen\u2019s 2p orbital: 2, 1, +1", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  According to valence bond theory, what is the hybridization of \r\nthe central atom of xenon oxytetrafluoride?", 
     "tossupA": "Y) AN ELECTRON IN POTASSIUM\u2019S 3P ORBITAL: 3, 2, -1", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde2d"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "S-WAVE SHADOW ZONE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "EARTH AND SPACE  Short Answer  What type of event marks the end of major geologic \r\neras such as the Paleozoic and Mesozoic?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "EARTH AND SPACE  Short Answer  What seismologic feature led scientists to identify the \r\nEarth\u2019s liquid outer core?", 
-    "tossupA": "MASS EXTINCTION (ACCEPT: MAJOR EXTINCTION)", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecde2e"
-    }, 
-    "questionNum": "8"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -126,13 +91,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A source travelling towards us at (3/5)c emits photons in a \r\ndirection perpendicular to its velocity. If the source emits photons with energy of 0.5 electron \r\nvolts in its own rest frame, which of the following energies, in electron volts, do the photons \r\nhave in our rest frame? \r\n \r\nW) 0.3 \r\nX) 0.4 \r\nY) 0.5 \r\nZ) 0.6", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  An unknown particle with rest energy of 1 mega-electron volt is \r\ntraveling with a speed of (3/5)c along the x-axis in our rest frame when it decays into two \r\nphotons, also travelling along the x-axis. What are the energies of the photons in mega-electron \r\nvolts?", 
     "tossupA": "X) 0.4", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde2f"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 5, 
@@ -141,13 +108,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Which of the following statements about the mass of atoms in a \r\nnuclear fission reaction is true? \r\n \r\nW) The mass of the products is less than the original mass \r\nX) The mass of the products is equal to the original mass \r\nY) There is no change in the original mass \r\nZ) The mass of the products is more than the original mass", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  Diesel fuel does not need a spark to ignite like gasoline does. \r\nDiesel can rely on compression to heat the fuel for which of the following reasons? \r\n \r\nW) It has a lower molecular weight than gasoline \r\nX) It has a lower flash point than gasoline  \r\nY) It has a lower auto ignition temperature than gasoline \r\nZ) It has a lower spark point than gasoline", 
     "tossupA": "W) THE MASS OF THE PRODUCTS IS LESS THAN THE ORIGINAL MASS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde30"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,13 +125,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is necessary for the evolution of pesticide \r\nresistance? \r\n \r\nW) A population that is highly susceptible to the pesticide \r\nX) An extremely lethal pesticide  \r\nY) Genetic variation in susceptibility to the pesticide \r\nZ) Heterogeneous [het-er-uh-JEE-nee-uhs] application of pesticide", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Order the following three human oxygen-binding proteins from \r\nhighest to lowest affinity for oxygen: 1) fetal hemoglobin, 2) myoglobin [my-uh-GLOH-bin], 3) \r\nmaternal hemoglobin.", 
     "tossupA": "Y) GENETIC VARIATION IN SUSCEPTIBILITY TO THE PESTICIDE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde31"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -171,13 +142,15 @@
     "tossupQ": "MATH  Multiple Choice  Given that a second degree polynomial function f(x) has a zero at  \r\nx = 3 with multiplicity 2, which of the following is true? \r\n \r\nW) The graph of f(x) crosses the y-axis at 3 \r\nX) As x approaches infinity, f(x) approaches infinity \r\nY) The graph of f(x) crosses the x-axis at 3 \r\nZ) The graph of f(x) touches but does not cross the x-axis at 3", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Expressing your answer in simplest form, find the derivative with \r\nrespect to x of y = (x<sup>3</sup> - 8) / (x - 2) for all values for which y is defined.", 
     "tossupA": "Z) THE GRAPH OF f(x) TOUCHES BUT DOES NOT CROSS THE X-AXIS AT 3", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde32"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is true about the sediments \r\nfound at the farthest edges of an alluvial fan? \r\n \r\nW) They are metal rich \r\nX) They are relatively fine-grained \r\nY) They are the most angular \r\nZ) They are chemically altered by their unique environment", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What is observed to reconstruct paleoclimate [pay-\r\nlee-oh-kly-mit] information, specifically based on historical concentrations of carbon dioxide \r\ngas?", 
     "tossupA": "X) THEY ARE RELATIVELY FINE-GRAINED", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde33"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 1, 
@@ -201,13 +176,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following pairs are the most likely hydrogen-\r\nbonding partners? \r\n \r\nW) Water and ammonia \r\nX) Water and estrogen \r\nY) Water and carbonate \r\nZ) Water and methane", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Name the structure to which the following terms refer: stylate \r\n[STY-layt], lamellate [luh-MEL-ayt], filiform [FIL-uh-fohrm], clavate [KLAY-vayt] and plumose \r\n[PLOO-mohs].", 
     "tossupA": "W) WATER AND AMMONIA", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde34"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 2, 
@@ -216,13 +193,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Identify which of the following types of copolymer [koh-POL-\r\nuh-mer] would be represented by a molecule with the linkage pattern FGGFFFGFG? \r\n \r\nW) Statistical  \r\nX) Block \r\nY) Graft \r\nZ) Alternating", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is true about benzene? \r\n \r\nW) The carbons are alternately sp2 and sp3 hybridized \r\nX) The carbon atoms are all sp2 hybridized with an unhybridized p orbital \r\nY) Some of the carbon atoms exhibit tetrahedral geometries \r\nZ) The carbon atoms are all sp3 hybridized", 
     "tossupA": "W) STATISTICAL", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde35"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 0, 
@@ -231,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following causes basal sliding of \r\nglaciers? \r\n \r\nW) Melting of basal ice due to heat from friction as the glacier moves along bedrock \r\nX) Changes in gravity as the glacier increases in mass \r\nY) Differences in the amount of friction linked to variable surface conditions under the glacier \r\nZ) Decrease in friction due to melting from pressure of overlying ice", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following drives the volcanism on \r\nJupiter\u2019s moon, Io? \r\n \r\nW) Solar radiation \r\nX) Plate tectonics \r\nY) Meteor impacts \r\nZ) Tidal forces", 
     "tossupA": "Z) DECREASE IN FRICTION DUE TO MELTING FROM PRESSURE OF \r\nOVERLYING ICE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde36"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -246,13 +227,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  As a photon travels from water to air, which of the following \r\nquantities changes? \r\n \r\nW) Frequency \r\nX) Wavelength \r\nY) Energy \r\nZ) Phase", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  A starship is heading towards Earth at 0.7c. To begin slowing \r\ndown, it enables a forward thruster that emits fuel at 0.8c in the direction of Earth. Relative to \r\nEarth, which of the following is the approximate speed of the fuel? \r\n \r\nW) 0.8c \r\nX) 0.96c \r\nY) 0.99c \r\nZ) 1.5c", 
     "tossupA": "X) WAVELENGTH", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde37"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -261,13 +244,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Which of the following nuclides is both fissile and fissionable \r\nonly with high energy bombardment? \r\n \r\nW) U-233 \r\nX) U-235 \r\nY) U-238 \r\nZ) Pu-239", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  Name the process, suggested as a possible avenue for cold fusion \r\nto occur, in which a sound wave is passed through a bubble in a jar, causing the bubble to \r\nexpand and collapse.", 
     "tossupA": "Y) U-238", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde38"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +261,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following molecules are NOT covalently attached \r\nto proteins as post-translational modifications? \r\n \r\nW) Ubiquitins  \r\nX) Phosphates \r\nY) Ions such as Ca+2 and Mg+2 \r\nZ) Carbohydrate groups", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following statements is NOT correct regarding \r\nprions? \r\n \r\nW) They can cause scrapie and Creutzfeldt-Jakob diseases [KROYTS-felt Jakob] \r\nX) They infect the same taxa [TAK-suh] as viroids [VY-roids] \r\nY) They can cause degenerative brain diseases \r\nZ) They are an infectious agent comprised entirely of protein", 
     "tossupA": "Y) IONS SUCH AS Ca+2 AND Mg+2", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde39"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -291,13 +278,15 @@
     "tossupQ": "MATH  Short Answer  If the height of a cone is equal to the diameter of its base, express the \r\nvolume of the cone in terms of its radius r and as a fraction in terms of pi.", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Multiple Choice  Which of the following is the volume of the solid created by \r\nrevolving the area bounded by semicircle y = &radic;(16 - (x-4)<sup>2</sup>) and the x-axis around the x-axis? \r\n \r\nW) 16\u03c0 \r\nX) 64\u03c0/3 \r\nY) 64\u03c0 \r\nZ) 256\u03c0/3", 
     "tossupA": "(2/3) \u03c0r<sub>3</sub>         (ALSO ACCEPT:  2\u03c0r<sub>3</sub>/3)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde3a"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 2, 
@@ -306,13 +295,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is true for the isotopes of an element? \r\n \r\nW) They cannot be separated at all \r\nX) They have equal masses \r\nY) They have similar chemical behavior \r\nZ) They cannot be separated by physical methods", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  The equilibrium constant K for the following reaction is 6 x 10-4: \r\n(CH<sub>3</sub>)2NH + H<sub>2</sub>O \u2192*(CH<sub>3</sub>)2NH<sub>2</sub>+ + OH- [CH 3 2 NH plus H 2 O yields star C H 3 2 N H 2 plus \r\nplus O H minus].  \r\n \r\nProviding your answer in scientific notation, find K for the reaction (CH<sub>3</sub>)2NH<sub>2</sub>+ \u2192*(CH<sub>3</sub>)2NH + \r\nH+ [C H 3 2 N H 2 plus yields star C H 3 2 N H plus H plus].", 
     "tossupA": "Y) THEY HAVE SIMILAR CHEMICAL BEHAVIOR", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde3b"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +312,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following minerals is white or colorless, \r\nhas a hardness of 2.5, and splits with cubic cleavage? \r\n \r\nW) Calcite \r\nX) Pyrite  \r\nY) Halite  \r\nZ) Mica [MY-kuh]", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What is the largest sediment particle type a wind of 10 \r\nmeters per second could transport?", 
     "tossupA": "Y) HALITE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde3c"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +329,15 @@
     "tossupQ": "PHYSICS  Short Answer  Three masses are arranged at the vertices of an equilateral \r\ntriangle and are connected by springs along the edges of the equilateral triangle. How many \r\nnormal modes for vibration does this mass-spring system have?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  When a charged particle moves in a dielectric medium at a speed \r\ngreater than the speed of light in that medium, what kind of radiation do the atoms in the \r\nmedium emit?", 
     "tossupA": "THREE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde3d"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -351,13 +346,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What class of hormone, often produced in a plant\u2019s roots, induces \r\ncell division in plant roots and shoots?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT true regarding human myoglobin \r\n[my-uh-GLOH-bin]? \r\n \r\nW) It is a monomer \r\nX) It exhibits higher affinity for oxygen than hemoglobin \r\nY) It exhibits a sigmoidal [SIG-moid-uhl] saturation curve \r\nZ) It is primarily an oxygen storage protein", 
     "tossupA": "CYTOKININ", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde3e"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 5, 
@@ -366,12 +363,65 @@
     "tossupQ": "ENERGY  Multiple Choice  When the spent fuel is removed from a nuclear power plant, \r\nwhich of the following immediately occurs?  \r\n \r\nW) It is placed in dry cask storage at the nuclear reactor site until it is safe to handle, and then it \r\nis sent to the permanent storage facility \r\nX) It is sent to Yucca Mountain to be stored in the National Repository \r\nY) It is stored under water in a spent fuel pool at the reactor for several years \r\nZ) It is sealed in 50 gallon drums and allowed to cool", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  Which of the following statements is NOT true about bubble \r\nchambers? \r\n \r\nW) They consist of tanks of superheated transparent liquid \r\nX) As charged beam particles pass through the liquid, the liquid boils along their paths \r\nY) When the pressure is decreased, the bubbles clear  \r\nZ) The bubbles are allowed to grow until they have a diameter of about 1 millimeter", 
     "tossupA": "Y) IT IS STORED UNDER WATER IN A SPENT FUEL POOL AT THE REACTOR \r\nFOR SEVERAL YEARS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecde3f"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Two charges, Q and -Q, are placed at x = -3 and x = +1 on the x-\r\naxis. Where on the x-axis between +Q and -Q can another charge be placed so that it \r\nexperiences no net force?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Suppose that you support a meter stick horizontally by positioning \r\none finger under one of the ends and the other finger about one-quarter of the way from the \r\nopposite end. Now suppose you move your fingers slowly together until they touch. By number, \r\nidentify what will most likely happen to the meter stick: 1) it will fall off the side with the finger \r\nunder the end; 2) it will fall off the side with the finger about one quarter of the way from the end; \r\nor 3) it will stay balanced on your fingers.", 
+    "tossupA": "NOWHERE, DOES NOT EXIST", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde29"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "ELLIPSE, (-3, 1)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the limit of x<sup>x</sup> as x approaches 0?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Given the equation 9x<sup>2</sup> + 4y<sup>2</sup> + 54x \u2013 8y + 49 = 0, what kind of shape is \r\nits graph, and what are the coordinates of its center?", 
+    "tossupA": "1", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde2c"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "S-WAVE SHADOW ZONE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  What type of event marks the end of major geologic \r\neras such as the Paleozoic and Mesozoic?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What seismologic feature led scientists to identify the \r\nEarth\u2019s liquid outer core?", 
+    "tossupA": "MASS EXTINCTION (ACCEPT: MAJOR EXTINCTION)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde2e"
+    }, 
+    "questionNum": 8
   }
 ]

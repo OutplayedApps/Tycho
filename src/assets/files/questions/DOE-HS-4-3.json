@@ -6,13 +6,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is never considered evidence of a \r\nchemical change? \r\n \r\nW) Phase change \r\nX) Color change \r\nY) Formation of a precipitate \r\nZ) Formation of a gas", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following represents a chemical property of \r\nsodium? \r\n \r\nW) It is less dense than water \r\nX) It has a melting point of 98.7 degrees Celsius \r\nY) It reacts with water to release hydrogen gas \r\nZ) When cut with a knife, it has a shiny surface with a metallic luster", 
     "tossupA": "W) PHASE CHANGE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd751"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,13 +23,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A rock is dropped from a building, and a second rock is dropped \r\none second later.  Ignoring air resistance, what happens to the distance between the two rocks \r\nover time until one lands?  \r\n \r\nW) The distance between them will depend on the masses of the rocks \r\nX) The distance between them will decrease \r\nY) The distance between them will stay the same \r\nZ) The distance between them will increase", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  When the drag force acting on a skydiver and the force of gravity \r\nare equal, how can you characterize his or her velocity?", 
     "tossupA": "Z) THE DISTANCE BETWEEN THEM WILL INCREASE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd752"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 1, 
@@ -36,13 +40,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following could be considered a multicellular \r\neukaryotic (read as: yew-KEHR-ee-otic) heterotroph whose cells lack cell walls? \r\n \r\nW) Fern \r\nX) Bacterium  \r\nY) Euglena \r\nZ) Whip scorpion", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice  Euglena are unicellular organisms classified into the Kingdom \r\nProtista. Which of the following characteristics is NOT true of euglena? \r\n \r\nW) They can make their own food by photosynthesis \r\nX) They can absorb food from their environment \r\nY) They move by the motion of their flagella \r\nZ) They prefer saltwater", 
     "tossupA": "Z)  WHIP SCORPION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd753"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -51,13 +57,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Destruction due to an earthquake does NOT vary \r\nbecause of: \r\n \r\nW) Rock type \r\nX) Amount of human infrastructure \r\nY) Proximity to a volcano \r\nZ) Distance from the epicenter", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Waves of energy that come from an earthquake:  \r\n \r\nW) Travel through and along the surface of the earth \r\nX) Can be felt at every single point on the surface of the earth \r\nY) Travel only along the surface of the earth \r\nZ) Are unrelated to movements of magma beneath the surface", 
     "tossupA": "Y) PROXIMITY TO A VOLCANO", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd754"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,28 +74,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Bananas, citrus fruits, and day lilies are all examples of plants \r\nthat have more than two sets of chromosomes. What is the term for this phenomenon? \r\n \r\nW) Polyploidy \r\nX) Genetic variability \r\nY) Mutation \r\nZ) Diploidy", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  People with insulin-dependent diabetes are now treated with \r\npure human insulin produced by human genes inserted into bacteria. What is the name for an \r\norganism produced by taking genes from one organism and inserting them into the cells of a \r\ndifferent organism?   \r\n \r\nW) Clone \r\nX) A transgenic organism  \r\nY) Hybrid \r\nZ) A mutagenic organism", 
     "tossupA": "W) POLYPLOIDY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd755"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "LENGTH AND WIDTH = 50", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  What type of growth does y = 36  7<sup>x</sup> (read as: y equals 36 times 7 to \r\nthe power of x) represent?", 
-    "packetNum": 3, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Find the length and width in meters of a rectangle with perimeter of \r\n200 meters and maximum possible area.", 
-    "tossupA": "EXPONENTIAL", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd756"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -96,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following tectonic environments would \r\nlead to the formation of the most felsic, silica-rich magma? \r\n \r\nW) Subduction associated with the Andes Mountains \r\nX) East African Rift Valley \r\nY) Volcanic island arc of Japan \r\nZ) Hot spot underneath Yellowstone", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following will NOT help crystallize \r\nmagma?   \r\n \r\nW) Cooling the liquid \r\nX) Increasing pressure \r\nY) Removing water to raise the melting point \r\nZ) Increasing temperature", 
     "tossupA": "Z) HOT SPOT UNDERNEATH YELLOWSTONE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd757"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,43 +108,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which one of the following terms is used to indicate the natural \r\ntendency of an object to remain at rest or in motion at a constant speed along a straight line? \r\n \r\nW) Equilibrium \r\nX) Inertia (read as: i-NEHR-shah) \r\nY) Stability \r\nZ) Interaction", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  What are the two kinds of motion displayed by the motion of a \r\nbowling ball? \r\n \r\nW) Oscillatory and rotational \r\nX) Periodic and translational \r\nY) Translational and rotational \r\nZ) Random and periodic", 
     "tossupA": "X) INERTIA", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd758"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "HEMOPHILIA", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Short Answer  Name the process in which a parent cell divides into two identical \r\ndaughter cells.", 
-    "packetNum": 3, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  What is the name of the sex-linked genetic disorder that is \r\ncharacterized by excessive bleeding?", 
-    "tossupA": "MITOSIS (ACCEPT: CYTOKINESIS)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd759"
-    }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "Y) BERYLLIUM", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  What is the most electronegative element?", 
-    "packetNum": 3, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Multiple Choice  Based on trends in the periodic table, which of the following \r\nelements is the least electronegative? \r\n \r\nW) Nitrogen \r\nX) Carbon \r\nY) Beryllium  \r\nZ) Oxygen", 
-    "tossupA": "FLUORINE", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd75a"
-    }, 
-    "questionNum": "10"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -156,13 +125,15 @@
     "tossupQ": "PHYSICS  Short Answer  How does the center of mass of an object change when going \r\nfrom a 1 g to a 0 g environment?", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  The acceleration of two different masses connected by a light \r\nstring suspended by a light frictionless pulley is: \r\n \r\nW) Less than 9.8 meters per second squared  \r\nX) Greater than 9.8 meters per second squared  \r\nY) Equal to 9.8 meters per second squared \r\nZ) 0", 
     "tossupA": "IT DOES NOT CHANGE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd75b"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 2, 
@@ -171,28 +142,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is NOT a strong acid? \r\n \r\nW) Hydrochloric Acid \r\nX) Phosphoric Acid \r\nY) Sulfuric Acid \r\nZ) Perchloric\r\n \r\nAcid", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  According to the Br\u00f8nsted-Lowry acid-base theory, which of \r\nthe following species cannot function as an acid? \r\n \r\nW) Water \r\nX) Hydrogen carbonate ion \r\nY) Phosphate \r\nZ) Hydroxide", 
     "tossupA": "X) PHOSPHORIC\r\n \r\nACID", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd75c"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "h = -2 AND h = -1", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  When the discriminant of a quadratic function ax<sup>2</sup> + bx + c = 0 is \r\ngreater than 0, how many x intercepts does the graph have?", 
-    "packetNum": 3, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Give all solutions for h in the following equation: h<sup>2</sup> + 3h = - 2.", 
-    "tossupA": "2", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd75d"
-    }, 
-    "questionNum": "13"
+    "questionNum": 12
   }, 
   {
     "category": 5, 
@@ -201,13 +159,15 @@
     "tossupQ": "ENERGY  Multiple Choice  What is the challenge with regard to wind energy and \r\ntransmission line capacity? \r\n \r\nW) Not enough transmission lines connect cities to the windiest parts of the country \r\nX) Transmission lines only have the capacity to transfer wind energy from small turbines \r\nY) Transmission lines must be buried \r\nZ) We have more transmission lines than our power plants can currently support", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  A wind energy system first converts the kinetic energy of the wind \r\ninto what type of energy?", 
     "tossupA": "W) NOT ENOUGH TRANSMISSION LINES CONNECT CITIES TO THE WINDIEST \r\nPARTS OF THE COUNTRY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd75e"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -216,28 +176,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Approximately what percentage of the Earth's \r\nsurface is covered by ocean? \r\n \r\nW) 50% \r\nX) 70% \r\nY) 90% \r\nZ) 99%", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Where is the youngest ocean floor found? \r\n \r\nW) Mid-ocean ridges \r\nX) Subduction zones \r\nY) Top of Himalayas \r\nZ) The abyssal plains", 
     "tossupA": "X) 70%", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd75f"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "5,040", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  If Jill takes three blouses, two pairs of pants, and two pairs of shoes \r\nfor a weekend trip, how many different complete outfit combinations can she put together?", 
-    "packetNum": 3, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Give the numerical value for the number of different orders in which 7 \r\npeople can line up at a cash register.", 
-    "tossupA": "12", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd760"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 5, 
@@ -246,13 +193,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Roberto lives in Florida. Which of the following is NOT a way \r\nthat he could use less energy at home? \r\n \r\nW) Close the window curtains during the day in the summer \r\nX) Open the curtains on south-facing windows during the day in the winter \r\nY) Hang his wet clothes on clotheslines outside when it is sunny \r\nZ) Turn thermostats to a colder temperature during the summer", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  A clothes dryer can be a high consumer of household electricity. \r\nWhich of the following options is NOT a way in which to reduce energy consumption when using \r\nyour clothes dryer? \r\n \r\nW) Purchase a dryer model that has an ENERGY STAR label \r\nX) Use the moisture sensor option, if you have one \r\nY) Clean the lint filter to improve the efficiency of the dryer \r\nZ) Scrub the lint filter if you use dryer sheets", 
     "tossupA": "Z) TURN THERMOSTATS TO A COLDER TEMPERATURE DURING THE \r\nSUMMER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd761"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -261,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following units are typically used when \r\nmeasuring a star\u2019s lifespan? \r\n \r\nW) Months \r\nX) Thousands of years \r\nY) Millions or billions of years \r\nZ) Light years", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  Rank the following stars from that with the shortest \r\nlifespan to that with the longest lifespan: red dwarf, supergiant, main sequence.", 
     "tossupA": "Y) MILLIONS OR BILLIONS OF YEARS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd762"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 5, 
@@ -276,13 +227,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Which of the following best defines biodiesel? \r\n \r\nW) Ethanol \r\nX) Raw vegetable oil \r\nY) Alternative diesel fuel produced from renewable resources \r\nZ) U.S. diesel fuel", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  Gas to liquids, or GTL, fuels are produced by converting natural \r\ngas into liquid fuels. Which of the following is NOT a benefit for production and use of GTL \r\nfuels? \r\n \r\nW) They are cleaner than conventional petroleum-based diesel fuel \r\nX) They are compatible with the current petroleum infrastructure \r\nY) They can be produced domestically \r\nZ) GTL plants are relatively inexpensive to build", 
     "tossupA": "Y) ALTERNATIVE DIESEL FUEL PRODUCED FROM RENEWABLE RESOURCES", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd763"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +244,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is a characteristic of an \r\nintrusive, igneous rock? \r\n \r\nW) Vesicles \r\nX) Large interlocking crystals \r\nY) Tightly compressed grains of sand \r\nZ) Glassy luster", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following processes would most likely \r\nlead to the formation of a metamorphic rock?   \r\n \r\nW) Precipitate forming at the bottom of the oceans \r\nX) Mountain building \r\nY) High speed ejection from a cone \r\nZ) Crystals cooling from magma", 
     "tossupA": "X) LARGE INTERLOCKING CRYSTALS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd764"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 1, 
@@ -306,13 +261,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Down syndrome is caused by: \r\n \r\nW) A missing copy of chromosome 21 \r\nX) Genetic mutations on various chromosomes  \r\nY) An extra copy of chromosome 21 \r\nZ) A contagious disease passed from mother to fetus", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following statements best describes the sex \r\nchromosome content of female and male cells in birds? \r\n \r\nW) Females are ZW, males are ZZ \r\nX) Females are WW, males are ZW  \r\nY) Females are ZZ, males are ZW \r\nZ) Females are ZZ, males are WW", 
     "tossupA": "Y) AN EXTRA COPY OF CHROMOSOME 21", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd765"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 4, 
@@ -321,43 +278,15 @@
     "tossupQ": "MATH  Short Answer  What is the fifth number in the geometric sequence that begins: 27, 9, \r\n3, 1?", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  AB and CD are parallel line segments intersected by the line segment \r\nEF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18\u00b0 and angle CFE is \r\n125\u00b0, what is the measure of angle AEC?", 
     "tossupA": "1/3", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd766"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "W) BETWEEN 3 AND 4 SECONDS", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Multiple Choice  What is the term for the rate at which an object\u2019s velocity \r\nchanges with time? \r\n \r\nW) Instantaneous velocity \r\nX) Motion \r\nY) Speed \r\nZ) Acceleration", 
-    "packetNum": 3, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Multiple Choice  In 1901, 63-year-old retired schoolteacher Annie Edson Taylor \r\nwent over the Niagara Falls in a barrel. The Horseshoe Falls have a height of about 51 meters. \r\nUsing 9.8 meters per second squared as the acceleration due to gravity; about how long in \r\nseconds did it take for her to reach the water surface? Assume that her initial velocity was zero, \r\nand neglect the effect of the air on the barrel during the fall. \r\n \r\nW) Between 3 and 4 seconds \r\nX) Between 5 and 6 seconds \r\nY) Between 10 and 11 seconds \r\nZ) Between 27 and 28 seconds", 
-    "tossupA": "Z) ACCELERATION", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd767"
-    }, 
-    "questionNum": "23"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "0", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Bethany and Charlene are 7 years apart in age. In two years, \r\nCharlene will be twice Bethany\u2019s age. What is Bethany\u2019s current age?", 
-    "packetNum": 3, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Evaluate y = 5x<sup>2</sup> + 4x<sup>3</sup> + 12 (read as: 5x squared plus 4 x cubed plus \r\n12) when x = -2.", 
-    "tossupA": "5", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd768"
-    }, 
-    "questionNum": "24"
+    "questionNum": 22
   }, 
   {
     "category": 2, 
@@ -366,12 +295,133 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is characteristic of a compound? \r\n \r\nW) Elements must be combined in a very specific ratio \r\nX) Properties can vary throughout the sample \r\nY) It can be classified as a colloid \r\nZ) It can be classified as heterogeneous", 
     "packetNum": 3, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following results will identify an unknown \r\nsubstance as a mixture instead of a compound? \r\n \r\nW) It cannot be separated by distillation \r\nX) It is homogeneous \r\nY) It has a constant melting point \r\nZ) Centrifuging can separate the components", 
     "tossupA": "W) ELEMENTS MUST BE COMBINED IN A VERY SPECIFIC RATIO", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd769"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "LENGTH AND WIDTH = 50", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What type of growth does y = 36  7<sup>x</sup> (read as: y equals 36 times 7 to \r\nthe power of x) represent?", 
+    "packetNum": 3, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the length and width in meters of a rectangle with perimeter of \r\n200 meters and maximum possible area.", 
+    "tossupA": "EXPONENTIAL", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd756"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HEMOPHILIA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Name the process in which a parent cell divides into two identical \r\ndaughter cells.", 
+    "packetNum": 3, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the name of the sex-linked genetic disorder that is \r\ncharacterized by excessive bleeding?", 
+    "tossupA": "MITOSIS (ACCEPT: CYTOKINESIS)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd759"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Y) BERYLLIUM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the most electronegative element?", 
+    "packetNum": 3, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Based on trends in the periodic table, which of the following \r\nelements is the least electronegative? \r\n \r\nW) Nitrogen \r\nX) Carbon \r\nY) Beryllium  \r\nZ) Oxygen", 
+    "tossupA": "FLUORINE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd75a"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "h = -2 AND h = -1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  When the discriminant of a quadratic function ax<sup>2</sup> + bx + c = 0 is \r\ngreater than 0, how many x intercepts does the graph have?", 
+    "packetNum": 3, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Give all solutions for h in the following equation: h<sup>2</sup> + 3h = - 2.", 
+    "tossupA": "2", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd75d"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5,040", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If Jill takes three blouses, two pairs of pants, and two pairs of shoes \r\nfor a weekend trip, how many different complete outfit combinations can she put together?", 
+    "packetNum": 3, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Give the numerical value for the number of different orders in which 7 \r\npeople can line up at a cash register.", 
+    "tossupA": "12", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd760"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) BETWEEN 3 AND 4 SECONDS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  What is the term for the rate at which an object\u2019s velocity \r\nchanges with time? \r\n \r\nW) Instantaneous velocity \r\nX) Motion \r\nY) Speed \r\nZ) Acceleration", 
+    "packetNum": 3, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  In 1901, 63-year-old retired schoolteacher Annie Edson Taylor \r\nwent over the Niagara Falls in a barrel. The Horseshoe Falls have a height of about 51 meters. \r\nUsing 9.8 meters per second squared as the acceleration due to gravity; about how long in \r\nseconds did it take for her to reach the water surface? Assume that her initial velocity was zero, \r\nand neglect the effect of the air on the barrel during the fall. \r\n \r\nW) Between 3 and 4 seconds \r\nX) Between 5 and 6 seconds \r\nY) Between 10 and 11 seconds \r\nZ) Between 27 and 28 seconds", 
+    "tossupA": "Z) ACCELERATION", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd767"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "0", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Bethany and Charlene are 7 years apart in age. In two years, \r\nCharlene will be twice Bethany\u2019s age. What is Bethany\u2019s current age?", 
+    "packetNum": 3, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Evaluate y = 5x<sup>2</sup> + 4x<sup>3</sup> + 12 (read as: 5x squared plus 4 x cubed plus \r\n12) when x = -2.", 
+    "tossupA": "5", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd768"
+    }, 
+    "questionNum": 24
   }
 ]

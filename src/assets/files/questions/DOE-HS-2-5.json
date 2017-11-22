@@ -1,33 +1,20 @@
 [
   {
-    "category": 1, 
-    "bonusA": "TAXIS", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Short Answer  Bacteria that can oxidize inorganic substances for energy are called:", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  What is the common botanical term for the response a cell or plant has \r\ntowards or away from a stimulus?", 
-    "tossupA": "CHEMOAUTOTROPHS   (ACCEPT:  CHEMOTROPHS, CHEMOSYNTHETICS, OR \r\nCHEMOLITHOTROPHS)", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd945"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 2, 
     "bonusA": "2Fe + 3CO<sub>2</sub>", 
     "vendorNum": "DOE-HS", 
     "tossupQ": "CHEMISTRY  Multiple Choice  If you were looking to purchase magnesium sulfate in a retail \r\nstore in the U.S., which of the following would you be correct in buying: \r\n \r\nW)  alum \r\nX)  cream of tartar \r\nY)  soda ash \r\nZ)  Epsom salt", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Using proper chemical nomenclature, finish balancing the \r\nfollowing equation:  Fe<sub>2</sub>O3 + 3CO yields what, assuming the iron is totally reduced:", 
     "tossupA": "Z)  EPSOM SALT", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd946"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,43 +23,15 @@
     "tossupQ": "PHYSICS  Short Answer  What is the current, in amperes, running through a 200-watt light bulb \r\nrunning on a 100 volt power source:", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What is the centripetal force, in Newtons, required for a 12 kilogram \r\nbody traveling at 2 meters per second in a perfect circle with a radius of 4 meters?", 
     "tossupA": "2 AMPERES \r\n \r\n(Solution:  current = watts/volts; 200/100 = 2 amperes)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd947"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "10 PARSECS  (ACCEPT:  26 LIGHT YEARS)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  Adastea, Amalthea and Callisto are moons of what planet?", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Short Answer  What is the standard distance a star would need to be placed for it \r\nto appear as bright as its absolute magnitude?", 
-    "tossupA": "JUPITER", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd948"
-    }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "9&radic;3   (ACCEPT:  15 \u2013 16) \r\n \r\n(Solution:  A = s<sup>2</sup>&radic;3/4 = 9&radic;3", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  In algebra, what is a second degree polynomial equation most commonly \r\ncalled?", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  What is the area of an equilateral triangle whose side is 6?", 
-    "tossupA": "QUADRATIC  (ACCEPT:  QUADRATIC EQUATION)", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd949"
-    }, 
-    "questionNum": "5"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -81,13 +40,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Cleavage is caused by a mineral's crystal lattice having: \r\n \r\nW)  planes that contain relatively fewer or weaker chemical bonds \r\nX)  planes that contain relatively more numerous or stronger chemical bonds \r\nY)  planes that contain many hydrogen bonds \r\nZ)  planes that contain only covalent chemical bonds", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following best describes glacial till: \r\n \r\nW)  well sorted and stratified \r\nX)  well sorted and poorly stratified \r\nY)  poorly stratified and poorly sorted \r\nZ)  stratified and poorly sorted", 
     "tossupA": "W)  PLANES THAT CONTAIN RELATIVELY FEWER OR WEAKER CHEMICAL \r\nBONDS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd94a"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 6, 
@@ -96,28 +57,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  What color light does water absorb the most: \r\n \r\nW)  red     \r\nX) yellow     \r\nY)  green     \r\nZ)  blue", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  The primary contributors of phosphorous to the \r\nPhosphorous Cycle are: \r\n \r\nW)  animal waste products \r\nX)  volcanic gasses \r\nY)  weathering of rocks \r\nZ)  lightning", 
     "tossupA": "W)  RED", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd94b"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 7, 
-    "bonusA": "800", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "COMPUTER SCIENCE  Short Answer  How fast data flows on a given transmission path and the \r\nwidth of the range of frequencies that a signal occupies on a given transmission medium is generally \r\nknown as:", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "COMPUTER SCIENCE  Short Answer  Data travels on a 100MHz, 64-bit bus at how many \r\nmegabytes per second?", 
-    "tossupA": "BANDWIDTH", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd94c"
-    }, 
-    "questionNum": "8"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -126,13 +74,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Animals that produce eggs that develop and  hatch outside of the \r\nbody are called: \r\n \r\nW)  viviparous  (pronounced:  viv-IP-a-rous) \r\nX)  ovoviviparous  (pronounced:  oh-voe-viv-IP-a-rous) \r\nY)  oviparous  (pronounced:  oh-VIP-a-rous) \r\nZ)  parity", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer  Cherries, plums, and peaches belong to what genus?", 
     "tossupA": "Y)  OVIPAROUS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd94d"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 2, 
@@ -141,13 +91,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  A tetrahedral arrangement of electronic orbitals around an \r\natom in a molecule generally implies what type of hybridization: \r\n \r\nW)  sp \r\nX)  sp2 \r\nY)  sp3 \r\nZ)  sp3d", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  What is the name for a plastic or ceramic funnel that has a flat \r\nstage on which a filter paper can be placed that is intended for use under suction with a thick-walled \r\nside-arm flask designed to withstand the changes in pressure that occur when the flask is connected \r\nto a suction pump?", 
     "tossupA": "Y)  SP<sub>3</sub>", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd94e"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,13 +108,15 @@
     "tossupQ": "PHYSICS  Short Answer  If a 60 kilogram object displaces 30 kilograms of water when \r\nimmersed, what will its apparent weight be?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Assuming all the following substances are in pure form, order them \r\nfrom the WORST electrical conductor to the BEST electrical conductor:  aluminum,  water,  iron,  \r\ngold", 
     "tossupA": "30 KILOGRAMS  (ACCEPT:  30 KG OR 30,000 GRAMS)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd94f"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,13 +125,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  At less than 8% solar mass, what is the common term for a \r\npotential star that does not gather enough mass to initiate core nuclear fusion and become a main \r\nsequence star?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Multiple Choice  Why did ancient Greek astronomers ascribe the term \u201cplanet\u201d \r\nto certain celestial objects? \r\n \r\nW)  they shined very brightly \r\nX)  they wandered in their paths through the heavens \r\nY)  they were believed to be the home of the gods \r\nZ)  they did not twinkle", 
     "tossupA": "BROWN DWARF", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd950"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,13 +142,15 @@
     "tossupQ": "MATH  Short Answer  What is the sum of the interior angles of a 6-sided polygon?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Find the solution set of the following equation:  2/(2x-3) = 2/(4x+1)", 
     "tossupA": "720\u00b0", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd951"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +159,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is a long, narrow, steep-sided arm \r\nof the sea, usually formed by entrance of the sea into a deep glacial trough: \r\n \r\nW)  fjord  (pronounced: fee-ord) \r\nX)  moraine  \r\nY)  delta \r\nZ)  alluvial fan", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Ocean sediments that form from the precipitation of \r\ndissolved organic chemicals in seawater are classified as: \r\n \r\nW)  terrigenous \r\nX)  hydrogenous \r\nY)  biogenous \r\nZ)  siliceous", 
     "tossupA": "W)  FJORD", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd952"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,13 +176,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  An animal that primarily eats fruit is called a:  \r\n \r\nW)  frugivore \r\nX)  herbivore \r\nY)  omnivore \r\nZ)  detritivore", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  Modified tropical grasslands characterized by \r\nalternating wet and dry seasons that produce areas typical of grasslands are called: \r\n \r\nW)  tall grass prairies \r\nX)  short grass prairies \r\nY)  chaparrals \r\nZ)  savannas", 
     "tossupA": "W)  FRUGIVORE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd953"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 7, 
@@ -231,13 +193,15 @@
     "tossupQ": "COMPUTER SCIENCE  Multiple Choice  Software for which the source code is furnished and \r\nusers agree NOT to limit the distribution of  improvements is called: \r\n \r\nW)  public-domain \r\nX)  freeware \r\nY)  open-source \r\nZ)  shareware", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "COMPUTER SCIENCE  Short Answer  What is the three-bit natural binary code equivalent of \r\nthe decimal value 58 ?", 
     "tossupA": "Y)  OPEN-SOURCE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd954"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,13 +210,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following trees has a distinctive variegated bark with \r\na leopard-like pattern of light and dark greens?  \r\n \r\nW)  American Sycamore \r\nX)  Linden \r\nY)  Manchurian Maple \r\nZ)  Persimmon", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  According to the classical taxonomical system,  order the following \r\nfrom the most general taxonomic group to the most specific group:  order,  genus,  kingdom,  class,  \r\nfamily,  species", 
     "tossupA": "W)  AMERICAN SYCAMORE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd955"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 2, 
@@ -261,13 +227,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What laboratory method uses a Liebig condenser arranged almost \r\nhorizontally such that when the liquid mixture is heated and vapors are produced, they enter the \r\ncondenser and then flow away from the flask to be collected, and is used when only one volatile \r\nfraction is to be collected:", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Of the following liquids, which is normally basic: \r\n \r\nW)  milk  \r\nX)  Pepsi \r\nY)  laundry detergent \r\nZ)  pure water", 
     "tossupA": "SIMPLE DISTILLATION  (ACCEPT:  DISTILLATION)  \r\n(DO NOT ACCEPT: FRACTIONAL DISTILLATION)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd956"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -276,43 +244,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following is NOT considered a form of transverse \r\nwave: \r\n \r\nW)  radio wave  \r\nX)  electromagnetic wave \r\nY)  sound wave  \r\nZ)  ocean wave", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  What is the average acceleration of a cyclist traveling on a straight \r\npath from 0 to 25 kilometers per hour in a minute and 40 seconds: \r\n \r\nW)  2.5 km per hour \r\nX)  0.25 km per hour \r\nY)  2.5 km per hour per second \r\nZ)  0.25 km per hour per second", 
     "tossupA": "Y)  SOUND WAVE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd957"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "HUBBLE\u2019S LAW  (ACCEPT:  HUBBLE OR HUBBLE\u2019S)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  What is the main part of the Small Bear constellation also \r\ncommonly called?", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Short Answer   Which law states that galaxies are receding from one another at \r\nvelocities directly proportional to the distances separating them?", 
-    "tossupA": "LITTLE DIPPER", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd958"
-    }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "-24 \r\n \r\n(Solution:  n + 1/2 n + 1/4 n \u2013 8 = 2n -2)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Convert 300\u00b0 into radians:", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Find the following number:  When the number, one-half of the number, \r\nand one-quarter of the number are added, and then 8 is subtracted, the result is 2 less than twice the \r\nnumber:", 
-    "tossupA": "5\u03c0/3", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd959"
-    }, 
-    "questionNum": "21"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -321,13 +261,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  In Plate Tectonic theory, a transform fault is associated \r\nwith: \r\n \r\nW)  places where crust is being generated \r\nX)  places where crust is being destroyed \r\nY)  places where crust is being neither generated nor destroyed \r\nZ)  places where crust is being both generated and destroyed", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Short Answer  Fossil are most commonly found in what general type of \r\nrock?", 
     "tossupA": "Y)  PLACES WHERE CRUST IS BEING NEITHER GENERATED NOR \r\nDESTROYED", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd95a"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -336,13 +278,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the most common name for the horizontal enlarged stem of \r\nSolanum tuberosum?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following biomes is NOT properly matched with its \r\ndescription: \r\n \r\nW)  tundra has extreme cold and presence of permafrost \r\nX)  taiga has moderately wet summers and long cold winters \r\nY)  chaparral has hot wet summers and moderate dry winters \r\nZ)  temperate grasslands have occasional droughts with warm summers and cool to cold winters", 
     "tossupA": "POTATO  (ACCEPT:  TUBER)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd95b"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 2, 
@@ -351,13 +295,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  The largest worldwide use for hydrogen gas is in the \r\nproduction of: \r\n \r\nW)  methanol \r\nX)  ammonia \r\nY)  water \r\nZ)  hydrogen fluoride", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  If you wanted to prepare the ester, methyl acetate, which of the \r\nfollowing could you start with: \r\n \r\nW)  formic acid and ethanol \r\nX)  acetic acid and ethanol \r\nY)  acetic acid and methanol \r\nZ)  formic acid and methanol", 
     "tossupA": "X)  AMMONIA", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd95c"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 3, 
@@ -366,12 +312,116 @@
     "tossupQ": "PHYSICS  Short Answer  Which scientist\u2019s publication entitled \u201cNew Experiments Physio-\r\nmechanical, Touching the Spring of the Air, and its Effects\u201d first enunciated the empirical \r\nrelationship that states that the pressure of a given quantity of gas varies inversely as its volume, at \r\nconstant temperature?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  If a car, traveling at 15 miles/hr, travels 22 feet per second, how many \r\nfeet per second will it travel at 120 miles/hr?", 
     "tossupA": "ROBERT BOYLE  (ACCEPT:  BOYLE)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd95d"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TAXIS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Bacteria that can oxidize inorganic substances for energy are called:", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the common botanical term for the response a cell or plant has \r\ntowards or away from a stimulus?", 
+    "tossupA": "CHEMOAUTOTROPHS   (ACCEPT:  CHEMOTROPHS, CHEMOSYNTHETICS, OR \r\nCHEMOLITHOTROPHS)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd945"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "10 PARSECS  (ACCEPT:  26 LIGHT YEARS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  Adastea, Amalthea and Callisto are moons of what planet?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the standard distance a star would need to be placed for it \r\nto appear as bright as its absolute magnitude?", 
+    "tossupA": "JUPITER", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd948"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "9&radic;3   (ACCEPT:  15 \u2013 16) \r\n \r\n(Solution:  A = s<sup>2</sup>&radic;3/4 = 9&radic;3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  In algebra, what is a second degree polynomial equation most commonly \r\ncalled?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the area of an equilateral triangle whose side is 6?", 
+    "tossupA": "QUADRATIC  (ACCEPT:  QUADRATIC EQUATION)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd949"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "800", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Short Answer  How fast data flows on a given transmission path and the \r\nwidth of the range of frequencies that a signal occupies on a given transmission medium is generally \r\nknown as:", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Short Answer  Data travels on a 100MHz, 64-bit bus at how many \r\nmegabytes per second?", 
+    "tossupA": "BANDWIDTH", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd94c"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "HUBBLE\u2019S LAW  (ACCEPT:  HUBBLE OR HUBBLE\u2019S)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What is the main part of the Small Bear constellation also \r\ncommonly called?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer   Which law states that galaxies are receding from one another at \r\nvelocities directly proportional to the distances separating them?", 
+    "tossupA": "LITTLE DIPPER", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd958"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-24 \r\n \r\n(Solution:  n + 1/2 n + 1/4 n \u2013 8 = 2n -2)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Convert 300\u00b0 into radians:", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the following number:  When the number, one-half of the number, \r\nand one-quarter of the number are added, and then 8 is subtracted, the result is 2 less than twice the \r\nnumber:", 
+    "tossupA": "5\u03c0/3", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd959"
+    }, 
+    "questionNum": 21
   }
 ]

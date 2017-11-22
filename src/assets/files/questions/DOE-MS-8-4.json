@@ -6,13 +6,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice What is the primary component of natural gas? \r\n \r\nW) Methane \r\nX) Helium \r\nY) Hydrogen \r\nZ) Oil", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice The second electron shell in an atom can hold up to \r\nhow many electrons, and contains how many different orbital shapes, respectively? \r\n \r\nW) 8, 2 \r\nX) 2, 8 \r\nY) 4, 8 \r\nZ) 8, 4", 
     "tossupA": "W) METHANE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd43b"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -21,13 +23,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following types of organisms does NOT \r\nutilize oxygen for respiration? \r\n \r\nW) Aerobic \r\nX) Anaerobic [an-uh-ROH-bik] \r\nY) Autotrophic \r\nZ) Abiogenetic [ay-by-oh-juh-NET-ik]", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer On what part of the Earth does every day have exactly \r\nthe same number of hours of day and night?", 
     "tossupA": "X) ANAEROBIC", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd43c"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,13 +40,15 @@
     "tossupQ": "MATH Multiple Choice What is the equation of the line parallel to the x-axis and four units \r\nabove the x-axis? \r\n \r\nW) x = -4 \r\nX) x = 4 \r\nY) y = -4 \r\nZ) y = 4", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Simplify the expression: -3x + 12x<sup>3</sup> \u2013 17x<sup>2</sup> + 5x<sup>3</sup> \u2013 7x + 11x<sup>2</sup>.", 
     "tossupA": "Z) y = 4", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd43d"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,13 +57,15 @@
     "tossupQ": "ENERGY Short Answer What SI unit is used to describe the power of a motor or electric \r\nheater?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Why is it best to hit a baseball on the sweet spot of a bat? \r\n \r\nW) There is less friction on the sweet spot \r\nX) The sweet spot is the widest part of the bat so it easier to hit the ball \r\nY) When the ball hits the sweet spot more force is imparted to it \r\nZ) Less energy is lost to bat vibrations when the ball hits the sweet spot", 
     "tossupA": "WATT", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd43e"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,13 +74,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Charles Darwin used what process to illustrate the \r\nmechanisms of natural selection? \r\n \r\nW) Artificial selection \r\nX) Biology \r\nY) Natural history \r\nZ) Evolution", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice The majority of ocean organisms living in hydrothermal vents \r\nare believed to be which of the following? \r\n \r\nW) Protists \r\nX) Coral \r\nY) Bacteria \r\nZ) Eels", 
     "tossupA": "W) ARTIFICIAL SELECTION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd43f"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -81,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice What is the reproductive part of an angiosperm that will \r\neventually develop into a seed? \r\n \r\nW) Endosperm \r\nX) Ovule [OV-yool] \r\nY) Stamen \r\nZ) Phloem [FLOH-em]", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer In aerobic respiration, what is the terminal electron \r\nacceptor in the electron transport chain?", 
     "tossupA": "X) OVULE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd440"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -96,13 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Why does the same side of the Moon always face the \r\nEarth? \r\n \r\nW) The Moon rotates about its axis about once per month \r\nX) The Moon rotates about its axis about once per year \r\nY) The Moon and the Earth rotate about their axes at the same rate \r\nZ) The Moon does not rotate about its axis", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer You have some old silver coins and want to buy some \r\nmore at the flea market. The seller shows you some old coins that look nearly identical to the \r\nones you already have. What attribute could be measured to determine which coins are made of \r\nsilver without destroying the coins?", 
     "tossupA": "W) THE MOON ROTATES ABOUT ITS AXIS ABOUT ONCE PER MONTH", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd441"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,13 +125,15 @@
     "tossupQ": "ENERGY Multiple Choice As a swing rises in the air, which of the following types of energy \r\nincreases in the rider? \r\n \r\nW) Kinetic \r\nX) Thermal \r\nY) Potential \r\nZ) Mechanical", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer Of the approximately 12% of U.S. electricity production that comes \r\nfrom renewable resources, which source makes up 50-60% of this production?", 
     "tossupA": "Y) POTENTIAL", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd442"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,13 +142,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer Cyclones forming in the northern hemisphere spin in what \r\ndirection?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT considered part of the \r\nnitrogen cycle? \r\n \r\nW) Ammonification \r\nX) Nitrification \r\nY) Methanogenesis [muh-thahn-uh-JEN-uh-sis] \r\nZ) Nitrogen fixation", 
     "tossupA": "COUNTERCLOCKWISE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd443"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,28 +159,15 @@
     "tossupQ": "MATH Short Answer Consider the following expression: 5x<sup>2</sup> + 16xy \u2013 7y<sup>2</sup>. What is the \r\ncoefficient of the second term?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer If the radius of a sphere is cut in half, what is the ratio of the volume of \r\nthe new sphere to the volume of the original sphere?", 
     "tossupA": "16", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd444"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "W) SHARK", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer In what specific phase of meiosis [my-OH-sis] do \r\nhomologous [huh-MOL-uh-guhs] chromosomes pair up?", 
-    "packetNum": 4, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice Which organism has a lateral line system? \r\n \r\nW) Shark \r\nX) Jellyfish \r\nY) Limpet \r\nZ) Starfish", 
-    "tossupA": "PROPHASE I", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd445"
-    }, 
-    "questionNum": "11"
+    "questionNum": 10
   }, 
   {
     "category": 6, 
@@ -171,13 +176,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice What is an eddy? \r\n \r\nW) A young kangaroo \r\nX) Another name for a tornado \r\nY) A circular current of water \r\nZ) Another name for a rip current", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the name for the type of viruses that specifically \r\ninfect bacteria?", 
     "tossupA": "Y) A CIRCULAR CURRENT OF WATER", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd446"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 3, 
@@ -186,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT one of the properties of \r\nforces? \r\n \r\nW) Net forces always change velocity \r\nX) Forces can cause a change in motion \r\nY) Forces can cancel each other out \r\nZ) Forces in opposite directions always result in an unbalanced net force", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice How many moles of carbon dioxide are required to \r\nreact with 2 moles of water to form carbonic acid? \r\n \r\nW) 1 \r\nX) 2 \r\nY) 2.5 \r\nZ) 4", 
     "tossupA": "Z) FORCES IN OPPOSITE DIRECTIONS ALWAYS RESULT IN AN UNBALANCED \r\nNET FORCE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd447"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer When a stone weathers, its tendency to become more \r\nrounded is known as what kind of weathering?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice New oceanic crust is formed at which of the following? \r\n \r\nW) Subduction zones \r\nX) Island arcs \r\nY) Transform faults \r\nZ) Mid-ocean ridges", 
     "tossupA": "SPHEROIDAL (ACCEPT: WOOLSACK)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd448"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 4, 
@@ -216,28 +227,15 @@
     "tossupQ": "MATH Short Answer Three pages are randomly chosen out of a textbook. The number of \r\nwords on each page is 450, 447, and 456, respectively. What is the average number of words \r\nper page of the sampled pages?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Your phone company charges 50 cents to place a long distance phone \r\ncall and 17 cents per minute talked. If you spent $4.58 on a phone call, how long in minutes did \r\nit last?", 
     "tossupA": "451", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd449"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "Y) A GROUP OF RATS THAT WERE FED THE SAME RATION WITHOUT THE \r\nFOOD ADDITIVE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice What organ in the human body is responsible for storing \r\nglucose in the form of glycogen [GLY-kuh-juhn]? \r\n \r\nW) Pancreas \r\nX) Kidney \r\nY) Liver \r\nZ) Spleen", 
-    "packetNum": 4, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice A biologist wants to test the effect of a new food additive on \r\ngrowth in rats. An experimental group was fed a diet containing the additive. Which of the \r\nfollowing would be an effective control group? \r\n \r\nW) A group of rats that ate a higher concentration of food additive \r\nX) A group of rats that were kept in different conditions across the city \r\nY) A group of rats that were fed the same ration without the food additive \r\nZ) A group of rats that ate a lower concentration of the food additive", 
-    "tossupA": "Y) LIVER", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd44a"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 6, 
@@ -246,28 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Bats use what system to navigate in darkness? \r\n \r\nW) Echolocation \r\nX) Sound waves \r\nY) Radar \r\nZ) Vibration", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Of the types of radiation involving the decay of the \r\nnucleus [NOO-klee-uhs] of an atom, which one results in the release of an electron?", 
     "tossupA": "W) ECHOLOCATION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd44b"
     }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "X) SILICON", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer If a fireman turns on his water hose and is knocked \r\nbackwards; of which of Newton\u2019s three laws of motion is this an example?", 
-    "packetNum": 4, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a metalloid? \r\n \r\nW) Iron \r\nX) Silicon \r\nY) Mercury \r\nZ) Selenium", 
-    "tossupA": "THE THIRD LAW", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd44c"
-    }, 
-    "questionNum": "18"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -276,13 +261,15 @@
     "tossupQ": "ENERGY Short Answer What is the term for a chemical reaction that absorbs heat as the \r\nreaction proceeds?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following is the most common and likely source of \r\nexposure to harmful radiation for most people? \r\n \r\nW) Discovering a piece of abandoned equipment from the nuclear industry \r\nX) Exposure to a spent fuel rod \r\nY) Living near a nuclear power plant \r\nZ) Radon exposure in the home", 
     "tossupA": "ENDOTHERMIC (ACCEPT: ENDERGONIC)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd44d"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +278,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer If a telescope is left unguided, what will be observed in \r\nlong-exposure photographs taken through it?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Most continents contain large central areas in which \r\nvery ancient rocks are exposed. What are these areas called? \r\n \r\nW) Shields \r\nX) Cratons \r\nY) Platforms \r\nZ) Orogenic belts", 
     "tossupA": "STAR TRAILS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd44e"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +295,15 @@
     "tossupQ": "MATH Short Answer A mission to an alien planet discovers sentient beings that have \r\ndeveloped a currency system using krats, shans, and lars. They tell you that 6 krats equal 15 \r\nshans, and 15 shans equal 45 lars. You know from your math classes on Earth that 6 krats \r\ntherefore equal 45 lars. What property does this demonstrate?", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Solve for x: the square root of the quantity x minus 4 \r\nequals negative 7. \r\n \r\nW) -45 \r\nX) -3 \r\nY) 53 \r\nZ) \u2205 [Null set]", 
     "tossupA": "TRANSITIVE (ACCEPT: TRANSITIVE PROPERTY OF EQUALITY)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd44f"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +312,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice The kingdom Plantae [PLAN-tee] consists of members that \r\nare which of the following? \r\n \r\nW) Non-photosynthetic, multicellular, and eukaryotic [yoo-KAR-ee-oh-tik] \r\nX) Photosynthetic, multicellular, and eukaryotic \r\nY) Photosynthetic, multicellular, and prokaryotic [proh-KAR-ee-oh-tik] \r\nZ) Photosynthetic, unicellular, and prokaryotic", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the source of light in the deep ocean?", 
     "tossupA": "X) PHOTOSYNTHETIC, MULTICELLULAR, AND EUKARYOTIC", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd450"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 6, 
@@ -336,12 +329,65 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What term describes the outer solid part of the Earth, \r\nincluding the crust and uppermost mantle.", 
     "packetNum": 4, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice You are trying to decide what to wear to school today \r\nand feel like wearing something green. You turn on the incandescent light in your closet and pull \r\nout a green shirt. Why does the shirt look green? \r\n \r\nW) The shirt is giving off a green light \r\nX) The shirt absorbs the green wavelengths of the visible light spectrum and reflects all others \r\nY) The shirt reflects the green wavelengths of the visible light spectrum and absorbs all others \r\nZ) The shirt absorbs the white wavelengths of the visible light spectrum and converts the others \r\ninto visible green wavelengths", 
     "tossupA": "LITHOSPHERE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd451"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) SHARK", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer In what specific phase of meiosis [my-OH-sis] do \r\nhomologous [huh-MOL-uh-guhs] chromosomes pair up?", 
+    "packetNum": 4, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which organism has a lateral line system? \r\n \r\nW) Shark \r\nX) Jellyfish \r\nY) Limpet \r\nZ) Starfish", 
+    "tossupA": "PROPHASE I", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd445"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) A GROUP OF RATS THAT WERE FED THE SAME RATION WITHOUT THE \r\nFOOD ADDITIVE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice What organ in the human body is responsible for storing \r\nglucose in the form of glycogen [GLY-kuh-juhn]? \r\n \r\nW) Pancreas \r\nX) Kidney \r\nY) Liver \r\nZ) Spleen", 
+    "packetNum": 4, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice A biologist wants to test the effect of a new food additive on \r\ngrowth in rats. An experimental group was fed a diet containing the additive. Which of the \r\nfollowing would be an effective control group? \r\n \r\nW) A group of rats that ate a higher concentration of food additive \r\nX) A group of rats that were kept in different conditions across the city \r\nY) A group of rats that were fed the same ration without the food additive \r\nZ) A group of rats that ate a lower concentration of the food additive", 
+    "tossupA": "Y) LIVER", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd44a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) SILICON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer If a fireman turns on his water hose and is knocked \r\nbackwards; of which of Newton\u2019s three laws of motion is this an example?", 
+    "packetNum": 4, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a metalloid? \r\n \r\nW) Iron \r\nX) Silicon \r\nY) Mercury \r\nZ) Selenium", 
+    "tossupA": "THE THIRD LAW", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd44c"
+    }, 
+    "questionNum": 18
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "BIOLOGY Short Answer Which class of organic biomolecules is the major component of \r\nanimal bodies?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BONUS  \r\n \r\n1)", 
     "tossupA": "PROTEIN", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece045"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 2, 
@@ -21,13 +23,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice A molecular solid contains what type of bonding? \r\n \r\nW) Metallic \r\nX) Electrovalent \r\nY) Covalent \r\nZ) Localized", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer Identify all of the following four factors that affect the degree of \r\ncrystallinity in polymers:  1) structure; 2) stereochemistry [ster-ee-oh-KEM-uh-stree]; 3) \r\nmolecular weight; 4) processing conditions.", 
     "tossupA": "Y) COVALENT", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece046"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,28 +40,15 @@
     "tossupQ": "MATH Short Answer If the radius of a right circular cylinder is tripled, by what factor must the \r\nheight be multiplied in order to keep the volume the same?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice If \u0742f(x)=7x+19 [f of x equals seven x plus nineteen], for what \r\nvalues of x is f(x) [f of x] greater than 33? \r\n \r\nW) x is greater than 2 \r\nX) x is less than 2 \r\nY) x is between 2 and -2 \r\nZ) All real numbers", 
     "tossupA": "1/9", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece047"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "0.15", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS Short Answer In the excitation of an atom by light, what specific particle is \r\nresponsible for the absorption of the photon?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS Short Answer What is the power, in watts, dissipated by a circuit that supplies a \r\npotential difference of 1.5 volts and has a current of 0.1 amperes?", 
-    "tossupA": "ELECTRON", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cece048"
-    }, 
-    "questionNum": "4"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -66,13 +57,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice The only continent without conditions favorable for the \r\nformation of tornadoes is  \r\n \r\nW) South America \r\nX) Australia \r\nY) Asia \r\nZ) Antarctica", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Coral polyps extract what compound out of seawater to \r\nform hard external skeletons?", 
     "tossupA": "Z) ANTARCTICA", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece049"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 2, 
@@ -81,13 +74,15 @@
     "tossupQ": "CHEMISTRY Short Answer Within the visible spectrum of light, photons with the longest \r\nwavelength are associated with what color?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer Identify, by number, the following processes that would result in \r\nan increase of potential energy of a system:  1) Energy transfer as work done by a system;  2) \r\nEnergy transfer as work done on a system; 3) Thermal energy transfer to a system; 4) Thermal \r\nenergy transfer from a system", 
     "tossupA": "RED", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece04a"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 1, 
@@ -96,13 +91,15 @@
     "tossupQ": "BIOLOGY Short Answer What form of transport across membranes is mediated by channel \r\nproteins and requires no input of energy?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice.  In which of the following female cervids [SUR-vids] would you \r\nfind antlers?  \r\n \r\nW) Reindeer \r\nX) Okapi [oh-KAH-pee] \r\nY) Mule deer \r\nZ) Moose", 
     "tossupA": "FACILITATED DIFFUSION (ACCEPT: FACILITATED TRANSPORT or FACILITATED \r\nPASSIVE TRANSPORT ; DO NOT ACCEPT: SIMPLE DIFFUSION)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece04b"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,28 +108,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following methods of electricity production typically \r\nuses no water? \r\n \r\nW) Solar thermal \r\nX) Tidal \r\nY) Geothermal \r\nZ) Photovoltaic", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer If 100 joules of energy are added to a 5 kilogram substance and its \r\ntemperature increases by 4 degrees Celsius, what is its specific heat capacity in joules per \r\nkilogram degrees Celsius?", 
     "tossupA": "Z) PHOTOVOLTAIC", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece04c"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "PACIFIC OCEAN", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is the most important feature \r\ncharacterizing the stratosphere? \r\n \r\nW) Clouds  \r\nX) Ozone \r\nY) Ions  \r\nZ) Dust", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "EARTH AND SPACE Short Answer The deepest known point of the oceans is found in what \r\nocean?", 
-    "tossupA": "X) OZONE", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cece04d"
-    }, 
-    "questionNum": "9"
+    "questionNum": 8
   }, 
   {
     "category": 4, 
@@ -141,13 +125,15 @@
     "tossupQ": "MATH Multiple Choice If a number eight times as large as x is increased by two, then one \r\nfourth of the result equals \r\n \r\nW) 2x + 1/2 [2x plus half] \r\nX) x + 1/2 [x plus half] \r\nY) 2x + 2 [2x plus 2] \r\nZ) 2x + 4 [2x plus 4]", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Subtracting a certain positive number from its square gives 110. Find \r\nthe number.", 
     "tossupA": "W) 2x + 1/2", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece04e"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,28 +142,15 @@
     "tossupQ": "BIOLOGY Multiple Choice In which of the following habitats would you expect to find the \r\nhighest productivity AND lowest diversity of species? \r\n \r\nW) Salt marsh \r\nX) Desert \r\nY) Deciduous forest [di-SIJ-oo-uhs] \r\nZ) Grassland", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice All of the following pairs of structures are homologous [huh-\r\nMOL-uh-guhs], EXCEPT: \r\n \r\nW) The wing of a bat and the wing of a bird \r\nX) The leg of a human and the leg of a centipede \r\nY) The scales on a bird\u2019s legs and the scales on a lizard \r\nZ) The shell of a clam and the shell of a snail", 
     "tossupA": "W) SALT MARSH", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece04f"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "10-10", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY Multiple Choice Which of the following acids is diprotic? \r\n \r\nW) Oxalic acid  \r\nX) Phosphoric acid  \r\nY) Nitric acid  \r\nZ) Hydrochloric acid", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY Short Answer To the nearest power of ten and in meters, what is the diameter \r\nof the hydrogen atom?", 
-    "tossupA": "W) OXALIC ACID", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cece050"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 3, 
@@ -186,13 +159,15 @@
     "tossupQ": "PHYSICS Multiple Choice What elementary particle is the carrier of the electromagnetic \r\nforce? \r\n \r\nW) Electron \r\nX) Gluon  \r\nY) Photon \r\nZ) Neutrino", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer What particle, recently confirmed to exist at the Large Hadron \r\nCollider, is postulated by electroweak theory to explain the origin of mass?", 
     "tossupA": "Y) PHOTON", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece051"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +176,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice What is the primary reason that volcanic rocks are \r\nporous?  \r\n \r\nW) Erosion \r\nX) Marine organisms  \r\nY) Rapid cooling \r\nZ) Gases trapped inside lava", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Over 200 million years ago, the continents as we know \r\nthem existed as one landmass called Pangaea [pan-JEE-uh]. About 200 million years ago, this \r\nlandmass divided into two landmasses.  What are the names of these two landmasses?", 
     "tossupA": "Z) GASES TRAPPED INSIDE LAVA", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece052"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +193,15 @@
     "tossupQ": "BIOLOGY Short Answer What specialized plant cells are responsible for the opening and \r\nclosing of stomatal airways in response to water stress?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Certain plants cannot convert nitrate to ammonia because they \r\nlack the enzyme nitrate reductase. What would you expect for the pH of the environments \r\nwhere these plants are found? \r\n \r\nW) Basic \r\nX) Acidic \r\nY) Neutral \r\nZ) Highly basic", 
     "tossupA": "GUARD CELLS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece053"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +210,15 @@
     "tossupQ": "MATH Short Answer If the radius of a sphere is doubled, by what percent does the volume \r\nincrease?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Four students and two moderators sit at a circular table. How many \r\ndistinct arrangements are there of these 6 people if the two moderators must sit opposite each \r\nother? \r\n \r\nW) 4 \r\nX) 6 \r\nY) 24 \r\nZ) 48", 
     "tossupA": "700 % (DO NOT ACCEPT: 800%)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece054"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 5, 
@@ -246,13 +227,15 @@
     "tossupQ": "ENERGY Short Answer What unit of energy is defined as the amount of heat needed to \r\nraise the temperature of one pound of water by one degree Fahrenheit?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice How would you classify a bacterium that derives its energy from \r\ninorganic sources such as hydrogen sulphide?  \r\n \r\nW) Chemoheterotroph [kee-moh-HET-er-uh-trof] \r\nX) Chemoautotroph [kee-moh-AW-tuh-trof] \r\nY) Photoautotroph [foh-toh-AW-tuh-trof] \r\nZ) Photoheterotroph [foh-toh-het-ER-uh-trof]", 
     "tossupA": "BRITISH THERMAL UNIT (ACCEPT: BTU)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece055"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 2, 
@@ -261,13 +244,15 @@
     "tossupQ": "CHEMISTRY Short Answer Carbon dioxide, iron(III) [read as iron three] ions, and the \r\nhydrogen sulfate ion are all acids in what named theory of acids and bases, which states that \r\nbases donate electron pairs, and acids accept them?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Multiple Choice Which of the following matches the molecular formula of a \r\ncyclic alkane [AL-kayn]? \r\n  \r\nW) C5H12 [C five H twelve] \r\nX) C5H10 [C five H ten] \r\nY) C5H8 [C five H eight] \r\nZ) C5H5 [C five H five]", 
     "tossupA": "LEWIS THEORY (ACCEPT: LEWIS ACIDS AND BASES)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece056"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +261,15 @@
     "tossupQ": "BIOLOGY Short Answer Which neurotransmitter is most commonly responsible for action \r\npotentials at the animal neuromuscular [noo-roh-MUHS-kyuh-ler] junction?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Assume that genes A and B are not linked. If an organism is \r\nheterozygous [het-er-uh-ZY-guhs] for both genes, what is the probability that the organism will \r\nproduce a gamete [GAM-eet] with both the dominant A and B alleles [uh-LEELS]? \r\n \r\nW) \u00bc  \r\nX) \u00bd  \r\nY) 1 \r\nZ) 0", 
     "tossupA": "ACETYLCHOLINE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece057"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -291,13 +278,15 @@
     "tossupQ": "PHYSICS Short Answer Interference patterns in light-based experiments arise due to what \r\nreaction of waves to the confinement of their pathways?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer Two particles have initial velocities of 10 meters per second and     \r\n-10 meters per second, respectively. If both particles undergo a constant acceleration of 2 \r\nmeters per second squared for 2 seconds, what will be the difference in their velocities, in \r\nmeters per second?", 
     "tossupA": "DIFFRACTION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece058"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 5, 
@@ -306,13 +295,15 @@
     "tossupQ": "ENERGY Multiple Choice What hazardous material enables compact fluorescent light bulbs \r\nto be more efficient while also requiring special disposal methods?  \r\n  \r\nW) Tungsten \r\nX) Lead  \r\nY) Hafnium [HAF-nee-uhm] \r\nZ) Mercury", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What device in a modern car allows the turning engine to recharge \r\nthe car\u2019s battery while driving?", 
     "tossupA": "Z) MERCURY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece059"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 4, 
@@ -321,13 +312,15 @@
     "tossupQ": "MATH Short Answer Determine all of the prime factors of 111.", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice How many faces does a cuboctahedron [kyoo-bok-tuh-HEE-druhn] \r\nhave? \r\n \r\nW) 8 \r\nX) 14  \r\nY) 24 \r\nZ) 48", 
     "tossupA": "3 AND 37", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece05a"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 2, 
@@ -336,12 +329,65 @@
     "tossupQ": "CHEMISTRY Short Answer What is the name in organic chemistry that is given to \r\nhydrocarbons with general formula CnH2n-2 [C- n -H -two -n \u2013minus- two] that possess a triple \r\nbond, the simplest of which is acetylene [uh-SET-l-een]?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Multiple Choice Which of the following nucleotides [NOO-klee-uh-tyds] is not \r\nderived from pyrimidine [py-RIM-i-deen]? \r\n \r\nW) Uracil [YOOR-uh-sil] \r\nX) Thymine [THY-meen] \r\nY) Guanine [GWAH-neen] \r\nZ) Cytosine [SY-tuh-seen]", 
     "tossupA": "ALKYNES", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece05b"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0.15", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer In the excitation of an atom by light, what specific particle is \r\nresponsible for the absorption of the photon?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer What is the power, in watts, dissipated by a circuit that supplies a \r\npotential difference of 1.5 volts and has a current of 0.1 amperes?", 
+    "tossupA": "ELECTRON", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece048"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "PACIFIC OCEAN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is the most important feature \r\ncharacterizing the stratosphere? \r\n \r\nW) Clouds  \r\nX) Ozone \r\nY) Ions  \r\nZ) Dust", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer The deepest known point of the oceans is found in what \r\nocean?", 
+    "tossupA": "X) OZONE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece04d"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "10-10", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following acids is diprotic? \r\n \r\nW) Oxalic acid  \r\nX) Phosphoric acid  \r\nY) Nitric acid  \r\nZ) Hydrochloric acid", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer To the nearest power of ten and in meters, what is the diameter \r\nof the hydrogen atom?", 
+    "tossupA": "W) OXALIC ACID", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece050"
+    }, 
+    "questionNum": 12
   }
 ]

@@ -1,33 +1,20 @@
 [
   {
-    "category": 2, 
-    "bonusA": "[Ar]3d5", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Multiple Choice  Ceramic materials have all but which of the following \r\nproperties? \r\n \r\nW) Low density  \r\nX) High thermal expansion \r\nY) High ductility \r\nZ) High corrosion resistance", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  What is the ground state electron configuration of iron in iron \r\n(III) sulfate?", 
-    "tossupA": "Y) HIGH DUCTILITY", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda3f"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 0, 
     "bonusA": "MESOZOIC", 
     "vendorNum": "DOE-HS", 
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following circumstances is linked most \r\nclosely with the formation of sand dunes? \r\n \r\nW) Drying of a lake \r\nX) Transgression of the sea \r\nY) Folded mountain formation \r\nZ) Heavy glacial erosion", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  During which era did the initial opening of the present-\r\nday Atlantic Ocean most likely occur?", 
     "tossupA": "W) DRYING OF A LAKE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda40"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +23,15 @@
     "tossupQ": "PHYSICS  Short Answer  A bicycle wheel undergoes constant angular acceleration for time t. \r\nIdentify all of the following three choices at which the average acceleration equals the \r\ninstantaneous acceleration: 1) 0.5t, 2) 0.67t, 3) 0.707t.", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What is the average force in newtons exerted on a 25 gram egg by \r\na bed sheet if the egg hits the sheet at 4 meters per second and takes 0.2 seconds to stop, \r\ngiven acceleration due to gravity as 10 meters per second squared?", 
     "tossupA": "ALL (ACCEPT 1, 2, 3)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda41"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,28 +40,15 @@
     "tossupQ": "ENERGY  Short Answer  A commercial scale gas atomizer will soon be developed in order to \r\nproduce fine powder of what element, known for its strength, light weight, biocompatibility, and \r\nresistance to corrosion?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  Biodiesel is made through a chemical process called \r\ntransesterification [trans-uh-ster-uh-fi-KAY-shuhn]. Vegetable oil and methanol react to form \r\nbiodiesel and what other byproduct?", 
     "tossupA": "TITANIUM", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda42"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "W) AN ION RELEASES ENERGY AS IT TRAVELS THROUGH AN ION CHANNEL \r\nDOWN ITS CONCENTRATION GRADIENT", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Short Answer  What is the term for the hypothesized process by which eukaryotes \r\n[yoo-KAR-ee-ohts] evolved a photosynthetic [foh-tuh-SIN-thuh-tik] organelle?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT an example of energy coupling? \r\n \r\nW) An ion releases energy as it travels through an ion channel down its concentration gradient \r\nX) A kinase hydrolyzes ATP for energy to catalyze a reaction \r\nY) A transport molecule uses energy from one molecule going down its concentration gradient \r\nto power transport of another molecule up its gradient \r\nZ) As protons move down their concentration gradient, ATP synthase gathers energy to \r\ncatalyze the synthesis of ATP", 
-    "tossupA": "ENDOSYMBIOSIS", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda43"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 4, 
@@ -81,13 +57,15 @@
     "tossupQ": "MATH  Short Answer  In the three by three matrix, such that row one \r\ncontains negative 2, 2, and 0; row two contains 4, 1, and negative 5; row three contains 8, \r\n3, and 7 which is the  [x sub 2, 3] element?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  If the squared length of the diagonal of one face of a cube is 162, what \r\nis the surface area in square units of the cube?", 
     "tossupA": "-5", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda44"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 2, 
@@ -96,13 +74,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following statements is true about alkenes [AL-\r\nkeens] and alkynes [AL-kyns]? \r\n \r\nW) Both are unsaturated compounds  \r\nX) Both can undergo hydrogenation to lose hydrogens \r\nY) Both can undergo oxygenation to lose oxygens  \r\nZ) Both have carbon-carbon double bonds", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Name all of the following five substances which are classified as \r\nstrong electrolytes: 1) carbonic acid; 2) hydrogen fluoride; 3) sodium chloride; 4) acetic acid; 5) \r\nhydrochloric acid.", 
     "tossupA": "W) BOTH ARE UNSATURATED COMPOUNDS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda45"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 0, 
@@ -111,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following sedimentary rocks is most \r\nlikely to be changed to slate during regional metamorphism? \r\n \r\nW) Shale  \r\nX) Conglomerate \r\nY) Dolostone [DO-luh-stohn] \r\nZ) Breccia [BRECH-ee-uh]", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following describes a rock that is \r\nmetamorphic and shows signs of foliation? \r\n \r\nW) It has bands of coarse intergrown crystals of various sizes \r\nX) It has particles of 0.01 centimeters to 1.0 centimeters cemented together \r\nY) It has intergrown crystals less than 0.1 centimeter in size \r\nZ) It has intergrown crystals, mostly 2.0 centimeters in size", 
     "tossupA": "W) SHALE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda46"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +108,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Four particles are moving from north to south through a region \r\nwith magnetic field directed from west to east. Which of the following particles bends \r\ndownward? \r\n \r\nW) Alpha \r\nX) Beta \r\nY) Neutron \r\nZ) Graviton", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer   Forty-five joules of energy are added to a quantity of ideal gas, \r\nand the gas expands and does 34 joules of work. What is the change in internal energy of the \r\ngas, in joules?", 
     "tossupA": "X) BETA", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda47"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 5, 
@@ -141,13 +125,15 @@
     "tossupQ": "ENERGY  Short Answer  What is the name for the layer in the center of a fuel cell which \r\nseparates the anode and cathode and allows positive ions through but not electrons?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  Regular gasoline with an octane rating of  87 has the same anti-\r\nknock qualities as a mixture with what percentages of iso-octane and heptane, respectively?", 
     "tossupA": "ELECTROLYTE (ACCEPT: MEMBRANE)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda48"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,13 +142,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following animals is considered a keystone \r\nspecies of the kelp forests of the Aleutian [uh-LOO-shuhn] Islands ecosystem? \r\n \r\nW) Sea urchin  \r\nX) Sea otter \r\nY) Killer whale \r\nZ) Alaskan fur seals", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What scientific term describes strategies, such as black widow \r\ncoloration, used by some animals to alert or warn other animals of their presence and potential \r\ndanger?", 
     "tossupA": "X) SEA OTTER", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda49"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -171,13 +159,15 @@
     "tossupQ": "MATH  Multiple Choice  Which of the following equations is that of a line perpendicular to  \r\n3x \u2013 7y = 5? \r\n \r\nW) 3x + 7y = 10  \r\nX) 7x + 3y = 10 \r\nY) 7x \u2013 3y = 10   \r\nZ) 3x \u2013 7y = 10", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  What is the multiplicity of the zero 1 in the polynomial  \r\np(x) = x<sup>4</sup> + x<sup>3</sup> - 9x<sup>2</sup> + 11x - 4?", 
     "tossupA": "X) 7x + 3y = 10", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda4a"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +176,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  In general, the probability of flooding decreases \r\nwhen there is an increase in the amount of which of the following? \r\n \r\nW) Precipitation \r\nX) Infiltration \r\nY) Runoff \r\nZ) Snow melt", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following is the age of the most \r\nabundant surface bedrock in the Finger Lakes region of New York State? \r\n \r\nW) Cambrian \r\nX) Devonian \r\nY) Pennsylvanian \r\nZ) Permian", 
     "tossupA": "X) INFILTRATION", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda4b"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 1, 
@@ -201,28 +193,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Cutaneous [kyoo-ATY-nee-uhs] sensation to the palm of the \r\nhand and thumb is provided primarily by which nerve?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  By number, indentify all of the following five characteristics that \r\napply to the iris plant: 1) floral parts in multiples of four or five, 2) root system with a central tap \r\nroot, 3) parallel venation on leaves, 4) vascular bundles in stem arranged in a ring, 5) one \r\ncotyledon [kat-uhl-EED-uhn].", 
     "tossupA": "MEDIAN", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda4c"
     }, 
-    "questionNum": "14"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "9", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following elements does NOT commonly form \r\nsimple ions? \r\n \r\nW) Silicon \r\nX) Oxygen \r\nY) Lead \r\nZ) Sulfur", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  How many total carbons are in the organic compound  \r\n1, 1-dichloro-3-ethyl-2,4 dimethylpentane [dy-METH-uhl-PEN-tayn]?", 
-    "tossupA": "W) SILICON", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda4d"
-    }, 
-    "questionNum": "15"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -231,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following surface ocean currents \r\ntransports warm water to higher latitudes? \r\n \r\nW) Labrador Current \r\nX) Falidand Current \r\nY) Gulf Stream \r\nZ) West Wind Drift", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following internal layers of the Earth \r\nallows for isostacy [eye-SOS-tuh-see] of the crust? \r\n \r\nW) Outer core \r\nX) Inner core \r\nY) Asthenosphere \r\nZ) Lithosphere", 
     "tossupA": "Y) GULF STREAM", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda4e"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -246,13 +227,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  When a tennis racket hits a tennis ball, how do the forces on \r\neach object compare? \r\n \r\nW) The force on the tennis ball has a greater magnitude than the force on the racket \r\nX) The force on the racket has a greater magnitude than the force on the ball \r\nY) The magnitude of the force on each object is the same \r\nZ) The forces depend on the level of impact", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A wave with a frequency of 40 hertz has a wavelength of 2.5 \r\nmeters. What is the phase velocity in meters per second?", 
     "tossupA": "Y) THE MAGNITUDE OF THE FORCE ON EACH OBJECT IS THE SAME", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda4f"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -261,13 +244,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Which of the following conditions is NOT required to form coal? \r\n \r\nW) A stagnant and stable water level \r\nX) Heat and pressure over a long period of time \r\nY) An equal supply of both vegetation and sediment \r\nZ) A plant accumulation rate equaling land subsidence rate", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  Why, aside from making it possible to push more energy through a \r\nline in a given unit of time, is power transmitted at higher voltages over longer distances?", 
     "tossupA": "Y) AN EQUAL SUPPLY OF BOTH VEGETATION AND SEDIMENT", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda50"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,28 +261,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Damage to which human brain region results in anomalous \r\ncircadian [uh-NOM-uh-luhs sur-kay-dee-uhn] rhythms?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is true regarding osmoregulation in a \r\nfreshwater fish? \r\n \r\nW) Osmotic water loss occurs over body surface and via gills \r\nX) Nitrogenous wastes are excreted primarily in the form of uric acid \r\nY) Copious amount of urine hypotonic to the blood is excreted  \r\nZ) Excess salt is excreted from gills", 
     "tossupA": "HYPOTHALAMUS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda51"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "X) (3, 1)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  In terms of a, b, c, and d, what is the slope of the line 3x + 2by = cd?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Multiple Choice  Which of the following points lies in the solution set for the system \r\nof two inequalities: 2y \u2013 x \u2265 -6 and 2y \u2013 3x < -6? \r\n \r\nW) (-4, -1) \r\nX) (3, 1) \r\nY) (0, -3) \r\nZ) (4, 3)", 
-    "tossupA": "3/(2b)", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda52"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 2, 
@@ -306,13 +278,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  In titration, which of the following is most commonly used as \r\nan acid-base indicator in the pH 8 to pH 10 range? \r\n \r\nW) Phenolphthalein [fee-knoll-THAY-lean] \r\nX) Cresol red  \r\nY) Bromthymol blue \r\nZ) Methyl orange", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  To what total volume in milliliters would 100 milliliters of an \r\n80% ethanol solution by volume need to be diluted to obtain a 20% solution by volume?", 
     "tossupA": "W) PHENOLPHTHALEIN", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda53"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +295,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  Of the 8 planets in the solar system, which one likely \r\nhas the lowest escape velocity with respect to its own gravity?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  The following four particles A, B, C, and D are of equal \r\nvolume and are dropped into a column filled with water. Particle A is flat with a density of 2.5 \r\ngrams per cubic centimeter. Particle B is flat with a density of 3.0 grams per cubic centimeter. \r\nParticle C is round with a density of 2.5 grams per cubic centimeter, and particle D is round with \r\na density of 3.0 grams per cubic centimeter. Which particle would usually settle most rapidly?", 
     "tossupA": "MERCURY", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda54"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +312,15 @@
     "tossupQ": "PHYSICS  Short Answer  Sue and Ben are 5 and 10 meters, respectively, away from a \r\nballoon when it pops loudly. Sue's sound pressure meter recorded a level of 80 decibels. What \r\ndid Ben's identical meter record in decibels to the nearest decibel?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  A current-carrying wire changes diameter from larger to smaller \r\ngauge. In which of the following locations would the current be greater? \r\n \r\nW) Larger section \r\nX) Smaller section \r\nY) At the location where the wire changes diameter \r\nZ) It would be the same at all points", 
     "tossupA": "74", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda55"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -351,13 +329,83 @@
     "tossupQ": "BIOLOGY  Short Answer  Name the genus of mosquito that most frequently serves as the \r\nvector for the debilitating dengue [DENG-gay] fever.", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Indicate, respectively, the term to describe the stage in which two \r\ngenetically different nuclei occur in the same cell, and the principal kingdom in which the stage \r\noccurs as a normal part of the organism\u2019s life cycle.", 
     "tossupA": "AEDES", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda56"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "[Ar]3d5", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Ceramic materials have all but which of the following \r\nproperties? \r\n \r\nW) Low density  \r\nX) High thermal expansion \r\nY) High ductility \r\nZ) High corrosion resistance", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the ground state electron configuration of iron in iron \r\n(III) sulfate?", 
+    "tossupA": "Y) HIGH DUCTILITY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda3f"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) AN ION RELEASES ENERGY AS IT TRAVELS THROUGH AN ION CHANNEL \r\nDOWN ITS CONCENTRATION GRADIENT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the term for the hypothesized process by which eukaryotes \r\n[yoo-KAR-ee-ohts] evolved a photosynthetic [foh-tuh-SIN-thuh-tik] organelle?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT an example of energy coupling? \r\n \r\nW) An ion releases energy as it travels through an ion channel down its concentration gradient \r\nX) A kinase hydrolyzes ATP for energy to catalyze a reaction \r\nY) A transport molecule uses energy from one molecule going down its concentration gradient \r\nto power transport of another molecule up its gradient \r\nZ) As protons move down their concentration gradient, ATP synthase gathers energy to \r\ncatalyze the synthesis of ATP", 
+    "tossupA": "ENDOSYMBIOSIS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda43"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "9", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following elements does NOT commonly form \r\nsimple ions? \r\n \r\nW) Silicon \r\nX) Oxygen \r\nY) Lead \r\nZ) Sulfur", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  How many total carbons are in the organic compound  \r\n1, 1-dichloro-3-ethyl-2,4 dimethylpentane [dy-METH-uhl-PEN-tayn]?", 
+    "tossupA": "W) SILICON", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda4d"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) (3, 1)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  In terms of a, b, c, and d, what is the slope of the line 3x + 2by = cd?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Multiple Choice  Which of the following points lies in the solution set for the system \r\nof two inequalities: 2y \u2013 x \u2265 -6 and 2y \u2013 3x < -6? \r\n \r\nW) (-4, -1) \r\nX) (3, 1) \r\nY) (0, -3) \r\nZ) (4, 3)", 
+    "tossupA": "3/(2b)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda52"
+    }, 
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -366,12 +414,14 @@
     "tossupQ": "MATH  Short Answer  How many points of intersection do the graphs of the functions  \r\nf(x) = x<sup>2</sup> and g(x) = 2<sup>x</sup> have?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Evaluate the following:  [the integral from 0 to 2 of 1 \r\nover t times e to the power of the natural log of t dt].", 
     "tossupA": "3", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda57"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

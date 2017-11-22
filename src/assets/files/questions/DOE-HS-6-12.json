@@ -6,13 +6,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  In which of the following states are you most likely to \r\nfind glacially transported sediment from North America\u2019s last major glacial maximum? \r\n \r\nW) Virginia \r\nX) Colorado \r\nY) California \r\nZ) Michigan", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  A Hertzsprung-Russell diagram plots the relationship \r\nbetween its luminosity and what other characteristic?", 
     "tossupA": "Z) MICHIGAN", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda58"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is the mechanism of action of most \r\ninsecticides? \r\n \r\nW) Blocking oxygen intake \r\nX) Disrupting nerve function \r\nY) Preventing digestion \r\nZ) Stopping DNA synthesis", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the general name for integral membrane proteins that \r\ndirectly couple the energy of ATP hydrolysis to the movement of molecules against their \r\nconcentration gradient?", 
     "tossupA": "X) DISRUPTING NERVE FUNCTION", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda59"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 2, 
@@ -36,13 +40,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What is the name of the property that distinguishes L-alanine \r\n[AL-uh-neen] from D-alanine?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following would NOT be a good method to \r\ndetermine the molecular weight of a protein? \r\n \r\nW) Isoelectric focusing \r\nX) Electrophoresis [i-lek-troh-fuh-REE-sis] \r\nY) Gel filtration \r\nZ) Ultracentrifugation", 
     "tossupA": "CHIRALITY (ACCEPT: ENANTIOMER, HANDEDNESS, ROTATION OF \r\nPOLARIZED LIGHT)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda5a"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +57,15 @@
     "tossupQ": "MATH  Short Answer  What is the sum of the infinite geometric series with a first term of 1/3 \r\nand a second term of 1/9?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  How many real solutions does the following equation have:  \r\n(x<sup>2</sup> + 1)<sup>2</sup> + 2(x<sup>2</sup> + 1) - 3 = 0 [x squared plus 1 quantity squared plus 2 times open \r\nparenthesis x squared plus 1 close parenthesis minus 3 equals zero]?", 
     "tossupA": "1/2 (ACCEPT: 0.5)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda5b"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -66,13 +74,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Two identically sized conducting spheres, A, with a charge of \r\n+3.2 x 10-19 coulombs, and B, with a charge of -6.4 x 10-19 coulombs, are allowed to touch. While \r\nthey are touching, sphere A does which of the following? \r\n \r\nW) Gains three protons \r\nX) Loses three protons \r\nY) Gains three electrons \r\nZ) Gains four electrons", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A car's starter motor draws a current of 100 amperes at 12.0 volts \r\nwhen starting the engine. The mechanical power required to turn the engine is 960 watts. At \r\nwhat rate, in watts, is energy from the battery converted to heat?", 
     "tossupA": "Y) GAINS THREE ELECTRONS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda5c"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -81,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is a sedimentary rock that \r\nforms as a result of precipitation during evaporation of seawater? \r\n \r\nW) Conglomerate \r\nX) Gypsum \r\nY) Basalt \r\nZ) Shale", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  The gemstones ruby and sapphire are a part of which \r\nof the following mineral groups? \r\n \r\nW) Carbonates \r\nX) Oxides \r\nY) Sulfates \r\nZ) Silicates", 
     "tossupA": "X) GYPSUM", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda5d"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 1, 
@@ -96,13 +108,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Name the protein that polymerizes [puh-LIM-uh-ryz-es] to form \r\nmicrotubules.", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Which amino acid participates in the formation of disulfide bonds?", 
     "tossupA": "TUBULIN", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda5e"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,43 +125,15 @@
     "tossupQ": "ENERGY  Short Answer  Neutrons in fission reactors are categorized based on their origin. \r\nWhat term describes neutrons emitted directly from a fission event, rather than from a \r\nsubsequent or unrelated decay event?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  How much heat energy in BTUs is needed to heat 200 pounds of \r\nwater from 50 degrees to 130 degrees Fahrenheit?", 
     "tossupA": "PROMPT", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda5f"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "a/2", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  The molecule chlorine trifluoride has what molecular geometry?", 
-    "packetNum": 12, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  Given a box of length a and a particle of radius b, molecular \r\nweight c, and velocity d, what is the average position of the particle in the box with respect to \r\nlength?", 
-    "tossupA": "T-SHAPED", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda60"
-    }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "-6/41 + (13/41)i  [DO NOT ACCEPT: (-6 +13i)/41]", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  If each side of a rectangle is increased by 10%, by what percentage \r\nis its area increased?", 
-    "packetNum": 12, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Express  [the quantity 1 plus 2 i divided by the quantity 4 \r\nminus 5 i] in standard a + bi form.", 
-    "tossupA": "21 (ACCEPT: 21%)", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda61"
-    }, 
-    "questionNum": "10"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -156,13 +142,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  When a resistor, inductor, and capacitor are connected in series \r\nto an AC generator, the current through the capacitor must be in phase with the voltage across \r\nwhich of the following? \r\n \r\nW) The capacitor \r\nX) The inductor \r\nY) The entire circuit \r\nZ) The resistor", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  In a series resonant circuit, the circuit impedance at resonance \r\nis always which of the following? \r\n \r\nW) Equal to the resistance \r\nX) Equal to the capacitive reactance \r\nY) Equal to the inductive reactance \r\nZ) Greater than the capacitive reactance", 
     "tossupA": "Z) THE RESISTOR", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda62"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following processes leads directly to \r\nthe formation of topsoil and subsoil in the A and B horizons? \r\n \r\nW) Erosion and deposition \r\nX) Erosion and leaching \r\nY) Weathering and leaching  \r\nZ) Weathering and deposition", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  Taking the value of the Hubble constant to be 75 \r\nkilometers per second per megaparsec, if a galaxy is observed with a recessional velocity of 50 \r\nkilometers per second, what is its distance, in kiloparsecs, to two significant figures?", 
     "tossupA": "Y) WEATHERING AND LEACHING", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda63"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -186,13 +176,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following venomous snakes produces mostly \r\nneurotoxins? \r\n \r\nW) Black mamba \r\nX) Eastern diamondback rattlesnake \r\nY) Cottonmouth  \r\nZ) Copperhead", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the name of the plant hormone, produced in older leaves, \r\nroot caps, and stems, which promotes bud and seed dormancy?", 
     "tossupA": "W) BLACK MAMBA", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda64"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 2, 
@@ -201,13 +193,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following molecules can ionize in water? \r\n \r\nW) Ethyl acetate \r\nX) Diethyl ether \r\nY) Acetic acid \r\nZ) Acetic anhydride", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following best explains the relative acidity of \r\ncarboxylic acids? \r\n \r\nW) Resonance-stabilized conjugate base  \r\nX) Long O-H bond length \r\nY) Polar covalent O-H bond  \r\nZ) sp2-hybridized carbonyl carbon", 
     "tossupA": "Y) ACETIC ACID", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda65"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 3, 
@@ -216,13 +210,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  The root mean square voltage of a sinusoidal AC coupled circuit \r\nis approximately equal to its maximum value multiplied by which of the following? \r\n \r\nW) 0.5 \r\nX) 0.7 \r\nY) 1.4 \r\nZ) 1.7", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  In one cycle, a heat engine exhausts 3000 joules of heat while \r\nperforming 1500 joules of work. What is its percentage of efficiency to the tenths place?", 
     "tossupA": "X) 0.7", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda66"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,28 +227,15 @@
     "tossupQ": "MATH  Short Answer  If the graph of y = (x \u2013 2)<sup>2</sup> \u2013 3 [y equals open parenthesis x minus 2 \r\nclose parenthesis squared minus three] is translated 5 units up and 2 units to the right, what \r\nis the vertex of the new parabola obtained?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Solve [3x - 2ix = 5] for x in standard a + bi form.", 
     "tossupA": "(4, 2)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda67"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "FLUORINE-19 (ACCEPT: F-19)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  What is the term that describes the temperature at which \r\nferromagnetic materials no longer exhibit spontaneous magnetization?", 
-    "packetNum": 12, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  What isotope will be formed when oxygen-19 undergoes beta \r\nminus decay?", 
-    "tossupA": "CURIE (ACCEPT: CURIE POINT)", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda68"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -261,13 +244,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following types of smog in the boundary \r\nlayer of the atmosphere contains sulfur dioxide? \r\n \r\nW) Oxidizing  \r\nX) Photochemical  \r\nY) Reducing  \r\nZ) Boundary layer", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Glacial striations indicate which of the following? \r\n \r\nW) The absolute age of a glacial event \r\nX) The direction of glacial advancement \r\nY) The direction of glacial retreat \r\nZ) The thickness of the glacier", 
     "tossupA": "Y) REDUCING", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda69"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,28 +261,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the common name of a living species in the order \r\nProboscidea [pro-bos-SID-ee-uh]?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  In which of the following glands do hematopoietic [hi-mat-oh-\r\npoi-EE-tik] stem cells develop into T cells?  \r\n \r\nW) Pineal [PIN-ee-uh] \r\nX) Thymus [THY-muhs] \r\nY) Pituitary [pi-TOO-i-ter-ee] \r\nZ) Adrenal", 
     "tossupA": "ELEPHANTS (ACCEPT: AFRICAN ELEPHANT OR ASIAN ELEPHANT)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda6a"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "THERMAL (ACCEPT: SLOW)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ENERGY  Multiple Choice  What does it mean when a wind generator has a cut-in speed of \r\n3 meters per second? \r\n \r\nW) It won't produce any power unless the wind speed is lower than 3 meters per second \r\nX) It will stop producing power at 3 meters per second to protect itself from breaking \r\nY) It will produce the maximum power at 3 meters per second \r\nZ) It won't produce any power unless the wind speed is higher than 3 meters per second", 
-    "packetNum": 12, 
-    "grade": "HS", 
-    "bonusQ": "ENERGY  Short Answer  Nuclides, such as U-235 and Pu-239, are often used as fuel in \r\nlight water nuclear reactors. These isotopes are considered both fissile and fissionable because \r\nthey are capable of undergoing fission after capturing what type of neutrons?", 
-    "tossupA": "Z) IT WON'T PRODUCE ANY POWER UNLESS THE WIND SPEED IS HIGHER \r\nTHAN 3 METERS PER SECOND", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda6b"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 2, 
@@ -306,13 +278,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following, when added to an aqueous [ay-\r\nKWEE-uhs] sample containing calcium carbonate, would be most likely to produce bubbles? \r\n \r\nW) Hydrogen chloride  \r\nX) Water  \r\nY) Ammonia \r\nZ) Lithium hydroxide", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following sets are all strong electrolytes? \r\n \r\nW) Hydrogen chloride, phosphoric acid, acetic acid \r\nX) Hydrogen chloride, sodium hydroxide, phosphoric acid, potassium hydroxide \r\nY) Hydrogen iodide, hydrogen bromide, lithium hydroxide, nitric acid  \r\nZ) Ammonia, potassium hydroxide, sodium hydroxide, lithium hydroxide", 
     "tossupA": "W) HYDROGEN CHLORIDE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda6c"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 4, 
@@ -321,13 +295,15 @@
     "tossupQ": "MATH  Multiple Choice  For f(x) = x<sup>2</sup> + 2x + 4, which of the following statements is NOT \r\ntrue? \r\n \r\nW) f(x) has a maximum value \r\nX) The graph of f is not a line \r\nY) The graph of f has no x-intercepts \r\nZ) The graph of f has a y-intercept", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  The volume of an open-ended circular cylinder is 32\u03c0 cubic \r\ncentimeters, and its base has a radius of 4 meters. What is the surface area of the cylinder, in \r\nterms of \u03c0 and in square meters?", 
     "tossupA": "W) f(x) HAS A MAXIMUM VALUE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda6d"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,28 +312,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A wire of radius A carries a uniform current I. The total magnetic \r\nenergy per unit length contained within the wire is which of the following? \r\n \r\nW) Proportional to A<sub>2</sub> \r\nX) Proportional to A  \r\nY) Independent of A \r\nZ) Zero", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  The period of a mass bouncing on a spring is measured in the \r\nreference frame of an observer as T. If the system were instead moving past the observer with a \r\nvelocity of 0.8c, which of the following is closest to the period she would observe? \r\n \r\nW) 0.44T \r\nX) 0.6T \r\nY) 1.7T \r\nZ) 1.9T", 
     "tossupA": "Y) INDEPENDENT OF A", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda6e"
     }, 
-    "questionNum": "23"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "24) EARTH AND SPACE  Multiple Choice  The word \u201csolstice\u201d means \u201csunstop.\u201d Which of the \r\nfollowing does this reference? \r\n \r\nW) The Sun\u2019s daily change in declination stops and reverses direction  \r\nX) The Sun literally stops in our sky for a brief but measurable time  \r\nY) The Earth reaches the point where the Sun shines directly on the equator, restarting the solar \r\ncalendar \r\nZ) The ancient belief that the Earth orbited the Sun", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is characteristic of a deep \r\nresidual soil? \r\n \r\nW) Unaltered bedrock \r\nX) An immature soil \r\nY) Soil that has been weathering for a long period of time  \r\nZ) Soil derived from rocks exposed to the hydrosphere and atmosphere", 
-    "packetNum": 12, 
-    "grade": "HS", 
-    "bonusQ": "BONUS \r\n \r\n24)", 
-    "tossupA": "Y) SOIL THAT HAS BEEN WEATHERING FOR A LONG PERIOD OF TIME", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda6f"
-    }, 
-    "questionNum": "24"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -366,12 +329,99 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is NOT a seedless plant? \r\n \r\nW) St. John\u2019s wort \r\nX) Hornwort \r\nY) Whisk fern \r\nZ) Liverwort", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  A Paramecium [par-uh-MEE-see-uhm] lives in fresh water and \r\nhas a contractile vacuole [kuhn-TRAK-tl VAK-yoo-ohl] that allows it to regularly expel excess \r\nwater that enters its cell. Which of the following is correct? \r\n \r\nW) The inside of the cell is hypertonic compared to the outside of the cell, so water enters the \r\ncell through osmosis \r\nX) The inside of the cell is hypotonic to the outside of the cell, so water enters the cell through \r\nosmosis \r\nY) The inside and outside of the cell are isotonic, but water enters the cell as the Paramecium \r\nswims around \r\nZ) The cellular processes of the Paramecium produce a lot of excess water, so it needs to get \r\nrid of the extra water", 
     "tossupA": "W) ST. JOHN'S WORT", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda70"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "a/2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  The molecule chlorine trifluoride has what molecular geometry?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Given a box of length a and a particle of radius b, molecular \r\nweight c, and velocity d, what is the average position of the particle in the box with respect to \r\nlength?", 
+    "tossupA": "T-SHAPED", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda60"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-6/41 + (13/41)i  [DO NOT ACCEPT: (-6 +13i)/41]", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If each side of a rectangle is increased by 10%, by what percentage \r\nis its area increased?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Express  [the quantity 1 plus 2 i divided by the quantity 4 \r\nminus 5 i] in standard a + bi form.", 
+    "tossupA": "21 (ACCEPT: 21%)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda61"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "FLUORINE-19 (ACCEPT: F-19)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the term that describes the temperature at which \r\nferromagnetic materials no longer exhibit spontaneous magnetization?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What isotope will be formed when oxygen-19 undergoes beta \r\nminus decay?", 
+    "tossupA": "CURIE (ACCEPT: CURIE POINT)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda68"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "THERMAL (ACCEPT: SLOW)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  What does it mean when a wind generator has a cut-in speed of \r\n3 meters per second? \r\n \r\nW) It won't produce any power unless the wind speed is lower than 3 meters per second \r\nX) It will stop producing power at 3 meters per second to protect itself from breaking \r\nY) It will produce the maximum power at 3 meters per second \r\nZ) It won't produce any power unless the wind speed is higher than 3 meters per second", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  Nuclides, such as U-235 and Pu-239, are often used as fuel in \r\nlight water nuclear reactors. These isotopes are considered both fissile and fissionable because \r\nthey are capable of undergoing fission after capturing what type of neutrons?", 
+    "tossupA": "Z) IT WON'T PRODUCE ANY POWER UNLESS THE WIND SPEED IS HIGHER \r\nTHAN 3 METERS PER SECOND", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda6b"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "24) EARTH AND SPACE  Multiple Choice  The word \u201csolstice\u201d means \u201csunstop.\u201d Which of the \r\nfollowing does this reference? \r\n \r\nW) The Sun\u2019s daily change in declination stops and reverses direction  \r\nX) The Sun literally stops in our sky for a brief but measurable time  \r\nY) The Earth reaches the point where the Sun shines directly on the equator, restarting the solar \r\ncalendar \r\nZ) The ancient belief that the Earth orbited the Sun", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is characteristic of a deep \r\nresidual soil? \r\n \r\nW) Unaltered bedrock \r\nX) An immature soil \r\nY) Soil that has been weathering for a long period of time  \r\nZ) Soil derived from rocks exposed to the hydrosphere and atmosphere", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BONUS \r\n \r\n24)", 
+    "tossupA": "Y) SOIL THAT HAS BEEN WEATHERING FOR A LONG PERIOD OF TIME", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda6f"
+    }, 
+    "questionNum": 24
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What famous scientific apparatus demonstrated the \r\nEarth\u2019s rotation by integrating the effect of the Coriolis force over a long time period?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following covalent bonds is most polar? \r\n \r\nW) C-N \r\nX) N-O \r\nY) H-F \r\nZ) F-F", 
     "tossupA": "FOUCAULT\u2019S PENDULUM (ACCEPT: PENDULUM)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c9"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -21,13 +23,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following minerals can create \r\nmetamorphic structures known as snowball structures? \r\n \r\nW) Kyanite (read as: KY-ah-nyt) \r\nX) Muscovite (read as: MUHS-koh-vyt) mica \r\nY) Garnet \r\nZ) Talc", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Earth\u2019s most severe extinction event, also \r\ncalled the Great Dying, resulted in the extinction of 96% of marine species and 70% of terrestrial \r\nvertebrate species. This event marks the boundary between what two geological periods?", 
     "tossupA": "Y) GARNET", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ca"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name of the force experienced by a \r\ncharged particle moving through a magnetic field, such that the force is at right angles to both \r\nthe direction in which the particle is moving and the direction of the applied field?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the term used for a compound that contains \r\ncopper in the +2 oxidation state?", 
     "tossupA": "LORENTZ", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1cb"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,28 +57,15 @@
     "tossupQ": "ENERGY Multiple Choice About how many million metric tons of methane do cattle emit into \r\nthe atmosphere per year in the U.S.? \r\n \r\nW) 2.5 \r\nX) 3.5 \r\nY) 4.5 \r\nZ) 5.5", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Cow Power farms in Vermont have more than 500 cows on each \r\nfarm. These farms use the cows\u2019 manure to generate approximately how many kilowatt hours of \r\nelectricity each year? \r\n \r\nW) 3.5 thousand \r\nX) 33 thousand \r\nY) 350 thousand \r\nZ) 3.5 million", 
     "tossupA": "Z) 5.5", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1cc"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "12 AND 48", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the number of distinct diagonals in a regular octagon?", 
-    "packetNum": 12, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer An isosceles trapezoid has sides of length 92 , 92, 30 and y units. \r\nGiven that the two interior base angles measure 45\u00b0, what are all possible values of y in units?", 
-    "tossupA": "20", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1cd"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -81,13 +74,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is the coldest and \r\ndensest water in Earth\u2019s oceans? \r\n \r\nW) Antarctic bottom water \r\nX) North Atlantic deep water \r\nY) Atlantic intermediate water \r\nZ) Arctic water", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice An igneous rock has a porphyritic texture. \r\nWhich of the following does this indicate about the cooling history? \r\n \r\nW) It cooled in stages, at different levels within the crust \r\nX) It cooled rapidly near the surface \r\nY) It cooled on the surface and was quenched \r\nZ) It cooled slowly, at one time, at depth", 
     "tossupA": "W) ANTARCTIC BOTTOM WATER", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ce"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -96,13 +91,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements has the highest first \r\nionization energy? \r\n \r\nW) Sodium \r\nX) Aluminum \r\nY) Phosphorus \r\nZ) Chlorine", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer You lift a book from the floor to a shelf 2 meters above \r\nthe ground. How much power, in watts, did you use if you exerted an upward force of 20 \r\nnewtons in 2 seconds?", 
     "tossupA": "Z) CHLORINE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1cf"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 0, 
@@ -111,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer Bauxite is primarily mined to attain what \r\nnatural resource?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT true about \r\nthe Mars Reconnaissance Orbiter? \r\n \r\nW) The transit time from Earth to Mars was about seven months \r\nX) It has a camera that can spot Martian objects that are as small as a dinner table \r\nY) It discovered carbon dioxide snow falling on Mars \r\nZ) When it is at its closest range to Earth, it can send data to Earth faster than a cable or DSL \r\nhome internet connection", 
     "tossupA": "ALUMINUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d0"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 5, 
@@ -126,13 +125,15 @@
     "tossupQ": "ENERGY Multiple Choice When a reptile is cold, it will do which of the following? \r\n \r\nW) Lie perpendicular to the Sun\u2019s rays \r\nX) Lie parallel to the Sun\u2019s rays \r\nY) Open its mouth wide \r\nZ) Lighten its color", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What is the name of the process that involves the injection of more \r\nthan a million gallons of water, sand, and chemicals at high pressure down and across a \r\nhorizontally drilled well as far as 10,000 feet below the surface, causing the rock layer to crack?", 
     "tossupA": "W) LIE PERPENDICULAR TO THE SUN\u2019S RAYS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d1"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,28 +142,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a reason why a prion is different \r\nfrom a virus? \r\n \r\nW) Viruses are not alive and do not have genomes \r\nX) Viruses are much smaller than prions \r\nY) Prions do not contain nucleic acids \r\nZ) Prions are always enveloped, while only some viruses are", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer It is believed that the reduction of what substance helps \r\ntrigger abscission in plants?", 
     "tossupA": "Y) PRIONS DO NOT CONTAIN NUCLEIC ACIDS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d2"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "17", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the product of the two complex numbers 4 + i and 3 + i?", 
-    "packetNum": 12, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer If the area of a rhombus is 240 square units, and one of the diagonals \r\nmeasures 16 units, what is the length, in units, of a side?", 
-    "tossupA": "11 + 7i", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1d3"
-    }, 
-    "questionNum": "11"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -171,13 +159,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT a characteristic of the bald \r\neagle? \r\n \r\nW) They have both binocular and peripheral vision \r\nX) They only eat animals they capture themselves \r\nY) They are thought to mate for life \r\nZ) They tend to construct their nests near water", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following characteristics suggests that RNA \r\nwas formed before DNA? \r\n \r\nW) DNA is more stable \r\nX) DNA can form longer strands \r\nY) RNA is less stable \r\nZ) RNA has catalytic functions", 
     "tossupA": "X) THEY ONLY EAT ANIMALS THEY CAPTURE THEMSELVES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d4"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 5, 
@@ -186,13 +176,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following water locations would be the best site for \r\nocean thermal energy conversion? \r\n \r\nW) Off the west coast of South America \r\nX) Off the west coast of the United States \r\nY) Off the east coasts of the Philippines \r\nZ) Off the east coast of Africa", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What celestial bodies are the most luminous ever discovered?", 
     "tossupA": "Y) OFF THE EAST COASTS OF THE PHILIPPINES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d5"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -201,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice In which of the following processes does the entropy \r\nof the system decrease? \r\n \r\nW) Melting ice \r\nX) Boiling liquid water \r\nY) Dissolving sodium chloride in water \r\nZ) Precipitating silver chloride", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer By name or number, identify all of the following five \r\nsubstances that are non-amorphous carbon allotropes: 1) diamond, 2) vitreous carbon, 3) \r\nnanofoam, 4) coal, 5) graphite.", 
     "tossupA": "Z) PRECIPITATING SILVER CHLORIDE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d6"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,28 +210,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Respiration is part of the biogeochemical cycle for which of \r\nthe following elements? \r\n \r\nW) Nitrogen \r\nX) Phosphorus \r\nY) Silicon \r\nZ) Carbon", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice In which of the following locations does the Calvin cycle \r\ntake place?  \r\n \r\nW) Inner thylakoid (read as: THY-lah-koyd) membrane \r\nX) Mitochondrial (read as: my-toh-KOHN-dree-ahl) membrane \r\nY) Stroma \r\nZ) Interstitial fluid", 
     "tossupA": "Z) CARBON", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d7"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "16\u03c0", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer The base-six numeral 24 (read as: two-four) is equivalent to what in \r\nbase 10?", 
-    "packetNum": 12, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer If a line segment with endpoints at (0, 0) and (3, 4) in a plane is \r\nrotated around the x-axis, then what is the volume of the resulting figure in cubic units in terms \r\nof \u03c0?", 
-    "tossupA": "16", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1d8"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 6, 
@@ -246,13 +227,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice A pine tree grows in your backyard. With respect to \r\nalternation of generations, the tree itself would be classified as which of the following? \r\n \r\nW) Diploid gametophyte \r\nX) Haploid gametophyte \r\nY) Diploid sporophyte \r\nZ) Haploid sporophyte", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What element, when it enters into the carbon crystal \r\nstructure of a diamond, gives it a blue color?", 
     "tossupA": "Y) DIPLOID SPOROPHYTE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1d9"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -261,13 +244,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Both 30\u00b0 north and 30\u00b0 south latitude are \r\ncharacterized by zones of which of the following? \r\n \r\nW) Surface convergence \r\nX) High pressure \r\nY) Low pressure \r\nZ) Jet streams", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice As ancient seas evaporate, thick layers of \r\nwhich of the following minerals can be formed and later mined for economic use? \r\n \r\nW) Galena (read as: gah-LEE-nah) \r\nX) Halite \r\nY) Quartz \r\nZ) Diamonds", 
     "tossupA": "X) HIGH PRESSURE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1da"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 6, 
@@ -276,13 +261,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT one of the distinct \r\nproperties of water that permits life on Earth? \r\n \r\nW) There is hydrogen bonding among water molecules \r\nX) Most nonpolar substances easily dissolve in it \r\nY) Water has a lower density in the solid phase than the liquid phase \r\nZ) Water exists in all three states of matter at normal temperatures on Earth", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the term for the very long time scales of \r\nchange for Earth\u2019s tilt and orbit?", 
     "tossupA": "X) MOST NONPOLAR SUBSTANCES EASILY DISSOLVE IN IT", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1db"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 1, 
@@ -291,13 +278,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the name of a mat of absorptive filaments in fungus?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name the two types of secondary structures found in \r\nproteins.", 
     "tossupA": "MYCELIUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1dc"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 6, 
@@ -306,13 +295,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT characteristic of a \r\ntypical enzyme? \r\n \r\nW) Enzymes are composed of polypeptides \r\nX) Enzymes catalyze reactions best at very high temperatures \r\nY) Enzymes lower the activation energy of a reaction \r\nZ) Enzymes can exhibit saturation at high substrate levels", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the name of the process in which sediments \r\ncompact under pressure and gradually become solid rock?", 
     "tossupA": "X) ENZYMES CATALYZE REACTIONS BEST AT VERY HIGH TEMPERATURES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1dd"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 4, 
@@ -321,13 +312,15 @@
     "tossupQ": "MATH Multiple Choice The equation x<sup>2</sup> -\u00a03y<sup>2</sup>+ 2x \u00a0- 4y \u00a0- \u00a08 \u00a0= 0 graphs as which of the \r\nfollowing conic sections? \r\n \r\nW) Hyperbola \r\nX) Ellipse \r\nY) Parabola \r\nZ) Circle", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer How many vertical asymptotes does the function \r\n f(x) =(\r\n \r\nx<sup>2</sup> - 2x - 3\r\n)/(x<sup>4</sup> - 13x<sup>2</sup> + 36\r\n) (read as: f of x equals open parenthesis x squared minus 2x minus 3 close \r\nparenthesis over open parenthesis x to the fourth minus 13 x squared plus 36 close \r\nparenthesis) have?", 
     "tossupA": "W) HYPERBOLA", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1de"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +329,66 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Molecules such as molecular nitrogen and \r\nhydrocarbons are able to be liquefied due to what kind of intermolecular forces?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Calculate the impulse, in newton seconds, when an \r\naverage force of 15 newtons is exerted on a 700 kilogram car for 2 seconds.", 
     "tossupA": "VAN DER WAALS (ACCEPT: LONDON DISPERSION)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1df"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12 AND 48", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the number of distinct diagonals in a regular octagon?", 
+    "packetNum": 12, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer An isosceles trapezoid has sides of length 92 , 92, 30 and y units. \r\nGiven that the two interior base angles measure 45\u00b0, what are all possible values of y in units?", 
+    "tossupA": "20", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1cd"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "17", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the product of the two complex numbers 4 + i and 3 + i?", 
+    "packetNum": 12, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the area of a rhombus is 240 square units, and one of the diagonals \r\nmeasures 16 units, what is the length, in units, of a side?", 
+    "tossupA": "11 + 7i", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1d3"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "16\u03c0", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer The base-six numeral 24 (read as: two-four) is equivalent to what in \r\nbase 10?", 
+    "packetNum": 12, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If a line segment with endpoints at (0, 0) and (3, 4) in a plane is \r\nrotated around the x-axis, then what is the volume of the resulting figure in cubic units in terms \r\nof \u03c0?", 
+    "tossupA": "16", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1d8"
+    }, 
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -351,13 +397,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following types of organisms caused the \r\npotato famine in Ireland in the 1800s? \r\n \r\nW) Fungus \r\nX) Bacteria \r\nY) Virus \r\nZ) Protist", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Which group of fungi has never been observed reproducing \r\nsexually?", 
     "tossupA": "Z) PROTIST", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e0"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 6, 
@@ -366,12 +414,14 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following statements is TRUE about \r\ndew, fog, and frost? \r\n \r\nW) It is possible to have dew without fog \r\nX) It is possible to have fog without dew \r\nY) Frost is formed from condensed dew \r\nZ) Frost is formed from condensed fog", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice A weight is pulled by a force over a horizontal \r\nsurface and friction results. Which of the following scenarios would decrease the frictional force? \r\n \r\nW) Increase the force pulling the object \r\nX) Have the force pull at an angle of 0\u00b0 upward \r\nY) Have the force pull at an angle of 20\u00b0 downward \r\nZ) Have the force pull at an angle of 20\u00b0 upward", 
     "tossupA": "W) IT IS POSSIBLE TO HAVE DEW WITHOUT FOG", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e1"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

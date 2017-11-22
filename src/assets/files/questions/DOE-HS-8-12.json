@@ -6,13 +6,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice Which of the following gases has the slowest rate of effusion? \r\n \r\nW) Hydrogen \r\nX) Helium \r\nY) Oxygen \r\nZ) Neon", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer The electrolysis of water is endothermic, requiring 286 kilojoules \r\nof energy to decompose one mole of water at 25\u00b0C. Given that the enthalpy of formation of \r\nhydrogen peroxide is -136 kilojoules per mole, what is the standard enthalpy in kilojoules for the \r\ndecomposition of one mole of hydrogen peroxide into water and oxygen?", 
     "tossupA": "Y) OXYGEN", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0b8"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "BIOLOGY Multiple Choice The arrector pili [pee-LEE] muscle has what function when a \r\nmammal is cold? \r\n \r\nW) Inducing shivering \r\nX) Speeding metabolism \r\nY) Increasing the depth of the air insulation barrier  \r\nZ) Vasoconstriction", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Someone has carelessly tossed several sets of human vertebrae \r\ninto a single box. You are trying to sort out the mess and have counted 20 lumbar, 48 thoracic, \r\nand 26 cervical vertebrae. It\u2019s now clear you are missing some bones. How many bones are you \r\nmissing, and what type of vertebrae are they?  \r\n \r\nW) 4 lumbar \r\nX) 2 thoracic  \r\nY) 2 cervical   \r\nZ) 4 thoracic", 
     "tossupA": "Y) INCREASING THE DEPTH OF THE AIR INSULATION BARRIER", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0b9"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 5, 
@@ -36,13 +40,15 @@
     "tossupQ": "ENERGY Short Answer Indicate, by number, all of the following statements that must be true \r\nfor an object to be in static equilibrium [ee-kwuh-LIB-ree-uhm]: 1) All forces are balanced; 2) \r\nAll torques are balanced; 3) Their pressures are the same.", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice The buildup of heavier elements in the nuclear fusion processes in \r\nstars is limited to elements below what isotope? \r\n \r\nW) Iron-56 \r\nX) Iron-58 \r\nY) Nickel-62 \r\nZ) Lead-82", 
     "tossupA": "1 AND 2", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0ba"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -51,28 +57,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following best describes the accretion \r\nproperties of the supermassive black hole at the center of the Milky Way? \r\n \r\nW) Not accreting a detectable amount of matter \r\nX) Accreting an unusually small amount of matter \r\nY) Accreting an average amount of matter \r\nZ) Accreting an unusually large amount of matter", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following mountain ranges in the state of \r\nOregon is an accreted terrain?  \r\n \r\nW) Wallowa Mountains  \r\nX) Cascade Volcano Range  \r\nY) Steens Mountains \r\nZ) Hart Mountains", 
     "tossupA": "X) ACCRETING AN UNUSUALLY SMALL AMOUNT OF MATTER", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0bb"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "11", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Short Answer How many ways are there to get exactly 25 heads results from 26 \r\nconsecutive fair coin tosses?", 
-    "packetNum": 12, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer A set of three positive consecutive integers has a product 33 times their \r\nsum. What is the largest element in the set?", 
-    "tossupA": "26", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cece0bc"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -81,13 +74,15 @@
     "tossupQ": "BIOLOGY Short Answer Name the type of reproduction in which the eggs hatch inside the \r\nfemale body and the embryo is retained for protection?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer What region of the human brainstem is commonly thought to be \r\nresponsible for the control of cardiac, respiratory, and other autonomic functions and is \r\nconnected to the thalamus via the pons?", 
     "tossupA": "OVOVIVIPARITY (ACCEPT: OVOVIVIPAROUS; DO NOT ACCEPT: VIVIPARY)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0bd"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 2, 
@@ -96,13 +91,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice What choice best describes the type of reaction that is \r\ncatalyzed by lyases [ly-AYS-es]?  \r\n \r\nW) Transfer of functional groups \r\nX) Mediate isomerization [eye-so-muh-ri-ZAY-shuhn]  \r\nY) Addition to double bonds \r\nZ) Formation of bonds with ATP cleavage", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer A neutral coordination compound is composed of a complex ion \r\nbound to a potassium cation [KAT-eye-uhn]. The complex ion contains a central cobalt ion \r\nbound to two ammonia ligands and four chloride ligands. What is the oxidation number of the \r\ncobalt ion?", 
     "tossupA": "Y) ADDITION TO DOUBLE BONDS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0be"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +108,15 @@
     "tossupQ": "PHYSICS Short Answer What is the resistance of a resistor that has a 20 milliampere current \r\nwhen connected across the terminals of a 1.5 volt battery?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice A light ray passes from air (n = 1.00) to the cornea (n = 1.33) of the \r\neye. If the angle of incidence is 30\u00b0, which of the following is true of the angle of refraction? \r\n \r\nW) Less than 30\u00b0 \r\nX) Equal to 30\u00b0 \r\nY) Between 30\u00b0 and 45\u00b0 \r\nZ) Equal to 45\u00b0", 
     "tossupA": "75 OHMS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0bf"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,13 +125,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What is the name of the landform found west of the \r\ncurrent Yellowstone Hotspot that was made as the North American Plate moved southwest over \r\nthe hotspot?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following best approximates the number of \r\nseparate cinder cones located on the flanks of Newberry Volcano? \r\n \r\nW) 4 \r\nX) 40 \r\nY) 400 \r\nZ) 4000", 
     "tossupA": "SNAKE RIVER PLAIN", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c0"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +142,15 @@
     "tossupQ": "BIOLOGY Short Answer Identify the food test used to detect the presence of a reducing \r\nsugar by the addition of a solution containing sodium carbonate, sodium citrate, and copper \r\nsulphate.", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice You are conducting an experiment that involves incubating a \r\nheat-insensitive enzyme with its substrate, while slowly increasing the temperature of the test \r\ntube. The concentration of the substrate is much higher than the concentration of the enzyme. \r\nCan you use the Michaelis-Menten [mi-KAY-lis MEN-tuhn] equation to model the enzyme \r\nkinetics of this reaction, and why or why not?  \r\n \r\nW) Yes, because the conditions are changing \r\nX) No, because the conditions are changing \r\nY) Yes, because the enzyme activity remains unchanged \r\nZ) No, because the enzyme activity remains unchanged", 
     "tossupA": "BENEDICT\u2019S TEST", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c1"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -156,13 +159,15 @@
     "tossupQ": "MATH Multiple Choice If A and B are integers, consider the 2 by 2 matrix with first row 2, A \r\nand second row B, 3. For how many different values of A can the matrix be singular? \r\n \r\nW) 2 \r\nX) 4 \r\nY) 8 \r\nZ) 10", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer If A = 20\u00b0 and B = 25\u00b0 [A equals twenty degrees and B equals \r\ntwenty-five degrees], what is the value of (1 + tanA)(1 + tanB) [open parenthesis one plus \r\ntangent of A close parenthesis times the quantity one plus tangent of B]?", 
     "tossupA": "Y) 8", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c2"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 5, 
@@ -171,13 +176,15 @@
     "tossupQ": "ENERGY Short Answer In the U.S., ethanol is produced by a fermentation process involving \r\ncorn. What is the cool season legume that can be used to produce biodiesel?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer Rank the following light bulb types in terms of luminous efficiency \r\n(that is, watts required to generate the same amount of lumens), from MOST efficient to LEAST \r\nefficient: incandescent, compact fluorescent, halogen, LED.", 
     "tossupA": "SOYBEANS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c3"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 2, 
@@ -186,13 +193,15 @@
     "tossupQ": "CHEMISTRY Short Answer Identify all of the following three techniques that could be used \r\nto determine the size of an unknown compound:  1) affinity chromatography; 2) mass \r\nspectrometry; 3) electron paramagnetic resonance.", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Multiple Choice Which of the following qualitative organic tests is NOT \r\nmatched correctly to a functional group for which it predominantly tests? \r\n \r\nW) Biuret test and amides [by-yuh-RET] \r\nX) Lucas reagent and alcohols \r\nY) Tollens\u2019 reagent and carboxylic acids \r\nZ) Benedict\u2019s test and reducing sugars", 
     "tossupA": "2 (ACCEPT: MASS SPECTROMETRY)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c4"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 1, 
@@ -201,13 +210,15 @@
     "tossupQ": "BIOLOGY Short Answer Sodium dodecyl [duh-DES-uhl] sulfate is a detergent often used to \r\ndissolve molecules. In SDS-PAGE, what type of molecule is SDS used to dissolve?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Beriberi is caused by deficiency in which of the following \r\nvitamins? \r\n  \r\nW) Thiamine [THY-uh-min] \r\nX) Retinol  \r\nY) Ascorbic Acid \r\nZ) Cobalamin [koh-BAL-uh-min]", 
     "tossupA": "PROTEINS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c5"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -216,13 +227,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What is the form of equilibrium [ee-kwuh-LIB-ree-uhm] \r\nbetween pressure and gravity in a stellar interior?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following represents a metasomatic \r\nchange from a protolith? \r\n \r\nW) Granite to phyllite [FIL-yt] \r\nX) Limestone to marble \r\nY) Shale to gneiss [NYS]      \r\nZ) Limestone to skarn", 
     "tossupA": "HYDROSTATIC EQUILIBRIUM (ACCEPT: HYDROSTATIC)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c6"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 5, 
@@ -231,13 +244,15 @@
     "tossupQ": "ENERGY Multiple Choice Catalysts do not get consumed in reactions; however, platinum in \r\nhydrogen fuel cells can become inactive when poisoned by which of the following compounds? \r\n  \r\nW) Nitrogen \r\nX) Hydrogen  \r\nY) Hydrogen peroxide \r\nZ) Carbon monoxide", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following statements is false about photovoltaic \r\ncells?  \r\n \r\nW) N-type silicon is doped with phosphorus \r\nX) Phosphorus gives the silicon a positive character, and the tendency to attract electrons \r\nY) P-type silicon is doped with boron \r\nZ) Boron gives the silicon a positive character, and the tendency to attract electrons", 
     "tossupA": "Z) CARBON MONOXIDE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c7"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 4, 
@@ -246,13 +261,15 @@
     "tossupQ": "MATH Short Answer What is the absolute value of the difference between the sum of the \r\nfirst 2014 even counting numbers and the first 2014 odd counting numbers?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice. If y is a function of x such that dy/dx = x/y [the derivative of y with \r\nrespect to x equals x divided by y] and y(3) = 4 [y of three equals four], then which of the \r\nfollowing equations is true? \r\n \r\nW) x2 + y2 = 25 [x squared plus y squared equals twenty-five] \r\nX) y \u2013 x = 1 [y minus x equals one] \r\nY) y<sup>2</sup> \u2013 x<sup>2</sup> = 49 [y squared minus x squared equals forty-nine] \r\nZ) y<sup>2</sup> \u2013 x<sup>2</sup> = 7 [y squared minus x squared equals seven]", 
     "tossupA": "2014", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c8"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +278,15 @@
     "tossupQ": "PHYSICS Multiple Choice If Z = atomic number and A = mass number, the radius of an \r\napproximately spherical nucleus [NOO-klee-uhs] is proportional to which of the following?  \r\n \r\nW) Z3 \r\nX) A1/3  \r\nY) A3 \r\nZ) Z1/3", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice Light travelling through air strikes a transparent material of index \r\nof refraction n = 2 at an angle of 30\uf0b0 relative to the normal to the surface, and is then refracted \r\nan angle \u03b8 [theta]. What is the value of sin(\u03b8) [sine theta] to two significant figures? \r\n \r\nW) 0.10 \r\nX) 0.25 \r\nY) 0.66 \r\nZ) 1.0", 
     "tossupA": "X) A1/3", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0c9"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,28 +295,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Moths are nocturnal, have a good sense of smell, and are also \r\npollinators of a variety of plant species, many of which have evolved to better suit the needs of \r\ntheir primary pollinators. Which of the following traits would you expect to find in flowers of \r\nmoth-pollinated plants?   \r\n \r\nW) Heavy, musky odors  \r\nX) Dangling flowers   \r\nY) Large, red flowers  \r\nZ) Blue or purple flowers", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice If you lower the intracellular levels of fructose 2, 6 biphosphate, \r\nwhat will happen to the rate of gluconeogenesis [gloo-koh-nee-uh-JEN-uh-sis] and glycolysis \r\n[gly-KOL-uh-sis], respectively?  \r\n \r\nW) Gluconeogenesis speeds up, glycolysis slows down \r\nX) Gluconeogenesis slows down, glycolysis speeds up \r\nY) Gluconeogenesis and glycolysis both slow down \r\nZ) Glycolysis speeds up and gluconeogenesis halts", 
     "tossupA": "W) HEAVY, MUSKY ODORS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0ca"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "Y) [BrF5]-", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY Multiple Choice Which of the following statements concerning chemical \r\nkinetics is NOT true? \r\n \r\nW) Catalysts of a reaction can appear in the reaction\u2019s rate law \r\nX) The reciprocal of concentration versus time will be linear for a first order reaction \r\nY) For a reaction, the equilibrium constant is the forward rate constant over the reverse rate \r\nconstant \r\nZ) The half-life of a zero-th order reaction is proportional to initial concentration of the reactant", 
-    "packetNum": 12, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY Multiple Choice Which of the following species has an unpaired electron, \r\naccording to the VSEPR [ves-per] model? \r\n \r\nW) IF3 [I-F-3] \r\nX) IF5 [I-F-5] \r\nY) [BrF5]- [negative charge on B-R-F-5]  \r\nZ) [BrF3]2- [negative two charge on B-R-F-3]", 
-    "tossupA": "X) THE RECIPROCAL OF CONCENTRATION VERSUS TIME WILL BE LINEAR \r\nFOR A FIRST ORDER REACTION", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cece0cb"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -306,13 +312,15 @@
     "tossupQ": "MATH Multiple Choice In order to find the average size of families in a particular town, a \r\nsurveyor took a simple random sample of individuals and asked each of them how many people \r\nwere in his or her family. Which of the following is TRUE regarding the surveyor\u2019s findings? \r\n \r\nW) The surveyor\u2019s calculated average will likely be greater than the actual average \r\nX) The surveyor\u2019s calculated average will likely be less than the actual average \r\nY) The surveyor\u2019s calculated average will likely be equal to the actual average \r\nZ) It is equally likely that the surveyor\u2019s calculated average will be less than or greater than the \r\nactual average", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Let x = 0.123456789101112...99 [x equal zero point one, two, three, \r\nfour, five, six, seven, eight, nine, one, zero, one, one, one, two, continuing on through \r\nnine, nine], where the decimal digits are obtained by writing the integers 1 through 99 in order.  \r\nWhat digit is in the 99th decimal place? \r\n \r\nW) 3 \r\nX) 4 \r\nY) 5 \r\nZ) 6", 
     "tossupA": "W) THE SURVEYOR\u2019S CALCULATED AVERAGE WILL LIKELY BE GREATER \r\nTHAN THE ACTUAL AVERAGE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0cc"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 3, 
@@ -321,13 +329,49 @@
     "tossupQ": "PHYSICS Short Answer What group of subatomic particles, known to be emitted by the \r\nreactions that take place in the Sun, were recently confirmed to oscillate between three flavors, \r\nexplaining the discrepancy between expected and observed numbers of these particles emitted \r\nby the Sun?", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer An ideal refrigerator absorbs heat at -23 \u030aC and exhausts it at 27 \u030aC. \r\nWhat is its coefficient of performance?", 
     "tossupA": "NEUTRINOS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0cd"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "11", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer How many ways are there to get exactly 25 heads results from 26 \r\nconsecutive fair coin tosses?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A set of three positive consecutive integers has a product 33 times their \r\nsum. What is the largest element in the set?", 
+    "tossupA": "26", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0bc"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Y) [BrF5]-", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following statements concerning chemical \r\nkinetics is NOT true? \r\n \r\nW) Catalysts of a reaction can appear in the reaction\u2019s rate law \r\nX) The reciprocal of concentration versus time will be linear for a first order reaction \r\nY) For a reaction, the equilibrium constant is the forward rate constant over the reverse rate \r\nconstant \r\nZ) The half-life of a zero-th order reaction is proportional to initial concentration of the reactant", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice Which of the following species has an unpaired electron, \r\naccording to the VSEPR [ves-per] model? \r\n \r\nW) IF3 [I-F-3] \r\nX) IF5 [I-F-5] \r\nY) [BrF5]- [negative charge on B-R-F-5]  \r\nZ) [BrF3]2- [negative two charge on B-R-F-3]", 
+    "tossupA": "X) THE RECIPROCAL OF CONCENTRATION VERSUS TIME WILL BE LINEAR \r\nFOR A FIRST ORDER REACTION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0cb"
+    }, 
+    "questionNum": 20
   }, 
   {
     "category": 0, 
@@ -336,12 +380,14 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following minerals are present in pelitic \r\nrocks, resulting from the metamorphism of aluminous sedimentary rocks such as shales and \r\nmudrocks?  \r\n \r\nW) Sphalerite [SFAL-uh-ryt] \r\nX) Calcite \r\nY) Quartz \r\nZ) Garnet", 
     "packetNum": 12, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following best describes cataclastic \r\nmetamorphism?  \r\n \r\nW) Ultrahigh pressures generated by impact with an extra-terrestrial body \r\nX) High temperature alteration accompanied by moderate pressures in the presence of \r\nhydrothermal fluids \r\nY) Mechanical deformation that can result from rocks sliding along a shear zone \r\nZ) Shallow burial with temperatures exceeding 300oC, similar to diagenesis [dy-uh-JEN-uh-sis]", 
     "tossupA": "W) SPHALERITE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece0ce"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
   }
 ]

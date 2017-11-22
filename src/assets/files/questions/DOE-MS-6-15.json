@@ -6,13 +6,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following terms describes the ability of a \r\nmutation in gene X to affect the expression of gene Y? \r\n \r\nW) Pleitropy [play-O-truh-pee] \r\nX) Epistasis \r\nY) Codominance \r\nZ) Incomplete dominance", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer In glaucoma, what liquid substance in the eye is prevented \r\nfrom draining due to blocked ducts?", 
     "tossupA": "X) EPISTASIS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd133"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,13 +23,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the function of the carbon \r\nrod that runs down the center of a dry cell? \r\n \r\nW) To create resistance \r\nX) To keep the chemical paste moist \r\nY) To conduct electrons between materials involved in the chemical reaction \r\nZ) To break a circuit if it overheats", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following ions has the smallest radius? \r\n \r\nW) Lithium ion \r\nX) Beryllium ion \r\nY) Nitride \r\nZ) Fluoride", 
     "tossupA": "Y) TO CONDUCT ELECTRONS BETWEEN MATERIALS INVOLVED IN THE \r\nCHEMICAL REACTION", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd134"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 6, 
@@ -36,13 +40,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice A certain molecule from the human body is broken \r\ndown and is found to contain significant amounts of phosphorus. Which of the following is this \r\nmolecule most likely to be? \r\n \r\nW) A strand of RNA \r\nX) A polypeptide [pol-ee-PEP-tyd] \r\nY) A fatty acid \r\nZ) A glycogen molecule [GLY-kuh-juhn]", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Over the eastern tropical Pacific Ocean during an El \r\nNi\u00f1o event, which of the following changes occur in sea surface temperature and atmospheric \r\npressure? \r\n \r\nW) Sea surface temperature is cooler than average and barometric pressure is lower than \r\naverage \r\nX) Sea surface temperature is warmer than average and barometric pressure is higher than \r\naverage \r\nY) Sea surface temperature is warmer than average and barometric pressure is lower than \r\naverage \r\nZ) Sea surface temperature is cooler than average and barometric pressure is higher than \r\naverage", 
     "tossupA": "W) A STRAND OF RNA", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd135"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -51,28 +57,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following minerals is capable of \r\nscratching garnet? \r\n \r\nW) Gold \r\nX) Corundum \r\nY) Apatite \r\nZ) Pyrite", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What kind of foliated metamorphic rock with a lustrous \r\nsilver-colored and sometimes wrinkled surface is made up of very finely-grained mica [MY-\r\nkuh]?", 
     "tossupA": "X) CORUNDUM", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd136"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "4/7", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the numerical value of 85<sup>2</sup> [85 squared]?", 
-    "packetNum": 15, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Three fair standard dice are rolled. Given that one of the numbers \r\nrolled is even, as a fraction in lowest terms, what is the probability that at least two of them are \r\neven?", 
-    "tossupA": "7225", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd137"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 5, 
@@ -81,13 +74,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following is the typical operating voltage of a fuel \r\ncell? \r\n \r\nW) 0.28 \r\nX) 0.7 \r\nY) 1.4 \r\nZ) 12.5", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer By number, order the following four alkali metal halides from least \r\nto greatest lattice energies: 1) lithium fluoride, 2) sodium chloride, 3) potassium bromide, 4) \r\nrubidium iodide.", 
     "tossupA": "X) 0.7", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd138"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 1, 
@@ -96,13 +91,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following characteristics will NOT help \r\ndistinguish monocots from dicots [DY-kots]? \r\n \r\nW) Number of flower petals \r\nX) Leaf pattern \r\nY) Differences in mesophyll [MEZ-uh-fil] \r\nZ) Vascular bundle anatomy", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following neurotransmitters is NOT generally \r\ninhibitory? \r\n \r\nW) Glutamate \r\nX) GABA \r\nY) Glycine [GLY-seen] \r\nZ) Serotonin", 
     "tossupA": "Y) DIFFERENCES IN MESOPHYLL", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd139"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name of the principle that states that no \r\nmore than two electrons can occupy any one orbital, and that if two electrons occupy the same \r\norbital, then their spins must be paired?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following acids has the smallest dipole \r\nmoment? \r\n \r\nW) Hydroiodic [hy-dro-eye-OD-ik] \r\nX) Hydrobromic \r\nY) Hydrochloric \r\nZ) Hydrofluoric", 
     "tossupA": "PAULI EXCLUSION", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd13a"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 6, 
@@ -126,13 +125,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice A bat is pursuing a moth using echolocation. The \r\nvelocity of the bat is 2 meters per second north, and the velocity of the moth is 1.5 meters per \r\nsecond north. If the bat emits a call at a given frequency, which of the following will happen to \r\nthe frequency of the returning echo? \r\n \r\nW) It will be higher than the sound of the original call \r\nX) It will be the same as the sound of the original call \r\nY) It will be lower than the frequency of the returning call \r\nZ) Such a relationship cannot be determined without knowing the distance between the bat and \r\nthe moth", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Given that hemophilia is a sex-linked trait, in a cross \r\nbetween a man with hemophilia and a female carrier, what percentage of their female offspring \r\nwill be afflicted with hemophilia?", 
     "tossupA": "W) IT WILL BE HIGHER THAN THE SOUND OF THE ORIGINAL CALL", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd13b"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -141,13 +142,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Peridotite [PER-i-doh-tyt] and dunite have which of \r\nthe following compositions? \r\n \r\nW) Felsic \r\nX) Intermediate \r\nY) Ultramafic \r\nZ) Mafic", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following elements is able to escape \r\nEarth\u2019s gravitational field in significant amounts? \r\n \r\nW) Radon \r\nX) Argon \r\nY) Oxygen \r\nZ) Hydrogen", 
     "tossupA": "Y) ULTRAMAFIC", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd13c"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -156,13 +159,15 @@
     "tossupQ": "MATH Short Answer In simplest radical form, what is \u221a42\u221a20 [the square root of 4 over the \r\nquantity 2 times the square root of 20]?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the least common multiple of 20, 24, and 28?", 
     "tossupA": "\u221a510", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd13d"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 5, 
@@ -171,13 +176,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following does the elastic rebound theory describe? \r\n \r\nW) The build up and release of stress during an earthquake \r\nX) The fluctuations in groundwater prior to an earthquake \r\nY) The formation of mountain ranges by successive earthquakes \r\nZ) The strength of an earthquake", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice In which of the following are the term and its description \r\naccurately matched? \r\n \r\nW) Rockfalls \u2013 large blocks of bedrock break off a cliff face and tumble downslope \r\nX) Earthslides \u2013 heavy rainfall saturates the soil, which under the extra weight breaks loose and \r\nbecomes a slurry that takes everything with it \r\nY) Slumps \u2013 masses of soil moving down a slip face, usually the top of the bedrock \r\nZ) Debris flows \u2013 the rotation of a cohesive unit of soil or rock down a slip surface", 
     "tossupA": "W) THE BUILD UP AND RELEASE OF STRESS DURING AN EARTHQUAKE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd13e"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -186,13 +193,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice In a heart transplant patient, which of the following cells \r\ncauses transplant rejection by attacking the heart? \r\n \r\nW) B \r\nX) T \r\nY) Macrophage \r\nZ) Antigen-presenting", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice The process of Gram straining bacteria can be used to \r\nclassify bacteria based on the structure of which of the following organelles? \r\n \r\nW) Cell wall \r\nX) Cell membrane \r\nY) Ribosome [RY-buh-sohm] \r\nZ) Pilus", 
     "tossupA": "X) T", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd13f"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements is NOT true about \r\nthe Novarupa eruption of 1912? \r\n \r\nW) It became the most powerful volcanic eruption of the 20th century \r\nX) It erupted for about 60 hours \r\nY) It created the world\u2019s most extensive ignimbrite [IG-nim-bryt] \r\nZ) It originated at Mount Katmai [KAT-mahy]", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer The gyroradius of a charged particle describes the \r\nradius of the circular motion the particle executes as it gyrates around what?", 
     "tossupA": "Z) IT ORIGINATED AT MOUNT KATMAI", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd140"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +227,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer In the life cycle of a moss, what generation is always \r\ncomposed of a leafy and usually green stage?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Flower color is determined by two alleles, R for red and w for \r\nwhite. Flower color exhibits incomplete dominance, meaning a flower with genotype Rw will be \r\npink in color. If a pink flower and a white flower are crossed, what percentage of the offspring \r\nwill become red?", 
     "tossupA": "GAMETOPHYTE (ACCEPT: 1N)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd141"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,13 +244,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice When an object reaches terminal velocity, the net \r\nforce on the object becomes zero and the object will do which of the following? \r\n \r\nW) Slow down \r\nX) Stop accelerating \r\nY) Speed up \r\nZ) Stop falling", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer How much work in joules is done if a load is pushed \r\nwith 40 newtons of force over a distance of 35 meters?", 
     "tossupA": "X) STOP ACCELERATING", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd142"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -246,13 +261,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Identify all of the following four organisms which may \r\nbe considered benthic during at least part of their lives: 1) snail, 2) dinoflagellates [din-uh-\r\nFLAJ-uh-layts], 3) shark, 4) jellyfish.", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the name of the equation that biologists use to \r\ncalculate the frequencies of alleles in a population?", 
     "tossupA": "1, 2, 4 (ACCEPT: SNAIL, DINOFLAGELLATES, JELLYFISH)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd143"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -261,13 +278,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements is true about the \r\ncrustal magnetic fields of Mars? \r\n \r\nW) They protect the areas near them from space weathering \r\nX) They merge to create a very weak global magnetic field \r\nY) They only cover the polar caps \r\nZ) They only cover craters", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What is the term for the ability, most commonly \r\nobserved in birds, to detect a magnetic field to perceive direction, altitude, or location?", 
     "tossupA": "W) THEY PROTECT THE AREAS NEAR THEM FROM SPACE WEATHERING", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd144"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -276,13 +295,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following lists is NOT the beginning of an arithmetic \r\nsequence? \r\n \r\nW) -1, 0, 1, 2 \r\nX) 3, 5, 7, 9 \r\nY) 3, 6, 12, 24 \r\nZ) 8, 6, 4, 2", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Which of the following real-number functions is continuous at \r\nx = -1? \r\n \r\nW) (x + 1)/(x<sup>3</sup> + 1) [the fraction with numerator x plus 1 and denominator x cubed plus 1] \r\nX) 15/(x + 1) [the fraction with numerator 15 and denominator x plus 1] \r\nY)  (x<sup>2</sup> + 3x +5)/(x<sup>2</sup> + 3x - 4) [the fraction with numerator x squared plus 3 x plus 5 and denominator x \r\nsquared plus 3 x minus 4] \r\nZ) \u221a(x<sup>3</sup>\u22127) [the square root of the quantity x cubed minus 7]", 
     "tossupA": "Y) 3, 6, 12, 24", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd145"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 5, 
@@ -291,13 +312,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following statements is NOT true about Tesla coils? \r\n \r\nW) They take DC current and step it up to extremely high voltages \r\nX) Voltages are discharged in the form of electrical arcs \r\nY) They can create powerful electric fields \r\nZ) Some Tesla coils can wirelessly light up fluorescent lights up to 50 feet away", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer Match the terms conduction, convection, and radiation with the \r\nthree following scenarios: 1) occurs between a stove and a pot; 2) occurs in a microwave oven \r\ncooking your dinner; 3) can cause wind.", 
     "tossupA": "W) THEY TAKE DC CURRENT AND STEP IT UP TO EXTREMELY HIGH \r\nVOLTAGES", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd146"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 1, 
@@ -306,13 +329,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice As an adaptation to arid environments, Crassulacean \r\n[kras-uh-LAY-shuhn] acid metabolizing (CAM) plants open their stomata during the night and \r\nclose them during the day. Which of the following is a CAM plant? \r\n \r\nW) Corn \r\nX) Apple \r\nY) Sugarcane \r\nZ) Pineapple", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What biome generally has the following five characteristics: \r\n1) mild temperatures; 2) abundant precipitation in the fall, winter, and spring; 3) dominant plants \r\nof Douglas fir, Sitka spruce, and Western hemlock; 4) rocky acidic soils; and 5) dominant wildlife \r\nof elk, deer, and bears?", 
     "tossupA": "Z) PINEAPPLE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd147"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 3, 
@@ -321,13 +346,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer To the nearest Kelvin, at what temperature are the \r\nFahrenheit and Celsius temperature scales equal?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice If 90 grams of metal has a volume of 8.7 cubic \r\ncentimeters, which of the following metals is it? \r\n \r\nW) Lead, with a specific gravity of 11.3 \r\nX) Silver, with a specific gravity of 10.3 \r\nY) Nickel, with a specific gravity of 8.9 \r\nZ) Tin, with a specific gravity of 7.3", 
     "tossupA": "233", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd148"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 6, 
@@ -336,13 +363,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer The fact that a plant blooms and sets fruits at the \r\nsame time each year is explained by what process?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following geologic eras contains the \r\ngreatest number of periods? \r\n \r\nW) Mesozoic \r\nX) Paleozoic \r\nY) Cenozoic \r\nZ) Paleoproterozoic", 
     "tossupA": "PHOTOPERIODISM", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd149"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 0, 
@@ -351,13 +380,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following layers within the Earth is \r\nundergoing convection? \r\n \r\nW) Lithosphere \r\nX) Crust \r\nY) Asthenosphere [as-THEN-uh-sfeer] \r\nZ) Inner core", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice In trying to identify an unknown rock, you place a \r\ndrop of hydrochloric acid on the rock and note that it fizzes. Which of the following is likely to be \r\nthe rock? \r\n \r\nW) Granite \r\nX) Pumice \r\nY) Limestone \r\nZ) Schist [SHIST]", 
     "tossupA": "Y) ASTHENOSPHERE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd14a"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 4, 
@@ -366,12 +397,31 @@
     "tossupQ": "MATH Short Answer Artie has quarters and dimes in his pocket. The number of dimes is \r\none more than twice the number of quarters. The probability of randomly picking a quarter from \r\nhis pocket is 14. How many dimes are in his pocket?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer The areas on three sides of a box are 6 square inches, 14 square \r\ninches, and 21 square inches, respectively. What is the volume of the box in cubic inches?", 
     "tossupA": "3", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd14b"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4/7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the numerical value of 85<sup>2</sup> [85 squared]?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Three fair standard dice are rolled. Given that one of the numbers \r\nrolled is even, as a fraction in lowest terms, what is the probability that at least two of them are \r\neven?", 
+    "tossupA": "7225", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd137"
+    }, 
+    "questionNum": 5
   }
 ]

@@ -6,28 +6,15 @@
     "tossupQ": "BIOLOGY  Short Answer  In what part of the chloroplast is carbon fixed during the Calvin \r\ncycle?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Assuming average size, order the following from the smallest to the \r\nlargest:  red blood cell,  Polio virus,  Rickettsia,  Anthrax bacillus", 
     "tossupA": "STROMA", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd55d"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "-191.92  (ACCEPT:  -191 to -192 KILOJOULES) \r\n \r\n(Solution:  \u2206E = \u2206H - P\u2206V;  P\u2206V = (40 atm)(-2L)(101J/L.atm) = -8.08kJ;   \r\n\u2206E  = (-200) \u2013 (-8.08);  = -191.92 kJ)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following four molecules can have both right-\r\nhanded and left-handed forms: \r\n \r\nW)  2-chloro-2-bromobutane \r\nX)  1-chloro-2-bromoethene \r\nY)  trichloromethane \r\nZ)  glycerol", 
-    "packetNum": 16, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  The reaction of 2 chemical substances to make a product that has a \r\nstandard enthalpy of reaction, or \u2206H\u00b0, (read as: delta H naught) of -200 kilojoules.  If the reaction is \r\ncarried out at a constant pressure of 40 atmospheres and the volume change is -2.00 liters, what is \r\nthe total energy change, \u2206E, (read as: delta E) in kilojoules, of the system:", 
-    "tossupA": "W)  2-CHLORO-2-BROMOBUTANE", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd55e"
-    }, 
-    "questionNum": "2"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -36,13 +23,15 @@
     "tossupQ": "PHYSICS  Short Answer  What general theory of science, begun by Max Planck, allows \r\nscientists to quantitatively understand the behavior of atoms, subatomic particles, phases of matter, \r\nand semiconductors:", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Assuming g = 9.8 m/s2 and negligible air resistance, how far, in meters \r\nrounded to the first decimal place, would an object travel after 2 seconds if thrown down vertically, \r\nwith an initial velocity of 4 m/sec from a 100 meter tower?", 
     "tossupA": "QUANTUM THEORY", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd55f"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -51,13 +40,15 @@
     "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is the most likely reason that the \r\nPleiades stars were all formed together: \r\n \r\nW)  they are all the same size, luminosity, and spectral class \r\nX)  they all orbit a common larger neutron star \r\nY)  they are in the region of a black hole \r\nZ)  they are all concentrated in a small region", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  Compute the estimated temperature, in Kelvin, of a stellar body\u2019s \r\nsurface that emits light with a spectrum that peaks at 145 nanometers:", 
     "tossupA": "Z)  THEY ARE ALL CONCENTRATED IN A SMALL REGION", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd560"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 4, 
@@ -66,13 +57,15 @@
     "tossupQ": "MATH  Multiple Choice Which of the following is the expression that defines the hyperbolic \r\nsine function: W) (e<sup>x</sup> - e<sup>-x</sup>)/2 X) (e<sup>x</sup> + e<sup>-x</sup>)/2 Y) 2/(e<sup>x</sup> + e<sup>-x</sup>) Z) 2/(e<sup>x</sup> - e<sup>-x</sup>)", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Calculate the following indefinite integral:  I = \u222b(x+1)<sup>2</sup>dx", 
     "tossupA": "W) (e<sup>x</sup> - e<sup>-x</sup>)/2", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd561"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -81,28 +74,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  In the soil profile, which horizon is know as the zone of \r\naccumulation: \r\n \r\nW)  A-horizon \r\nX)  B-horizon \r\nY)  O-horizon \r\nZ)  E-horizon", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Short Answer  The doldrums are to 0\u00b0 latitude, as the horse latitudes are to \r\nwhat?", 
     "tossupA": "X)  B-HORIZON", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd562"
     }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "W)  THE LONGER THE FOCAL LENGTH, THE NARROWER ITS ANGLE OF \r\nVIEW WILL BE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Short Answer  What is the term for the distance, usually given in \r\nmillimeters, between the optical center of a lens and the point at which rays of light from objects at \r\ninfinity are brought to focus:", 
-    "packetNum": 16, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Multiple Choice  In the single-lens reflex camera, which of the following \r\nis TRUE of focal length of a lens as it pertains to angle of view: \r\n \r\nW)  the longer the focal length, the narrower its angle of view will be \r\nX)  the shorter the focal length, the narrower its angle of view will be \r\nY)  the longer the focal length, the wider its angle of view will be \r\nZ)  the focal length of a lens does not affect the angle of view", 
-    "tossupA": "FOCAL LENGTH", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd563"
-    }, 
-    "questionNum": "7"
+    "questionNum": 6
   }, 
   {
     "category": 7, 
@@ -111,13 +91,15 @@
     "tossupQ": "COMPUTER SCIENCE  Multiple Choice  The ability to create a table in Microsoft Word and \r\nembed it into a section of a spreadsheet created in Excel, is an example of: \r\n \r\nW)  OpenGL \r\nX)  database indexing \r\nY)  OLE \r\nZ)  Direct 3D", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "COMPUTER SCIENCE  Short Answer  What does the acronym OLE stand for?", 
     "tossupA": "Y)  OLE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd564"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 1, 
@@ -126,13 +108,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Animal cell is to gap junction as plant cell is to:", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  In the double reciprocal Lineweaver-Burke plot of enzyme activity, \r\nthe line passes through the ordinate, or the one over V zero, axis at: \r\n \r\nW)  -1/Vmax   (read as: minus one over VEE-max) \r\nX)  Km/Vmax   (read as: Kay M over VEE-max) \r\nY)  Km/V0   (read as: Kay M over VEE-zero) \r\nZ)  1/ Vmax   (read as: one over VEE-max)", 
     "tossupA": "PLASMODESMETA", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd565"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 2, 
@@ -141,13 +125,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  A 2s orbital has 2 regions of maximum probability where \r\nelectrons can be found separated by a spherical surface of 0 probability that is called what?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  A tank contains the following mixture of gases:  14grams \r\ndiatomic H<sub>2</sub>, 56 grams diatomicN<sub>2</sub>, and  8 grams diatomic He<sub>2</sub>.  To the first decimal place, what is \r\nthe mole fraction of each gas in the mixture?", 
     "tossupA": "NODE  (ACCEPT:  NODAL SURFACE)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd566"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,13 +142,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following is TRUE concerning objects moving down \r\nan inclined plane: \r\n \r\nW)  a solid disk will roll faster than a hollow disk regardless of the mass or outer diameter of either \r\ndisk \r\nX)  a hollow disk will roll faster than a solid disk regardless of the mass or outer diameter of either \r\ndisk \r\nY) regardless of the mass or outer diameter of either disk, a solid disk will roll at the same rate as a \r\nhollow cylinder  \r\nZ)  a solid disk will roll slower than a hollow disk of twice the mass and outer diameter of the solid \r\ndisk", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Which two elements did Chadwick primarily produce when he \r\nbombarded N-14 with alpha particles in the first artificial transmutation of atoms?", 
     "tossupA": "W)  A SOLID DISK WILL ROLL FASTER THAN A HOLLOW DISK \r\nREGARDLESS OF THE MASS OR OUTER DIAMETER OF EITHER DISK", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd567"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,13 +159,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  What are probably the only particles emitted by stellar cores \r\nwithout being influenced appreciably by the outermost layers of the stars, and are detected by an \r\ninstrument in the Homestake gold mine?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  In the solar neutrino detector in Lead, South Dakota, when a \r\nneutrino emitted in positron decay in the sun is captured by a Chlorine-37 nucleus, what isotope is \r\nmost likely formed?", 
     "tossupA": "NEUTRINOS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd568"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,13 +176,15 @@
     "tossupQ": "MATH  Multiple Choice  If the cosine \u03b8 = \u00bd (read: \u03b8 as theta) and \u03b8 terminates in Quadrant I of \r\nthe Cartesian coordinate system, in a unit circle find sine \u03b8: W) &radic;3/(2&radic;2) X) 2/&radic;3 Y) (&radic;3)/2 Z) 2&radic;3", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Find the solution set of the following inequality:   x<sup>2</sup> + 4x < 5", 
     "tossupA": "Y) (&radic;3)/2 \r\n(Solution:  r<sup>2</sup> = x<sup>2</sup> + y<sup>2</sup>;  1<sup>2</sup> = (1/2)<sup>2</sup> + y<sup>2</sup>;  y<sup>2</sup> = 3/4;  = &radic;3/2)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd569"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +193,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  In geologic mapping, the angular difference between dip \r\nand strike is: \r\n \r\nW)  45\u00b0 \r\nX)  90\u00b0 \r\nY)  180\u00b0 \r\nZ)  360\u00b0", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Short Answer  What is the name given to the urban microclimate whereby a \r\nregion around a city remains up to several degrees warmer than the surrounding countryside, \r\nespecially on warm, still summer nights?", 
     "tossupA": "X)  90\u00b0", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd56a"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,13 +210,15 @@
     "tossupQ": "GENERAL SCIENCE  Short Answer  During his work in 1892 on the liquefaction of hydrogen, \r\nwhat Scottish chemist invented a double-walled vacuum flask which became widely known and \r\nnamed in his honor?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Short Answer  Order the following metals in terms of their electrical \r\nconductivities from the highest to the lowest:  gold;  silver;  copper;  aluminum", 
     "tossupA": "SIR JAMES DEWAR  (ACCEPT:  DEWAR) \r\n \r\n(Solution:  the Dewar flask)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd56b"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 7, 
@@ -231,13 +227,15 @@
     "tossupQ": "COMPUTER SCIENCE  Multiple Choice  In Java, when a class implements an interface it: \r\n \r\nW)  may or may not choose to implement the methods defined in the interface     \r\nX)  cannot implement any methods with the same signature as those defined in the interface        \r\nY)  must implement all the methods defined in the interface \r\nZ)  designates the user language in the interface", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "COMPUTER SCIENCE  Short Answer  What does the acronym DBCS, a language script that  \r\nrequires two bytes to represent a character, stand for?", 
     "tossupA": "Y)  MUST IMPLEMENT ALL THE METHODS DEFINED IN THE INTERFACE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd56c"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,13 +244,15 @@
     "tossupQ": "BIOLOGY  Short Answer  In many yeasts, what is the major coenzyme used in the conversion \r\nof acetaldehyde to ethanol?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Order the following 4 molecules from the earliest step in glycolysis \r\nto the latest:  [read slowly!]    \r\n3-phosphoglycerate;  1,3-diphosphoglycerate;  glyceraldehyde-3-phosphate;  phosphoenolpyruvate", 
     "tossupA": "NAD  (ACCEPT: NADH, NICOTINAMIDE ADENINE DINUCLEOTIDE)  (DO NOT \r\nACCEPT:  NADP or NADPH)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd56d"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 2, 
@@ -261,13 +261,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  In the equation for Gibbs free energy, if \u2206H (read as: delta H) \r\nis positive and \u2206S (read as: delta S) is negative, then the reaction will occur: \r\n \r\nW)  spontaneously at all temperatures \r\nX)  nonspontaneously at all temperatures \r\nY)  spontaneously only at high temperatures \r\nZ)  spontaneously only at low temperatures", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Order the following 4 monosaccharides from the smallest to the \r\nlargest:  erythrose,  glucose,  dihydroxyacetone,  xylose", 
     "tossupA": "X)  NONSPONTANEOUSLY AT ALL TEMPERATURES", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd56e"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -276,13 +278,15 @@
     "tossupQ": "PHYSICS  Multiple Choice Which law most directly states that a black body is a perfect source \r\nof thermal radiation: \r\n \r\nW)  Carnot\u2019s law \r\nX)  Kirchoff\u2019s law \r\nY)  Planck\u2019s law \r\nZ)  Dirac\u2019s law", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What are the electric charge values for up, down, and strange quarks, \r\nrespectively?", 
     "tossupA": "X)  KIRCHOFF\u2019S LAW", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd56f"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +295,15 @@
     "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following planets cannot come into quadrature \r\nwith Earth: \r\n \r\nW)  Mars \r\nX)  Saturn \r\nY)  Uranus \r\nZ)  Venus", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  Order the following planets from the one with the least number \r\nof known moons to the one with the most:  Saturn,  Neptune,  Mars,  Uranus", 
     "tossupA": "Z)  VENUS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd570"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +312,15 @@
     "tossupQ": "MATH  Short Answer  Assume A and B are the subsets of the universal set that contains 100 \r\nelements.  If the number of elements in set A is 75, and the number of elements in set B is 25, and \r\nthe number of elements in the intersection set of A and B equals 10, then how many elements are in \r\nthe union set of A and B?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Giving your answer in the order of the 1st row followed by the 2nd row \r\nand in lowest common fraction form, find the inverse of the following 2-by-2 matrix: (the 1st row contains the numbers 3 and -1 and the 2nd row contains the numbers -2 and 2)", 
     "tossupA": "90 \r\n \r\n(Solution:  n(A U B) = n(A) + n(B) \u2013 n (A \u2229 B);  = 75 + 25 \u2013 10 = 90)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd571"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +329,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  At present estimates, the Earth\u2019s planetary albedo is \r\nestimated to be: \r\n \r\nW)  30% \r\nX)  40% \r\nY)  50% \r\nZ)  60%", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Short Answer  The branch of geology that deals with the study of the origin, \r\ncomposition, distribution, and ordering of layered sedimentary rocks is called what?", 
     "tossupA": "W)  30%", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd572"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -336,13 +346,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  In a non-oligometric protein, reversible denaturation changes \r\nwhich of the following levels of protein structure: \r\n \r\nW)  primary \r\nX)  amino acid sequence \r\nY)  tertiary \r\nZ)  quaternary", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following structures is NOT properly matched with \r\nits function: \r\n \r\nW)  synovial lining and joint movement \r\nX)  corpus luteum and estrogen secretion \r\nY)  chordae tendonae and connection of bones to muscles \r\nZ)  intercalated disks and cardiac muscle", 
     "tossupA": "Y)  TERTIARY", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd573"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 2, 
@@ -351,13 +363,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  A molecule that has a trigonal bipyramidal molecular geometry \r\nwill have how many charge clouds around its central atom: \r\n \r\nW)  4 \r\nX)  5 \r\nY)  6 \r\nZ)  8", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Using electrophoresis at a pH of 6.0, which two of the following \r\n5 amino acids would move the least remaining at the origin?  arginine,  glutamic acid,  glycine,  \r\nalanine, lysine?", 
     "tossupA": "X)  5", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd574"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 3, 
@@ -366,12 +380,48 @@
     "tossupQ": "PHYSICS  Short Answer  What is the most common name for interactions of high-energy \r\nphotons and atoms that create electrons and positrons, thus providing an example of the conversion \r\nof energy to matter?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Rounded to the nearest whole number in kilometers per hour, what is \r\nthe net ground-speed of a bird flying at 30 kilometers per hour east with a southerly crosswind of 10 \r\nkilometers per hour?", 
     "tossupA": "PAIR PRODUCTION", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd575"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "-191.92  (ACCEPT:  -191 to -192 KILOJOULES) \r\n \r\n(Solution:  \u2206E = \u2206H - P\u2206V;  P\u2206V = (40 atm)(-2L)(101J/L.atm) = -8.08kJ;   \r\n\u2206E  = (-200) \u2013 (-8.08);  = -191.92 kJ)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following four molecules can have both right-\r\nhanded and left-handed forms: \r\n \r\nW)  2-chloro-2-bromobutane \r\nX)  1-chloro-2-bromoethene \r\nY)  trichloromethane \r\nZ)  glycerol", 
+    "packetNum": 16, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  The reaction of 2 chemical substances to make a product that has a \r\nstandard enthalpy of reaction, or \u2206H\u00b0, (read as: delta H naught) of -200 kilojoules.  If the reaction is \r\ncarried out at a constant pressure of 40 atmospheres and the volume change is -2.00 liters, what is \r\nthe total energy change, \u2206E, (read as: delta E) in kilojoules, of the system:", 
+    "tossupA": "W)  2-CHLORO-2-BROMOBUTANE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd55e"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W)  THE LONGER THE FOCAL LENGTH, THE NARROWER ITS ANGLE OF \r\nVIEW WILL BE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  What is the term for the distance, usually given in \r\nmillimeters, between the optical center of a lens and the point at which rays of light from objects at \r\ninfinity are brought to focus:", 
+    "packetNum": 16, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  In the single-lens reflex camera, which of the following \r\nis TRUE of focal length of a lens as it pertains to angle of view: \r\n \r\nW)  the longer the focal length, the narrower its angle of view will be \r\nX)  the shorter the focal length, the narrower its angle of view will be \r\nY)  the longer the focal length, the wider its angle of view will be \r\nZ)  the focal length of a lens does not affect the angle of view", 
+    "tossupA": "FOCAL LENGTH", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd563"
+    }, 
+    "questionNum": 7
   }
 ]

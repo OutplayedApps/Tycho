@@ -6,13 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following terms characterizes DNA \r\nreplication? \r\n \r\nW) Conservative \r\nX) Parallel \r\nY) Dispersive \r\nZ) Semiconservative", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the maximum number of hydrogen bonds that a \r\nmolecule of water can form with neighboring water molecules?", 
     "tossupA": "Z) SEMICONSERVATIVE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b0"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -21,13 +23,15 @@
     "tossupQ": "MATH Short Answer How many x-intercepts are there in the parabola with the equation: \r\ny = 7x<sup>2</sup> + 4x + 12?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the greatest integer less than or equal to log<sub>3</sub> (200)?", 
     "tossupA": "0", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b1"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following BEST describes electrostatic \r\ninduction? \r\n \r\nW) It is caused by the influence of nearby charged objects \r\nX) It occurs between two charged objects \r\nY) It transfers electrons from a charged object to a neutral object \r\nZ) It produces voltage across a conductor by means of a magnetic field", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What two natural amino acids contain sulfur?", 
     "tossupA": "W) IT IS CAUSED BY THE INFLUENCE OF NEARBY CHARGED OBJECTS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b2"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -51,13 +57,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following elements is responsible for \r\nstimulating muscle contractions? \r\n \r\nW) Iron \r\nX) Potassium \r\nY) Calcium \r\nZ) Phosphorus", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice What makes the phosphorus cycle unique from the \r\nnitrogen, carbon, or oxygen cycles? \r\n \r\nW) It does not involve animals \r\nX) It is very short \r\nY) It only occurs in rocks or soils \r\nZ) It does not significantly involve the atmosphere", 
     "tossupA": "Y) CALCIUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b3"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 6, 
@@ -66,28 +74,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following characterizes a muscle fiber? \r\n \r\nW) A multinucleate cell \r\nX) A single nucleus cell \r\nY) A bundle of single nucleus cells \r\nZ) Non-cellular tissue", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer In a tidal river, during which phase or phases of the \r\nMoon will the salt water travel the furthest up river?", 
     "tossupA": "W) A MULTINUCLEATE CELL", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b4"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "CARBON, HYDROGEN, OXYGEN, AND NITROGEN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer In chemistry, what is the term for the settling of \r\nparticles or sediment from a solution, suspension, or mixture onto a pre-existing surface?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer Name the four elements found in all amino acids.", 
-    "tossupA": "DEPOSITION", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1b5"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 1, 
@@ -96,13 +91,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the site where small and large \r\nsubunits of ribosomes (read as: RY-boh-s\u014dems) are assembled? \r\n \r\nW) Nucleolus (read as: n(y)uh-KLEE-oh-lus) \r\nX) Nucleoplasm \r\nY) Golgi (read as: GOHL-jee) body \r\nZ) Nucleus", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the role of DNA ligase in DNA \r\nreplication? \r\n \r\nW) Joining the 3 prime end of the DNA that replaces the primer to the rest of the sequence \r\nX) Unwinding the parental DNA strand \r\nY) Relieving strain caused by over-winding the DNA strand \r\nZ) Synthesis of an RNA primer", 
     "tossupA": "W) NUCLEOLUS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b6"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the lowest atomic number \r\nabove which all elements are synthetic? \r\n \r\nW) 90 \r\nX) 92 \r\nY) 95 \r\nZ) 100", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Assuming that g is 10 meters per second squared and \r\nproviding your answer as a decimal to the nearest tenth, calculate the coefficient of friction for a \r\n50 kilogram box, which experiences a force of 200 newtons of friction. being pulled at a constant \r\nvelocity across a level surface.", 
     "tossupA": "X) 92", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b7"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 5, 
@@ -126,13 +125,15 @@
     "tossupQ": "ENERGY Multiple Choice Assuming the potential difference remains constant, if the \r\nresistance of a circuit is doubled, which of the following will happen to the power dissipation? \r\n \r\nW) It will increase \r\nX) It will be zero \r\nY) It will decrease by a fourth \r\nZ) It will be halved", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer By name or number, rank the following four kinds of coal in \r\nincreasing order of alteration: 1) lignite, 2) bituminous (read as: by-TYUH-mi-nuhs), 3) anthracite \r\n(read as: AN-thrah-syt), 4) sub-bituminous (read as: sub-by-TYUH-mi-nuhs).", 
     "tossupA": "Z) IT WILL BE HALVED", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b8"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,13 +142,15 @@
     "tossupQ": "MATH Short Answer What is the smallest angle of rotational symmetry possible in an \r\nequilateral triangle?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer The graph of the equation y \u00a0= \u00a03x<sup>2</sup> - 2x \u00a0+ \u00a04 is translated 3 units to the \r\nleft and 4 units up. What is the equation of the new graph in standard polynomial form?", 
     "tossupA": "120", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1b9"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -156,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the prevailing wind direction \r\nbetween 9 and 25 degrees north in the trade wind belt of the Pacific Ocean?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer A rock contains a radioactive substance with \r\na half life of 15,000 years. After 87.5% has decayed, how many years have passed?", 
     "tossupA": "EAST NORTHEAST (ACCEPT: NORTHEASTERLY)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ba"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 3, 
@@ -171,13 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following demonstrates Bernoulli\u2019s \r\nprinciple? \r\n \r\nW) Slower-moving fluid causing lower pressure \r\nX) Still fluid causing lower pressure \r\nY) Faster-moving fluid causing higher pressure \r\nZ) Faster-moving fluid causing lower pressure", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer By name or number, identify all of the following three \r\nlongitudinal wave forms that correspond to transverse wave crests and troughs: 1) relaxations, \r\n2) compressions, 3) rarefactions.", 
     "tossupA": "Z) FASTER-MOVING FLUID CAUSING LOWER PRESSURE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1bb"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +193,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Water ice is NOT thought to be present \r\non which of the following celestial bodies? \r\n \r\nW) Mars \r\nX) Venus \r\nY) Earth\u2019s moon \r\nZ) Europa", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer In what geologic eras, respectively, were \r\nthe following three geologic periods: 1) Siderian, 2) Jurassic, 3) Paleogene?", 
     "tossupA": "X) VENUS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1bc"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 5, 
@@ -201,13 +210,15 @@
     "tossupQ": "ENERGY Multiple Choice Transformers are based on the principle of electromagnetic \r\ninduction, stated by which of the following laws? \r\n \r\nW) Faraday\u2019s \r\nX) Ampere\u2019s \r\nY) Biot-Savart\u2019s \r\nZ) Lenz\u2019s", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer If you have a mass of 200 kilograms traveling at a velocity of 3 \r\nmeters per second, what is the kinetic energy of the mass in joules?", 
     "tossupA": "W) FARADAY'S", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1bd"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,28 +227,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following plant cell components is \r\nresponsible for making a connection between the cytoplasm of adjacent cells? \r\n \r\nW) Peroxisome (read as: peh-ROHK-si-s\u014dem) \r\nX) Microfilaments \r\nY) Plasmodesmata (read as: plahz-moh-DEHZ-mah-tah) \r\nZ) Centrosome", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer By number, identify all of the following five characteristics \r\nwhich are TRUE of lancelets: 1) they are filter feeders; 2) they have an open circulatory system; \r\n3) their blood is colorless; 4) they have no heart; 5) they have a tail.", 
     "tossupA": "Y) PLASMODESMATA", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1be"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "42", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Simplify 12 + (25 - &radic;16 )\r\n2\r\n(read as: 12 plus open parenthesis the \r\nsquare root of 25 minus the square root of 16 close parenthesis squared).", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Sam pays $33 each for 47 watches. How many must he sell for $37 \r\neach to begin making a profit?", 
-    "tossupA": "13", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1bf"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 1, 
@@ -246,13 +244,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the term for an invasive malignant tumor that \r\nconsists of transformed epithelial (read as: eh-pi-THEE-lee-ahl) cells?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What structure is created during plant cell mitosis (read as: \r\nmy-T\u014cE-sis) that is NOT present in the splitting of animal cells?", 
     "tossupA": "CARCINOMA (DO NOT ACCEPT: CANCER)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c0"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -261,13 +261,15 @@
     "tossupQ": "ENERGY Short Answer In producing clean coal, sulfur dioxide emissions react with a \r\nmixture of limestone and water in order to produce what substance used in the construction \r\nindustry?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer By name or number, rank the following four states from least to \r\ngreatest in terms of predicted mean annual wind speeds at an altitude of 80 meters: 1) Florida, \r\n2) Nebraska, 3) Maine, 4) Minnesota.", 
     "tossupA": "GYPSUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c1"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,28 +278,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Sea stars belong to which phylum (read as: FY-luhm)?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is typically the most detrimental \r\ntype of point mutation? \r\n \r\nW) Silent mutation \r\nX) Small nucleotide polymorphism \r\nY) Intronic mutation \r\nZ) Frameshift mutation", 
     "tossupA": "ECHINODERMATA", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c2"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "PLAGIOCLASE FELDSPAR", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What major nonsilicate rock-forming mineral \r\nis the primary constituent of limestone?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What is the main mineral component of \r\nGabbro?", 
-    "tossupA": "CALCITE", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1c3"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -306,13 +295,15 @@
     "tossupQ": "MATH Short Answer What is the numerical value of 94 times 86?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A regular hexagon is inscribed in a circle with diameter 16 \r\ncentimeters. What is the perimeter, in centimeters, of the hexagon?", 
     "tossupA": "8084", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c4"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 6, 
@@ -321,13 +312,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following statements is true regarding \r\nthe gravitational force of the Sun on an asteroid that orbits it? \r\n \r\nW) It is not dependent on the mass of the Sun \r\nX) It is not dependent on the mass of the asteroid \r\nY) It is equal and opposite with respect to the gravitational force exerted by the asteroid on the \r\nSun \r\nZ) It is greater than the gravitational force exerted by the asteroid on the Sun", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice A new protein is discovered and scientists have \r\ndeduced its chemical formula. To determine the 3-D shape of the protein, which of the following \r\nwould be the appropriate step to take? \r\n \r\nW) Use computers to determine the 3-D shape based on its amino acid composition \r\nX) Solidify it and use X-ray crystallography \r\nY) Use a microscope to determine its tertiary and quaternary structures \r\nZ) Chemically break up the protein into smaller components to determine the overall structure", 
     "tossupA": "Y) IT IS EQUAL AND OPPOSITE WITH RESPECT TO THE GRAVITATIONAL \r\nFORCE EXERTED BY THE ASTEROID ON THE SUN", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c5"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,13 +329,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer The Yellowstone Volcano is created by \r\nwhat type of anomalously hot volcanic center?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer If when viewing the Moon in the Southern \r\nHemisphere, the crescent's endpoints point toward the observer's right side, what will be the \r\nnext phase of the Moon?", 
     "tossupA": "MANTLE PLUME (ACCEPT: HOT SPOT)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c6"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 6, 
@@ -351,13 +346,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT a major contributor to \r\nocean mixing? \r\n \r\nW) Changes in temperature \r\nX) Heavy rainfall \r\nY) Major storms \r\nZ) Changes in density", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT one of the \r\nsubstituents attached to the asymmetric carbon of an amino acid? \r\n \r\nW) Carboxyl group \r\nX) Carbonyl group \r\nY) Amine group \r\nZ) Hydrogen atom", 
     "tossupA": "X) HEAVY RAINFALL", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c7"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 3, 
@@ -366,12 +363,65 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer With respect to atomic orbitals, what is the maximum \r\nnumber of electrons in the second energy level?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following best describes the law of \r\nmultiple proportions? \r\n \r\nW) When two pure substances react to form a compound, they do so in a definite proportion by \r\nmass \r\nX) When two substances react with each other to form a compound, they do so in multiple \r\nproportions according to their mass \r\nY) When one element can combine with another to form more than one compound, the mass \r\nratios of the elements in the compounds are simple whole-number ratios of each other \r\nZ) There is no change in total mass during a chemical change", 
     "tossupA": "8", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1c8"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "CARBON, HYDROGEN, OXYGEN, AND NITROGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer In chemistry, what is the term for the settling of \r\nparticles or sediment from a solution, suspension, or mixture onto a pre-existing surface?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Name the four elements found in all amino acids.", 
+    "tossupA": "DEPOSITION", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1b5"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "42", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Simplify 12 + (25 - &radic;16 )\r\n2\r\n(read as: 12 plus open parenthesis the \r\nsquare root of 25 minus the square root of 16 close parenthesis squared).", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Sam pays $33 each for 47 watches. How many must he sell for $37 \r\neach to begin making a profit?", 
+    "tossupA": "13", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1bf"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "PLAGIOCLASE FELDSPAR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What major nonsilicate rock-forming mineral \r\nis the primary constituent of limestone?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What is the main mineral component of \r\nGabbro?", 
+    "tossupA": "CALCITE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1c3"
+    }, 
+    "questionNum": 20
   }
 ]

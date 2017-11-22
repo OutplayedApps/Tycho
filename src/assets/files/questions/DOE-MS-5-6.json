@@ -6,58 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following best explains why it is possible \r\nto find nuggets of pure gold and silver in nature, but sodium appears only in compounds? \r\n \r\nW) Gold and silver are denser than sodium \r\nX) Gold and silver are less reactive than sodium \r\nY) Gold and silver are less common than sodium \r\nZ) Gold and silver are solids at room temperature", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer An object has a mass of 3 kilograms and a force \r\naccelerates the object from rest to a speed of 4 meters per second over a distance of 2 meters. \r\nWhat is the work done in joules by this force?", 
     "tossupA": "X) GOLD AND SILVER ARE LESS REACTIVE THAN SODIUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdfa"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "27 AND 29", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Which of the following is the least volume? \r\n \r\nW) 1.9 pints \r\nX) 3.5 cups \r\nY) 1 quart \r\nZ) 1/3 of a gallon", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer What are two consecutive positive odd integers whose product is 783?", 
-    "tossupA": "X) 3.5 CUPS", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccdfb"
-    }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "600", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer What early scientific instrument was used to determine \r\nif an object was carrying an electric charge?", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What volume, in milliliters, of a 10 molar hydrochloric \r\nacid stock solution is needed to make 2 liters of a 3 molar hydrochloric acid solution?", 
-    "tossupA": "ELECTROSCOPE", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccdfc"
-    }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "GALL AND URINARY", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is an example of a monotreme (read \r\nas: MOH-noh-treem)? \r\n \r\nW) Hedge-hog \r\nX) Platypus (read as: PLAH-ti-puhs) \r\nY) Anteater \r\nZ) Wombat", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What are the two types of bladders in the human body?", 
-    "tossupA": "X) PLATYPUS", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccdfd"
-    }, 
-    "questionNum": "4"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -66,13 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the most common type of cloud formed when \r\nwarm air rises and reaches a level of cool air, where the moisture in the air cools and \r\ncondenses?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer A chemical is added to a cell that prevents endocytosis \r\n(read as: EHN-doh-sy-T\u014cE-sis) but does not prevent exocytosis (read as: ehk-s\u014de -sy-T\u014cE-sis). \r\nAs a result, what would be expected to happen to the volume of the cell over time?", 
     "tossupA": "CUMULUS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdfe"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -81,13 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following pairs of elements are liquid at \r\nroom temperature? \r\n \r\nW) Mercury and cesium \r\nX) Bromine and cesium \r\nY) Mercury and gallium \r\nZ) Mercury and bromine", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer The half-life of francium-212 is 19 minutes. How many \r\nminutes will it take for 1 gram of this isotope to decay to 0.125 grams?", 
     "tossupA": "Z) MERCURY AND BROMINE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdff"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +57,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer The presence of clays on the surface of Mars \r\nstrongly suggests the past presence of what substance?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer You look at a thin section of a sedimentary \r\nrock composed of quartz, plagioclase (read as: PLAY-jee-oh-klays), and amphibole (read as: \r\nAHM(P)-fi-b\u014del) grains surrounded by calcite cement. Which of those minerals formed last?", 
     "tossupA": "LIQUID WATER (ACCEPT: WATER)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce00"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What two monosaccharides make the disaccharide \r\n(read as: dy-SAH-keh-ryd) sucrose?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer By number, identify all of the following three statements \r\nthat are TRUE about catalysts: 1) they change the rate of the reaction, 2) they change the \r\nchemical equilibrium of the reaction, 3) they decrease the activation energy.", 
     "tossupA": "FRUCTOSE AND GLUCOSE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce01"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 5, 
@@ -126,13 +91,15 @@
     "tossupQ": "ENERGY Multiple Choice Relative to conventional sources, such as liquid oil and natural \r\ngas, combustion of biomass for heat and electricity does NOT create more of which of the \r\nfollowing? \r\n \r\nW) Greenhouse gases \r\nX) Particulates \r\nY) Polyaromatic hydrocarbons \r\nZ) Dioxins", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What are the names of three processes through which thermal \r\nenergy can be transferred?", 
     "tossupA": "W) GREENHOUSE GASES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce02"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,13 +108,15 @@
     "tossupQ": "MATH Short Answer If the area of rhombus ABCD is 78 square centimeters and the \r\naltitude to the base CD is 7.5 centimeters, to the nearest integer, what is the length in \r\ncentimeters of a side of the rhombus?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A juice container in the shape of a rectangular prism has a base of 7 \r\ninches by 5 inches. Given that there are 231 cubic inches in one gallon, and providing your \r\nanswer to the nearest integer, how tall, in inches, must the container be to hold 6 gallons of \r\njuice?", 
     "tossupA": "10", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce03"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -156,28 +125,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following nutrients is most \r\nlikely to benefit photosynthesizers in an upwelling region? \r\n \r\nW) Iron \r\nX) Oxygen \r\nY) Nitrate \r\nZ) Magnesium", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following structures weakens \r\nrock, sometimes causing landslides? \r\n \r\nW) Bedding plane \r\nX) Concretions \r\nY) Inselburg \r\nZ) Mudcracks", 
     "tossupA": "Y) NITRATE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce04"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "TRANSITION METALS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A precipitation reaction is used to make which of the \r\nfollowing? \r\n \r\nW) Fudge \r\nX) Pickles \r\nY) Poached eggs \r\nZ) Cornstarch gravy", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer To which section of the periodic table does rhodium \r\nbelong?", 
-    "tossupA": "W) FUDGE", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecce05"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -186,13 +142,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following types of drainage is \r\nformed as streams flow toward a central depression? \r\n \r\nW) Rectangular \r\nX) Dendritic \r\nY) Centripetal \r\nZ) Radial", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What modern scientific instrument is \r\ntypically used to measure wind direction and speed?", 
     "tossupA": "Y) CENTRIPETAL", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce06"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 5, 
@@ -201,13 +159,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following is the fastest growing source of energy in \r\nthe world since 1990? \r\n \r\nW) Solar \r\nX) Geothermal \r\nY) Wind \r\nZ) Biofuel", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer By number, identify all of the following four choices that are TRUE \r\nof exergonic reactions: 1) they release energy, 2) they are spontaneous, 3) they have an \r\nequilibrium constant greater than one, 4) they can be coupled to endergonic reactions.", 
     "tossupA": "Y) WIND", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce07"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +176,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice During which of the following parts of mitosis do \r\nkinetochores (read as: ki-NEH-toh-kohrs) begin to mature and attach to the spindles? \r\n \r\nW) Prophase \r\nX) Metaphase \r\nY) Anaphase \r\nZ) Telophase", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What stage of cellular respiration ends with the production of \r\npyruvate (read as: py-RUH-vayt)?", 
     "tossupA": "W) PROPHASE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce08"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +193,15 @@
     "tossupQ": "MATH Short Answer As a fraction in simplest form, what is the slope of the line that \r\ncontains the points (2, 3) and (-2, 6)?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer It takes 11,600 pecans stacked end-to-end to reach the top of the \r\nEmpire State Building, which is 1,250 feet tall. To the nearest integer, how many whole pecans \r\nwould be needed to reach the height of the Statue of Liberty at 150 feet?", 
     "tossupA": "-3/4", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce09"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,28 +210,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer A person with lactose intolerance most likely lacks which \r\nenzyme?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Glycine max, the species of soybean humans use for food, \r\nenergy, and manufacturing, has a symbiotic relationship with soil bacteria called rhizobia. The \r\nsoybean produces nodules where the rhizobia colonize and convert nitrogen gas into useable \r\nnitrogen for the plant. What type of symbiotic relationship does this represent?", 
     "tossupA": "LACTASE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce0a"
     }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "Z) UNLIGHTED TOWERS WITH A HEIGHT LESS THAN 199 FEET", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Multiple Choice Which of the following would be the most appropriate for \r\nproviding power for water pumping? \r\n \r\nW) Stand alone wind turbine \r\nX) Wind turbine connected to a utility power grid \r\nY) Wind turbine combined with a photovoltaic system \r\nZ) Wind plant", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Multiple Choice According to the U.S. Fish and Wildlife Service, construction of \r\ncommunications towers may negatively impact migratory birds. Which of the following is LEAST \r\ndangerous to migrating birds ?  \r\n \r\nW) Lighted towers with a height greater than 199 feet \r\nX) Unlighted towers with a height greater than 199 feet \r\nY) Lighted towers with a height less than 199 feet \r\nZ) Unlighted towers with a height less than 199 feet", 
-    "tossupA": "W) STAND ALONE WIND TURBINE", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecce0b"
-    }, 
-    "questionNum": "18"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -276,13 +227,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the term for the difference in electrical \r\npotential between the anode and cathode of a galvanic cell?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer A radio wave has a frequency of 100 megahertz. \r\nProviding your answer in scientific notation with two significant digits, what is its period in \r\nseconds?", 
     "tossupA": "CELL VOLTAGE (ACCEPT: VOLTAGE)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce0c"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 1, 
@@ -291,13 +244,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the general term that describes the ability of an \r\norganism to maintain a stable internal condition?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice The first evidence that nitrogen-fixing bacteria populations \r\nhave become too low in a terrestrial biome would be a decline in which of the following \r\npopulations? \r\n \r\nW) Decomposer \r\nX) Second-order consumer \r\nY) First-order consumer \r\nZ) Producer", 
     "tossupA": "HOMEOSTASIS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce0d"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +261,15 @@
     "tossupQ": "MATH Short Answer Evaluate the complex expression (3i)<sup>2</sup> (the quantity 3 i squared) .", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Solve the following inequality: 4 \u2013 x < 6 + 3x.", 
     "tossupA": "-9", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce0e"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 6, 
@@ -321,13 +278,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following organisms does NOT have an \r\nexternal bilaterally symmetric body plan? \r\n \r\nW) Lobster \r\nX) Human \r\nY) Sea star \r\nZ) Whale", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer By name or number, identify all of the following five \r\nplants that are examples of invasive species in the United States: 1) multiflora rosa, 2) tree-of-\r\nheaven, 3) kudzu, 4) air potato, 5) musk thistle.", 
     "tossupA": "Y) SEA STAR", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce0f"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,13 +295,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following minerals has a \r\ncubic, or isometric, crystal system? \r\n \r\nW) Quartz \r\nX) Pyrite (read as: PY-ryt) \r\nY) Gypsum \r\nZ) Muscovite (read as: MUHS-koh-vyt) mica", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following materials has a \r\nMoh\u2019s hardness between 3 and 4? \r\n \r\nW) Apatite \r\nX) Wire nail \r\nY) Fingernail \r\nZ) Copper penny", 
     "tossupA": "X) PYRITE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce10"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 6, 
@@ -351,13 +312,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the most important \r\nobservable difference between primary and secondary earthquake waves? \r\n \r\nW) Speed of travel \r\nX) Place of origin \r\nY) Strength of impact \r\nZ) Size of wave", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What device, sometimes found in voltmeters and \r\nammeters, measures current with a small electromagnet and needle on a pivot between the \r\npoles of a permanent magnet?", 
     "tossupA": "W) SPEED OF TRAVEL", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce11"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 0, 
@@ -366,12 +329,99 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice On a topographic map, you see a feature \r\nrepresented by a set of concentric circles. The outermost circle is labeled 1,000, and the \r\ninnermost circle is labeled 1,300. You are most likely looking at which of the following features? \r\n \r\nW) Cliff \r\nX) River \r\nY) Basin \r\nZ) Hill", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following types of stress is \r\nfound in spreading environments such as the East African Rift? \r\n \r\nW) Compression \r\nX) Tension \r\nY) Shear \r\nZ) Rotational", 
     "tossupA": "Z) HILL", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce12"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "27 AND 29", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is the least volume? \r\n \r\nW) 1.9 pints \r\nX) 3.5 cups \r\nY) 1 quart \r\nZ) 1/3 of a gallon", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What are two consecutive positive odd integers whose product is 783?", 
+    "tossupA": "X) 3.5 CUPS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccdfb"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "600", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What early scientific instrument was used to determine \r\nif an object was carrying an electric charge?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What volume, in milliliters, of a 10 molar hydrochloric \r\nacid stock solution is needed to make 2 liters of a 3 molar hydrochloric acid solution?", 
+    "tossupA": "ELECTROSCOPE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccdfc"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GALL AND URINARY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is an example of a monotreme (read \r\nas: MOH-noh-treem)? \r\n \r\nW) Hedge-hog \r\nX) Platypus (read as: PLAH-ti-puhs) \r\nY) Anteater \r\nZ) Wombat", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What are the two types of bladders in the human body?", 
+    "tossupA": "X) PLATYPUS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccdfd"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "TRANSITION METALS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A precipitation reaction is used to make which of the \r\nfollowing? \r\n \r\nW) Fudge \r\nX) Pickles \r\nY) Poached eggs \r\nZ) Cornstarch gravy", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer To which section of the periodic table does rhodium \r\nbelong?", 
+    "tossupA": "W) FUDGE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce05"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) UNLIGHTED TOWERS WITH A HEIGHT LESS THAN 199 FEET", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following would be the most appropriate for \r\nproviding power for water pumping? \r\n \r\nW) Stand alone wind turbine \r\nX) Wind turbine connected to a utility power grid \r\nY) Wind turbine combined with a photovoltaic system \r\nZ) Wind plant", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice According to the U.S. Fish and Wildlife Service, construction of \r\ncommunications towers may negatively impact migratory birds. Which of the following is LEAST \r\ndangerous to migrating birds ?  \r\n \r\nW) Lighted towers with a height greater than 199 feet \r\nX) Unlighted towers with a height greater than 199 feet \r\nY) Lighted towers with a height less than 199 feet \r\nZ) Unlighted towers with a height less than 199 feet", 
+    "tossupA": "W) STAND ALONE WIND TURBINE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce0b"
+    }, 
+    "questionNum": 18
   }
 ]

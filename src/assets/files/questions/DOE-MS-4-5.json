@@ -6,28 +6,15 @@
     "tossupQ": "MATH Short Answer You are given three oranges. You then double the original number of \r\noranges twice. What is the resulting number of oranges?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Which of the following statements about squares is NOT true? \r\n \r\nW) A square is a rectangle \r\nX) A square is a parallelogram \r\nY) A square is a rhombus \r\nZ) A square\u2019s diagonals are equal to its side lengths", 
     "tossupA": "12", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc83"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "SMOOTH", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What process can be described as \u201cdescent with \r\nmodification\u201d, suggesting that all life on Earth shares a common ancestor that gave rise to the \r\nfantastic diversity we see today?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What type of muscle is the intestine?", 
-    "tossupA": "EVOLUTION", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccc84"
-    }, 
-    "questionNum": "2"
+    "questionNum": 1
   }, 
   {
     "category": 5, 
@@ -36,43 +23,15 @@
     "tossupQ": "ENERGY Multiple Choice Gravitational potential energy in an object can be increased or \r\ndecreased by changing which of the following? \r\n \r\nW) Speed of its movement \r\nX) Height that the object is lifted \r\nY) Acceleration \r\nZ) Momentum", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer The energy from heat can be transferred in any of three ways. \r\nName these three ways.", 
     "tossupA": "X) HEIGHT THAT THE OBJECT IS LIFTED", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc85"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "THE PACIFIC OCEAN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the name of the climate phenomena \r\nthat exhibits conditions opposite to those of an El Ni\u00f1o?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer El Ni\u00f1o and La Ni\u00f1a conditions are a result of \r\nsurface temperature anomalies in which ocean basin?", 
-    "tossupA": "LA NI\u00d1A", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccc86"
-    }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "4/5", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Evaluate: |4 \u2013 (-8)| (read as: open absolute value, 4 minus negative 8, \r\nclose absolute value).", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer As a fraction in simplest form, what is the slope of the line through the \r\npoints (2, 5) and (7, 9)?", 
-    "tossupA": "12", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccc87"
-    }, 
-    "questionNum": "5"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -81,13 +40,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Liver tissue in a monkey would be expected to be \r\nstructurally most similar to which of the following tissues? \r\n \r\nW) Monkey brain \r\nX) Ape kidney \r\nY) Human liver \r\nZ) Dog liver", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice What characteristic is most likely to identify two organisms \r\nas the same species? \r\n \r\nW) All of their physical characteristics are very similar \r\nX) They fill the same role in the ecosystem \r\nY) They are of similar size and shape \r\nZ) Mating produces fertile offspring", 
     "tossupA": "Y) HUMAN LIVER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc88"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 6, 
@@ -96,13 +57,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Contrary to popular belief, there were several inventors \r\nwho contributed to the development of the light bulb. Name two.", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Thomas Edison improved upon a 50-year-old idea of \r\nelectric light, inventing an electric lighting system that contained all the elements necessary to \r\nmake incandescent light practical, safe, and economical. Which of the following was NOT \r\nincluded in his inventions? \r\n \r\nW) Parallel circuit \r\nX) Safety fuse \r\nY) Light socket with on and off switches \r\nZ) Electric generator", 
     "tossupA": "(ACCEPT TWO) DAVY, DE LA RUE, EDISON, SWAN, LATIMER, BRUSH, \r\nWHITNEY, COOLIDGE, LINDSAY, SHEPARD, EVANS, STARR, DeMOLEYNS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc89"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 0, 
@@ -111,28 +74,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer In the Appalachian Mountains, canaries were \r\nhistorically used to assess air quality while people extracted a commonly found energy-\r\nproducing mineral resource. Name this resource.", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer The Appalachian Mountains stretch from \r\nNewfoundland in the north to which two states in the south?", 
     "tossupA": "COAL (ACCEPT: ANTHRACITE OR BITUMINOUS COAL)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc8a"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "76", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer List all positive integer factors of 12.", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer What would the outer perimeter be in inches of a picture frame that is \r\ntwo inches wider all the way around a picture that measures 12 inches by 18 inches?", 
-    "tossupA": "1, 2, 3, 4, 6, AND 12", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccc8b"
-    }, 
-    "questionNum": "9"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -141,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice What type of feature would you least \r\nexpect to find in an arid environment? \r\n \r\nW) Dunes \r\nX) Evaporites \r\nY) Point bar \r\nZ) Alluvial fan", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What is the general term for the alteration of \r\nland to desert-like conditions as the result of human activities?", 
     "tossupA": "Y) POINT BAR", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc8c"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,28 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice All liquids are: \r\n \r\nW) Resistant to compression \r\nX) Highly viscous \r\nY) Unable to accommodate the size of their containers \r\nZ) At a state of higher kinetic energy than any solids", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What are the three states of matter that are fluids?", 
     "tossupA": "W) RESISTANT TO COMPRESSION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc8d"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "357,000,000", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer What is the surface area of a sphere with radius r?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer The surface area of the Earth is 510,000,000 square \r\nkilometers. If 30% of the Earth's surface is land mass, how many square kilometers are covered \r\nin water?", 
-    "tossupA": "4 \u03c0 r\r\n2\r\n (read as: 4 pi r squared)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccc8e"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 1, 
@@ -186,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice If you touched a crawfish, you would notice that its body is \r\nhard. That is because the crawfish: \r\n \r\nW) Is an echinoderm \r\nX) Has an exoskeleton \r\nY) Has an endoskeleton \r\nZ) Is an coelenterate", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice In eukaryotic cells, where does cellular respiration take \r\nplace? \r\n \r\nW) Nucleus \r\nX) Endoplasmic reticulum (read as: ri-TI-kyuh-luhm) \r\nY) Ribosome (read as: RY-boh-s\u014dem) \r\nZ) Mitochondria (read as: my-toh-KOHN-dree-ah)", 
     "tossupA": "X) HAS AN EXOSKELETON", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc8f"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +142,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What geologic feature gives the Ring of Fire \r\nits name?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What is the primary component of Saturn\u2019s \r\nrings?", 
     "tossupA": "VOLCANOES", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc90"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer List these terms in order of magnitude from smallest to \r\nlargest: organ, tissue, cell, and organ systems.", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT an example of an \r\norgan system?  \r\n \r\nW) Muscular \r\nX) Endocrine (read as: ehn-D\u014cER-hik) \r\nY) Bone \r\nZ) Digestive", 
     "tossupA": "CELL, TISSUE, ORGAN, AND ORGAN SYSTEM", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc91"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 5, 
@@ -231,13 +176,15 @@
     "tossupQ": "ENERGY Short Answer Kilowatt hours are typically used as a measure of which form of \r\nenergy?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following is NOT true about mechanical energy? \r\n \r\nW) Mechanical energy represents the sum of an object\u2019s kinetic and potential energies in a \r\nmechanical system \r\nX) Mechanical energy possesses energy stored in fuel \r\nY) Objects possess mechanical energy if they are in motion \r\nZ) An object that possesses mechanical energy is able to do work", 
     "tossupA": "ELECTRIC", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc92"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -246,13 +193,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following best describes the range in \r\nnanometers of wavelength for visible light? \r\n \r\nW) 240-630 \r\nX) 380-720 \r\nY) 430-1160 \r\nZ) 510-1090", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Of the following colors, which one has the longest \r\nwavelength? \r\n \r\nW) Orange \r\nX) Blue \r\nY) Yellow \r\nZ) Green", 
     "tossupA": "X) 380-720", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc93"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,28 +210,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a simple machine?  \r\n \r\nW) Pulley \r\nX) Wedge \r\nY) Inclined plane \r\nZ) Gear", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice If you travel toward a loudspeaker playing a sound \r\nat 500 hertz, which of the following may be the frequency of sound you hear, in hertz? \r\n \r\nW) 50 \r\nX) 100 \r\nY) 500 \r\nZ) 600", 
     "tossupA": "Z) GEAR", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc94"
     }, 
-    "questionNum": "18"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "W) LIMESTONE IS A CARBONATE ROCK CONTAINING ONLY CALCIUM, WHILE \r\nDOLOMITE CONTAINS BOTH CALCIUM AND MAGNESIUM", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer Marble is the metamorphic product of which \r\nsedimentary rock?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Chemically, what is the difference \r\nbetween limestone and dolomite? \r\n \r\nW) Limestone is a carbonate rock containing only calcium, while dolomite contains both calcium \r\nand magnesium \r\nX) Limestone is a carbonate rock containing only magnesium, while dolomite contains only \r\ncalcium \r\nY) Limestone is a carbonate rock containing both calcium and magnesium, while dolomite \r\ncontains only calcium \r\nZ) Limestone is a carbonate rock containing only calcium, while dolomite contains only \r\nmagnesium", 
-    "tossupA": "LIMESTONE (ACCEPT: ANY CARBONATE ROCK, CALCITE, OR DOLOMITE)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccc95"
-    }, 
-    "questionNum": "19"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -291,13 +227,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is NOT a rational number? \r\n \r\nW) -1.5 \r\nX) 0 \r\nY) 1/3 \r\nZ) \r\n2", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Which of the following statements is correct? \r\n \r\nW) A triangle can be both acute and equilateral \r\nX) A triangle can be both right and obtuse \r\nY) A triangle can be both acute and right \r\nZ) A triangle can be both equilateral and right", 
     "tossupA": "Z) \r\n2", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc96"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -306,13 +244,117 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the process by which heat spreads through a \r\nfree vacuum?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following reactions always releases \r\nheat? \r\n \r\nW) Spontaneous \r\nX) Endothermic \r\nY) Decomposition \r\nZ) Exothermic", 
     "tossupA": "RADIATION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc97"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SMOOTH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What process can be described as \u201cdescent with \r\nmodification\u201d, suggesting that all life on Earth shares a common ancestor that gave rise to the \r\nfantastic diversity we see today?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What type of muscle is the intestine?", 
+    "tossupA": "EVOLUTION", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc84"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "THE PACIFIC OCEAN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the name of the climate phenomena \r\nthat exhibits conditions opposite to those of an El Ni\u00f1o?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer El Ni\u00f1o and La Ni\u00f1a conditions are a result of \r\nsurface temperature anomalies in which ocean basin?", 
+    "tossupA": "LA NI\u00d1A", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc86"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4/5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate: |4 \u2013 (-8)| (read as: open absolute value, 4 minus negative 8, \r\nclose absolute value).", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer As a fraction in simplest form, what is the slope of the line through the \r\npoints (2, 5) and (7, 9)?", 
+    "tossupA": "12", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc87"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "76", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer List all positive integer factors of 12.", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What would the outer perimeter be in inches of a picture frame that is \r\ntwo inches wider all the way around a picture that measures 12 inches by 18 inches?", 
+    "tossupA": "1, 2, 3, 4, 6, AND 12", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc8b"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "357,000,000", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the surface area of a sphere with radius r?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer The surface area of the Earth is 510,000,000 square \r\nkilometers. If 30% of the Earth's surface is land mass, how many square kilometers are covered \r\nin water?", 
+    "tossupA": "4 \u03c0 r\r\n2\r\n (read as: 4 pi r squared)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc8e"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) LIMESTONE IS A CARBONATE ROCK CONTAINING ONLY CALCIUM, WHILE \r\nDOLOMITE CONTAINS BOTH CALCIUM AND MAGNESIUM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer Marble is the metamorphic product of which \r\nsedimentary rock?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Chemically, what is the difference \r\nbetween limestone and dolomite? \r\n \r\nW) Limestone is a carbonate rock containing only calcium, while dolomite contains both calcium \r\nand magnesium \r\nX) Limestone is a carbonate rock containing only magnesium, while dolomite contains only \r\ncalcium \r\nY) Limestone is a carbonate rock containing both calcium and magnesium, while dolomite \r\ncontains only calcium \r\nZ) Limestone is a carbonate rock containing only calcium, while dolomite contains only \r\nmagnesium", 
+    "tossupA": "LIMESTONE (ACCEPT: ANY CARBONATE ROCK, CALCITE, OR DOLOMITE)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc95"
+    }, 
+    "questionNum": 19
   }, 
   {
     "category": 1, 
@@ -321,13 +363,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following compounds is found in the greatest \r\nabundance in animals? \r\n \r\nW) Glucose \r\nX) Fatty acids \r\nY) Carbon dioxide \r\nZ) Water", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What structure, responsible for making ribosomes, is found \r\ninside the nucleus?", 
     "tossupA": "Z) WATER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc98"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -336,13 +380,15 @@
     "tossupQ": "MATH Short Answer One half plus a number n equals 39/12. What is n as a mixed number \r\nin simplest form?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Put these values in order from least to greatest: 0.99, 1.25, 14/15, \r\n0.0099, -17.", 
     "tossupA": "2 \u00be", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc99"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 5, 
@@ -351,13 +397,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following approximates the world\u2019s total annual \r\npower demand in terawatts? \r\n \r\nW) 7 \r\nX) 15 \r\nY) 40 \r\nZ) 100", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice By 2050, what is projected to be the world\u2019s approximate total \r\nannual power demand in terawatts? \r\n \r\nW) 20 \r\nX) 30 \r\nY) 40 \r\nZ) 50", 
     "tossupA": "X) 15", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc9a"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 3, 
@@ -366,12 +414,14 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the common name for synthetic or semi-\r\nsynthetic organic materials produced by polymerization, that easily form into different shapes \r\nwhen heat and pressure are applied?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice In which of the following comparisons would you \r\nleast expect the speed of sound to change? \r\nW) Whale songs travelling through Arctic water compared to whale songs travelling through \r\nequatorial waters \r\nX) Sounds made at the surface of the ocean compared to sounds made at a depth of 100 \r\nmeters \r\nY) Frog calls made in the spring when its 4 degrees Celsius compared to calls made at 28 \r\ndegrees Celsius \r\nZ) Dog barks with low frequency compared to high frequency, excited dog barks", 
     "tossupA": "PLASTICS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccc9b"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

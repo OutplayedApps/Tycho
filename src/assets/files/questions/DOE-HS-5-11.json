@@ -6,13 +6,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  The following gaseous phase reaction is in equilibrium:  \r\nCO + 2H\r\n2\r\n \u21d4 (read as: is in equilibrium with) CH\r\n3\r\nOH. If you decrease the volume of the \r\ncontainer holding the gas, what happens to the equilibrium?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  By name or number, identify all of the following four motions \r\nthat describe how atoms in a methylene group can vibrate: 1) rocking, 2) symmetrical stretching, \r\n3) see-sawing, 4) twisting.", 
     "tossupA": "SHIFTS TO THE RIGHT (ACCEPT: MORE METHANOL IS PRODUCED, MORE \r\nPRODUCT IS PRODUCED)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf6c"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -21,13 +23,15 @@
     "tossupQ": "MATH  Short Answer  At what value of x is the tangent to the curve f(x) = 3x<sup>2</sup> \u2013 2x + 1  \r\na horizontal line?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  If f(x) = x (read as: f of x equals the square root of x) over the domain \r\nof all nonnegative real numbers and if g(x) = cosx over the domain of closed interval [-\u03c0, \u03c0], \r\nthen what is the domain of f composed with g?", 
     "tossupA": "1/3", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf6d"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following is TRUE about the electric field just \r\noutside the surface of a charged spherical conductor? \r\n \r\nW) It is zero \r\nX) It is infinitely large \r\nY) It is directed perpendicularly to the surface \r\nZ) It is directed parallel to the surface", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A projectile is launched over level ground with a velocity of 100 \r\nmeters per second at an angle of 30 degrees to the horizontal. Given that the acceleration due \r\nto gravity is 10 meters per second squared, what will be the horizontal range of this projectile \r\nrounded to the nearest meter?", 
     "tossupA": "Y) IT IS DIRECTED PERPENDICULARLY TO THE SURFACE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf6e"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -51,13 +57,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following processes would leukocytes employ to \r\ndestroy bacteria in interstitial spaces? \r\n \r\nW) Pinocytosis (read as: pin-oh-si-T\u014cE-sis) \r\nX) Phagocytosis (read as: fahg-oh-si-T\u014cE-sis) \r\nY) Erythrophagocytosis (read as: i-rith-roh-fahg-oh-si-T\u014cE-sis) \r\nZ) Efferocytosis (read as: ehf-eh-roh- si-T\u014cE-sis)", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Which pluripotent cell in eukaryotic animals is similar to \r\nmeristematic cells in higher plants?", 
     "tossupA": "X) PHAGOCYTOSIS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf6f"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 2, 
@@ -66,13 +74,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following pairs does NOT correctly match the \r\nelement and its oxidation number? \r\n \r\nW) Oxygen in H\r\n2\r\nO\r\n2\r\n and -2 \r\nX) Bromine in Br\r\n2\r\n and 0 \r\nY) Sodium in NaCl and +1 \r\nZ) Sulfur in SO\r\n3\r\n\u2212\r\n2\r\n and +4", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Identify by name or number all of the following five factors upon \r\nwhich the rate of a gaseous phase reaction substantially depends: 1) reactant concentration, 2) \r\nmolecule size, 3) number of distinct products and reactants, 4) activation energy, 5) pressure.", 
     "tossupA": "W) OXYGEN IN H\r\n2\r\nO\r\n2\r\n AND -2", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf70"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -81,13 +91,15 @@
     "tossupQ": "PHYSICS  Short Answer  How much work, in joules, is done on a 2000-kilogram car by \r\napplying a 1000-newton force to move it 20 meters?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A 50-kilogram person in an elevator is moving upward at a velocity \r\nof 2 meters per second. Given g as 9.8 meters per second squared, and providing your answer \r\nto the nearest ten, how much force, in newtons, is she exerting on the elevator floor?", 
     "tossupA": "20,000", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf71"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  What type of reflecting telescope uses a concave \r\nprimary mirror and a flat diagonal secondary mirror to reflect the image at a 90 degree angle to \r\nan eyepiece mounted on the side of the telescope?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  According to Bowen\u2019s reaction series, by name or \r\nnumber, which of the following four minerals would be the FIRST and LAST, respectively, to \r\ncrystallize out of mafic molten rock: 1) plagioclase, 2) olivine, 3) pyroxene, or 4) quartz?", 
     "tossupA": "NEWTONIAN", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf72"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +125,15 @@
     "tossupQ": "PHYSICS  Short Answer  A thermodynamic process that takes place at a constant pressure \r\ncan be described by what adjective?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Using 9.8 meters per second squared for g and expressing your \r\nanswer in scientific notation to one significant digit, what is the water pressure, in newtons per \r\nsquare meter, at a depth of 2 meters in a swimming pool?", 
     "tossupA": "ISOBARIC", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf73"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 5, 
@@ -126,13 +142,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Crates A and B have equal mass and travel the same distance on \r\na horizontal track while a constant force F acts on A and a constant force 2F acts on B. Both \r\ncrates start from rest. Which of the following equations represents the velocities V\r\nA\r\n and V\r\nB\r\n of A \r\nand B at the end of the displacement? \r\n \r\nW) V\r\nB\r\n = V\r\nA\r\n/2 \r\nX) V\r\nB \r\n= 2V\r\nA\r\n \r\nY) V\r\nB\r\n = 2V\r\nA\r\n \r\nZ) V\r\nB \r\n= 4V\r\nA", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  A 100 kilogram roller coaster starts from rest at a height of 500 \r\nmeters. Given g as 10 meters per second squared and no friction, what speed in meters per \r\nsecond will it achieve at the bottom?", 
     "tossupA": "X) V\r\nB \r\n= 2V\r\nA", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf74"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,13 +159,15 @@
     "tossupQ": "MATH  Short Answer  Providing your answer as an improper fraction in simplest form, what \r\nis the slope of the line tangent to the graph of the cube root of x squared at the \r\npoint with coordinates of (-1/8, 1/4)?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Evaluate the integral: the integral from -6 to \r\n0 of the square root of open parenthesis 36 minus x squared close parenthesis d x.", 
     "tossupA": "-4/3", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf75"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -156,13 +176,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following statements is TRUE about the \r\nrotation rate of the Sun at its surface?  \r\n \r\nW) It is the same everywhere on the Sun \r\nX) It decreases with increasing latitude \r\nY) It increases with increasing latitude \r\nZ) It is greatest in two bands at mid-latitude", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What is the second most prevalent gaseous \r\ncomponent of Venus\u2019s atmosphere?", 
     "tossupA": "X) IT DECREASES WITH INCREASING LATITUDE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf76"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 3, 
@@ -171,13 +193,15 @@
     "tossupQ": "PHYSICS  Short Answer  An electrical field does 6 joules of work on a charged particle, \r\nmoving it from 1 volts to 3 volts. What is the charge of the particle in coulombs?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Given g as 10 meters per second squared and the speed of \r\nsound as 331 meters per second, if you dropped a pebble down a well and heard a splash 3 \r\nseconds later, approximately how far down, in meters rounded to the nearest ten, was the \r\nwater?", 
     "tossupA": "3 (ACCEPT: - 3)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf77"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is a characteristic of \r\nhypothetical weakly interacting massive particles, or WIMPs? \r\n \r\nW) They are fast moving \r\nX) They attract or repel ordinary particles with electrical forces \r\nY) They are more massive than neutrinos \r\nZ) They interact with the strong nuclear force", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What is the primary limiting nutrient in oligotrophic \r\nlakes?", 
     "tossupA": "Y) THEY ARE MORE MASSIVE THAN NEUTRINOS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf78"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 5, 
@@ -201,13 +227,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Transformer efficiency is lowered, primarily due to power loss, at \r\nwhich of the following locations? \r\n \r\nW) The load \r\nX) The source \r\nY) The core \r\nZ) The grounding point", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  For many household appliances, a step-down transformer is used. \r\nIf such a transformer has an input of 120 volts and 0.6 amperes, and an output of 24 volts, what \r\nis the maximum possible output current in amperes?", 
     "tossupA": "Y) THE CORE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf79"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +244,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following best explains why a Gram-negative \r\nbacterial infection would be more difficult to treat than a Gram-positive one? \r\n \r\nW) The cell membrane of Gram-positive bacteria functions as an endotoxin \r\nX) Gram-positive bacteria are facultative anaerobes \r\nY) Gram-positive bacteria have a cell membrane and a secondary lipopolysaccharide layer \r\n(read as: lip-\u014de-pahl-i-SAHK-ah-ryd) \r\nZ) Gram-negative bacteria have a cell membrane and a secondary lipopolysaccharide layer", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  A protist is found that has an amoeba-like appearance, fuses to \r\nform multinucleate structures, lacks chlorophyll, and has sporangia that produce flagellated \r\nspores. To what phylum does it belong?", 
     "tossupA": "Z) GRAM-NEGATIVE BACTERIA HAVE A CELL MEMBRANE AND A \r\nSECONDARY LIPOPOLYSACCHARIDE LAYER", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf7a"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +261,15 @@
     "tossupQ": "MATH  Short Answer  If fx, \u00a0y \u00a0= \u00a0xy \u00a0+ \u00a03xy<sup>2</sup> (read as: f of x, y equals xy plus 3xy squared), \r\nwhat is the partial derivative of f with respect to y?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Approximate the area under f(x) = x<sup>2</sup> + 1 from x = 0 to x = 8 using a \r\nmid-point Riemann sum with four equal subintervals.", 
     "tossupA": "x + 6xy", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf7b"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,13 +278,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Name the class of mollusks in which many larval stages undergo \r\ntorsion.", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following BEST describes the problem that torsion \r\ncreates for gastropods? \r\n \r\nW) More energy is needed to develop a coiled shell \r\nX) Waste is expelled above the organism\u2019s head and mouth \r\nY) It limits the amount of space the organism has for growth \r\nZ) To eat, an organism must extend its body outside of its protective shell", 
     "tossupA": "GASTROPODA", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf7c"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -261,13 +295,15 @@
     "tossupQ": "ENERGY  Short Answer  What kind of chemical reaction is used to produce methane from \r\nalgae decomposition?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  You\u2019re designing a battery pack filled with many cell phone lithium-\r\nion batteries capable of storing 500 megawatt hours of energy. If the battery operates at a \r\nconstant voltage of 3.6 volts, providing your answer in scientific notation with two significant \r\nfigures, what capacity in ampere hours would you need to store 500 megawatt hours of energy?", 
     "tossupA": "ANAEROBIC DIGESTION (ACCEPT: GASIFICATION, PROLYSIS)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf7d"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -276,13 +312,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A bucket of hot oil weighing 50 newtons is lifted at constant \r\nvelocity up a castle wall that is 10 meters high. It takes 20 seconds to raise the bucket up the \r\nwall. How much power was used to raise the bucket? \r\n \r\nW) 25 watts \r\nX) 25 joules \r\nY) 500 joules \r\nZ) 500 watts", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A 3.5 ampere current is maintained in a simple circuit with a total \r\nresistance of 1500 ohms. In coulombs, what net charge passes through any point in the circuit \r\nduring a 30-second interval?", 
     "tossupA": "W) 25 WATTS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf7e"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 1, 
@@ -291,13 +329,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is NOT a response of liver cells to \r\nglucagon? \r\n \r\nW) Decrease of glucose breakdown \r\nX) Increase of gluconeogenesis (read as: gluh-koh-nee-oh-JEHN-eh-sis) \r\nY) Increase of release of calcium ions  \r\nZ) Increase of fat synthesis", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What compound is secreted into the digestive system to reduce \r\ngastric acidity?", 
     "tossupA": "Z) INCREASE OF FAT SYNTHESIS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf7f"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +346,15 @@
     "tossupQ": "MATH  Short Answer  What is the limit of (3x<sup>2</sup> + 6x)/(5 + 3x + x<sup>2</sup>) (read as: open parenthesis \r\n3x squared plus 6x close parenthesis over open parenthesis 5 plus 3x plus x squared close \r\nparenthesis) as x goes to infinity?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Given f(x) = tanx/secx, find f\u2019(2\u03c0/3) (read as: Given f of x equals \r\ntangent of x over secant of x, find f prime of 2 pi over 3).", 
     "tossupA": "3", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf80"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 2, 
@@ -321,13 +363,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following compounds is generally considered \r\nsoluble in water? \r\n \r\nW) Sodium nitrate  \r\nX) Magnesium carbonate  \r\nY) Silver chloride \r\nZ) Barium sulfate", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Nitrous acid plus calcium hydroxide yield calcium nitrite \r\n(read as: ni-TRITE) plus water. Which of the following represents the coefficients for the \r\ncompounds, in the order listed, when the reaction is correctly balanced? \r\n \r\nW) 1, 2, 1, 1 \r\nX) 1, 1, 1, 1 \r\nY) 2, 2, 1, 2 \r\nZ) 2, 1, 1, 2", 
     "tossupA": "W) SODIUM NITRATE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf81"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,13 +380,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Plate divergence is responsible for all of the \r\nfollowing formations, EXCEPT: \r\n \r\nW) East African Rift Valley \r\nX) Iceland \r\nY) East Pacific Rise \r\nZ) Indonesian Islands", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  By name or number, identify all of the following five \r\ngeologic formations that are commonly formed at convergent boundaries where one oceanic \r\nplate is subducted below another oceanic plate: 1) trench, 2) backarc, 3) basin and range, 4) \r\naccretionary wedge, 5) rift zone.", 
     "tossupA": "Z) INDONESIAN ISLANDS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf82"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 2, 
@@ -351,13 +397,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  Name two of the elements that are common exceptions to the \r\noctet rule, because they are frequently found in compounds in which they have only six valence \r\nelectrons.", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Regarding butylene\u2019s alkene isomers, which of the following \r\nstatements is correct? \r\n \r\nW) Some are cis-trans isomers \r\nX) Some are chiral \r\nY) Some are enantiomers (read as: in-AHNT-ee-oh-mehrs) \r\nZ) Some are atropisomers (read as: ah-troh-pee-s\u014de-mehrs)", 
     "tossupA": "(ACCEPT TWO) BORON, ALUMINUM, BERYLLIUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf83"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -366,12 +414,14 @@
     "tossupQ": "BIOLOGY  Short Answer  When a plant cell is placed into a hypertonic solution, the \r\ncytoplasm in the plant cell shrinks away from the cell wall. What is the term that describes this \r\nphenomenon?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the adjective used to describe animals that produce live \r\noffspring that, prior to birth, were nourished via a placenta?", 
     "tossupA": "PLASMOLYSIS (DO NOT ACCEPT: OSMOSIS; LYSIS)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf84"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

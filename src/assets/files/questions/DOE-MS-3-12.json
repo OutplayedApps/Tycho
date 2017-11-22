@@ -6,13 +6,15 @@
     "tossupQ": "MATH Short Answer Three points on a graph are connected by lines to form a triangle. If the \r\ncenter of dilation is the origin and one of the points is (4, 6), what is the new point for a dilation \r\nfactor of 2?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Giving your answer in terms of \u03c0, what is the length of a 36\u00ba arc in a \r\ncircle that has a circumference of 50\u03c0?", 
     "tossupA": "(8, 12)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdaf"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -21,13 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true of the Moon: \r\n \r\nW) the Moon rotates on its axis at the same rate that it takes to orbit the Earth  \r\nX) over long periods of time, we can see more than 50% of the Moon\u2019s surface from Earth  \r\nY) the Moon is gradually getting closer to the Earth by about 4 centimeters each year \r\nZ) the Moon\u2019s orbit is elliptical", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 3 skin infections that are caused \r\nby mold-like fungi called dermatophytes (read as: derr-mat-oh-fights): ringworm; jock itch; \r\nathletes foot", 
     "tossupA": "Y) THE MOON IS GRADUALLY GETTING CLOSER TO THE EARTH BY \r\nABOUT 4 CENTIMETERS EACH YEAR", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb0"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 1, 
@@ -36,13 +40,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Antibodies are composed of: \r\n \r\nW) lipids \r\nX) nucleic acids \r\nY) glucose \r\nZ) amino acids", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Consider a cross of a pea plant having white flowers with a \r\npea plant having red flowers. Of 50 seedlings from this cross, 25 produce white flowers and 25 \r\nproduce red flowers. If white is dominant, which of the following is the BEST description for the \r\ngenetic makeup of the white flowering parent plant: \r\n \r\nW) homozygous for white flowers \r\nX) heterozygous \r\nY) homozygous for red flowers \r\nZ) co-dominant for white and red", 
     "tossupA": "Z) AMINO ACIDS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb1"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 3, 
@@ -51,13 +57,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true: \r\n \r\nW) the temperature of a substance changes during a phase change \r\nX) a compound can be broken down by chemical means \r\nY) some known elements are unstable and only last for fractions of seconds \r\nZ) the opposite of vaporization is condensation", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 4 substances that are bases: \r\nMgCl; NaOH; HCl; H\r\n2\r\nSO\r\n4", 
     "tossupA": "W) THE TEMPERATURE OF A SUBSTANCE CHANGES DURING A PHASE \r\nCHANGE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb2"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -66,28 +74,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Except for birds, dinosaurs became extinct after which of \r\nthe following periods: \r\n \r\nW) Jurassic \r\nX) Triassic \r\nY) Cretaceous \r\nZ) Permian", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following dinosaurs is NOT correctly \r\nmatched with its description: \r\n \r\nW) Hadrosaurus had a beak, web-feet, and a pelvis very similar to modern ducks \r\nX) Iguanodon was a mid-sized herbivore \r\nY) Brachiosaurus had tail spikes and bony plates along the length of its back \r\nZ) Tyrannosaurus rex was a large carnivorous dinosaur", 
     "tossupA": "Y) CRETACEOUS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb3"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "30\u03c0", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Express the following radical in its simplest rationalized form: 3/&radic;8", 
-    "packetNum": 12, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Giving your answer in terms of pi, what is the volume, in cubic meters, of \r\na right circular cone that has a height of 10 meters and a radius of 3 meters?", 
-    "tossupA": "3&radic;2/4", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccdb4"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -96,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following fabrics would most easily be \r\ncolored by dyes that contain polar molecules or ions: \r\n \r\nW) wool \r\nX) nylon \r\nY) polyester \r\nZ) rayon", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice There are about 24 essential elements needed to \r\nmaintain a healthy human body. Which of the following is NOT one of these elements: \r\n \r\nW) iodine \r\nX) selenium \r\nY) sodium \r\nZ) cesium", 
     "tossupA": "W) WOOL \r\n \r\n(Solution: wool being a protein has the most polar molecules)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb5"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,13 +108,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the BEST explanation for the \r\nfunction of nuclear pores: \r\n \r\nW) to prevent damaging hydrogen peroxide from entering the nucleus \r\nX) to prevent too much pressure from metabolism from building up in the nucleus \r\nY) to allow the nucleus to sweat \r\nZ) to allow substances such as mRNA to leave the nucleus", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the common name, not the letter abbreviation, of the \r\nnucleotide that is present in DNA but not RNA?", 
     "tossupA": "Z) TO ALLOW SUBSTANCES SUCH AS mRNA TO LEAVE THE NUCLEUS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb6"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +125,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following metals is often used to \r\ntransform a sheet of regular glass into a mirror: \r\n \r\nW) cobalt \r\nX) silver \r\nY) zinc \r\nZ) iron", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer How many grams are in 2 moles of sodium chloride, \r\nknowing that sodium chloride has a molecular weight of 58?", 
     "tossupA": "X) SILVER", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb7"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -141,13 +142,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice A hurricane originating in the Eastern tropical Atlantic is \r\ndriven: \r\n \r\nW) westward by the easterly trade winds \r\nX) westward by the prevailing westerlies \r\nY) eastward by the easterly trade winds \r\nZ) eastward by the prevailing westerlies", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice An organism that inhabits a fluvial environment is one \r\nthat inhabits: \r\n \r\nW) lakes and ponds \r\nX) rivers and streams \r\nY) deserts \r\nZ) volcanoes", 
     "tossupA": "W) WESTWARD BY THE EASTERLY TRADE WINDS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb8"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -156,28 +159,15 @@
     "tossupQ": "MATH Short Answer Remove all negative exponents and simplify the following expression: 4x<sup>0</sup>y<sup>-3</sup>z<sup>4</sup>/4x", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Expand the following expression, giving your answer in standard \r\nbinomial form: (4x<sup>4</sup>y<sup>2</sup> + 3)<sup>2</sup>", 
     "tossupA": "z<sup>4</sup>/xy<sup>3</sup>", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdb9"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "THE SUN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following scientists would most likely \r\nuse a coronagraph in their experiments: \r\n \r\nW) biologist \r\nX) astronomer \r\nY) paleontologist \r\nZ) oceanographer", 
-    "packetNum": 12, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer The coronagraph is used to study what celestial object?", 
-    "tossupA": "X) ASTRONOMER", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccdba"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 1, 
@@ -186,13 +176,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following kinds of microscopes typically is \r\nused to view the surface of objects ranging in size from cells to small insects like fleas to reveal \r\nminute surface details: \r\n \r\nW) bright field microscopy \r\nX) interference microscopy \r\nY) scanning electron microscopy \r\nZ) transmission electron microscopy", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice A small human lymphocyte and a red blood cell are both \r\nabout how many micrometers across: \r\n \r\nW) 1 \r\nX) 3 \r\nY) 8 \r\nZ) 16", 
     "tossupA": "Y) SCANNING ELECTRON MICROSCOPY", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdbb"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -201,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Name all of the following 3 forms of energy transfer that \r\nmove in the form of electromagnetic waves: conduction; convection; radiation", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following MUST be the case for a more \r\nmassive object versus a less massive object if both are at the same temperature and pressure: \r\n \r\nW) the more massive object will have more thermal energy \r\nX) the more massive object will have a greater specific heat \r\nY) the more massive object will lose heat faster than the smaller object \r\nZ) the more massive object will have less inertia", 
     "tossupA": "RADIATION", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdbc"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -216,13 +210,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is the BEST example of a littoral \r\nocean current: \r\n \r\nW) rip current \r\nX) seismic sea wave \r\nY) the Gulf Stream \r\nZ) equatorial tidal current", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer Order the following 4 layers of the Sun from the \r\nINNERMOST to the OUTERMOST: core; radiative zone; corona; convective zone", 
     "tossupA": "W) RIP CURRENT", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdbd"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +227,15 @@
     "tossupQ": "MATH Short Answer What is the volume, in cubic centimeters, of a rectangular prism that \r\nmeasures 8-centimeters long, 2-centimeter wide, and 3-centimeters high?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer How many different 3-letter arrangements are there of the first 6 letters \r\nof the alphabet?", 
     "tossupA": "48 \r\n \r\n(Solution: V = l \u00d7 w \u00d7 h)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdbe"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -246,13 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following BEST describes the property \r\nof light as a transverse wave whereby the plane of vibration of the light is restricted to certain planes: \r\n \r\nW) diffraction \r\nX) reflection \r\nY) refraction \r\nZ) polarization", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Giving your answer in angstroms, add 2 nanometers to 10 \r\nangstroms:", 
     "tossupA": "Z) POLARIZATION", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdbf"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +261,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice In which of the following cell types of woody higher plants \r\nis lignin most prominent: \r\n \r\nW) phloem \r\nX) xylem \r\nY) parenchyma \r\nZ) collenchyma", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the LEAST likely method a maple \r\ntree uses to regulate water: \r\n \r\nW) storing water in vacuoles \r\nX) opening and closing stomata in stems and leaves \r\nY) transporting water in their heartwood \r\nZ) absorbing water through root hairs", 
     "tossupA": "X) XYLEM", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdc0"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -276,13 +278,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Because they contain mercury, which of the following \r\nis the BEST classification of silver dental fillings: \r\n \r\nW) amalgam \r\nX) colloid \r\nY) mixture \r\nZ) solution", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer A chemistry experiment calls for 10.0 liters of a 0.8 \r\nmolar solution of a chemical with a molecular weight of 100 grams per mole. How many grams of \r\nthe chemical will you need to weigh out to make this solution?", 
     "tossupA": "W) AMALGAM \r\n \r\n(Solution: an amalgam is an alloy of mercury)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdc1"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,28 +295,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true about glaciations: \r\n \r\nW) about 12,000 years ago it was possible to walk from Alaska to Siberia through the Bering Strait \r\nX) throughout history, times of extensive glaciation coincided with low sea levels \r\nY) the center of a glacier typically moves slower down a slope than do the edges \r\nZ) alpine glaciers exist on nearly every continent", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice If high tide occurs at noon, which of the following is the \r\nmost likely time that the same beach will experience a low tide: \r\n \r\nW) 3 PM \r\nX) 4 PM \r\nY) 5 PM \r\nZ) 6 PM", 
     "tossupA": "Y) THE CENTER OF A GLACIER TYPICALLY MOVES SLOWER DOWN A \r\nSLOPE THAN DO THE EDGES", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdc2"
     }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "24", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Order the following 4 radicals from the smallest to the largest: 3&radic;2; cube root of 2; &radic;3; &radic;2", 
-    "packetNum": 12, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Multiply the following 2 radicals, giving your answer to the nearest \r\nwhole number: 3 cube root of 4 times 2 cube root of 16", 
-    "tossupA": "cube root of 2; &radic;2; &radic;3; 3&radic;2", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccdc3"
-    }, 
-    "questionNum": "21"
+    "questionNum": 20
   }, 
   {
     "category": 6, 
@@ -321,28 +312,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer When all other things are held constant and a star is1/3 as \r\nfar from an observer as it originally was, how many times as bright would it appear?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer A forest fire in part of the New York Adirondack \r\nmountains wipes out all existing vegetation. Arrange the following 4 choices from the FIRST that is \r\nmost likely to repopulate the land to the LAST to repopulate: pine trees; scrubs; oak trees; grasses", 
     "tossupA": "9", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdc4"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "PETIOLE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer In the stem of a higher plant, what is the MOST common \r\nscientific term for the points where leaves are attached?", 
-    "packetNum": 12, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What is the scientific term for the stalk of a leaf that joins the \r\nleaf to the node of a plant stem?", 
-    "tossupA": "NODES", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccdc5"
-    }, 
-    "questionNum": "23"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -351,13 +329,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Name all of the following 4 particles that cannot be \r\ndeflected when passing through a magnetic field: photon; electron; neutron; proton", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the most common scientific term for the back \r\nand forth oscillating motion of a swinging pendulum?", 
     "tossupA": "NEUTRON AND PHOTON", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdc6"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 0, 
@@ -366,12 +346,82 @@
     "tossupQ": "EARTH SCIENCE Short Answer Giving your answer as north, south, east, or west, plate \r\ntectonics show that the eastern side of the North American Plate is moving slowly in what general \r\ndirection?", 
     "packetNum": 12, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer Order the following 3 seismic waves from the FIRST to be \r\ndetected at a seismographic station to the LAST: S-wave; surface wave; P-wave", 
     "tossupA": "WEST", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccdc7"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "30\u03c0", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Express the following radical in its simplest rationalized form: 3/&radic;8", 
+    "packetNum": 12, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Giving your answer in terms of pi, what is the volume, in cubic meters, of \r\na right circular cone that has a height of 10 meters and a radius of 3 meters?", 
+    "tossupA": "3&radic;2/4", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccdb4"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "THE SUN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following scientists would most likely \r\nuse a coronagraph in their experiments: \r\n \r\nW) biologist \r\nX) astronomer \r\nY) paleontologist \r\nZ) oceanographer", 
+    "packetNum": 12, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer The coronagraph is used to study what celestial object?", 
+    "tossupA": "X) ASTRONOMER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccdba"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "24", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Order the following 4 radicals from the smallest to the largest: 3&radic;2; cube root of 2; &radic;3; &radic;2", 
+    "packetNum": 12, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Multiply the following 2 radicals, giving your answer to the nearest \r\nwhole number: 3 cube root of 4 times 2 cube root of 16", 
+    "tossupA": "cube root of 2; &radic;2; &radic;3; 3&radic;2", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccdc3"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "PETIOLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer In the stem of a higher plant, what is the MOST common \r\nscientific term for the points where leaves are attached?", 
+    "packetNum": 12, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the scientific term for the stalk of a leaf that joins the \r\nleaf to the node of a plant stem?", 
+    "tossupA": "NODES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccdc5"
+    }, 
+    "questionNum": 23
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice For reasons known only to her, Susie wants her houseplant \r\nReggie the Radish to make as much oxygen as possible. Which of the following should Susie \r\ndo to increase Reggie\u2019s rate of oxygen production? \r\n \r\nW) Bring in more plants to reduce the levels of carbon dioxide in the room \r\nX) Put the plant in the corner of the room where there is less light present \r\nY) Put a humidifier next to the plant \r\nZ) Set the thermostat to the lowest temperature possible in the room", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Place the following four levels of life in order from the level that \r\nrefers to the lowest number and variety of organisms to the level that refers to the highest \r\nnumber and variety of organisms: 1) biosphere, 2) communities, 3) ecosystems, 4) organisms.", 
     "tossupA": "Y) PUT A HUMIDIFIER NEXT TO THE PLANT", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfbc"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -21,28 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice The universe is which of the following, according to the \r\nlatest theory? \r\n \r\nW) Continuously expanding \r\nX) Continuously contracting \r\nY) Sometimes expanding and sometimes contracting \r\nZ) Staying the same size", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What force keeps planets and their moons in orbit?", 
     "tossupA": "W) CONTINUOUSLY EXPANDING", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfbd"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "Y) 85", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the slope of a line parallel to the line 3x \u2013 y = 8?", 
-    "packetNum": 1, 
-    "grade": "MS", 
-    "bonusQ": "MATH Multiple Choice A class of 10 students earns the following 10 grades: 100, 80, 79, 40, \r\n75, 90, 95, 74, 100, 100. What is the median grade? \r\n \r\nW) 80 \r\nX) 83.3 \r\nY) 85 \r\nZ) 90", 
-    "tossupA": "3", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccfbe"
-    }, 
-    "questionNum": "3"
+    "questionNum": 2
   }, 
   {
     "category": 5, 
@@ -51,13 +40,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following can NOT be a direct source of energy for \r\nliving organisms? \r\n \r\nW) Heat \r\nX) Sunlight \r\nY) Water \r\nZ) Radiation", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer In a hydrogen fuel cell, the anodic reaction is hydrogen oxidation at \r\n0.00 volts and the cathodic reaction is at 1.23 volts. What is the electric potential of the cell in \r\nvolts?", 
     "tossupA": "Y) WATER", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfbf"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -66,13 +57,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following major cities is located next to a \r\nmajor subduction zone? \r\n \r\nW) London, England \r\nX) Victoria, Canada \r\nY) Los Angeles, USA \r\nZ) Paris, France", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What is the name of the transform plate boundary that \r\nruns along the western edge of southern California to the Mendocino triple junction in northern \r\nCalifornia?", 
     "tossupA": "X) VICTORIA, CANADA", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc0"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -81,13 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Using the International System of Units, which of the \r\nfollowing units would be most appropriate to express force? \r\n \r\nW) Electron volts \r\nX) Watts \r\nY) Newtons \r\nZ) Joules", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following usually indicates a physical \r\nchange? \r\n \r\nW) Change in odor \r\nX) Release of light \r\nY) Formation of a gas \r\nZ) Change of phase", 
     "tossupA": "Y) NEWTONS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc1"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 1, 
@@ -96,13 +91,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Imagine you are dropped at a random place on planet Earth. \r\nYou are not told where you are. However, you are told that the average temperature here is 78\u00b0 \r\nFahrenheit and that over 180 inches of rain fall here every year. In what kind of biome do you \r\nmost likely find yourself? \r\n \r\nW ) Taiga [TY-guh] \r\nX) Temperate rain forest \r\nY) Tropical seasonal forest \r\nZ) Tropical rain forest", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Equal numbers of fruit flies, ducks, blue jays, and raccoons are \r\neach found in their own ideal environment with no natural predators. Assuming that resources \r\nare plentiful, which species will grow to have the largest population after one year?", 
     "tossupA": "Z) TROPICAL RAIN FOREST", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc2"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 6, 
@@ -111,13 +108,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following structures is present in plant \r\ncells but absent in animal cells? \r\n \r\nW) Mitochondrion [my-tuh-KON-dree-uhn] \r\nX) Cell wall \r\nY) Nucleolus [noo-KLEE-uh-luhs] \r\nZ) Endoplasmic reticulum [EN-duh-plaz-mik ri-TIK-yuh-luhm]", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What process provides the main source of energy for a \r\nstar?", 
     "tossupA": "X) CELL WALL", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc3"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 4, 
@@ -126,13 +125,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following statements is NOT true about the diagonals of a \r\nrectangle? \r\n \r\nW) They are always congruent \r\nX) They are always perpendicular \r\nY) They always bisect each other \r\nZ) They intersect at one point", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Given points A with coordinates (5, k), B with coordinates (2, 0), and C \r\nwith coordinates (-2, 6), what is the value of k for which the measure of angle ABC = 90\u00b0? \r\n \r\nW) 2 \r\nX) \u00bd \r\nY) -2 \r\nZ) -3", 
     "tossupA": "X) THEY ARE ALWAYS PERPENDICULAR", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc4"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 5, 
@@ -141,13 +142,15 @@
     "tossupQ": "ENERGY Multiple Choice Hot springs are sources of which of the following types of energy? \r\n \r\nW) Hydroelectric \r\nX) Geothermal \r\nY) Solar \r\nZ) Fossil fuel", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following factors does NOT affect solar panel \r\nperformance? \r\n \r\nW) Panel orientation \r\nX) Roof slope \r\nY) Energy price \r\nZ) Elevation", 
     "tossupA": "X) GEOTHERMAL", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc5"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -156,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice What type of fault is associated with the Basin and \r\nRange Province of the southwestern United States? \r\n \r\nW) Normal \r\nX) Reverse \r\nY) Strike-slip \r\nZ) Thrust", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice If Yellowstone Caldera suffered a catastrophic eruption \r\ntoday, which of the following types of volcanic hazard is most likely to have the farthest reaching \r\neffects? \r\n \r\nW) Lahars \r\nX) Ash fall \r\nY) Pyroclastic flows \r\nZ) Lava bombs", 
     "tossupA": "W) NORMAL", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc6"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 3, 
@@ -171,13 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a method by which \r\nheat travels? \r\n \r\nW) Radiation \r\nX) Convection \r\nY) Conduction \r\nZ) Convention", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer In order to kill microorganisms, materials can be placed \r\nunder pressurized hot steam in an autoclave. If the temperature of the autoclave is 121\u00b0 Celsius, \r\nwhat is the temperature in Kelvin to the nearest whole number?", 
     "tossupA": "Z) CONVENTION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc7"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -186,13 +193,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following environmental limits on population \r\ngrowth is density-independent? \r\n \r\nW) Disease \r\nX) Parasites \r\nY) Competition \r\nZ) Weather", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Cell theory, one of the most fundamental principles of \r\nmodern biology, consists of three main ideas. Which of the following is NOT one of cell theory\u2019s \r\nmain ideas? \r\n \r\nW) All organisms are composed of one or more cells \r\nX) Cells cause infectious disease \r\nY) The cell is the basic unit of organization for organisms \r\nZ) All cells come from preexisting cells", 
     "tossupA": "Z) WEATHER", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc8"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 6, 
@@ -201,13 +210,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Coal deposits today are the remains of which of the \r\nfollowing prehistoric organisms that have undergone carbonization? \r\n \r\nW) Plants \r\nX) Water animals \r\nY) Land animals \r\nZ) Bacteria", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is true regarding mass and \r\nweight? \r\n \r\nW) The weight of an object determines its mass \r\nX) Mass and weight are independent of each other \r\nY) Weight is affected by gravity; mass is not \r\nZ) An object\u2019s mass can vary depending on the environment, but its weight will not", 
     "tossupA": "W) PLANTS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfc9"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 4, 
@@ -216,13 +227,15 @@
     "tossupQ": "MATH Multiple Choice Adam drove 126 miles in 2 hours and 15 minutes. What was his \r\naverage speed in miles per hour? \r\n \r\nW) 46 \r\nX) 56 \r\nY) 59 \r\nZ) 63", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Find all real numbers that satisfy the inequality |3\u22122x|>7 [the \r\nabsolute value of the quantity 3 minus 2 x is greater than 7].", 
     "tossupA": "X) 56", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfca"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 5, 
@@ -231,28 +244,15 @@
     "tossupQ": "ENERGY Multiple Choice If a system expends a 2 newton force over a 3 meter distance, \r\nthen the energy state of the system does which of the following? \r\n \r\nW) Increases by 6 joules \r\nX) Increases by 18 joules \r\nY) Decreases by 6 joules \r\nZ) Decreases by 18 joules", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Electromagnetic radiation is carried by photons. The speed of \r\nphotons through vacuum does which of the following? \r\n \r\nW) Remains constant \r\nX) Varies depending on the amount of energy they carry \r\nY) Varies depending on their frequency \r\nZ) Varies depending on their temperature", 
     "tossupA": "Y) DECREASES BY 6 JOULES", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfcb"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "BASALT", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE Short Answer Los Angeles is located on what tectonic plate?", 
-    "packetNum": 1, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE Short Answer What type of lava rock is currently erupting from the \r\nHawaiian Island volcanic vent of Pu\u2019u O\u2019o [POO-oo oh-oh]?", 
-    "tossupA": "PACIFIC", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccfcc"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -261,13 +261,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the same for all \r\nelectromagnetic waves traveling in a vacuum? \r\n \r\nW) Speed \r\nX) Velocity \r\nY) Energy \r\nZ) Wavelength", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice A 10 kilogram block is suspended from a thick cord of \r\nnegligible mass attached to the ceiling. Given that g is 10 meters per second squared, What is \r\nthe force on the ceiling by the cord, in newtons? \r\n \r\nW) 0 \r\nX) 1 \r\nY) 100 \r\nZ) 10,000", 
     "tossupA": "W) SPEED", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfcd"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +278,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice What is the primary purpose of floral nectar? \r\n \r\nW) It is produced as a food source for the plant \r\nX) It is produced as a byproduct of plant metabolism \r\nY) It reduces the randomness of pollination \r\nZ) It is used as an antibiotic to protect the plant from microbes", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice What is the greatest source of organic material that reaches \r\nthe sea floor? \r\n \r\nW) Dissolved organic material \r\nX) Minerals dissolved in superheated water from hydrothermal vents \r\nY) Dead and sinking phytoplankton \r\nZ) Dead and sinking animals", 
     "tossupA": "Y) IT REDUCES THE RANDOMNESS OF POLLINATION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfce"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +295,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer DNA and RNA are both nucleotides [NOO-klee-uh-\r\ntyds], but are built with different sugars. What sugar is found in RNA?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the most abundant element in air?", 
     "tossupA": "RIBOSE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfcf"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +312,15 @@
     "tossupQ": "MATH Multiple Choice The first month of business for Becky\u2019s Comics produced $1200 in \r\nsales. The second month produced $800 in sales. To the nearest whole number percent, what \r\nwas the percent decrease in sales? \r\n \r\nW) 33% \r\nX) 40% \r\nY) 50% \r\nZ) 67%", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer The sum of eight consecutive integers is 2012. What is the largest of \r\nthese eight integers?", 
     "tossupA": "W) 33%", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfd0"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +329,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What is the mineral form of sodium chloride, or common \r\ntable salt?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer In what type of Earth\u2019s crust is gabbro most often found?", 
     "tossupA": "HALITE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfd1"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +346,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is an accurate description of \r\nthe liquid phase of matter? \r\n \r\nW) Constant volume and fixed shape \r\nX) Constant volume, but variable shape \r\nY) Constant shape, but variable volume \r\nZ) Variable volume and shape", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice A friend tells you that he thinks that all processes that \r\nchange a substance\u2019s color are chemical changes. Which of the following processes could you \r\nuse as an example of a color change that is NOT a chemical change? \r\n \r\nW) Dilution \r\nX) Tarnishing \r\nY) Burning \r\nZ) Rusting", 
     "tossupA": "X) CONSTANT VOLUME, BUT VARIABLE SHAPE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfd2"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -351,13 +363,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Name the molecule that adenosine diphosphate [uh-DEN-uh-\r\nseen dy-FOS-fayt] is converted to during the chemical processes of fermentation, anaerobic \r\nrespiration, and aerobic respiration.", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT a method by which speciation \r\nis known to occur? \r\n \r\nW) A group of similar animals moves to a new landmass with no natural predators \r\nX) A busy highway is built through a forest \r\nY) A predator randomly selects animals from a prey population to consume \r\nZ) Chromosome ploidy changes during plant reproduction", 
     "tossupA": "ADENOSINE TRIPHOSPHATE (ACCEPT: ATP)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfd3"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 6, 
@@ -366,12 +380,48 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following types of rock is formed directly \r\nfrom magma or lava? \r\n \r\nW) Metamorphic \r\nX) Igneous \r\nY) Stationary \r\nZ) Sedimentary", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice In which of the following types of rock would you \r\nexpect to find fossils? \r\n \r\nW) Stationary \r\nX) Metamorphic \r\nY) Igneous \r\nZ) Sedimentary", 
     "tossupA": "X) IGNEOUS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfd4"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) 85", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the slope of a line parallel to the line 3x \u2013 y = 8?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice A class of 10 students earns the following 10 grades: 100, 80, 79, 40, \r\n75, 90, 95, 74, 100, 100. What is the median grade? \r\n \r\nW) 80 \r\nX) 83.3 \r\nY) 85 \r\nZ) 90", 
+    "tossupA": "3", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccfbe"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "BASALT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer Los Angeles is located on what tectonic plate?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What type of lava rock is currently erupting from the \r\nHawaiian Island volcanic vent of Pu\u2019u O\u2019o [POO-oo oh-oh]?", 
+    "tossupA": "PACIFIC", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccfcc"
+    }, 
+    "questionNum": 17
   }
 ]

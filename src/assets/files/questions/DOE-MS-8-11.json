@@ -6,13 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Phytoplankton [fy-tuh-PLANGK-tuhn] blooms in the \r\nNorth Atlantic happen on a predictable annual cycle, depending on the availability of light and \r\nnutrients. In what month would you expect to find the highest chlorophyll concentration? \r\n \r\nW) December \r\nX) May \r\nY) July \r\nZ) October", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Ants can lift large masses relative to their body mass. \r\nWhich of the following mathematical terms describes this relationship? \r\n \r\nW) Work/mass \r\nX) Power/surface area \r\nY) Force/mass \r\nZ) Power/mass", 
     "tossupA": "X) MAY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd469"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -21,13 +23,15 @@
     "tossupQ": "MATH Short Answer Pete the dog breeder is fencing in two square areas in order to separate \r\nhis male and female dogs. One square region has an area of 100 square feet. The smaller \r\nsquare region has an area of 81 square feet. How many total feet of fencing does he need to \r\nenclose both square regions if the regions do not share any fence?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer The length of a rectangle is increased by 20%, and the width of the \r\nrectangle is increased by 30%. By what percentage will the area of the rectangle be increased?", 
     "tossupA": "76", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd46a"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice What happens to the amount of light reflected as the \r\nangle of incidence increases when light passes from air to water? \r\n \r\nW) It increases \u00a0\r\nX) It decreases \r\nY) It remains the same \r\nZ) It increases then decreases", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice What impurity found in coal contributes to acid rain? \r\n \r\nW) Sulfur \r\nX) Hydrogen \r\nY) Carbon \r\nZ) Chlorine", 
     "tossupA": "W) IT INCREASES", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd46b"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -51,43 +57,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following species thrives in a salt marsh? \r\n \r\nW) Blue crabs \r\nX) Sea turtles \r\nY) Coral reefs \r\nZ) Alligators", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Another bacterium living in the mud utilizes the hydrogen \r\nsulfide in its own metabolism. What molecule is it most likely to use in a redox reaction with \r\nhydrogen sulfide? \r\n \r\nW) Ammonia \r\nX) Hydrogen \r\nY) Nitrate \r\nZ) Iron", 
     "tossupA": "W) BLUE CRABS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd46c"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "CALVING", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is farthest from the Sun? \r\n \r\nW) Kuiper Belt [KY-per] \r\nX) Oort Cloud \r\nY) Persephone [per-SEF-uh-nee] \r\nZ) Neptune", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE Short Answer An iceberg is formed by the breakage of an ice shelf. \r\nWhat is the term for this event?", 
-    "tossupA": "X) OORT CLOUD", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd46d"
-    }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "HYDROGEN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer What is the name of the mechanism responsible for the \r\nevolution of a species?", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer What is the primary type of intermolecular bond that \r\nwater molecules are able to form because of their polarity?", 
-    "tossupA": "NATURAL SELECTION", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd46e"
-    }, 
-    "questionNum": "6"
+    "questionNum": 4
   }, 
   {
     "category": 4, 
@@ -96,13 +74,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following lines is perpendicular to y = 6x \u2013 4? \r\n \r\nW) y = -x/6 + 5 [y equals negative x over 6 plus 5] \r\nX) 2y = 12x + 4 \r\nY) y = x + 11 \r\nZ) y = 1/6(x) -14 [y equals one-sixth x minus 14]", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Evaluate the expression: \u0da8\u123a617\u0d45\u0da7\u123a48\u0d45\u0da5256\u123b\t\u123b [the square root \r\nof open parenthesis 617 plus the square root of open parenthesis 48 plus the square root \r\nof 256 close parenthesis close parenthesis]", 
     "tossupA": "W) y = -x/6 + 5", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd46f"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,13 +91,15 @@
     "tossupQ": "ENERGY Short Answer Name the four parts of the operating cycle of an internal combustion \r\nengine.", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice The key factor in deciding an electric car\u2019s lifespan is the battery \r\nlife. Once the electric car\u2019s battery can\u2019t deliver the required power for a car it must be replaced. \r\nWhat is one possible new use for old electric car batteries? \r\n \r\nW) Recycling \r\nX) Energy storage units in neighborhoods \r\nY) Being used in smaller vehicles like scooters \r\nZ) Rebuilding the battery for a different car", 
     "tossupA": "INTAKE, COMPRESSION, POWER AND EXHAUST", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd470"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Which family would an element belong to if it was placed \r\nin the 7th row, first column of the periodic table?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice The Doppler effect occurs in which of the following? \r\n \r\nW) Only in sound waves \r\nX) Only in longitudinal waves \r\nY) Only in transverse waves \r\nZ) In all types of waves", 
     "tossupA": "ALKALI METALS (ACCEPT: GROUP 1, GROUP 1A)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd471"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What are primarily responsible for maintenance of and \r\nchanges in posture, locomotion in animals, as well as movement of internal organs?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice You would like to evaluate the distribution of mRNA in a \r\nmicrobial population. Which method is likely to be most helpful to you? \r\n \r\nW) Proteomics [proh-tee-OM-iks] \r\nX) Transcriptomics \r\nY) Metagenomics \r\nZ) Metabolomics", 
     "tossupA": "MUSCLES", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd472"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -156,13 +142,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT considered a rare earth \r\nelement? \r\n \r\nW) Neodymium [nee-oh-DIM-ee-uhm] \r\nX) Yttrium [ih-tree-uhm] \r\nY) Lanthanum [LAN-thuh-nuhm] \r\nZ) Uranium", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Of the planets visible to the naked eye, which moves the \r\nslowest across the sky on average?", 
     "tossupA": "Z) URANIUM", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd473"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice What internal layer of Earth allows for isostacy [eye-\r\nSOS-tuh-see] of the crust? \r\n \r\nW) Outer core \r\nX) Inner core \r\nY) Athenosphere \r\nZ) Lithosphere", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Imagine that you conducted an experiment where you \r\ntested the effects of different fertilizers on plant growth over the course of one month. You have \r\nto present your data in a graph. What variable would you plot on the y-axis? \r\n \r\nW) Time of year \r\nX) Type of fertilizer \r\nY) Day of experiment \r\nZ) Plant height", 
     "tossupA": "Y) ATHENOSPHERE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd474"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,13 +176,15 @@
     "tossupQ": "MATH Multiple Choice If \u0bd4\u0bd5\u0d4c\u0d461 [a over b equals negative 1] then what is a + b? \r\n \r\nW) 1 \r\nX) 0 \r\nY) -1 \r\nZ) -2", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Convert 147 in base 10 to base 6.", 
     "tossupA": "X) 0", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd475"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -201,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice When a hydrogen atom is in its ground state, what is \r\nTRUE about its electron? \r\n \r\nW) It is in its lowest energy level \r\nX) It is at rest \r\nY) It has escaped from the atom \r\nZ) It is inside the nucleus", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a characteristic of a \r\ndecaying unstable isotope? \r\n \r\nW) It emits new particles \r\nX) It releases energy \r\nY) It forms new atoms \r\nZ) It is more chaotic than random", 
     "tossupA": "W) IT IS IN ITS LOWEST ENERGY LEVEL", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd476"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +210,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following elements is found in DNA? \r\n \r\nW) Calcium \r\nX) Phosphorus \r\nY) Zinc \r\nZ) Helium", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Phosphorus is critical to the formation of nucleic acids, ATP \r\nand other energy storing molecules. Where are the largest reservoirs for this important mineral \r\non Earth? \r\n \r\nW) Animal biomass \r\nX) Ground water, particularly fossil water \r\nY) Sedimentary rocks of marine origin \r\nZ) Fossil fuels", 
     "tossupA": "X) PHOSPHOROUS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd477"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 0, 
@@ -231,28 +227,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT considered one of the \r\nmajor volcano types? \r\n \r\nW) Basalt dome \r\nX) Stratovolcano \r\nY) Lava dome \r\nZ) Cinder cone", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What is the name of the type of volcano that is built \r\nalmost entirely of low viscosity basaltic lava flows?", 
     "tossupA": "W) BASALT DOME", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd478"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "Y) SKIN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Short Answer Calculate the potential energy, in joules, of a 30 kilogram mass 15 \r\nmeters above the Earth\u2019s surface.", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Multiple Choice UV radiation is most damaging to which human organ? \r\n \r\nW) Heart \r\nX) Lungs \r\nY) Skin \r\nZ) Liver", 
-    "tossupA": "4500 (ACCEPT: 4410)", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd479"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -261,28 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Protein shape that results from having multiple \r\npolypeptides [pol-ee-PEP-tyds] is a part of which level of protein structure? \r\n \r\nW) Primary \r\nX) Secondary \r\nY) Tertiary \r\nZ) Quaternary", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Place the following four items in order from smallest to \r\nlargest: nucleus, ribosomes [RY-buh-sohms], mitochondria [my-tuh-KON-dree-uh], myoglobin \r\n[my-uh-GLOH-bin].", 
     "tossupA": "Z) QUATERNARY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd47a"
     }, 
-    "questionNum": "18"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "8", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice The slope of the line 2y = 10 - 10x is which of the following? \r\n \r\nW) -10 \r\nX) -5 \r\nY) 5 \r\nZ) 10", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer The endpoints of the diameter of a semicircle are represented by the \r\ncoordinates (0, a) and (0, -a). If the area of the semicircle is 32\u03c0, what is the value of a?", 
-    "tossupA": "X) - 5", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd47b"
-    }, 
-    "questionNum": "19"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -291,13 +261,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Force is equivalent to mass times the acceleration of \r\nan object. How could you guarantee a decrease in the acceleration of an object? \r\n \r\nW) Increase the mass and force \r\nX) Decrease the mass and force \r\nY) Increase the mass and decrease the force \r\nZ) Increase the force and decrease the mass", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Why are old documents preserved by sealing them in \r\ncontainers filled with helium? \r\n \r\nW) Helium will react with any poisonous gas that enter the container and prevent the gas from \r\nharming the document \r\nX) Helium is inexpensive and easy to find \r\nY) Helium is a gas that will not react with any other element including the paper of the document \r\nZ) Helium will brighten the print on the document", 
     "tossupA": "Y) INCREASE THE MASS AND DECREASE THE FORCE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd47c"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 5, 
@@ -306,13 +278,15 @@
     "tossupQ": "ENERGY Multiple Choice The rate of a reaction is directly dependent on which of the \r\nfollowing? \r\n \r\nW) Activation energy \r\nX) Reactant energy \r\nY) Product energy \r\nZ) Difference between reactant energy and product energy", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What is the quantity obtained by multiplying a uniform object\u2019s \r\nspecific heat by its mass?", 
     "tossupA": "W) ACTIVATION ENERGY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd47d"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +295,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice A periwinkle is what type of organism? \r\n \r\nW) Sea urchin \r\nX) Snail \r\nY) Barnacle \r\nZ) Star fish", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements regarding corals and \r\nzooxanthellae [zoh-uh-zan-THEL-ee] is FALSE? \r\n \r\nW) Corals can live for a few months without their zooxanthellae \r\nX) When a coral bleaches the zooxanthellae die \r\nY) The color of a coral tissue is largely due to the zooxanthellae \r\nZ) Increased water temperature can prompt a bleaching event", 
     "tossupA": "X) SNAIL", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd47e"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,12 +312,82 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Fossils found in the deep ocean are cemented in what \r\nkind of rock? \r\n \r\nW) Igneous [IG-nee-uhs] \r\nX) Extrusive \r\nY) Sedimentary \r\nZ) Metamorphic", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Rank the following in terms of largest to smallest carbon \r\nreservoirs: biosphere, atmosphere, ocean, sedimentary carbonates.", 
     "tossupA": "Y) SEDIMENTARY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd47f"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CALVING", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is farthest from the Sun? \r\n \r\nW) Kuiper Belt [KY-per] \r\nX) Oort Cloud \r\nY) Persephone [per-SEF-uh-nee] \r\nZ) Neptune", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer An iceberg is formed by the breakage of an ice shelf. \r\nWhat is the term for this event?", 
+    "tossupA": "X) OORT CLOUD", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd46d"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "HYDROGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the name of the mechanism responsible for the \r\nevolution of a species?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What is the primary type of intermolecular bond that \r\nwater molecules are able to form because of their polarity?", 
+    "tossupA": "NATURAL SELECTION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd46e"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) SKIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer Calculate the potential energy, in joules, of a 30 kilogram mass 15 \r\nmeters above the Earth\u2019s surface.", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice UV radiation is most damaging to which human organ? \r\n \r\nW) Heart \r\nX) Lungs \r\nY) Skin \r\nZ) Liver", 
+    "tossupA": "4500 (ACCEPT: 4410)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd479"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice The slope of the line 2y = 10 - 10x is which of the following? \r\n \r\nW) -10 \r\nX) -5 \r\nY) 5 \r\nZ) 10", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The endpoints of the diameter of a semicircle are represented by the \r\ncoordinates (0, a) and (0, -a). If the area of the semicircle is 32\u03c0, what is the value of a?", 
+    "tossupA": "X) - 5", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd47b"
+    }, 
+    "questionNum": 19
   }
 ]

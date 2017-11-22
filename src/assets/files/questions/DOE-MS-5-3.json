@@ -6,13 +6,15 @@
     "tossupQ": "MATH Short Answer The painting \u201cStarry Night\u201d by Vincent van Gogh is approximately 70 \r\ncentimeters tall and 100 centimeters wide. If you buy a reproduction that is 20 centimeters wide, \r\nhow many centimeters tall would it be?", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What real numbers cannot be part of the domain of the following \r\nfunction: f(x) = x/(x<sup>2</sup> \u00a0+ 3x -\u00a010)(read as: f of x equals x over open parenthesis x squared plus 3x \r\nminus 10 close parenthesis).", 
     "tossupA": "14", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd214"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -21,13 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following elements exists in nature? \r\n \r\nW) Berkelium \r\nX) Protactinium (read as: pr\u014de-tahk-TI-nee-uhm) \r\nY) Mendelevium (read as: mehn-deh-LEE-vee-uhm) \r\nZ) Curium", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true regarding one \r\nmole of two different stable isotopes of the same atom? \r\n \r\nW) Both have the same number of molecules \r\nX) Both have the same mass \r\nY) If used in the same chemical reaction, both produce the same number of moles of products \r\nZ) Both have the same number of protons", 
     "tossupA": "X) PROTACTINIUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd215"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -36,13 +40,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice In order for a star to enter a supernova \r\nphase, it must be which of the following? \r\n \r\nW) Very massive \r\nX) Very young \r\nY) Very cool \r\nZ) Very distant", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice The Sun is now transitioning from a \u201cquiet\u201d \r\nportion of the solar cycle to an \u201cactive\u201d portion. Which of the following indicates this is occurring? \r\n \r\nW) There are much stronger aurora australis than aurora borealis \r\nX) Summer temperatures are higher \r\nY) There are more sunspots \r\nZ) The speed of the solar wind has increased significantly", 
     "tossupA": "W) VERY MASSIVE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd216"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 6, 
@@ -51,13 +57,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer A sea lamprey latches onto a rainbow trout and feeds \r\nfrom the fish. As a result, the fish dies but the sea lamprey lives. Of what type of relationship is \r\nthis an example?", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Naked mole rats live in colonies with a queen and a few \r\nmales that reproduce, while other members of the colony do not reproduce. These animals have \r\nsocial castes and overlapping generations that all live in the same colony. What term best \r\ndescribes this type of life history?", 
     "tossupA": "PARASITISM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd217"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,13 +74,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the name of a composite organism that is the \r\nsymbiotic association of a fungus with a photosynthetic partner, usually either a green alga or \r\ncyanobacterium (read as: SY-ah-n\u014de-bahk-TIR-ee-um)?", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the common name for the kind of lichen which, in the \r\nwinter when other forage is buried under snow, blows down from treetops and provides food for \r\nwhite-tailed deer in the Northwest?", 
     "tossupA": "LICHEN", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd218"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -81,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What type of cloud is composed entirely of ice and \r\nconsists of long, thin, wispy streamers?", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer You estimated the length of your pocket comb to be 12 \r\ncentimeters. When you measured it, you found it to be 12.6 centimeters. To the nearest percent, \r\nwhat is the error in your estimate?", 
     "tossupA": "CIRRUS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd219"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 4, 
@@ -96,28 +108,15 @@
     "tossupQ": "MATH Short Answer In terms of pi, what is the volume, in cubic centimeters, of a right \r\ncircular cone with a radius of 2 centimeters and a height of 9 centimeters?", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Consider two parallel lines cut by a transversal. If one pair of alternate \r\ninterior angles have measures summing to 108 degrees, what is the value, in degrees, of one of the \r\nother alternate interior angles?", 
     "tossupA": "12 \u03c0", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd21a"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "+6", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer Calculate the density, in grams per cubic centimeter, of \r\nan object with a mass of 10 grams and a volume of 2 centimeters cubed.", 
-    "packetNum": 3, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the oxidation state of chromium in K\r\n2\r\nCr\r\n2\r\nO\r\n7\r\n?", 
-    "tossupA": "5", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd21b"
-    }, 
-    "questionNum": "8"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -126,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the name of a highly contagious \r\nskin infection that mainly affects infants and children, appearing primarily as red sores on the \r\nface? \r\n \r\nW) Cellulitis (read as: sehl-yeh-LY-tis) \r\nX) Shingles \r\nY) Impetigo \r\nZ) Herpes simplex", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Fingernails can reveal much about a person\u2019s overall \r\nhealth. Which of the following nail appearances corresponds to liver disease? \r\n \r\nW) Half of the nail is pink and half of the nail is white \r\nX) The nail bed is red \r\nY) The nail is white \r\nZ) The nail is yellowish, with a slight blush at the base", 
     "tossupA": "Y) IMPETIGO", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd21c"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 6, 
@@ -141,28 +142,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following substances makes up the \r\nhighest percentage of U.S. municipal waste composition? \r\n \r\nW) Food scraps \r\nX) Yard trimmings \r\nY) Paper \r\nZ) Plastics", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What general adjective describes sonar transducers \r\nthat emit an acoustic signal or pulse of sound into the water to bounce sound off of objects and \r\nsend echoes back?", 
     "tossupA": "Y) PAPER", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd21d"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "DEMOCRITUS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a physical property? \r\n \r\nW) Color \r\nX) Flammability \r\nY) Melting point \r\nZ) Density", 
-    "packetNum": 3, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer Who first theorized that everything is composed of \r\natoms that are physically indivisible?", 
-    "tossupA": "X) FLAMMABILITY", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd21e"
-    }, 
-    "questionNum": "11"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -171,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice All except which of the following indicate \r\nthat glaciers modified a landscape? \r\n \r\nW) Ar\u00eates (read as: ah-RATES), cirques, and horns \r\nX) Moraines, drumlins, and kettle lakes \r\nY) Glacial flour and glacial striations \r\nZ) Permanent rock folding", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What are the two most abundant elements \r\nin Earth\u2019s continental crust?", 
     "tossupA": "Z) PERMANENT ROCK FOLDING", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd21f"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 3, 
@@ -186,13 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice The particles of which of the following states of \r\nmatter have the strongest attraction between them? \r\n \r\nW) Gas \r\nX) Liquid \r\nY) Plasma \r\nZ) Solid", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Using proper chemical nomenclature and indicating \r\nthe state of each substance, such as solid, liquid, aqueous, or gas, what is the balanced \r\nchemical equation for the reaction of solid potassium with water?", 
     "tossupA": "Z) SOLID", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd220"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 5, 
@@ -201,28 +193,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following types of biomass energy do we use the \r\nmost in the United States? \r\n \r\nW) Wood \r\nX) Biofuels \r\nY) Trash \r\nZ) Landfill gas", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice As of 2008, which of the following states consumed the most \r\nenergy, including residential, commercial, industrial, and transportation sectors? \r\n \r\nW) California \r\nX) Florida \r\nY) Texas \r\nZ) New York", 
     "tossupA": "W) WOOD", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd221"
     }, 
-    "questionNum": "14"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "25", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Two fair six-sided dice are rolled. As a fraction in simplest form, what \r\nis the probability that the sum of the two numbers rolled will be 5?", 
-    "packetNum": 3, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer The diagonals of a rhombus are 10 centimeters and 5 centimeters. \r\nWhat is the area of the rhombus in square centimeters?", 
-    "tossupA": "1/9", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd222"
-    }, 
-    "questionNum": "15"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -231,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice A rock is described as a bioclastic \r\nsedimentary rock. Of which of the following could it be composed? \r\n \r\nW) Shell fragments \r\nX) Quartz grains \r\nY) Peat moss \r\nZ) Massive gypsum", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What are the bulbous cyanobacteria (read \r\nas: SY-ah-n\u014de-bahk-TIR-ee-ah) colonies called that are thought to be the oldest fossilized \r\nstructures known on Earth?", 
     "tossupA": "W) SHELL FRAGMENTS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd223"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -246,13 +227,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer A firefighter who weighs 700 newtons slides down a \r\npole at a constant velocity. In newtons, what is the magnitude of the frictional force that acts on \r\nher and in what direction does that force act?", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the power in watts dissipated by a 10 ohm \r\nresistance when connected to a 10-volt battery?", 
     "tossupA": "700 UPWARDS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd224"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 4, 
@@ -261,13 +244,15 @@
     "tossupQ": "MATH Short Answer Five National Science Bowl contestants meet for the first time. Each \r\none shakes the hand of the other four contestants. How many handshakes are exchanged?", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What are the coordinates of the point of intersection of the graphs of \r\nthe two lines y \u00a0= \u00a03x - \u00a05 and y \u00a0= \u00a05x \u00a0+ \u00a09?", 
     "tossupA": "10", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd225"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 5, 
@@ -276,43 +261,15 @@
     "tossupQ": "ENERGY Multiple Choice Typical households using natural gas consumed 22% less \r\nnatural gas in 2009 than in 1990. Which of the following is NOT a reason for the decline? \r\n \r\nW) Increased efficiency of appliances \r\nX) Population shift towards warmer regions \r\nY) Decreased use of natural gas for home heating \r\nZ) Reduction in the number of consumers", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice According to the Energy Information Administration, as of 2009, \r\napproximately what percentage of U.S. crude oil production took place in the Gulf of Mexico? \r\n \r\nW) 15% \r\nX) 30% \r\nY) 45% \r\nZ) 60%", 
     "tossupA": "Z) REDUCTION IN THE NUMBER OF CONSUMERS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd226"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "PHOBAETICUS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following animals has the longest gestation \r\nperiod?   \r\n \r\nW) Horse \r\nX) Hippopotamus \r\nY) Lion \r\nZ) Elephant", 
-    "packetNum": 3, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What is the genus of the longest extant insect in the world?", 
-    "tossupA": "Z) ELEPHANT", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd227"
-    }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "3, 6, 8, 10, AND 12", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the greatest integer less than or equal to the cube root of \r\n211?", 
-    "packetNum": 3, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Consider the data set of ten numbers {3, 5, 6, 6, 7, 9, 10, 10, 10, 12}. \r\nWhat are the minimum, first quartile, median, third quartile, and maximum, respectively?", 
-    "tossupA": "5", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd228"
-    }, 
-    "questionNum": "21"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -321,13 +278,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Gamma rays released during the Sun\u2019s \r\nfusion would take thousands of years to reach the Sun\u2019s surface from which of the following \r\nsolar layers? \r\n \r\nW) Core \r\nX) Radiative zone \r\nY) Convective zone \r\nZ) Photosphere", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer A pair of binoculars is labeled 7 x 50; the 7 \r\nspecifies the magnification. What precisely is indicated by the 50?", 
     "tossupA": "W) CORE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd229"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 5, 
@@ -336,13 +295,15 @@
     "tossupQ": "ENERGY Multiple Choice The work required to stop a moving car is equal to which of the \r\nfollowing? \r\n \r\nW) Power output of the car \r\nX) The car\u2019s kinetic energy \r\nY) The product of the mass of the car and its acceleration \r\nZ) The momentum of the car", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Almost everywhere across the entire planet, the layer of ground \r\nat a depth between 3 and 100 meters is a relatively constant temperature. In degrees Celsius, \r\nwhich of the following temperatures is it? \r\n \r\nW) 5 \r\nX) 10 \r\nY) 20 \r\nZ) 25", 
     "tossupA": "X) THE CAR\u2019S KINETIC ENERGY", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd22a"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 3, 
@@ -351,13 +312,100 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements will most likely gain \r\ntwo electrons during a chemical reaction? \r\n \r\nW) Oxygen \r\nX) Strontium \r\nY) Nitrogen \r\nZ) Fluorine", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Four 5-ohm resistors are connected in a parallel \r\ncircuit. What is the total resistance of the circuit in ohms?", 
     "tossupA": "W) OXYGEN", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd22b"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "+6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Calculate the density, in grams per cubic centimeter, of \r\nan object with a mass of 10 grams and a volume of 2 centimeters cubed.", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the oxidation state of chromium in K\r\n2\r\nCr\r\n2\r\nO\r\n7\r\n?", 
+    "tossupA": "5", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd21b"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "DEMOCRITUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a physical property? \r\n \r\nW) Color \r\nX) Flammability \r\nY) Melting point \r\nZ) Density", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Who first theorized that everything is composed of \r\natoms that are physically indivisible?", 
+    "tossupA": "X) FLAMMABILITY", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd21e"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "25", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Two fair six-sided dice are rolled. As a fraction in simplest form, what \r\nis the probability that the sum of the two numbers rolled will be 5?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The diagonals of a rhombus are 10 centimeters and 5 centimeters. \r\nWhat is the area of the rhombus in square centimeters?", 
+    "tossupA": "1/9", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd222"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "PHOBAETICUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following animals has the longest gestation \r\nperiod?   \r\n \r\nW) Horse \r\nX) Hippopotamus \r\nY) Lion \r\nZ) Elephant", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the genus of the longest extant insect in the world?", 
+    "tossupA": "Z) ELEPHANT", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd227"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3, 6, 8, 10, AND 12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the greatest integer less than or equal to the cube root of \r\n211?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Consider the data set of ten numbers {3, 5, 6, 6, 7, 9, 10, 10, 10, 12}. \r\nWhat are the minimum, first quartile, median, third quartile, and maximum, respectively?", 
+    "tossupA": "5", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd228"
+    }, 
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -366,12 +414,14 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following organisms is NOT a habitual biped? \r\n \r\nW) Kangaroo mouse \r\nX) Ostrich \r\nY) Gibbon \r\nZ) Proboscis monkey", 
     "packetNum": 3, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer In scientific classification, what is the order of the raccoon?", 
     "tossupA": "Z) PROBOSCIS MONKEY", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd22c"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

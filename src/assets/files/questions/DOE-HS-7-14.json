@@ -6,13 +6,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Isotelus rex [i-SOH-te-luhs REKS] was discovered in \r\n1998 and is the largest found fossil of what organism?  \r\n \r\nW) Dinosaur \r\nX) Whale \r\nW) Fish \r\nZ) Trilobite", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Winds aloft tend to form into longwaves. Assuming there \r\nis no divergence or convergence and the column of air cannot stretch or contract, as we follow \r\nthe air at a constant speed and a constant 500 millibar level, it begins to flow southeastward, \r\nwhere the value of Earth\u2019s vorticity decreases. The conservation of what factor then causes the \r\nair to head northeastward?", 
     "tossupA": "Z) TRILOBITE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda0d"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Which of the following fish is endemic to the island of Cozumel?  \r\n \r\nW) Splendid toadfish \r\nX) Coelacanth [SEE-luh-kanth] \r\nY) Mola mola \r\nZ) Orange roughy", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer Arrange proximally to distally the following four components of a \r\nbird\u2019s contour feather: 1) superior umbilicus [uhm-BIL-i-kuhs], 2) rachis [RAY-kis], 3) calamus, \r\n4) inferior umbilicus.", 
     "tossupA": "W) SPLENDID TOADFISH", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda0e"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,13 +40,15 @@
     "tossupQ": "MATH Short Answer Given g of x equals 5 plus the fraction with \r\nnumerator x squared and denominator sine of the quantity x squared, find the limit as x approaches zero of g of x.", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice What is dy/dx for x<sup>2</sup> + y<sup>2</sup> = 2 at the point with coordinates (1, 1)? \r\n \r\nW) -1 \r\nX) -1/2 \r\nY) 0 \r\nZ) 3/2", 
     "tossupA": "6", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda0f"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,13 +57,15 @@
     "tossupQ": "ENERGY Multiple Choice Judged to be an intervention that delivers high impact per \r\ndevelopment dollar, improved cooking stoves aim to reduce greenhouse gas contribution by \r\nreducing the amount of what substance? \r\n \r\nW) Carbon dioxide \r\nX) Black carbon \r\nY) Methane \r\nZ) Nitrous oxide", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following is NOT a common use for flue gas \r\ndesulfurization [dee-suhl-fuh-ri-ZAY-shuhn] products? \r\n \r\nW) Raw material for drywall \r\nX) Raw material for plywood  \r\nY) Fill for structural applications \r\nZ) Feed stock in cement production", 
     "tossupA": "X) BLACK CARBON", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda10"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 2, 
@@ -66,13 +74,15 @@
     "tossupQ": "CHEMISTRY Short Answer What simple system is used to describe molecular vibrations in \r\nquantum mechanics?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer In free-radical polymerization [puh-lim-er-uh-ZAY-shuhn], there \r\nare two possible termination steps. One is combination of free radicals. What is the other?", 
     "tossupA": "HARMONIC OSCILLATOR (ACCEPT: BALL AND SPRING)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda11"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -81,13 +91,15 @@
     "tossupQ": "PHYSICS Multiple Choice Which of the following quark compositions does NOT have a total \r\nof zero strangeness quantum number? \r\n \r\nW) Up, down \r\nX) Up, strange  \r\nY) Strange, antiparticle strange  \r\nZ) Down, down", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice A concave spherical mirror has a radius of 200 centimeters. What \r\nobject distance in centimeters from this mirror is needed to form a real image that is one fourth \r\nof the size of the object? \r\n \r\nW) 100  \r\nX) 125 \r\nY) 250  \r\nZ) 500", 
     "tossupA": "X)  U P, STRANGE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda12"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following organisms were NOT extinct by \r\nthe end of the Cretaceous [kri-TAY-shuhs] period? \r\n \r\nW) Ichthyosaurs [IK-thee-uh-sawrs] \r\nX) Cycliophora [sy-KLEEUH-fruh] \r\nY) Quetzalcoatlus [ket-sahl-koh-AHT-luhs] \r\nZ) Plesiosaurs [PLEE-see-uh-sawrs]", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer The orbit of an asteroid in our solar system has a semi-\r\nmajor axis of 4 AU. To the nearest integer, and in years, what is its period?", 
     "tossupA": "X) CYCLIOPHORA", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda13"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,28 +125,15 @@
     "tossupQ": "BIOLOGY Multiple Choice The following are examples of proteins that are not functional \r\nbecause of some problem. In which of the following examples does the problem result from \r\ndamage primarily to the secondary structure of the protein?  \r\n \r\nW) The protein has been exposed to urea, which has disrupted its hydrogen bonds  \r\nX) A mutation is at the active site of a protein and the protein has lost catalytic activity \r\nY) A mutation is at the dimer [DY-mer] interface of a protein and prevents its dimerization \r\nZ) A protein has been exposed to an oily chemical that disrupts its hydrophobic core", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer Arrange the following six layers found in a one-year old woody \r\nsapling from most lateral to most medial: 1) Cortex, 2) Phloem [FLOH-em] fibers, 3) Pith, 4) \r\nSecondary phloem, 5) Periderm, 6) Secondary xylem [ZY-luhm].", 
     "tossupA": "W) THE PROTEIN HAS BEEN EXPOSED TO UREA, WHICH HAS DISRUPTED ITS \r\nHYDROGEN BONDS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda14"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "\u221a(1-4x<sup>2</sup>)/(2x)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Multiple Choice What is the principal value in radians for the inverse cosine \r\nof negative square root of 3 over 2? \r\n \r\nW) \u2212pi/6  \r\nX) \u2212pi/3 \r\nY) 5pi/6  \r\nZ) 11pi/6", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer Find tan(arccos (2x)) [the tangent of the arc-cosine of 2x] in terms of \r\nx.", 
-    "tossupA": "Y) 5pi/6", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecda15"
-    }, 
-    "questionNum": "9"
+    "questionNum": 8
   }, 
   {
     "category": 5, 
@@ -141,13 +142,15 @@
     "tossupQ": "ENERGY Multiple Choice Roughly what percentage of the energy density of the universe is \r\ndark energy? \r\n \r\nW) 13% \r\nX) 35% \r\nY) 72% \r\nZ) 99%", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following does NOT help explain why the theoretical \r\nyield of cellular respiration is never actually achieved? \r\n \r\nW) Pyruvate [py-ROO-vayt] must be actively transported out of the mitochondria [my-tuh-\r\nKON-dree-uh] \r\nX) Phosphate is actively transported into the mitochondria \r\nY) ADP and ATP are actively exchanged across the inner mitochondrial membrane \r\nZ) The inner mitochondrial membrane leaks protons", 
     "tossupA": "Y) 72%", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda16"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 2, 
@@ -156,13 +159,15 @@
     "tossupQ": "CHEMISTRY Short Answer What is the relationship of the organic compounds diethyl ether, \r\nn-butyl alcohol, and methyl propyl ether?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Multiple Choice Which of the following types of electrodes can cause problems \r\nbecause it is time-sensitive and its measurements result in a cumulative response? \r\n \r\nW) Enzyme \r\nX) Gas sensing  \r\nY) Solid state  \r\nZ) Liquid membrane", 
     "tossupA": "STRUCTURAL ISOMERS (ACCEPT: CONSTITUTIONAL ISOMERS)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda17"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 3, 
@@ -171,13 +176,15 @@
     "tossupQ": "PHYSICS Multiple Choice A body with a 2 kilogram mass has position vector r = 3i + 2t 2j \r\nmeters. What is the velocity at t = 1 second? \r\n \r\nW) 1j  \r\nX) 4j  \r\nY) 3i + 4j \r\nZ) 1i + 1j", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice Two objects with masses m1 and m2 are hanging vertically by \r\ndifferent springs of spring constants k1 and k2. If m1 = 3m2 and k1= 2k2, what is the ratio x1/x<sub>2</sub> \r\nof their stretches? \r\n \r\nW) 2/3 \r\nX) 3/2 \r\nY) 4 \r\nZ) 6", 
     "tossupA": "X) 4j", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda18"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +193,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Where do the strongest winds in Antarctica, which can \r\nreach 200 miles per hour, originate? \r\n \r\nW) Antarctic east coast \r\nX) Antarctic polar plateau \r\nY) Antarctic circumpolar wave \r\nZ) Weddell Sea", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer By number, put the following four Earth events in \r\nchronological order from earliest to most recent: 1) first evidence of ice at the poles, 2) opening \r\nof the Red Sea, 3) separation of Australia and Antarctica post-Pangaea [pan-JEE-uh], 4) \r\ncollision of India with Asia.", 
     "tossupA": "X) ANTARCTIC POLAR PLATEAU", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda19"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 1, 
@@ -201,13 +210,15 @@
     "tossupQ": "BIOLOGY Short Answer In muscle cells, the sarcoplasmic reticulum [sahr-kuh-PLAHZ-mik \r\nri-TIK-yuh-luhm] is an important organelle that permits the muscle cell to contract. It acts to \r\nstore a particular chemical until it is electrically excited. What chemical is stored in the \r\nsarcoplasmic reticulum?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Which of the following microscopy methods would be most \r\nappropriate for observing the distribution of GFP in a cell? \r\n \r\nW) Simple light microscope \r\nX) Atomic force microscope  \r\nY) Fluorescence light microscope \r\nZ) Transmission electron microscope", 
     "tossupA": "CALCIUM (ACCEPT: CALCIUM ION OR CA+2)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda1a"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 2, 
@@ -216,13 +227,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice Which of the following molecules has a permanent dipole \r\nmoment? \r\n \r\nW) Carbon dioxide \r\nX) Methane \r\nY) Hydrogen sulfide \r\nZ) Molecular nitrogen", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer List the five halogens in order of increasing first ionization \r\nenergy.", 
     "tossupA": "Y) HYDROGEN SULFIDE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda1b"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +244,15 @@
     "tossupQ": "MATH Short Answer Solve for x: 14\u2212\u221a(3-x) = 9 [14 minus the square root of the \r\nquantity 3 minus x equals 9].", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A circle of radius 2 is centered at the point (2, 3). What is the slope of \r\nthe line tangent to the circle at the point where x = 3 and y is greater than 3?", 
     "tossupA": "-22", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda1c"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 2, 
@@ -246,13 +261,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice What is the change in the parent atom atomic number upon \r\nalpha particle emission? \r\n \r\nW) It decreases by 2 \r\nX) It decreases by 1 \r\nY) It increases by 1 \r\nZ) It increases by 2", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer Providing your answer in proper point group abbreviation, to \r\nwhat point group does the molecule 1, 2-difluoroethane [1 comma 2-di-floo-uh-roh-ETH-ayn] \r\nbelong?", 
     "tossupA": "W) IT DECREASES BY 2", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda1d"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +278,15 @@
     "tossupQ": "PHYSICS Multiple Choice If the tension in a stretched string is multiplied by a factor of 9, \r\nthe speed of the transverse wave is multiplied by what factor? \r\n \r\nW) 1/9  \r\nX) 1/3 \r\nY) 3  \r\nZ) 9", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice Assuming the Boltzmann constant k = 1.38 \u00d7 10-23 joules per \r\nKelvin, what is the average translational kinetic energy in joules of molecules of an ideal gas at \r\n127&deg; Celsius?  \r\n \r\nW) 2.6 \u00d710-21  \r\nX) 8.28 \u00d7 10-21 \r\nY) 2.6 \u00d710-22  \r\nZ) 8.28 \u00d710-22", 
     "tossupA": "Y) 3", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda1e"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +295,15 @@
     "tossupQ": "BIOLOGY Multiple Choice When two pyrimidine [py-RIM-i-deen] bases are adjacent on a \r\nDNA strand, exposure to UV light will commonly lead to formation of a cyclobutane ring between \r\nthem, resulting in a bulky lesion in the DNA. The normal replicative polymerases [pol-uh-muh-\r\nRAYS-uhs] cannot use this as a template, and the lesion often results in mutation if it cannot be \r\nrepaired. Which of the following is an example of this lesion formed by UV exposure of \r\nneighboring pyrimidines [py-RIM-i-deens]? \r\n \r\nW) Transversion \r\nX) Cytosine deamination [SY-tuh-seen] \r\nY) Thymine dimer [THY-meen DY-mer] \r\nZ) Intercalation", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Which of the following statements is true regarding the \r\nmechanism of infection in prion diseases? \r\n \r\nW) Prions invade the cell nucleus, altering DNA transcription processes \r\nX) Prions induce abnormal folding in normal protein molecules  \r\nY) Prions bind to specific sites on a ribosome [RY-buh-sohm], rendering them useless \r\nZ) Prions bind to mRNA, leaving the nucleus, inducing post-transcriptional changes before \r\ntranslation", 
     "tossupA": "Y) THYMINE DIMER", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda1f"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +312,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following features forms because parts of \r\na glacier move at varying speeds and in different directions?  \r\n \r\nW) Moraines \r\nX) Moulan \r\nY) Crevasses \r\nZ) Ar\u00eates [uh-REYTS]", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Order the following four steps that are theorized to have \r\noccurred in the formation of our atmosphere: 1) plants evolve and oxygen increases \r\ndramatically; 2) the atmosphere gradually becomes rich in nitrogen; 3) outgassing leads to \r\nabundant water vapor; 4) photodissociation increases oxygen gradually.", 
     "tossupA": "Y) CREVASSES", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda20"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +329,15 @@
     "tossupQ": "MATH Short Answer What is the scalar product of the vectors 2i - 3j + 2k and i + 2j + 2k?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What are the equations of all asymptotes -- vertical, horizontal, or \r\noblique -- for the graph of the function f of x equals the fraction with numerator \r\nx squared minus 3x and denominator x minus 1?", 
     "tossupA": "0", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda21"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 5, 
@@ -321,13 +346,15 @@
     "tossupQ": "ENERGY Multiple Choice When dealing with a tank of 150 pounds of water on a platform, it \r\nis most energy intensive to do which of the following? \r\n \r\nW) Lift the 150 pounds of water 2 feet in the air \r\nX) Lower the 150 pounds of water by 2 feet \r\nY) Decrease the temperature of the water by 2\u00b0 Fahrenheit  \r\nZ) Increase the temperature of the water by 1\u00b0 Fahrenheit", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What process accounts for most of the Earth\u2019s geothermal energy?", 
     "tossupA": "Y) DECREASE THE TEMPERATURE OF THE WATER BY 2\u00b0 FAHRENHEIT", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda22"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -336,13 +363,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Which of the following is NOT a point mutation?  \r\n \r\nW) Missense \r\nX) Transversion  \r\nY) Inversion \r\nZ) Transition", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice The cotyledon [kot-uhl-EED-uhn] is which of the following? \r\n \r\nW) Primary embryonic leaf \r\nX) Primary embryonic petal \r\nY) Secondary embryonic leaf \r\nZ) Secondary embryonic petal", 
     "tossupA": "Y) INVERSION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda23"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 2, 
@@ -351,13 +380,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice Who was the inventor of the first electrochemical cell? \r\n \r\nW) Michael Faraday \r\nX) Alessandro Volta  \r\nY) James Maxwell  \r\nZ) Benjamin Franklin", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer A plastic undergoes deformation at 740\u00b0 Celsius. Given that its \r\noriginal cross-sectional area is 70 centimeters, its cross-sectional area after deformation is 62 \r\ncentimeters, and its yield strength is 300 megapascals, determine the percent cold work to the \r\nnearest whole number.", 
     "tossupA": "X) ALESSANDRO VOLTA", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda24"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 3, 
@@ -366,12 +397,31 @@
     "tossupQ": "PHYSICS Multiple Choice What physical unit is the product of velocity, magnetic field, and \r\nlength? \r\n \r\nW) Volt \r\nX) Newton meter per ampere second squared \r\nY) Joule per second squared \r\nZ) Newton per ampere", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer A 1 meter long wire lying along the x-axis carries a current of 10.0 \r\namperes in the negative x direction. The wire is in a uniform magnetic field 1.0 \u00d7 10-3 teslas per \r\nsquare meter. Expressing your answer in scientific notation with one significant figure, what is \r\nthe magnitude of the magnetic force on the wire in newtons?", 
     "tossupA": "W) VOLT", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecda25"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "\u221a(1-4x<sup>2</sup>)/(2x)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice What is the principal value in radians for the inverse cosine \r\nof negative square root of 3 over 2? \r\n \r\nW) \u2212pi/6  \r\nX) \u2212pi/3 \r\nY) 5pi/6  \r\nZ) 11pi/6", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find tan(arccos (2x)) [the tangent of the arc-cosine of 2x] in terms of \r\nx.", 
+    "tossupA": "Y) 5pi/6", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecda15"
+    }, 
+    "questionNum": 9
   }
 ]

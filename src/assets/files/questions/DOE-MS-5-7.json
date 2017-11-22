@@ -6,28 +6,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT a reasonable \r\nline of evidence for a global cooling event? \r\n \r\nW) Glacial tills at low latitudes \r\nX) Heightened sea levels \r\nY) Reduced photosynthesis \r\nZ) Reduced hydrologic cycle", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice At which of the following internal Earth \r\nboundaries do mantle plumes occur? \r\n \r\nW) Inner core/outer core boundary \r\nX) Athenosphere/lithosphere boundary \r\nY) Mantle/outer core boundary \r\nZ) Mantle/crust boundary", 
     "tossupA": "X) HEIGHTENED SEA LEVELS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf0d"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "5", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name of the ClO\r\n4\r\n\u2212\r\n (read as: C-L-O-4 minus) \r\nion?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the ideal mechanical advantage of an 18-\r\ncentimeter lever if the fulcrum is located 3 centimeters from the resistance?", 
-    "tossupA": "PERCHLORATE", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccf0e"
-    }, 
-    "questionNum": "2"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -36,13 +23,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following sets of states are \r\nincluded as a part of \u201ctornado alley\u201d? \r\n \r\nW) Texas, Kansas, and Missouri \r\nX) Oklahoma, Texas, and Virginia \r\nY) Texas, New Mexico, and Arizona \r\nZ) Mississippi, Georgia, and Kansas", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Hadley and Ferrel atmospheric cells are the \r\nresult of what kind of heat transport?", 
     "tossupA": "W) TEXAS, KANSAS, AND MISSOURI", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf0f"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,28 +40,15 @@
     "tossupQ": "ENERGY Short Answer What is the general name of the process through which light is \r\ngenerated from a chemical reaction without the release of significant heat energy?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following statements is NOT true about the solar \r\ntower, Solar Two? \r\n \r\nW) It generated steam directly from water in its receiver \r\nX) It could supply electric power on demand to the local utility company \r\nY) Nearly 2000 heliostats reflected sunlight onto a receiver located at the top of the tower \r\nZ) Concentrated sunlight heated molten salt to temperatures as high as 1000\u00b0 Fahrenheit", 
     "tossupA": "CHEMILUMINESCENCE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf10"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "OXYGEN, CARBON, HYDROGEN, NITROGEN, AND PHOSPHORUS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer Which type of cell becomes cancerous in people who develop \r\nleukemia?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What are the five most common chemical elements of living \r\nbiological matter?", 
-    "tossupA": "WHITE BLOOD CELL", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccf11"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 4, 
@@ -81,43 +57,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following adjectives describes the function: y \u00a0=1/(3 - x<sup>2</sup>)\r\n(read as: y equals 1 over open parenthesis 3 minus x squared close parenthesis)? \r\n \r\nW) Even \r\nX) Odd \r\nY) One-to-one \r\nZ) Polynomial", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Frodo drove 250 miles at an average speed of 50 miles per hour, and \r\nthe remaining 360 miles at an average speed of 60 miles per hour. To the nearest integer, what \r\nwas his average speed in miles per hour for the entire trip?", 
     "tossupA": "W) EVEN", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf12"
     }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "BACTERIOPHAGES DO NOT INFECT HUMANS (ACCEPT: BACTERIOPHAGES \r\nONLY INFECT PROKARYOTES)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What term is used to describe sphere-shaped bacteria?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Why are there no human vaccines against bacteriophages \r\n(read as: bahk-TIR-ee-oh-fay-jehs)?", 
-    "tossupA": "COCCI", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccf13"
-    }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "POTASSIUM, URANIUM, AND THORIUM", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Multiple Choice Which of the following best describes the composition of \r\npolycrystalline silicon solar panels? \r\n \r\nW) A piece of semi-conducting material with a thin silicon film over the top \r\nX) One continuous sheet of silicon with a backing of metal-conducting material \r\nY) Lots of individual PV cells that have a backing of metal-conducting material \r\nZ) Strips of silicon form the PV cells that have a backing of metal-conducting material", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer Aside from the residual heat generated from the formation of Earth, \r\nwhat three principle radioactive elements are thought to be the main sources of heat within \r\nEarth\u2019s interior?", 
-    "tossupA": "Y) LOTS OF INDIVIDUAL PV CELLS THAT HAVE A BACKING OF METAL-\r\nCONDUCTING MATERIAL", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccf14"
-    }, 
-    "questionNum": "8"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -126,13 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the maximum number of bonds a carbon atom \r\ncan form?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following situations requires the most \r\npower? \r\n \r\nW) Lifting a 60 newton weight 50 meters in 3 minutes \r\nX) Lifting a 60 newton weight 70 meters in 5 minutes \r\nY) Lifting a 70 newton weight 50 meters in 3 minutes \r\nZ) Lifting a 70 newton weight 70 meters in 5 minutes", 
     "tossupA": "4", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf15"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +91,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following contributes to the hydrophobicity of \r\nlipids? \r\n \r\nW) Water is polar and lipids are non-polar \r\nX) Water and lipids are both polar \r\nY) Water and lipids are both non-polar \r\nZ) Water is non-polar and lipids are polar", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the name of the network responsible for echinoderm \r\n(read as: ee-KY-neh-dehrm) movement?", 
     "tossupA": "W) WATER IS POLAR AND LIPIDS ARE NON-POLAR", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf16"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -156,13 +108,15 @@
     "tossupQ": "MATH Short Answer Give the name of the Greek mathematician, often referred to as the \r\nfather of geometry, who deduced geometrical principles based upon postulates such as, \u201cit is \r\npossible to draw a straight line from any point to any other point.\u201d", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A committee of 3 is to be formed from a group of 6 people. How many \r\ndifferent committees are possible?", 
     "tossupA": "EUCLID", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf17"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,43 +125,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a TRUE statement about \r\nfructose and glucose? \r\n \r\nW) They have different molecular formulas \r\nX) They have different molecular structures \r\nY) They have the same molecular structure \r\nZ) They are both disaccharides (read as: dy-SAH-keh-ryds)", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Name all of the layers of Earth\u2019s atmosphere that have \r\nan increasing temperature as altitude increases.", 
     "tossupA": "X) THEY HAVE DIFFERENT MOLECULAR STRUCTURES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf18"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "HYDROGEN, HELIUM, AND METHANE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the term for breakage along planes \r\nof weak bonding that produces distinctive, smooth, flat surfaces?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What are the three gases that primarily \r\ncompose Uranus\u2019s atmosphere?", 
-    "tossupA": "CLEAVAGE", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccf19"
-    }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "W) MAMMALIAN LUNGS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer A see-saw is an example of what class of lever?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following animal structures does NOT \r\nmake use of countercurrent exchange? \r\n \r\nW) Mammalian lungs \r\nX) Fish gills \r\nY) Vertebrate kidneys \r\nZ) Muscles of a great white shark", 
-    "tossupA": "FIRST", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccf1a"
-    }, 
-    "questionNum": "14"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -216,13 +142,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is always the RNA start codon, where translation \r\nbegins?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer When exposed to unfavorable environmental conditions, \r\ncoral loses its symbiont zooxanthella (read as: zoo-zahn-THEH-lah), a condition known as \r\n\u201cbleaching.\u201d Name the process, beneficial to the coral as a whole, for which zooxanthella (read \r\nas: zoo-zahn-THEH-lah) are responsible.", 
     "tossupA": "AUG (DO NOT ACCEPT: ATG)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf1b"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 6, 
@@ -231,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which kind of mouth would belong to a fish that \r\nfeeds on crustaceans and other shellfish? \r\n \r\nW) Inferior \r\nX) Superior \r\nY) Terminal \r\nZ) Protrusible", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer In a reaction that runs to completion, 3 moles of \r\nsubstance A react with 5 moles of substance B to create 2 moles of substance C. To create 18 \r\nmoles of substance C, what is the total number of moles of reactants required?", 
     "tossupA": "W) INFERIOR", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf1c"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 4, 
@@ -246,13 +176,15 @@
     "tossupQ": "MATH Short Answer What is the largest two-digit prime number?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What are the coordinates of the vertex of the parabola with equation \r\ny = x\r\n<sup>2</sup>\r\n + 6x + 4?", 
     "tossupA": "97", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf1d"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the term for an insoluble product that is \r\nformed in a chemical reaction as a result of combining two liquids?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Name three properties of non-metals that correspond, \r\nrespectively, to the following properties of metals: malleable, shiny, and conducting.", 
     "tossupA": "PRECIPITATE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf1e"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +210,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Lobsters and centipedes have jointed appendages and are \r\nboth classified as arthropods. What defining characteristic, shared by all arthropods, provides a \r\nprotective function but limits growth and flexibility?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice In terms of available energy, why would low biomass be \r\nexpected for any tundra biome?  \r\n \r\nW) Plants are not able to grow in the cold temperatures \r\nX) High wind speeds remove the nutrients needed by plants \r\nY) There is little sunlight to provide the initial energy \r\nZ) There are few top predators, so little energy is needed", 
     "tossupA": "EXOSKELETON", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf1f"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +227,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the dominant direction of \r\nsurface currents at low latitudes along the coast of South America in the Pacific Ocean? \r\n \r\nW) Southwest \r\nX) Northwest \r\nY) Southeast \r\nZ) Northeast", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Object 1 has a mass of 3 kilograms and moves across \r\na frictionless surface at a velocity of 4 meters per second. Object 1 then strikes object 2, which \r\nhas a mass of 2 kilograms and was motionless prior to the collision. The collision is completely \r\ninelastic. Providing your answer as a decimal to the nearest tenth, what is the speed of object 2 \r\nafter the collision, in meters per second?", 
     "tossupA": "X) NORTHWEST", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf20"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -306,13 +244,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What scientist received the Nobel Prize for perfecting \r\na technique for refining uranium?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice In a parallel circuit with constant voltage, if a branch \r\nwas added, which of the following would happen to the total equivalent resistance and the total \r\nsupplied current? \r\n \r\nW) Both would both increase \r\nX) Both would both decrease \r\nY) The resistance would increase and the current would decrease \r\nZ) The resistance would decrease and the current would increase", 
     "tossupA": "MARIE CURIE (DO NOT ACCEPT: CURIE)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf21"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +261,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice The Solar System is believed to have \r\nformed following the collapse of which of the following? \r\n \r\nW) A galactic core \r\nX) A globular cluster \r\nY) A neutron star \r\nZ) A molecular cloud", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Name the three types of tectonic plate \r\nboundaries.", 
     "tossupA": "Z) A MOLECULAR CLOUD", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf22"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +278,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following describes most of the \r\nelements on the periodic table? \r\n \r\nW) Synthetic \r\nX) Nonmetals \r\nY) Noble gases \r\nZ) Conductors", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer When subjected to a potential difference of 100 volts, \r\na certain capacitor builds up a charge on one plate of 0.2 coulombs. Providing your answer as a \r\ndecimal to the nearest thousandth, what is this capacitor's capacitance in farads?", 
     "tossupA": "Z) CONDUCTORS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf23"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 5, 
@@ -351,13 +295,117 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following is NOT an example of a direct-use \r\napplication of geothermal energy? \r\n \r\nW) Bathing \r\nX) Production of electricity \r\nY) Heating homes \r\nZ) Heating water at fish farms", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer The 1947 Texas City disaster, the deadliest industrial accident in \r\nthe United States, was caused by the detonation of what chemical compound, often used as an \r\noxidizing agent in explosives?", 
     "tossupA": "X) PRODUCTION OF ELECTRICITY", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf24"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "HYDROGEN, HELIUM, AND METHANE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the term for breakage along planes \r\nof weak bonding that produces distinctive, smooth, flat surfaces?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What are the three gases that primarily \r\ncompose Uranus\u2019s atmosphere?", 
+    "tossupA": "CLEAVAGE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf19"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name of the ClO\r\n4\r\n\u2212\r\n (read as: C-L-O-4 minus) \r\nion?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the ideal mechanical advantage of an 18-\r\ncentimeter lever if the fulcrum is located 3 centimeters from the resistance?", 
+    "tossupA": "PERCHLORATE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf0e"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "OXYGEN, CARBON, HYDROGEN, NITROGEN, AND PHOSPHORUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Which type of cell becomes cancerous in people who develop \r\nleukemia?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What are the five most common chemical elements of living \r\nbiological matter?", 
+    "tossupA": "WHITE BLOOD CELL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf11"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "BACTERIOPHAGES DO NOT INFECT HUMANS (ACCEPT: BACTERIOPHAGES \r\nONLY INFECT PROKARYOTES)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What term is used to describe sphere-shaped bacteria?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Why are there no human vaccines against bacteriophages \r\n(read as: bahk-TIR-ee-oh-fay-jehs)?", 
+    "tossupA": "COCCI", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf13"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "POTASSIUM, URANIUM, AND THORIUM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following best describes the composition of \r\npolycrystalline silicon solar panels? \r\n \r\nW) A piece of semi-conducting material with a thin silicon film over the top \r\nX) One continuous sheet of silicon with a backing of metal-conducting material \r\nY) Lots of individual PV cells that have a backing of metal-conducting material \r\nZ) Strips of silicon form the PV cells that have a backing of metal-conducting material", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Aside from the residual heat generated from the formation of Earth, \r\nwhat three principle radioactive elements are thought to be the main sources of heat within \r\nEarth\u2019s interior?", 
+    "tossupA": "Y) LOTS OF INDIVIDUAL PV CELLS THAT HAVE A BACKING OF METAL-\r\nCONDUCTING MATERIAL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf14"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) MAMMALIAN LUNGS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer A see-saw is an example of what class of lever?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following animal structures does NOT \r\nmake use of countercurrent exchange? \r\n \r\nW) Mammalian lungs \r\nX) Fish gills \r\nY) Vertebrate kidneys \r\nZ) Muscles of a great white shark", 
+    "tossupA": "FIRST", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf1a"
+    }, 
+    "questionNum": 14
   }, 
   {
     "category": 4, 
@@ -366,12 +414,14 @@
     "tossupQ": "MATH Short Answer Solve the equation |x \u2212 2| = 3 (read as: the absolute value of the \r\nquantity x minus 2 equals 3).", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Solve the inequality: -3x \u2013 4 \u2265 6x \u2013 3.", 
     "tossupA": "x = -1 or x = 5 \r\n \r\n[NOTE: STUDENTS MUST GIVE BOTH ANSWERS]", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf25"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

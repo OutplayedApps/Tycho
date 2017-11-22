@@ -6,13 +6,15 @@
     "tossupQ": "MATH  Short Answer  Give the measure of angle theta, if 0 \u2264 theta \u2264 2\u03c0, sin theta = 1/2  \r\nand cos theta = -&radic;3/2", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  What is the perimeter of a sector of angle \u03c0/3 radians in a circle with \r\ncircumference 2\u03c0<sup>2</sup>? Provide your answer in simplest form in terms of \u03c0.", 
     "tossupA": "5\u03c0/6", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd706"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -21,13 +23,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  A geologic map uses a combination of lines, symbols \r\nand colors to show the composition and structure of earth materials across and beneath the \r\nEarth\u2019s surface. Which of the following would NOT be included on a geologic bedrock map? \r\n \r\nW) Limestone \r\nX) Granite \r\nY) Vertisols \r\nZ) Slate", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What kind of map shows soils, alluvium, and glacial \r\ndeposits, distinguished on the basis of particle size, texture, and composition?", 
     "tossupA": "Y) VERTISOLS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd707"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,28 +40,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A golf cart and a fire truck collide. Which vehicle experiences a \r\ngreater force in the collision? \r\n \r\nW) Golf cart \r\nX) Fire truck \r\nY) Both vehicles experience the same force \r\nZ) Depends on the speeds of the vehicles", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Before a light marble and a heavy marble experience a head-on \r\nelastic collision, the heavy marble has a much higher speed than the light marble. During the \r\ncollision, which marble experiences greater acceleration? \r\n \r\nW) The light marble \r\nX) The heavy marble \r\nY) Both experience the same acceleration \r\nZ) In an elastic collision, neither marble accelerates", 
     "tossupA": "Y) BOTH VEHICLES EXPERIENCE THE SAME FORCE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd708"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "X) BERYLLIUM ACETATE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  What color are the chromophores NOT absorbing in a blue \r\nshirt?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following compounds is insoluble in water? \r\n \r\nW) Barium acetate \r\nX) Beryllium acetate \r\nY) Lead acetate \r\nZ) Silver acetate", 
-    "tossupA": "BLUE", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd709"
-    }, 
-    "questionNum": "4"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -66,13 +57,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Salmon dine on smaller fish like tiny herring, thus acquiring the \r\nenergy in the herring\u2019s meat. The herring ate a lot of food energy over its lifetime that was not \r\ntransferred to the salmon, however. What happened to that energy?  \r\n \r\nW) The energy was destroyed by electrical impulses \r\nX) The herring converted the energy to oxygen  \r\nY) The herring converted the energy to carbon dioxide \r\nZ) The herring used the energy of its food for metabolic processes and entropy", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Underwater mountains called seamounts provide a solid surface \r\nto cling to for many kinds of marine animals. Seamounts are important for all of the following \r\nreasons, except: \r\n \r\nW) They are sustainable locations for deep-sea fishing  \r\nX) They may be breeding grounds  \r\nY) They support distinctive groups of animals, including corals \r\nZ) Their altitude they causes complex current patterns", 
     "tossupA": "Z) THE HERRING USED THE ENERGY OF ITS FOOD FOR METABOLIC \r\nPROCESSES AND ENTROPY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd70a"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 4, 
@@ -81,13 +74,15 @@
     "tossupQ": "MATH  Short Answer  A number is obtained by tripling an original value, then tripling that \r\nresult. If the final resulting value obtained by applying the process previously described is 1, \r\nwhat was the original number?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  What matrix of integers is equal to 3 \r\ntimes the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and \r\nrow 2: negative 4, 1 ?", 
     "tossupA": "1/9", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd70b"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 2, 
@@ -96,43 +91,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  Providing your answer as a decimal to the nearest tenth, if you \r\nstart with 3 grams of Carbon-14, how many grams of isotope will remain after 3 half lives?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is NOT true about enzymes? \r\n \r\nW) They catalyze most of the chemical changes that occur in a cell \r\nX) They are unchanged by the reaction they catalyze \r\nY) They do not change the normal equilibrium position of a chemical system \r\nZ) They change the amount of product that is produced", 
     "tossupA": "0.4", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd70c"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "Y) IT IS THE SAME BEFORE AND AFTER THE CRASH", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Multiple Choice  John has twice the mass of Carl. They jump off a cliff into the \r\nwater below. Just before the splash: \r\n \r\nW) John has half as much kinetic energy as Carl  \r\nX) John and Carl have the same kinetic energy \r\nY) John has twice as much kinetic energy as Carl \r\nZ) John has four times as much kinetic energy as Carl", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Multiple Choice  In a safety crash test, a big truck and a small car have a head-on \r\ncollision. What can we say about total system momentum? \r\n \r\nW) It is equal to zero \r\nX) It is less after the crash than before the crash \r\nY) It is the same before and after the crash \r\nZ) It is more after the crash than before the crash", 
-    "tossupA": "Y) JOHN HAS TWICE AS MUCH KINETIC ENERGY AS CARL", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd70d"
-    }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "X) METHANE EXTRACTION FROM METHANE HYDRATE HAS BEEN \r\nDOCUMENTED IN LARGE-SCALE FIELD EXPERIMENTS", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ENERGY  Multiple Choice  Which of the following produces the largest share of electric \r\npower generation in the U.S.?   \r\n \r\nW) Natural gas \r\nX) Coal \r\nY) Nuclear power \r\nZ) Hydropower", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "ENERGY  Multiple Choice  Methane hydrate is a cage-like lattice of ice inside which are \r\ntrapped molecules of methane, the chief constituent of natural gas. Which of the following is \r\nNOT true about methane hydrate? \r\n \r\nW) Deposits generally occur beneath Arctic permafrost and the ocean floor \r\nX) Methane extraction from methane hydrate has been documented in large-scale field \r\nexperiments  \r\nY) If pressures are high enough, it is stable far above the melting point of water ice \r\nZ) The energy content of methane hydrate is very high", 
-    "tossupA": "X) COAL", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd70e"
-    }, 
-    "questionNum": "9"
+    "questionNum": 7
   }, 
   {
     "category": 0, 
@@ -141,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  How long, in hours, is the night during the equinox?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What is the term for the angle of an object\u2019s elevation \r\nabove the horizon?", 
     "tossupA": "12", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd70f"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,13 +125,15 @@
     "tossupQ": "PHYSICS  Short Answer  What is the potential difference in volts between two points, \r\nlocated 2 meters apart, in a constant electric field of 1 volt per meter?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  When a fighter pilot fires on a plane directly in front of her, the \r\nmomentum of the fighter pilot and her plane changes in what way? \r\n \r\nW) It increases \r\nX) It decreases \r\nY) It stays the same \r\nZ) It changes direction", 
     "tossupA": "2", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd710"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 5, 
@@ -171,43 +142,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Petroleum comes from: \r\n \r\nW) Accumulated carbon rich plant materials \r\nX) Dinosaur remains \r\nY) Meteorite rocks that impacted the Earth millions of years ago found deep underground \r\nZ) Organic sediment transformed over time by bacteria, pressure, and temperature", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  Unleaded gasoline pumped at a filling station comes from crude \r\noil. About what percentage of the oil\u2019s original energy content is present in gasoline when it is \r\npumped into the vehicle at the station? \r\n \r\nW) 13% \r\nX) 36% \r\nY) 50% \r\nZ) 86%", 
     "tossupA": "Z) ORGANIC SEDIMENT TRANSFORMED OVER TIME BY BACTERIA, \r\nPRESSURE, AND TEMPERATURE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd711"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "3&radic;3", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Multiple Choice  The length of a rectangle is 5 inches less than twice the width. \r\nWhat is the width in inches if the perimeter is 38 inches? \r\n \r\nW) 5  \r\nX) 8  \r\nY) 11  \r\nZ) 14", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  One side of an equilateral triangle is 6. In simplest form, what is the \r\naltitude?", 
-    "tossupA": "X) 8", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd712"
-    }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "Z) CONSISTENT WATER CIRCULATION ENABLES YEAR-ROUND HARVESTING \r\nOF CONSISTENTLY-SIZED FISH", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ENERGY  Multiple Choice  Of the following choices, what is the primary direct use of \r\ngeothermal energy? \r\n \r\nW) Aquaculture \r\nX) Space heating \r\nY) Gold mining \r\nZ) Dehydration of vegetable and fruit products", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "ENERGY  Multiple Choice  Aquaculture applications for geothermal energy are particularly \r\npromising for all of the following reasons, except: \r\n \r\nW) A variety of freshwater or marine organisms can be raised \r\nX) There is an abundance of geothermal resources at the required temperature range  \r\nY) Consistent water temperatures increase survival rates \r\nZ) Consistent water circulation enables year-round harvesting of consistently-sized fish", 
-    "tossupA": "X) SPACE HEATING", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd713"
-    }, 
-    "questionNum": "14"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -216,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  Which of the following rocks would be most impacted \r\nby acid rain: 1) chert, 2) limestone, or 3) granite?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  Imagine a sandstone that fizzes when exposed to \r\nhydrochloric acid. Name the mineral that cements the sand grains together.", 
     "tossupA": "LIMESTONE (ACCEPT: 2)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd714"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 1, 
@@ -231,28 +176,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Russian physiologist Ivan Pavlov performed a famous experiment \r\nwhere he rang a bell before giving meat powder to dogs, which caused them to salivate. After a \r\ntime, the dogs would salivate at the sound of the bell alone. What type of learned behavior is \r\nthis?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  The common shore ragworm only leaves its sandy tube to feed. \r\nIf a shadow passes overhead, it will quickly return to the safety of its burrow. If the shadow \r\npasses overheard repeatedly and nothing happens, the worm will eventually ignore the shadow. \r\nThis type of learning is called: \r\n \r\nW) Sensitization  \r\nX) Habituation \r\nY) Conditioned response \r\nZ) Mimicry", 
     "tossupA": "CONDITIONED RESPONSE (ACCEPT: CONDITIONING)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd715"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "INFINITE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  If four numbers have an arithmetic mean of 20, and three of the \r\nnumbers are 17, 18, and 19, what is the fourth number?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  What adjective is used to describe a set that can be placed in one-to-\r\none correspondence with a subset of itself?", 
-    "tossupA": "26", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd716"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -261,13 +193,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following marine environments has the \r\nfewest trophic levels? \r\n \r\nW) Coastal Arctic \r\nX) Subtropical gyre \r\nY) Coastal Antarctic \r\nZ) Peruvian upwelling zone", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  The presence of which organism allows for the low \r\nlevel of trophic complexity observed in coastal Antarctic waters?", 
     "tossupA": "Y) COASTAL ANTARCTIC", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd717"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -276,28 +210,15 @@
     "tossupQ": "MATH  Short Answer  Find the measure of angle C in degrees in triangle ABC with sides \r\nequal to the following: AB = 15 centimeters, AC = 15 centimeters, and BC = 30 centimeters.", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  If y = p(x) and y = q(x) are two cubic polynomial functions that have \r\nthe same leading coefficient, what is the maximum possible number of intersections of their \r\ngraphs?", 
     "tossupA": "30", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd718"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "+7", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following compounds has the lowest solubility \r\nproduct constant at pH 7? \r\n \r\nW) Sodium carbonate \r\nX) Iron II chloride \r\nY) Magnesium chloride \r\nZ) Ammonium nitrate", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  What is the oxidation number of manganese in potassium \r\npermanganate?", 
-    "tossupA": "X) IRON II CHLORIDE", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd719"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -306,13 +227,15 @@
     "tossupQ": "PHYSICS  Short Answer  When the distance travelled and displacement are equal and \r\nnonzero for a given object in motion, the object must have travelled: \r\n \r\nW) Back and forth \r\nX) In a straight line without changing direction \r\nY) In a circle \r\nZ) In an ellipse", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  For an object to travel in a circle, it must experience acceleration \r\nin what direction?", 
     "tossupA": "X) IN A STRAIGHT LINE WITHOUT CHANGING DIRECTION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd71a"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +244,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  Give the two elements that primarily make up our sun.", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT true about the Sun? \r\n \r\nW) It vibrates in multiple modes like a bell that is repeatedly struck \r\nX) Gas near the Sun\u2019s higher latitudes rotate more quickly than gas near its equator \r\nY) It contains about 99% of the mass in the solar system \r\nZ) It is magnetic", 
     "tossupA": "HYDROGEN, HELIUM", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd71b"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -336,13 +261,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  The bones of a human forearm are homologous to all of the \r\nfollowing structures except for a: \r\n \r\nW) Whale flipper \r\nX) Dog forelimb \r\nY) Bat wing  \r\nZ) Fly wing", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Female mosquitoes and vampire bats are both sanguivores. This \r\ntrait in bats and mosquitoes is an example of what type of evolution?", 
     "tossupA": "Z) FLY WING", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd71c"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 2, 
@@ -351,13 +278,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  In what range of colors do fireflies generally emit light? \r\n \r\nW) Yellow to green \r\nX) Orange to red \r\nY) Red to blue \r\nZ) Blue to violet", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  What are the two conditions that distinguish \r\nbioluminescence from chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns)? \r\n \r\nW) Bioluminescence occurs in living organisms and has hydrogen as a common reactant \r\nX) Bioluminescence occurs in living organisms and requires an enzyme catalyst \r\nY) Bioluminescence occurs in living organisms and involves the emission of light at a lower \r\nenergy than chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns) \r\nZ) Bioluminescence occurs uniquely in living organisms and has oxygen as a common reactant", 
     "tossupA": "W) YELLOW TO GREEN", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd71d"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -366,12 +295,133 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Bees are essential pollinators, pollinating approximately 80% of \r\nflowering agricultural crops. Why do bees pollinate? \r\n \r\nW) It is an inadvertent product of collecting food \r\nX) Bees benefit when plants procreate \r\nY) Bees harvest the fruits for food  \r\nZ) It is an inadvertent product of mating", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  In recent years, honey bee populations have been decreasing. \r\nWhat impact would the extinction of honey bees have on human agriculture? \r\n \r\nW) Different types of pollinators could be used; there would be no impact on agriculture \r\nX) All honey bee pollinated plants would go extinct \r\nY) Plants would asexually reproduce instead; there would be no impact on agriculture \r\nZ) Some species are only pollinated by honey bees and would therefore need to be hand \r\npollinated or face extinction", 
     "tossupA": "W) IT IS AN INADVERTENT PRODUCT OF COLLECTING FOOD", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd71e"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X) BERYLLIUM ACETATE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What color are the chromophores NOT absorbing in a blue \r\nshirt?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following compounds is insoluble in water? \r\n \r\nW) Barium acetate \r\nX) Beryllium acetate \r\nY) Lead acetate \r\nZ) Silver acetate", 
+    "tossupA": "BLUE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd709"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) IT IS THE SAME BEFORE AND AFTER THE CRASH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  John has twice the mass of Carl. They jump off a cliff into the \r\nwater below. Just before the splash: \r\n \r\nW) John has half as much kinetic energy as Carl  \r\nX) John and Carl have the same kinetic energy \r\nY) John has twice as much kinetic energy as Carl \r\nZ) John has four times as much kinetic energy as Carl", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  In a safety crash test, a big truck and a small car have a head-on \r\ncollision. What can we say about total system momentum? \r\n \r\nW) It is equal to zero \r\nX) It is less after the crash than before the crash \r\nY) It is the same before and after the crash \r\nZ) It is more after the crash than before the crash", 
+    "tossupA": "Y) JOHN HAS TWICE AS MUCH KINETIC ENERGY AS CARL", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd70d"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) METHANE EXTRACTION FROM METHANE HYDRATE HAS BEEN \r\nDOCUMENTED IN LARGE-SCALE FIELD EXPERIMENTS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Which of the following produces the largest share of electric \r\npower generation in the U.S.?   \r\n \r\nW) Natural gas \r\nX) Coal \r\nY) Nuclear power \r\nZ) Hydropower", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  Methane hydrate is a cage-like lattice of ice inside which are \r\ntrapped molecules of methane, the chief constituent of natural gas. Which of the following is \r\nNOT true about methane hydrate? \r\n \r\nW) Deposits generally occur beneath Arctic permafrost and the ocean floor \r\nX) Methane extraction from methane hydrate has been documented in large-scale field \r\nexperiments  \r\nY) If pressures are high enough, it is stable far above the melting point of water ice \r\nZ) The energy content of methane hydrate is very high", 
+    "tossupA": "X) COAL", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd70e"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3&radic;3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  The length of a rectangle is 5 inches less than twice the width. \r\nWhat is the width in inches if the perimeter is 38 inches? \r\n \r\nW) 5  \r\nX) 8  \r\nY) 11  \r\nZ) 14", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  One side of an equilateral triangle is 6. In simplest form, what is the \r\naltitude?", 
+    "tossupA": "X) 8", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd712"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) CONSISTENT WATER CIRCULATION ENABLES YEAR-ROUND HARVESTING \r\nOF CONSISTENTLY-SIZED FISH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Of the following choices, what is the primary direct use of \r\ngeothermal energy? \r\n \r\nW) Aquaculture \r\nX) Space heating \r\nY) Gold mining \r\nZ) Dehydration of vegetable and fruit products", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  Aquaculture applications for geothermal energy are particularly \r\npromising for all of the following reasons, except: \r\n \r\nW) A variety of freshwater or marine organisms can be raised \r\nX) There is an abundance of geothermal resources at the required temperature range  \r\nY) Consistent water temperatures increase survival rates \r\nZ) Consistent water circulation enables year-round harvesting of consistently-sized fish", 
+    "tossupA": "X) SPACE HEATING", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd713"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "INFINITE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If four numbers have an arithmetic mean of 20, and three of the \r\nnumbers are 17, 18, and 19, what is the fourth number?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What adjective is used to describe a set that can be placed in one-to-\r\none correspondence with a subset of itself?", 
+    "tossupA": "26", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd716"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "+7", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following compounds has the lowest solubility \r\nproduct constant at pH 7? \r\n \r\nW) Sodium carbonate \r\nX) Iron II chloride \r\nY) Magnesium chloride \r\nZ) Ammonium nitrate", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the oxidation number of manganese in potassium \r\npermanganate?", 
+    "tossupA": "X) IRON II CHLORIDE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd719"
+    }, 
+    "questionNum": 20
   }
 ]

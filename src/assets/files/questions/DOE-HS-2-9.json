@@ -6,13 +6,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  The so-called d-block elements of the periodic table constitute \r\nthe: \r\n \r\nW)  lanthanide and actinide series  \r\nX)  transition metals \r\nY)  group 3A to 8A elements  \r\nZ)  group 1A and 2A elements", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  In any order, give the full names of any 4 metalloids:", 
     "tossupA": "X)  TRANSITION METALS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8fa"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,13 +23,15 @@
     "tossupQ": "PHYSICS  Short Answer  What is the most common term used to describe the velocity equal to \r\nthe average velocity in the limit that the measurement time period approaches zero?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  How long will it take a squirrel to run straight down a tree trunk 18 \r\nmeters long if it accelerates from a stop at 4 meters/sec2?", 
     "tossupA": "INSTANTANEOUS VELOCITY", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8fb"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 1, 
@@ -36,28 +40,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What gland in humans is the primary producer of melatonin?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  An example of negative feedback control is when: \r\n \r\nW)  thyroid hormone interrupts the stimulation of the thyroid by TSH \r\nX)  the initial enzyme of a metabolic pathway inhibits a later reaction \r\nY)  FSH inhibits progesterone production by the corpus luteum \r\nZ)  the initial product of a metabolic pathway inhibits the next reaction", 
     "tossupA": "PINEAL GLAND", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8fc"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "ARCTURUS  (ACCEPT:  ALPHA BO\u00d4TES)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  According to Kepler's second Law of planetary motion, in which \r\nseason in North America does the Earth currently move the fastest in its orbit about the Sun?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Short Answer  What is the brightest star in the Northern sky?", 
-    "tossupA": "WINTER", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8fd"
-    }, 
-    "questionNum": "4"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -66,13 +57,15 @@
     "tossupQ": "MATH  Short Answer  What is the most common name for the theorem proved by Gauss which \r\nstates that \u201cevery polynomial of degree n  \u2265 1 with real or complex coefficients has n real or \r\ncomplex roots\u201d?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Simplify the following fractional radicand to an expression that has the \r\nlowest whole number radicand:  &radic;(2/3)", 
     "tossupA": "THE FUNDAMENTAL THEOREM OF ALGEBRA", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8fe"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -81,13 +74,15 @@
     "tossupQ": "EARTH SCIENCE  Short Answer  Which body wave can travel at the greatest velocity of all the \r\nseismic waves?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  The earth's outer core is interpreted to be liquid because: \r\n \r\nW)  S-waves don't travel through liquid  \r\nX)  S-waves are faster than P-waves \r\nY)  S-waves don't travel through gases \r\nZ)  P-waves don't travel through liquids", 
     "tossupA": "P-WAVES  (ACCEPT:  PRIMARY WAVE OR COMPRESSION/EXPANSION \r\nWAVES)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8ff"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 6, 
@@ -96,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  If you need to measure 100 milliliters in an Erlenmeyer \r\nflask that has a stated volume of 100 ml but has no calibration lines, typically the stated volume will \r\napproximately fill to: \r\n \r\nW)  the top rim of the flask \r\nX)  where the neck attaches to the flask \r\nY)  1 centimeter below the where the neck attaches to the flask \r\nZ)  there is no safe way to approximate 100 ml in such a flask", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Short Answer   The ratio of total leaf surface area to the total ground \r\nsurface area covered by the leaves is know as what?", 
     "tossupA": "X)  WHERE THE NECK ATTACHES TO THE FLASK", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd900"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 7, 
@@ -111,28 +108,15 @@
     "tossupQ": "COMPUTER SCIENCE  Multiple Choice  Which of the following best describes a router: \r\n \r\nW)  segments an existing network \r\nX)  provides the network address for the PC \r\nY)  manages traffic on the network by filtering data \r\nZ)  controls the flow of data between 2 or more separate networks", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "COMPUTER SCIENCE  Short Answer  A network technology based on transferring data in cells \r\nor packets, what does the acronym ATM stand for?", 
     "tossupA": "Z)  CONTROLS THE FLOW OF DATA BETWEEN 2 OR MORE SEPARATE \r\nNETWORKS \r\n \r\n(Solution:  W & Y = bridge;  X = NIC)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd901"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "4s, 4p, 4d, 4f  (ACCEPT:  s, p, d, f)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Multiple Choice  One standard atmosphere of pressure is equal to how many \r\nPascals: \r\n \r\nW)  760 \r\nX)  1,325 \r\nY)  10,325 \r\nZ)  101,325", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  In order of increasing energy, number and designate all the \r\nsubshells in the 4th electron shell:", 
-    "tossupA": "Z)  101,325", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd902"
-    }, 
-    "questionNum": "9"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -141,13 +125,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Rutherford discovered that x-rays were produced by: \r\n \r\nW)  uranium when bombarded with slow neutrons \r\nX)  certain binary stars \r\nY)  particles emitted by a cathode, which then struck an anode  \r\nZ)  the sun", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Which 3 of the following 4 are vector quantities: \r\nvelocity,  acceleration,  speed,  magnetic field", 
     "tossupA": "Y)  PARTICLES EMITTED BY A CATHODE, WHICH THEN STRUCK AN \r\nANODE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd903"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,28 +142,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is NOT a Rickettsial disease: \r\n \r\nW)  Q fever \r\nX)  Scrub Typhus \r\nY)  Rocky Mountain Spotted Fever \r\nZ)  Relapsing fever", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following vegetations is NOT properly matched with \r\nits location: \r\n \r\nW)  boreal coniferous forest and Midwestern Canada \r\nX)  rain forest and the Olympic National Forest \r\nY)  Saguaro desert and the Southwestern US \r\nZ)  Taiga and the Northeastern US", 
     "tossupA": "Z)  RELAPSING FEVER", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd904"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "CHONDRITES", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  Which planet is 14.5 times the Earth\u2019s mass, has a rotational rate \r\nof 17.2 hours, and a year length of 84 Earth years?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Short Answer  What are generally considered the most common and most \r\nprimitive type of meteorites?", 
-    "tossupA": "URANUS", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd905"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -186,13 +159,15 @@
     "tossupQ": "MATH  Short Answer  Simplify the ratio of the following factorials:  4!/6!   (read as: 4 factorial \r\ndivided by 6 factorial)", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  A recipe calls for flour, sugar and butter to be mixed in a ratio of \r\n 7 to 5 to 2, respectively.  Assuming there is enough sugar and butter to use all the flour and 20 \r\npounds of flour is available, how many pounds of the mixture can be made?", 
     "tossupA": "1/30  (ACCEPT:  0.033)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd906"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +176,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which one of the following was NOT formed by the \r\ndeposition of sediment by a glacial stream: \r\n \r\nW)  outwash plain \r\nX)  kame \r\nY)  moraine \r\nZ)  esker", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Closely spaced isobars on a weather map most directly \r\nindicate which of the following weather-related events: \r\n \r\nW)  calm conditions \r\nX)  windy conditions \r\nY)  a gentle pressure gradient  \r\nZ)  torrential rainfall", 
     "tossupA": "Y)  MORAINE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd907"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,28 +193,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  Most plants absorb nitrogen from the soil through their \r\nroots in which of the following forms: \r\n \r\nW)  dinitrogen  \r\nX)  ammonia \r\nY)  ammonium \r\nZ)  nitrate", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT a fat-soluble vitamin: \r\n \r\nW)  vitamin K \r\nX)  vitamin A \r\nY)  vitamin D \r\nZ)  biotin", 
     "tossupA": "Z)  NITRATE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd908"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 7, 
-    "bonusA": "W)  ROM", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "COMPUTER SCIENCE  Short Answer  If a computer has a 64-bit bus, how many bytes of \r\ninformation can travel across it at the same time?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "COMPUTER SCIENCE  Multiple Choice  What type of chip is commonly used to store the \r\nBIOS in a PC: \r\n \r\nW)  ROM \r\nX)  DAT \r\nY)  DOS \r\nZ)  FAT", 
-    "tossupA": "8", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd909"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 2, 
@@ -246,13 +210,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  An amine is a class of compounds that contains a: \r\n \r\nW)  sulfur and hydrogen group \r\nX)  nitrogen and oxygen group \r\nY)  nitrogen and hydrogen group \r\nZ)  carbon and sulfur group", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  An element with an electron configuration of 2-8-8-2 is found in \r\nwhat Period and main Group number on the Periodic Chart?", 
     "tossupA": "Y)  NITROGEN AND HYDROGEN GROUP", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd90a"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +227,15 @@
     "tossupQ": "PHYSICS  Short Answer  In 1885, Johann Balmer derived the formula for the 4 spectral line of \r\nwhat element?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Which lower case letter is most typically used to denote Planck\u2019s \r\nconstant?", 
     "tossupA": "HYDROGEN", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd90b"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +244,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is a member of the Hirudinea:  \r\n(pronounced:  high-rue-DIN-E-A) \r\n \r\nW)  earthworm \r\nX)  centipede \r\nY)  leech \r\nZ)  chelicerae  (read as:  chell-IS-err-aye)", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  When successive beats of the heart result in an increased end-\r\ndiastolic volume leading to optimal sarcomere length for strength of contraction, it is most \r\ncommonly referred to by the name of what law:", 
     "tossupA": "Y)  LEECH", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd90c"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +261,15 @@
     "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following was NOT known to be a planet until \r\n1781 AD: \r\n \r\nW)  Saturn \r\nX)  Venus \r\nY)  Mercury \r\nZ)  Uranus", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  What law states that the total amount of energy radiated per unit \r\ntime from the surface of a body is related to the fourth power of its temperature?", 
     "tossupA": "Z)  URANUS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd90d"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,28 +278,15 @@
     "tossupQ": "MATH  Short Answer  A statistician who computes the standard deviation of a set of sample \r\nmeans is computing what statistical quantity?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Name 2 consecutive ODD integers where 5 times the second number \r\nminus 6 times the first number equals \u201355:", 
     "tossupA": "STANDARD ERROR OF THE MEAN  (ACCEPT:  STANDARD ERROR)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd90e"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "Y)  CHROMATIC ABERRATION", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Recent evidence shows which to be the best advice for \r\na person suffering from recurrent kidney stones: \r\n \r\nW)  decrease their intake of calcium-rich foods \r\nX)  increase their intake of calcium-rich foods \r\nY)  increase their intake of oxalate-rich foods \r\nZ)  decrease their intake of magnesium-rich foods", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Multiple Choice  A lens defect resulting from its inability to bring all \r\nwavelengths of light into the same plane of focus is called: \r\n \r\nW)  barrel distortion \r\nX)  astigmatism \r\nY)  chromatic aberration \r\nZ)  spherical aberration", 
-    "tossupA": "X)  INCREASE THEIR INTAKE OF CALCIUM-RICH FOODS \r\n \r\n(Solution:  the Ca is thought to bind with oxalates in the intestine, keeping it from entering the \r\nbloodstream)", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd90f"
-    }, 
-    "questionNum": "22"
+    "questionNum": 21
   }, 
   {
     "category": 2, 
@@ -336,13 +295,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which metal acts at the anode in mercury batteries that are \r\ncommonly found in cameras and watches: \r\n \r\nW)  mercury \r\nX)  mercury (II) oxide \r\nY)  zinc \r\nZ)  lithium", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  In the periodic table, what are elements 58 through 71 classified \r\nas?", 
     "tossupA": "Y)  ZINC", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd910"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 3, 
@@ -351,13 +312,15 @@
     "tossupQ": "PHYSICS  Short Answer  How far, in kilometers, will the runner travel in five hours on a \r\nstraight path if her average speed is 9 kilometers per hour?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Which of the following forms of radioactive decay does NOT alter \r\nthe atomic number of an element: \r\n \r\nW)  alpha  \r\nX)  beta minus \r\nY)  beta plus \r\nZ)  gamma", 
     "tossupA": "45 KM  \r\n \r\n(Solution: (9 km/h) (5 h) = 45 km)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd911"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -366,12 +329,99 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following genera of plants contains a species that \r\ntraps and digests insects: \r\n \r\nW)  Ulmus \r\nX)  Nepenthes  (pronounced:  neh-PEN-thes) \r\nY)  Lupinus  (pronounced :  lew-PIE-nus) \r\nZ)  Psilotum  (pronounced :  sill-O-tum)", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Thallassemia (pronounced: thal-ah-SEE-me-ah) and Marfan \r\nSyndrome are both which of the following types of diseases: \r\n \r\nW)  virus-related diseases \r\nX)  bacteria-related diseases \r\nY)  toxic-exposure diseases \r\nZ)  inherited disorders", 
     "tossupA": "X)  NEPENTHES", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd912"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ARCTURUS  (ACCEPT:  ALPHA BO\u00d4TES)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  According to Kepler's second Law of planetary motion, in which \r\nseason in North America does the Earth currently move the fastest in its orbit about the Sun?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the brightest star in the Northern sky?", 
+    "tossupA": "WINTER", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8fd"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "4s, 4p, 4d, 4f  (ACCEPT:  s, p, d, f)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  One standard atmosphere of pressure is equal to how many \r\nPascals: \r\n \r\nW)  760 \r\nX)  1,325 \r\nY)  10,325 \r\nZ)  101,325", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  In order of increasing energy, number and designate all the \r\nsubshells in the 4th electron shell:", 
+    "tossupA": "Z)  101,325", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd902"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CHONDRITES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  Which planet is 14.5 times the Earth\u2019s mass, has a rotational rate \r\nof 17.2 hours, and a year length of 84 Earth years?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What are generally considered the most common and most \r\nprimitive type of meteorites?", 
+    "tossupA": "URANUS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd905"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "W)  ROM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Short Answer  If a computer has a 64-bit bus, how many bytes of \r\ninformation can travel across it at the same time?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Multiple Choice  What type of chip is commonly used to store the \r\nBIOS in a PC: \r\n \r\nW)  ROM \r\nX)  DAT \r\nY)  DOS \r\nZ)  FAT", 
+    "tossupA": "8", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd909"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y)  CHROMATIC ABERRATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Recent evidence shows which to be the best advice for \r\na person suffering from recurrent kidney stones: \r\n \r\nW)  decrease their intake of calcium-rich foods \r\nX)  increase their intake of calcium-rich foods \r\nY)  increase their intake of oxalate-rich foods \r\nZ)  decrease their intake of magnesium-rich foods", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  A lens defect resulting from its inability to bring all \r\nwavelengths of light into the same plane of focus is called: \r\n \r\nW)  barrel distortion \r\nX)  astigmatism \r\nY)  chromatic aberration \r\nZ)  spherical aberration", 
+    "tossupA": "X)  INCREASE THEIR INTAKE OF CALCIUM-RICH FOODS \r\n \r\n(Solution:  the Ca is thought to bind with oxalates in the intestine, keeping it from entering the \r\nbloodstream)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd90f"
+    }, 
+    "questionNum": 22
   }
 ]

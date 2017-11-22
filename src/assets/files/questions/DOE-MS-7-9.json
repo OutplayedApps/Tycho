@@ -6,13 +6,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Why is hair a good candidate for conducting sequencing of \r\nancient DNA? \r\n \r\nW) Hair contains high quantity DNA \r\nX) Keratin in hair protects DNA from degradation \r\nY) The presence of melanin yields better sequencing data \r\nZ) DNA in hair is free from mutations", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What metabolic pathway that produces ATP is common to both \r\naerobic cellular respiration and alcoholic fermentation?", 
     "tossupA": "X) KERATIN IN HAIR PROTECTS DNA FROM DEGRADATION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0b6"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -21,43 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Nodules containing nitrogen-fixing bacteria would most \r\nlikely be found in which of the following? \r\n \r\nW) Peas and beans \r\nX) Grasses \r\nY) Pine trees \r\nZ) Chrysanthemums and zinnias", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Rank the following four choices from smallest typical \r\ngenome to largest typical genome: 1) free-living bacteria, 2) multicellular organisms, 3) obligate \r\nsymbiotic bacteria, 4) viruses.", 
     "tossupA": "W) PEAS AND BEANS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0b7"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "40", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer The minute hand of a clock is 2 inches long. How many inches does its \r\ntip travel in 30 minutes?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer A rectangle is 20 inches on its shorter side. Its diagonal makes an angle \r\nof 30\u00b0 with the longer side. How long in inches is the diagonal?", 
-    "tossupA": "2pi", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd0b8"
-    }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "$16.00", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Multiple Choice When calculating the efficiency of a solar collector, it is very \r\nimportant to know the incident angle. The angle depends directly on which of the following? \r\n \r\nW) Solar irradiance only \r\nX) Solar altitude only \r\nY) Solar altitude and solar irradiance \r\nZ) Solar altitude and the orientation of the collector", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer A 100-watt incandescent light bulb runs for 2000 hours. A compact \r\nfluorescent light (CFL) bulb of the same light output also runs for 2000 hours. Assuming that \r\nCFL bulbs use 20% of the energy that incandescent bulbs consume and given the electricity \r\ncost is $0.10 per kilowatt hour, what is the difference in operating cost of the two lights over \r\neach bulb's lifespan to the nearest dollar?", 
-    "tossupA": "Z) SOLAR ALTITUDE AND THE ORIENTATION OF THE COLLECTOR", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd0b9"
-    }, 
-    "questionNum": "4"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -66,13 +40,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer How will the rate of movement of wind-driven sea ice with \r\nan uneven surface compare to the rate of movement of wind-driven sea ice with an even \r\nsurface?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What two natural processes are responsible for most of \r\nthe variation in carbon dioxide concentration across an annual cycle?", 
     "tossupA": "SEA ICE WITH AN UNEVEN SURFACE WILL MOVE FASTER", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0ba"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -81,13 +57,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the momentum in newton seconds of an object \r\nwith a mass of 25 kilograms moving at a velocity of 25 meters per second?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice The National Institute of Standards and Technology \r\n(NIST) classifies physical constants into various categories. Which of the following is NOT \r\nconsidered a universal physical constant? \r\n \r\nW) Planck constant \r\nX) Speed of light in a vacuum \r\nY) Electric constant \r\nZ) Alpha particle mass", 
     "tossupA": "625", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0bb"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 1, 
@@ -96,13 +74,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following membrane-bounded vesicles contains \r\nhydrolytic enzymes used for intracellular digestion? \r\n \r\nW) Lysosome [LY-suh-sohm] \r\nX) Peroxisome \r\nY) Mitochondria [my-tuh-KON-dree-uh] \r\nZ) Endoplastic reticulum [EN-duh-plaz-mik ri-TIK-yuh-luhm]", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements about human intestinal \r\nfluid is NOT true? \r\n \r\nW) It is a clear, yellow fluid \r\nX) Five or six liters of intestinal fluid are produced each day \r\nY) It has a slightly basic pH of 7.6 \r\nZ) It is mostly water", 
     "tossupA": "W) LYSOSOME", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0bc"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 6, 
@@ -111,43 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice By mass, which of the following ecosystems represents \r\nthe largest pool of carbon? \r\n \r\nW) Oceans \r\nX) Rainforests \r\nY) Sea ice \r\nZ) Temperate forests", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer When human mRNA is being translated, \r\n3-letter sequences known as codons are used to code for amino acids. How many different \r\ncodons actually code for an amino acid?", 
     "tossupA": "W) OCEANS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0bd"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "1050", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the equation of the line tangent to the circle x<sup>2</sup> + y<sup>2</sup> = 9 at the \r\npoint with coordinates (3, 0)?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer The angle of elevation of the top of a tall building from a point 600 feet \r\nfrom its base is 60\u00b0. To the nearest 50 feet, how tall is the building?", 
-    "tossupA": "x = 3", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd0be"
-    }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "RESISTOR, INDUCTOR, CAPACITOR", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Multiple Choice Which of the following increases the entropy of water molecules? \r\n \r\nW) Sublimation \r\nX) Condensation \r\nY) Deposition \r\nZ) Freezing", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer What are the three components of an RLC circuit?", 
-    "tossupA": "W) SUBLIMATION", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd0bf"
-    }, 
-    "questionNum": "10"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -156,28 +108,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Where does sea ice form first? \r\n \r\nW) Open water, far from coast \r\nX) Deep water, near coast \r\nY) Shallow water, near coast \r\nZ) Shallow water, far from coast", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT thought to have initiated \r\nthe Permian-Triassic mass extinction? \r\n \r\nW) Changing climate \r\nX) Mass volcanism \r\nY) Meteor impact \r\nZ) Disease", 
     "tossupA": "Y) SHALLOW WATER, NEAR COAST", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c0"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "4", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer A sound wave has a frequency of 8 beats in one \r\nsecond. What is its period in seconds?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer If the velocity of all the particles in a substance \r\ndoubled, by what factor would you expect the temperature of that substance to be multiplied?", 
-    "tossupA": "1/8 (ACCEPT: 0.125)", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd0c1"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 1, 
@@ -186,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer A single-cell organism, Escherichia coli [e-schuh-ri-KEE-uh \r\nkoh-LY], contains DNA molecules of about 5 X 106 nucleotides [NOO-klee-uh-tyds]. What is \r\nthe shape of nuclear material in E. coli?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements about Duchenne \r\nmuscular dystrophy is NOT true? \r\n \r\nW) It is a sex linked, inherited, muscle-destroying disorder \r\nX) It involves degeneration of individual muscle fibers \r\nY) It usually presents with an unequal weakness of voluntary muscles on both sides \r\nZ) It involves a progressive atrophy of skeletal muscle", 
     "tossupA": "CIRCULAR", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c2"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 6, 
@@ -201,13 +142,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following isotopes is most useful in \r\ngeological dating of zircon minerals and meteorites? \r\n \r\nW) Iodine-131 \r\nX) Uranium-238 \r\nY) Radium-226 \r\nZ) Carbon-14", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following statements does NOT \r\naccurately characterize the Earth\u2019s revolution around the Sun, according to Milankovitch\u2019s \r\ntheory? \r\n \r\nW) The tilt of the Earth\u2019s axis fluctuates between 22\u00b0 and 24.5\u00b0 from vertical \r\nX) The Earth follows an elliptical orbit around the Sun \r\nY) The Earth wobbles as it spins \r\nZ) The plane of Earth\u2019s orbit is constant", 
     "tossupA": "X) URANIUM-238", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c3"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 4, 
@@ -216,13 +159,15 @@
     "tossupQ": "MATH Short Answer Find the value of k for which the quadratic equation x<sup>2</sup> - x + k = 0 has a \r\nrepeated root.", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A jar contains 50 buttons. Exactly 10% are green, 20% are blue, 30% \r\nare yellow, and the rest are orange. What is the probability of randomly picking first a blue \r\nbutton, replacing it, and then picking an orange button?", 
     "tossupA": "k = 1/4", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c4"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 5, 
@@ -231,13 +176,15 @@
     "tossupQ": "ENERGY Multiple Choice What is the energy efficiency range of a typical photovoltaic solar \r\npanel in production? \r\n \r\nW) 0 to 40% \r\nX) 40 to 70% \r\nY) 70 to 90% \r\nZ) 90 to 100%", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice How does a pumped-storage plant differ from a conventional \r\nhydropower plant? \r\n \r\nW) The water is pumped up from underneath the dam through turbines to the top of the dam in \r\norder to create electricity \r\nX) It has two reservoirs instead of one \r\nY) Its generators rotate a series of magnets inside coils of wire to create an electric current \r\nZ) Its transformer converts AC into higher-voltage current", 
     "tossupA": "W) 0 TO 40%", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c5"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -246,13 +193,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Through what energy transfer process is ocean water \r\nbelow surface ice frozen? \r\n \r\nW) Convection \r\nX) Conduction \r\nY) Mechanical \r\nZ) Radiation", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Lakes can develop suboxic or anoxic layers under \r\ncertain conditions. Which of the following factors can help create anoxic conditions? \r\n \r\nW) Steady winds on the lake surface \r\nX) Low nutrient concentrations \r\nY) Low level of primary production \r\nZ) Stratification", 
     "tossupA": "X) CONDUCTION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c6"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +210,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice What quantity represents the ratio of charge to \r\npotential difference between conductors? \r\n \r\nW) Equipotential \r\nX) Capacitance \r\nY) Charge separation \r\nZ) Voltage", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Dr. Ecneics strikes again! He's begun converting all the \r\ncarbons in the world to silicon, all the nitrogens into phosphorous, and all the oxygens into \r\nsulfur! If he succeeds, what chemicals will carbon dioxide, water, and ammonia become?", 
     "tossupA": "X) CAPACITANCE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c7"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +227,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice What is the protein that binds nuclear material in DNA? \r\n \r\nW) Histone \r\nX) Nucleosome [NOO-klee-uh-sohm] \r\nY) Chromatin \r\nZ) Ribonucleotides [ry-boh-NOO-klee-uh-tyds]", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Plasmodium falciparum [plaz-MOH-dee-uhm fal-see-PUH-\r\nroom] is one of four causative agents of malaria in humans and, like the other three, is which of \r\nthe following? \r\n \r\nW) A virus \r\nX) A protozoan parasite \r\nY) A fungal parasite \r\nZ) A bacterial parasite", 
     "tossupA": "W) HISTONE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c8"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice In which of the following habitats would you be most \r\nlikely to find an animal that has a short but intense reproductive period only once a year? \r\n \r\nW) Tundra \r\nX) Desert \r\nY) Savanna \r\nZ) Tropical forest", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT an annelid? \r\n \r\nW) Earthworm \r\nX) Tapeworm \r\nY) Bearded fireworm \r\nZ) Leech", 
     "tossupA": "W) TUNDRA", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0c9"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +261,15 @@
     "tossupQ": "MATH Multiple Choice Two raised to what power is equal to 4x \u00f7 1/8 [4 to the power of x \r\ndivided by one eighth]? \r\n \r\nW) 2x \u2013 6 \r\nX) 2x \u2013 3 \r\nY) 2x + 3 \r\nZ) 2x + 6", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Four students, DeShawn, Betty, Carlos, and Don, are sitting on chairs \r\nlined up in a row. What is the probability that a random seating results in Betty sitting on one of \r\nthe two middle chairs?", 
     "tossupA": "Y) 2x + 3", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0ca"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +278,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following scenarios would yield the \r\nslowest freezing of ocean water beneath existing sea ice? \r\n \r\nW) Sea ice with no snow cover \r\nX) Sea ice with a thin layer of slushy snow cover \r\nY) Sea ice with a layer of soft, fluffy, new fallen snow cover \r\nZ) Sea ice with older, hard, compact snow", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice The Burgess Shale in Canada is best known for \r\nproviding scientists with fossils of which of the following? \r\n \r\nW) Dinosaurs \r\nX) Early humans \r\nY) Multicellular marine organisms \r\nZ) The first land animals", 
     "tossupA": "Y) SEA ICE WITH A LAYER OF SOFT, FLUFFY, NEW FALLEN SNOW COVER", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0cb"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +295,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is an example of Newton\u2019s \r\nsecond law of motion? \r\n \r\nW) When a block is traveling at velocity v, it will continue unless acted upon by a force \r\nX) Angular momentum cannot be created or destroyed \r\nY) When the same force is applied to a block of mass M as is applied to a block of mass 2M, the \r\nblock with a greater mass accelerates more slowly \r\nZ) When a block collides with another block, energy is transferred", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer While at the beach, you set up a wave machine, which \r\ngenerates waves that are out of phase from the waves hitting the beach. As your waves hit the \r\nbeach waves, they cancel out, leaving the sea calm. What is the name for this process?", 
     "tossupA": "Y) WHEN THE SAME FORCE IS APPLIED TO A BLOCK OF MASS M AS IS \r\nAPPLIED TO A BLOCK OF MASS 2M, THE BLOCK WITH A GREATER MASS ACCELERATES \r\nMORE SLOWLY", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0cc"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -351,13 +312,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Name the class of accessory photosynthetic pigments that \r\nare reddish orange in color and found in most plants.", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following four animals that are marsupials: 1) \r\nduckbilled platypus, 2) koala, 3) wallaby, 4) wombat.", 
     "tossupA": "CAROTENOIDS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0cd"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 6, 
@@ -366,12 +329,99 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Whales of the suborder Mysticeti [mis-ti-SEE-ti] use \r\nwhat structure to capture their food? \r\n \r\nW) Baleen \r\nX) Teeth \r\nY) Peduncle \r\nZ) Fluke", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following statements about the speed of \r\nsound is NOT true? \r\n \r\nW) Sound travels faster in water than in air \r\nX) The speed of sound in an ideal gas is independent of frequency \r\nY) The speed of sound in an ideal gas is independent of temperature \r\nZ) Longitudinal and transverse waves from the same frequency can have different speeds", 
     "tossupA": "W) BALEEN", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd0ce"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1050", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the equation of the line tangent to the circle x<sup>2</sup> + y<sup>2</sup> = 9 at the \r\npoint with coordinates (3, 0)?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The angle of elevation of the top of a tall building from a point 600 feet \r\nfrom its base is 60\u00b0. To the nearest 50 feet, how tall is the building?", 
+    "tossupA": "x = 3", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0be"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "40", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer The minute hand of a clock is 2 inches long. How many inches does its \r\ntip travel in 30 minutes?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A rectangle is 20 inches on its shorter side. Its diagonal makes an angle \r\nof 30\u00b0 with the longer side. How long in inches is the diagonal?", 
+    "tossupA": "2pi", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0b8"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "$16.00", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice When calculating the efficiency of a solar collector, it is very \r\nimportant to know the incident angle. The angle depends directly on which of the following? \r\n \r\nW) Solar irradiance only \r\nX) Solar altitude only \r\nY) Solar altitude and solar irradiance \r\nZ) Solar altitude and the orientation of the collector", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer A 100-watt incandescent light bulb runs for 2000 hours. A compact \r\nfluorescent light (CFL) bulb of the same light output also runs for 2000 hours. Assuming that \r\nCFL bulbs use 20% of the energy that incandescent bulbs consume and given the electricity \r\ncost is $0.10 per kilowatt hour, what is the difference in operating cost of the two lights over \r\neach bulb's lifespan to the nearest dollar?", 
+    "tossupA": "Z) SOLAR ALTITUDE AND THE ORIENTATION OF THE COLLECTOR", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0b9"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "RESISTOR, INDUCTOR, CAPACITOR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following increases the entropy of water molecules? \r\n \r\nW) Sublimation \r\nX) Condensation \r\nY) Deposition \r\nZ) Freezing", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What are the three components of an RLC circuit?", 
+    "tossupA": "W) SUBLIMATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0bf"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer A sound wave has a frequency of 8 beats in one \r\nsecond. What is its period in seconds?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If the velocity of all the particles in a substance \r\ndoubled, by what factor would you expect the temperature of that substance to be multiplied?", 
+    "tossupA": "1/8 (ACCEPT: 0.125)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0c1"
+    }, 
+    "questionNum": 12
   }
 ]

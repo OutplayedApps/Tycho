@@ -6,13 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following does the prefix \u201cphoto\u201d (spell \r\nout the letters p, h, o, t, o ) mean, as in the word photometer: \r\n \r\nW) record (read as: REE-cord) \r\nX) light \r\nY) measure \r\nZ) expose", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 3 choices in order of \r\nDECREASING average size: blood platelet; grain of common table salt; ragweed pollen", 
     "tossupA": "X) LIGHT", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca45"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT a structure found in human \r\ncells: \r\n \r\nW) mitochondrion \r\nX) cell wall \r\nY) lysosome \r\nZ) peroxisome", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is closest to the meaning of \r\nintercellular (read carefully as: in-TER-cellular): \r\n \r\nW) from within cells \r\nX) between cells \r\nY) inside of cells \r\nZ) underneath cells", 
     "tossupA": "X) CELL WALL", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca46"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following must be TRUE for a tree that \r\ndoubled its mass over a growing period of 2 years: \r\n \r\nW) it has doubled its volume \r\nX) it has doubled its number of atoms \r\nY) it has doubled its inertia \r\nZ) it has doubled its density", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the ideal mechanical advantage of a ramp that is \r\n24 meters long and 4 meters higher at one end versus the other?", 
     "tossupA": "Y) IT HAS DOUBLED ITS INERTIA", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca47"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -51,28 +57,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice The presence of which of the following is evidence that 2 \r\nvalley glaciers have or had at one time joined into a larger glacier: \r\n \r\nW) perpendicular striation pattern \r\nX) overlapping end moraines \r\nY) medial moraine \r\nZ) V-shaped valley", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT generally true regarding \r\nglaciers: \r\n \r\nW) the Antarctic ice sheet is depressing the crust of the Earth \r\nX) we are currently in an interglacial period \r\nY) the ice front of a glacier with a large zone of ablation is rapidly advancing \r\nZ) the Little Ice Age ended around the mid-nineteenth century", 
     "tossupA": "Y) MEDIAL MORAINE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca48"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "33", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Which of the following is the exact interval notation for all real \r\nnumbers greater than or equal to \u201310 and less than 5: \r\n \r\nW) (\u201310, 5] (read as: open parenthesis, negative 10, comma, 5, close bracket) \r\nX) [\u201310, 5] (read as: open bracket, negative 10, comma, 5, close bracket) \r\nY) [\u201310, 5) (read as: open bracket, negative 10, comma, 5, close parenthesis) \r\nZ) (\u201310, 5) (read as: open parenthesis, negative 10, comma, 5, close parenthesis)", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Name all of the following 5 numbers that are NOT prime numbers: \r\n2; 5; 17; 33; 37", 
-    "tossupA": "Y) [\u201310, 5)  \r\n(note: if student interrupts, accept: \u201cbracket, negative or minus 10, 5 parenthesis) \r\n \r\n(Solution: bracket for numbers included in the set; parenthesis for # not included in the set)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca49"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 6, 
@@ -81,28 +74,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the average internal Celsius temperature of the \r\nhuman body?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer By name or number, arrange the following 3 choices from \r\nthe one with the LOWEST temperature to the HIGHEST temperature: 1) coldest temperature \r\nrecorded on Earth; 2) average surface temperature of Saturn; 3) coldest ocean water temperature", 
     "tossupA": "37", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca4a"
     }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "HYPOTHALAMUS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What is the name of the blood vessels in vertebrate bodies where \r\nmost of the exchange of oxygen and carbon dioxide occurs?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What specific part of the human brain is most responsible for \r\nregulating body temperature?", 
-    "tossupA": "CAPILLARIES (ACCEPT: CAPILLARY)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca4b"
-    }, 
-    "questionNum": "7"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -111,13 +91,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Which one of Newtons Laws of motion most directly \r\ndeals with the resistance of a body to a change in its motion?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Jerry has a mass of 100 kilograms. He runs with a \r\nvelocity of 0.5 meters per second. Giving your answer in proper SI units, what is his momentum?", 
     "tossupA": "FIRST LAW (ACCEPT: LAW OF INERTIA)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca4c"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,43 +108,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following geological terms best refers to \r\ndeposits of unsorted and unstratified sediments deposited by the movement of a glacier: \r\n \r\nW) till \r\nX) loess (read as: LUSS) \r\nY) varve \r\nZ) glacial milk", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer What is the most abundant element in the Sun?", 
     "tossupA": "W) TILL", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca4d"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "14\r\n4\r\n1", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Which of the following is undefined: \r\n \r\nW) 2 \u00f7 0 \r\nX) 0 \u00f7 2 \r\nY) 0 \u2013 0 \r\nZ) 02", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Add the following 2 fractions and give your answer as a mixed fraction \r\nin lowest terms: \r\n2\r\n23 + 2\r\n4\r\n3", 
-    "tossupA": "W) 2 \u00f7 0", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca4e"
-    }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "4 \u00d7 105", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer What is the SI base unit used for the intensity of a light \r\nsource?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer Giving your answer in proper scientific notation, convert \r\n400 grams per liter into milligrams per liter:", 
-    "tossupA": "CANDELA", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca4f"
-    }, 
-    "questionNum": "11"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -171,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following describes the shape of a bacterial \r\npilus: \r\n \r\nW) a solid sphere \r\nX) a cuboidal shaped cell \r\nY) a thin tube \r\nZ) a helical thick solid fiber", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 groups of plants that are legumes: \r\npeas; rice; soy beans; peanuts", 
     "tossupA": "Y) A THIN TUBE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca50"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 3, 
@@ -186,28 +142,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice The most useful unit of concentration in the chemistry \r\nlab is: \r\n \r\nW) mole fraction \r\nX) mass percent \r\nY) normality \r\nZ) molarity", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true of chemical \r\nreactions: \r\n \r\nW) they are always reversible \r\nX) energy is either absorbed or released \r\nY) a new substance is formed \r\nZ) chemical bonds are broken and formed", 
     "tossupA": "Z) MOLARITY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca51"
     }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "FULL; NEW (in any order)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH SCIENCE Short Answer What northward-moving ocean current is the dominant \r\nfeature generally located off the east coast of the U.S.?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "EARTH SCIENCE Short Answer Spring tides typically coincide with what 2 phases of the \r\nMoon?", 
-    "tossupA": "GULF STREAM", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca52"
-    }, 
-    "questionNum": "14"
+    "questionNum": 13
   }, 
   {
     "category": 4, 
@@ -216,13 +159,15 @@
     "tossupQ": "MATH Short Answer What is the length, in inches, of one side of a square if the diagonal \r\nmeasures 72?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer If the area of a rectangle is 200 centimeters squared and the length is 20 \r\ncentimeters, what is the perimeter of the rectangle, in centimeters?", 
     "tossupA": "7", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca53"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 6, 
@@ -231,28 +176,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the study of spiders: \r\n \r\nW) arachnology \r\nX) dendrochronology \r\nY) planktology \r\nZ) lepidopterology", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the astronomical term for the orbital arrangement \r\nof a superior planet with reference to the positions of the Sun and Earth, at which time the superior \r\nplanet will usually appear its brightest?", 
     "tossupA": "W) ARACHNOLOGY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca54"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "HEMOGLOBIN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the location of the human thymus \r\ngland: \r\n \r\nW) upper chest \r\nX) inguinal canal \r\nY) abdomen \r\nZ) brain", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer  What is the most common globular protein in red blood cells?", 
-    "tossupA": "W) UPPER CHEST", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca55"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -261,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a heterogeneous mixture: \r\n \r\nW) 5.0% glucose solution \r\nX) rubbing alcohol \r\nY) mixture of hydrogen and oxygen gases \r\nZ) concrete", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following would be the most logical \r\ninstrument to use when a small amount of suspended particles must be separated from a liquid: \r\n \r\nW) pH meter \r\nX) centrifuge \r\nY) spectrometer \r\nZ) tweezers", 
     "tossupA": "Z) CONCRETE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca56"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,28 +210,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following best describes how stalagmites in \r\ncaves are formed: \r\n \r\nW) mechanical weathering \r\nX) chemical weathering \r\nY) melting \r\nZ) decaying", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is the chief constituent of \r\nlimestone: \r\n \r\nW) quartz \r\nX) clay \r\nY) sand \r\nZ) calcite", 
     "tossupA": "X) CHEMICAL WEATHERING", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca57"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "100", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer If a line has a slope of 10, what is the slope of every line that is \r\nperpendicular to it?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Consider an isosceles triangle whose vertex angle measures 20\u00ba. Find \r\nthe measure of one of the EXTERIOR angles, in degrees, at the base of the triangle:", 
-    "tossupA": "\u2013\r\n10\r\n1 (ACCEPT: \u20130.1)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca58"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -306,28 +227,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the name of the atomic process that provides the \r\nenergy for a star to shine?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer The zodiac is typically considered to be made of how \r\nmany constellations?", 
     "tossupA": "FUSION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca59"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "FLIES; BEETLES; MOTHS (ACCEPT: ALL BUT CRAYFISH)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT found in prokaryotes: \r\n \r\nW) DNA \r\nX) RNA \r\nY) ribosomes \r\nZ) golgi", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 groups of organisms that are \r\ninsects: flies; beetles; crayfish; moths", 
-    "tossupA": "Z) GOLGI", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca5a"
-    }, 
-    "questionNum": "22"
+    "questionNum": 21
   }, 
   {
     "category": 3, 
@@ -336,13 +244,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Ultrasonic sound frequencies are typically considered \r\nto be: \r\n \r\nW) above 20 hertz \r\nX) below 20 hertz \r\nY) above 20 kilohertz \r\nZ) above 2,000 hertz", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer In color synthesis using visible light, what is the most \r\ncommon term for the colors produced by combining equal proportions of two primary colors?", 
     "tossupA": "Y) ABOVE 20 KILOHERTZ", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca5b"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 0, 
@@ -351,13 +261,151 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice The transfer of energy from the Sun across space is \r\naccomplished primarily by: \r\n \r\nW) conduction \r\nX) convection \r\nY) radiation \r\nZ) radio waves", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer What layer of Earth\u2019s atmosphere starts at about the \r\nstratopause and extends upwards to about 55 miles above the Earth?", 
     "tossupA": "Y) RADIATION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca5c"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HYPOTHALAMUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the name of the blood vessels in vertebrate bodies where \r\nmost of the exchange of oxygen and carbon dioxide occurs?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What specific part of the human brain is most responsible for \r\nregulating body temperature?", 
+    "tossupA": "CAPILLARIES (ACCEPT: CAPILLARY)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca4b"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "33", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is the exact interval notation for all real \r\nnumbers greater than or equal to \u201310 and less than 5: \r\n \r\nW) (\u201310, 5] (read as: open parenthesis, negative 10, comma, 5, close bracket) \r\nX) [\u201310, 5] (read as: open bracket, negative 10, comma, 5, close bracket) \r\nY) [\u201310, 5) (read as: open bracket, negative 10, comma, 5, close parenthesis) \r\nZ) (\u201310, 5) (read as: open parenthesis, negative 10, comma, 5, close parenthesis)", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Name all of the following 5 numbers that are NOT prime numbers: \r\n2; 5; 17; 33; 37", 
+    "tossupA": "Y) [\u201310, 5)  \r\n(note: if student interrupts, accept: \u201cbracket, negative or minus 10, 5 parenthesis) \r\n \r\n(Solution: bracket for numbers included in the set; parenthesis for # not included in the set)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca49"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "14\r\n4\r\n1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is undefined: \r\n \r\nW) 2 \u00f7 0 \r\nX) 0 \u00f7 2 \r\nY) 0 \u2013 0 \r\nZ) 02", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Add the following 2 fractions and give your answer as a mixed fraction \r\nin lowest terms: \r\n2\r\n23 + 2\r\n4\r\n3", 
+    "tossupA": "W) 2 \u00f7 0", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca4e"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "4 \u00d7 105", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the SI base unit used for the intensity of a light \r\nsource?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Giving your answer in proper scientific notation, convert \r\n400 grams per liter into milligrams per liter:", 
+    "tossupA": "CANDELA", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca4f"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "FULL; NEW (in any order)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer What northward-moving ocean current is the dominant \r\nfeature generally located off the east coast of the U.S.?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Spring tides typically coincide with what 2 phases of the \r\nMoon?", 
+    "tossupA": "GULF STREAM", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca52"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HEMOGLOBIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the location of the human thymus \r\ngland: \r\n \r\nW) upper chest \r\nX) inguinal canal \r\nY) abdomen \r\nZ) brain", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer  What is the most common globular protein in red blood cells?", 
+    "tossupA": "W) UPPER CHEST", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca55"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "100", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If a line has a slope of 10, what is the slope of every line that is \r\nperpendicular to it?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Consider an isosceles triangle whose vertex angle measures 20\u00ba. Find \r\nthe measure of one of the EXTERIOR angles, in degrees, at the base of the triangle:", 
+    "tossupA": "\u2013\r\n10\r\n1 (ACCEPT: \u20130.1)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca58"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "FLIES; BEETLES; MOTHS (ACCEPT: ALL BUT CRAYFISH)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT found in prokaryotes: \r\n \r\nW) DNA \r\nX) RNA \r\nY) ribosomes \r\nZ) golgi", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 groups of organisms that are \r\ninsects: flies; beetles; crayfish; moths", 
+    "tossupA": "Z) GOLGI", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca5a"
+    }, 
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -366,12 +414,14 @@
     "tossupQ": "MATH Short Answer If a car travels at a rate of 50 miles per hour, what is the distance, in \r\nmiles, traveled in 5 hours?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Giving your answer in exponential form, simplify the following \r\nexpression:  43/2 10\r\n1010\u00d7", 
     "tossupA": "250 \r\n \r\n(Solution: d = rt = (50mi/hr)(5 hr) = 250 miles)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca5d"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

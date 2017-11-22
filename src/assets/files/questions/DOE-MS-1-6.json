@@ -1,48 +1,20 @@
 [
   {
-    "category": 1, 
-    "bonusA": "STARFISH", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following anatomical structures is missing in the \r\nhagfish: \r\n \r\nW) heart \r\nX) brain \r\nY) notocord \r\nZ) jaw", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 organisms that are echinoderms: \r\nsquid; snails; starfish; lobsters", 
-    "tossupA": "Z) JAW", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8b5"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 3, 
     "bonusA": "TRANSISTOR", 
     "vendorNum": "DOE-MS", 
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the most common electronic \r\ndevice used for storing electric energy in a process commonly called charging: \r\n \r\nW) capacitor \r\nX) transformer \r\nY) rectifier \r\nZ) semiconductor", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What modern solid-state electronic device is used as an \r\namplifier in modern radios and, through its wide use as an electronic switch, is a basic component in \r\nmodern logic circuits?", 
     "tossupA": "W) CAPACITOR", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8b6"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "1", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH SCIENCE Multiple Choice Giant kelp found in oceans do NOT possess which of the \r\nfollowing structures: \r\n \r\nW) holdfasts \r\nX) gas bladders \r\nY) stipes \r\nZ) roots", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "EARTH SCIENCE Short Answer What numerical albedo value is given to a surface that reflects \r\n100% of incident light?", 
-    "tossupA": "Z) ROOTS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8b7"
-    }, 
-    "questionNum": "3"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -51,13 +23,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is TRUE: \r\n \r\nW) every real number has a reciprocal \r\nX) the product of two integers is always positive \r\nY) the quotient times the divisor equals the dividend \r\nZ) the product of two numbers is greater than either factor", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Evaluate the following and give your answer as a proper fraction in \r\nlowest terms: \r\n3/16 + \r\n5/8 \u2013 \r\n1/4", 
     "tossupA": "Y) THE QUOTIENT TIMES THE DIVISOR EQUALS THE DIVIDEND", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8b8"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 6, 
@@ -66,13 +40,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice People who are lactose intolerant are unable to digest \r\nthe sugar present in which of the following: \r\n \r\nW) milk \r\nX) wheat \r\nY) peanuts \r\nZ) eggs", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 3 choices in INCREASING order of \r\ndistance: 1 mile; 2 kilometers; 1,600 yards", 
     "tossupA": "W) MILK", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8b9"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 1, 
@@ -81,13 +57,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the most common term used for the biological process of \r\nconverting atmospheric nitrogen into a form readily available for use in organisms?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following groups of organisms is most \r\ncommonly associated with the ability to fix nitrogen: \r\n \r\nW) plants \r\nX) animals \r\nY) plants and animals \r\nZ) bacteria", 
     "tossupA": "NITROGEN FIXATION (ACCEPT: FIXATION)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8ba"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -96,13 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the inverse of electrical \r\nresistance: \r\n \r\nW) voltage \r\nX) conductivity \r\nY) amperage \r\nZ) ohms", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the current carrier in a typical \r\nelectrical conductor: \r\n \r\nW) free protons \r\nX) mobile electrons \r\nY) stable atoms \r\nZ) hydrogen ions", 
     "tossupA": "X) CONDUCTIVITY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8bb"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 0, 
@@ -111,13 +91,15 @@
     "tossupQ": "EARTH SCIENCE Short Answer Which 2 of the following 4 choices represent the suspended \r\nload of a river that gives a slow-moving river a cloudy appearance: gravel; clay; silt; sand", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice The average depth of the ocean basin floor is: \r\n \r\nW) 1,000 to 2,000 meters \r\nX) 2,000 to 4,000 meters \r\nY) 4,000 to 6,000 meters \r\nZ) 6,000 to 10,000 meters", 
     "tossupA": "CLAY; SILT", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8bc"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 4, 
@@ -126,13 +108,15 @@
     "tossupQ": "MATH Short Answer Solve the formula, I = prt, for r:", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Multiply the following 3 fractions and give your answer as a proper \r\nfraction in simplest terms: 3/10 \u00d7 5/7 \u00d7 1/2", 
     "tossupA": "r =I/(pt) (ACCEPT: I/(pt))", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8bd"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 6, 
@@ -141,43 +125,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Name all of the following 4 choices that are NOT SI \r\nunits: meter; kilogram; degree Celsius; mole", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Convert 5 meters per second to kilometers per hour:", 
     "tossupA": "DEGREE CELSIUS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8be"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "X) ANT", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a lipid: \r\n \r\nW) lipase \r\nX) myoglobin \r\nY) trypsin \r\nZ) corn oil", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms contains the most chitin \r\n(read as: KYE-tin) by percent of body weight: \r\n \r\nW) leopard \r\nX) ant \r\nY) squid \r\nZ) whale", 
-    "tossupA": "Z) CORN OIL", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8bf"
-    }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "DIAMOND; GRAPHITE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Nitrogen, sulfur, and selenium are all: \r\n \r\nW) metals \r\nX) nonmetals \r\nY) metalloids \r\nZ) noble gases", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 3 substances that are \r\nallotropes or different chemical forms of carbon: diamond; graphite; topaz", 
-    "tossupA": "X) NONMETALS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8c0"
-    }, 
-    "questionNum": "12"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -186,13 +142,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is a volcanic rock that is so \r\nlightweight that it can sometimes float on water: \r\n \r\nW) obsidian \r\nX) pitchstone \r\nY) pumice \r\nZ) basalt", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer What 4 planets of our solar system have the highest mean \r\ndensity?", 
     "tossupA": "Y) PUMICE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8c1"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 4, 
@@ -201,13 +159,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following best describes two angles that share a \r\ncommon side and a common vertex and do not overlap: \r\n \r\nW) adjacent \r\nX) parallel \r\nY) alternate \r\nZ) vertical", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Subtract the following 2 polynomials and simplify:  \r\n(6x<sup>2</sup> \u2013 7x + 13) \u2013 (\u2013x<sup>2</sup> + 4x \u2013 3)", 
     "tossupA": "W) ADJACENT", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8c2"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,28 +176,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the common name for the organic solvent which \r\nis the main ingredient in nail polish remover?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What element makes up about 24% of the Sun\u2019s mass?", 
     "tossupA": "ACETONE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8c3"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "ALL", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What parts of a flower make up the corolla?", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 plants that have male and female \r\nflowers on the same plant: apple tree; tomato; maple tree; pumpkin", 
-    "tossupA": "PETALS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8c4"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -246,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer How many carbons are there in an ethanol molecule?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is LEAST accurate regarding \r\nmost solids: \r\n \r\nW) particles in a solid vibrate around fixed positions \r\nX) particles in a solid have no kinetic energy \r\nY) most solids are crystalline \r\nZ) solids have definite melting points in their pure state", 
     "tossupA": "2", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8c5"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -261,58 +210,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following volcanic landforms is \r\ncharacterized by relatively quiet eruptions with little or no pyroclastic flows: \r\n \r\nW) stratovolcano \r\nX) cinder cone \r\nY) shield \r\nZ) caldera", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Mudstone, or mudrock, is which of the following: \r\n \r\nW) fine-grained sedimentary rock \r\nX) coarse-grained sedimentary rock \r\nY) fine-grained metamorphic rock \r\nZ) coarse-grained metamorphic rock", 
     "tossupA": "Y) SHIELD", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8c6"
     }, 
-    "questionNum": "18"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "16/24; 36/54", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer If an ordered pair has an x-coordinate of zero, its graph lies on what part \r\nof the coordinate plane?", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Name all of the following 4 fractions that are equivalent to 2/3: 5/9; 16/24; 36/54; \u20134/6", 
-    "tossupA": "Y-AXIS (ACCEPT: VERTICAL AXIS)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8c7"
-    }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "COAL = PLANT; COTTON = PLANT;  LARD = ANIMAL", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer In the United States, what crop is primarily used for \r\nethanol fuel production?", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer Name whether the following 3 substances are primarily \r\nderived from plants or animals, respectively: coal; cotton; lard", 
-    "tossupA": "CORN (ACCEPT: MAIZE)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8c8"
-    }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "BIRDS; REPTILES; MOLLUSKS (ACCEPT: ALL BUT BACTERIA)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer How many chambers does the heart of a shark have?", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 groups of organisms in which \r\nmitosis occurs: birds; reptiles; mollusks; bacteria", 
-    "tossupA": "2", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8c9"
-    }, 
-    "questionNum": "21"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -321,43 +227,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the density, in grams per cubic centimeter, of a \r\nsample of plastic that floats with 45% of its volume submerged in pure water?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Ignoring friction, what is the acceleration, in meters per \r\nsecond squared, when 1,000 newtons of force are applied to move a 200-kilogram crate across a \r\nlevel floor?", 
     "tossupA": "0.45", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8ca"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "OZONE (ACCEPT: OZONE LAYER or O<sub>3</sub>)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH SCIENCE Multiple Choice Marble is a metamorphic rock primarily composed of: \r\n \r\nW) quartz \r\nX) granite \r\nY) dolomite \r\nZ) calcite", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "EARTH SCIENCE Short Answer What unstable substance does the stratosphere contain that \r\nfunctions to protect life on Earth?", 
-    "tossupA": "Z) CALCITE", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8cb"
-    }, 
-    "questionNum": "23"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "48", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer If 2 coplanar parallel lines are intersected by a transversal line, what is \r\nthe sum of all angles formed?", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Malcolm drove his car a distance of 2 miles in a time of 2 minutes 30 \r\nseconds. Find his average speed, in miles per hour:", 
-    "tossupA": "720", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc8cc"
-    }, 
-    "questionNum": "24"
+    "questionNum": 22
   }, 
   {
     "category": 6, 
@@ -366,12 +244,184 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the name for the plastic-ware consisting of two \r\noverlapping round plastic or glass dishes used by microbiologists in which to grow bacteria?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is typically used by a \r\nmicrobiologist for growing bacterial cultures in petri dishes: \r\n \r\nW) autoclave \r\nX) incubator \r\nY) laminar flow hood \r\nZ) fume hood", 
     "tossupA": "PETRI DISH (ACCEPT: PETRI)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc8cd"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "STARFISH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following anatomical structures is missing in the \r\nhagfish: \r\n \r\nW) heart \r\nX) brain \r\nY) notocord \r\nZ) jaw", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 organisms that are echinoderms: \r\nsquid; snails; starfish; lobsters", 
+    "tossupA": "Z) JAW", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8b5"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Giant kelp found in oceans do NOT possess which of the \r\nfollowing structures: \r\n \r\nW) holdfasts \r\nX) gas bladders \r\nY) stipes \r\nZ) roots", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What numerical albedo value is given to a surface that reflects \r\n100% of incident light?", 
+    "tossupA": "Z) ROOTS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8b7"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) ANT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a lipid: \r\n \r\nW) lipase \r\nX) myoglobin \r\nY) trypsin \r\nZ) corn oil", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms contains the most chitin \r\n(read as: KYE-tin) by percent of body weight: \r\n \r\nW) leopard \r\nX) ant \r\nY) squid \r\nZ) whale", 
+    "tossupA": "Z) CORN OIL", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8bf"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "DIAMOND; GRAPHITE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Nitrogen, sulfur, and selenium are all: \r\n \r\nW) metals \r\nX) nonmetals \r\nY) metalloids \r\nZ) noble gases", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 3 substances that are \r\nallotropes or different chemical forms of carbon: diamond; graphite; topaz", 
+    "tossupA": "X) NONMETALS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8c0"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ALL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What parts of a flower make up the corolla?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 plants that have male and female \r\nflowers on the same plant: apple tree; tomato; maple tree; pumpkin", 
+    "tossupA": "PETALS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8c4"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "16/24; 36/54", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If an ordered pair has an x-coordinate of zero, its graph lies on what part \r\nof the coordinate plane?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Name all of the following 4 fractions that are equivalent to 2/3: 5/9; 16/24; 36/54; \u20134/6", 
+    "tossupA": "Y-AXIS (ACCEPT: VERTICAL AXIS)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8c7"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "COAL = PLANT; COTTON = PLANT;  LARD = ANIMAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer In the United States, what crop is primarily used for \r\nethanol fuel production?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name whether the following 3 substances are primarily \r\nderived from plants or animals, respectively: coal; cotton; lard", 
+    "tossupA": "CORN (ACCEPT: MAIZE)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8c8"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "BIRDS; REPTILES; MOLLUSKS (ACCEPT: ALL BUT BACTERIA)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer How many chambers does the heart of a shark have?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 groups of organisms in which \r\nmitosis occurs: birds; reptiles; mollusks; bacteria", 
+    "tossupA": "2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8c9"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "OZONE (ACCEPT: OZONE LAYER or O<sub>3</sub>)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Marble is a metamorphic rock primarily composed of: \r\n \r\nW) quartz \r\nX) granite \r\nY) dolomite \r\nZ) calcite", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What unstable substance does the stratosphere contain that \r\nfunctions to protect life on Earth?", 
+    "tossupA": "Z) CALCITE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8cb"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "48", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If 2 coplanar parallel lines are intersected by a transversal line, what is \r\nthe sum of all angles formed?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Malcolm drove his car a distance of 2 miles in a time of 2 minutes 30 \r\nseconds. Find his average speed, in miles per hour:", 
+    "tossupA": "720", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8cc"
+    }, 
+    "questionNum": 24
   }
 ]

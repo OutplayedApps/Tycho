@@ -1,48 +1,20 @@
 [
   {
-    "category": 3, 
-    "bonusA": "1,000", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the most common scientific term for a change in \r\nvelocity over time?", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the mass, in grams, of a 1 kilogram object on a \r\nplanet with a gravitational force of 3 meters per second squared?", 
-    "tossupA": "ACCELERATION", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb0c"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 0, 
     "bonusA": "Z) CONDENSATION", 
     "vendorNum": "DOE-MS", 
     "tossupQ": "EARTH SCIENCE Short Answer What molecular substance is primarily responsible for \r\nmoderating wide changes in temperatures on Earth?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is the process by which water vapor \r\nchanges directly into rain: \r\n \r\nW) sublimation \r\nX) evaporation \r\nY) transpiration \r\nZ) condensation", 
     "tossupA": "WATER", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb0d"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "75 CENTS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What are the multiplicative inverse and additive inverse of  5/3 , \r\nrespectively?", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer If 12 gallons of gasoline costs $36.00, what would 1 quart cost, in cents?", 
-    "tossupA": "MULTIPLICATIVE INVERSE =  3/5 ; ADDITIVE INVERSE = \r\n3\r\n5", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb0e"
-    }, 
-    "questionNum": "3"
+    "questionNum": 2
   }, 
   {
     "category": 6, 
@@ -51,28 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a coniferous tree: \r\n \r\nW) poplar \r\nX) oak \r\nY) elm \r\nZ) fir", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following pieces of laboratory glassware \r\nwould be used to MOST accurately measure 1000 milliliters of water: \r\n \r\nW) 1000 milliliter volumetric flask \r\nX) 1000 milliliter beaker \r\nY) 1000 milliliter Erlenmeyer flask \r\nZ) two, 500 milliliter Erlenmeyer flasks", 
     "tossupA": "Z) FIR", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb0f"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "4", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer Found in humans and quite prominent in dogs, what is the name \r\nof the conical-shaped tooth used in tearing muscle and other foods and assisting in cutting?", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer How many canine teeth do humans typically have in early \r\nadulthood?", 
-    "tossupA": "CANINE", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb10"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -81,13 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following atomic properties most directly \r\ndetermines that elements in the same group of the Periodic Table have similar chemical properties: \r\n \r\nW) number of protons \r\nX) number of valence electrons \r\nY) charge of protons \r\nZ) stability of neutrons", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the atomic mass rounded to the nearest whole \r\nnumber and the net charge of an ion with 7 protons, 6 neutrons, and 8 electrons?", 
     "tossupA": "X) NUMBER OF VALENCE ELECTRONS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb11"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,58 +57,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is believed to be the process that \r\ncauses Earth\u2019s tectonic plates to move: \r\n \r\nW) convection currents in the crust \r\nX) convection currents in the mantle \r\nY) gravitational influence of the Sun and Moon directly on continental plates \r\nZ) volcanic activity along subduction zones", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice In which of the following locations would you typically \r\nexpect the average salinity of surface sea water to be the LOWEST: \r\n \r\nW) in the Dead Sea \r\nX) in the waters off Antarctica \r\nY) in the Chesapeake Bay \r\nZ) at the mouth of the Mississippi River", 
     "tossupA": "X) CONVECTION CURRENTS IN THE MANTLE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb12"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "36", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Which of the following is NOT true: \r\n \r\nW) 23 \u2013 3 \u00d7 2 = 17 \r\nX) 72 \u00f7 9 \u2013 3 = 5 \r\nY) 0.3 + 0.4 \u00d7 2 = 1.4 \r\nZ) 6 + 6 \u00d7 2 = 18", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer If on average 6 people drink two-thirds of a gallon of lemonade, how \r\nmany people will drink 4 gallons?", 
-    "tossupA": "Y) 0.3 + 0.4 \u00d7 2 = 1.4", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb13"
-    }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "BARNACLES; CORALS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer What molecular substance is typically considered the most \r\ncritical for life to exist on another planet?", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 organisms that are typically \r\nfilter feeders in an aquatic environment: barnacles; corals; frogs; kelp", 
-    "tossupA": "WATER", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb14"
-    }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "GLUCOSE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer If the 4 main classes of biological molecules are protein, lipid, \r\ncarbohydrate, and nucleic acid, which would butter be classified as?", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer Cellulose is a polymer of what 6-carbon sugar?", 
-    "tossupA": "LIPID", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb15"
-    }, 
-    "questionNum": "10"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -156,13 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Order the following 3 liquids from the one with the \r\nLOWEST viscosity to the one with the HIGHEST viscosity at room temperature: pure olive oil;  \r\nwater; pure honey", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 4 choices that are compounds: \r\nwater; antimony; carbon dioxide; mercury", 
     "tossupA": "WATER; PURE OLIVE OIL; PURE HONEY", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb16"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,13 +91,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Rocks that are produced when magma cools and solidifies \r\ndeep below the Earth\u2019s crust are called: \r\n \r\nW) extrusive igneous \r\nX) intrusive igneous \r\nY) extrusive metamorphic \r\nZ) intrusive sedimentary", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer Of the following 5 choices, name 2 that are igneous rocks: \r\nrock salt; granite; basalt; sandstone; gypsum", 
     "tossupA": "X) INTRUSIVE IGNEOUS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb17"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,43 +108,15 @@
     "tossupQ": "MATH Short Answer Change the following mixed number into an improper fraction: 3\r\n18\r\n5", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Evaluate the following expression: \u20136 \u00d7 3 + \u201316 \u00f7 4", 
     "tossupA": "18\r\n59", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb18"
     }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "12.1", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer Convert the following value into standard scientific \r\nnotation: 0.00634 \u00d7 10<sup>8</sup>", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer Multiply the following 2 values, giving your answer in \r\nthe correct number of significant figures: 10.1 \u00d7 1.201", 
-    "tossupA": "6.34 \u00d7 10<sup>5</sup>", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb19"
-    }, 
-    "questionNum": "14"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "MONOCOTS AND DICOTS (ACCEPT: MONOCOTYLEDONS AND \r\nDICOTYLEDONS )", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer Geotropism is a response of plants to what external force?", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Flowering plants are grouped into what 2 classes named after \r\ntheir number of seed leaves?", 
-    "tossupA": "GRAVITY", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb1a"
-    }, 
-    "questionNum": "15"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -231,13 +125,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the scientific term for a \r\ndrink that settles and needs to be shaken to redistribute the particles throughout the drink: \r\n \r\nW) homogenous \r\nX) solvent \r\nY) suspension \r\nZ) colloid", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the ideal mechanical advantage of a single fixed \r\npulley?", 
     "tossupA": "Y) SUSPENSION", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb1b"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -246,13 +142,15 @@
     "tossupQ": "EARTH SCIENCE Short Answer The lithosphere is made up of the uppermost mantle and \r\nwhat other layer?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Volcanoes and earthquakes occur primarily in which of \r\nthe following locations: \r\n \r\nW) along plate boundaries \r\nX) along continental shelves \r\nY) at the North and South Poles  \r\nZ) around the Hawaiian Islands", 
     "tossupA": "CRUST (ACCEPT: CONTINENTAL AND/OR OCEANIC CRUST)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb1c"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 4, 
@@ -261,13 +159,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is NOT true: \r\n \r\nW) two numbers are reciprocals if their product is 1 \r\nX) one-half of three quarters is three eighths \r\nY) a whole number is divisible by 5 if the \u2018ones\u2019 digit is 0 or 5 \r\nZ) an example of a proper fraction is \r\n4\r\n6", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the sum of all odd one-digit prime positive numbers?", 
     "tossupA": "Z) AN EXAMPLE OF A PROPER FRACTION IS \r\n4\r\n6", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb1d"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 6, 
@@ -276,28 +176,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following are sometimes called \u201cbig dirty \r\nsnowballs\u201d because of their composition: \r\n \r\nW) comets \r\nX) asteroids \r\nY) meteorites \r\nZ) dwarf planets", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true about comets: \r\n \r\nW) to Earth-bound observers, comets glow because they are nearing Earth\u2019s atmosphere \r\nX) they typically have elliptical orbits \r\nY) the Deep Impact probe recently struck a comet \r\nZ) the solid part of a comet is called the nucleus", 
     "tossupA": "W) COMETS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb1e"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "VEIN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the location of the biceps humoris \r\nmuscle: \r\n \r\nW) chest \r\nX) leg \r\nY) abdomen \r\nZ) arm", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What general type of human blood vessel returns blood to the \r\nheart?", 
-    "tossupA": "Z) ARM", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb1f"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -306,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer How many protons does the heaviest isotope of \r\nhydrogen have?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Distillation depends mostly upon what physical \r\nproperty?", 
     "tossupA": "1", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb20"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +210,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Chalk is a type of: \r\n \r\nW) limestone \r\nX) coal \r\nY) rock salt \r\nZ) basalt", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer On which of the terrestrial planets does the Sun rise in the \r\nwest?", 
     "tossupA": "W) LIMESTONE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb21"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -336,28 +227,15 @@
     "tossupQ": "MATH Short Answer How many U.S. quarters equal 750 U.S. nickels?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Name all of the following 5 numbers that are composite numbers: \r\n3, 11, 33, 53, 63", 
     "tossupA": "150", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb22"
     }, 
-    "questionNum": "23"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "355", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer Convert 100 milliliters into cubic centimeters:", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer At standard temperature and pressure, how many grams, \r\nrounded to the nearest whole number, does the contents in a 12 ounce or 355 milliliter water bottle \r\nweigh?", 
-    "tossupA": "100", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb23"
-    }, 
-    "questionNum": "24"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -366,12 +244,184 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the most common name for the polymers of DNA and \r\nassociated proteins that are found in the eukaryotic nucleus?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following characteristics is MOST typical of \r\nbacteria: \r\n \r\nW) numerous mitochondria \r\nX) no nucleus \r\nY) numerous cilia \r\nZ) reproduction by budding", 
     "tossupA": "CHROMOSOME", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb24"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1,000", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the most common scientific term for a change in \r\nvelocity over time?", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the mass, in grams, of a 1 kilogram object on a \r\nplanet with a gravitational force of 3 meters per second squared?", 
+    "tossupA": "ACCELERATION", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb0c"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "75 CENTS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What are the multiplicative inverse and additive inverse of  5/3 , \r\nrespectively?", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If 12 gallons of gasoline costs $36.00, what would 1 quart cost, in cents?", 
+    "tossupA": "MULTIPLICATIVE INVERSE =  3/5 ; ADDITIVE INVERSE = \r\n3\r\n5", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb0e"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Found in humans and quite prominent in dogs, what is the name \r\nof the conical-shaped tooth used in tearing muscle and other foods and assisting in cutting?", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer How many canine teeth do humans typically have in early \r\nadulthood?", 
+    "tossupA": "CANINE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb10"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "36", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is NOT true: \r\n \r\nW) 23 \u2013 3 \u00d7 2 = 17 \r\nX) 72 \u00f7 9 \u2013 3 = 5 \r\nY) 0.3 + 0.4 \u00d7 2 = 1.4 \r\nZ) 6 + 6 \u00d7 2 = 18", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If on average 6 people drink two-thirds of a gallon of lemonade, how \r\nmany people will drink 4 gallons?", 
+    "tossupA": "Y) 0.3 + 0.4 \u00d7 2 = 1.4", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb13"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "BARNACLES; CORALS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What molecular substance is typically considered the most \r\ncritical for life to exist on another planet?", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 organisms that are typically \r\nfilter feeders in an aquatic environment: barnacles; corals; frogs; kelp", 
+    "tossupA": "WATER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb14"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GLUCOSE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer If the 4 main classes of biological molecules are protein, lipid, \r\ncarbohydrate, and nucleic acid, which would butter be classified as?", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Cellulose is a polymer of what 6-carbon sugar?", 
+    "tossupA": "LIPID", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb15"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "12.1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Convert the following value into standard scientific \r\nnotation: 0.00634 \u00d7 10<sup>8</sup>", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Multiply the following 2 values, giving your answer in \r\nthe correct number of significant figures: 10.1 \u00d7 1.201", 
+    "tossupA": "6.34 \u00d7 10<sup>5</sup>", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb19"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MONOCOTS AND DICOTS (ACCEPT: MONOCOTYLEDONS AND \r\nDICOTYLEDONS )", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Geotropism is a response of plants to what external force?", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Flowering plants are grouped into what 2 classes named after \r\ntheir number of seed leaves?", 
+    "tossupA": "GRAVITY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb1a"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "VEIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the location of the biceps humoris \r\nmuscle: \r\n \r\nW) chest \r\nX) leg \r\nY) abdomen \r\nZ) arm", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What general type of human blood vessel returns blood to the \r\nheart?", 
+    "tossupA": "Z) ARM", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb1f"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "355", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Convert 100 milliliters into cubic centimeters:", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer At standard temperature and pressure, how many grams, \r\nrounded to the nearest whole number, does the contents in a 12 ounce or 355 milliliter water bottle \r\nweigh?", 
+    "tossupA": "100", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb23"
+    }, 
+    "questionNum": 24
   }
 ]

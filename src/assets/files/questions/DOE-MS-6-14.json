@@ -6,13 +6,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Halley\u2019s Comet, a famous short-period comet, was \r\nlast visible from Earth in 1986. In which of the following years will it be visible from Earth again? \r\n \r\nW) 2016 \r\nX) 2061 \r\nY) 2099 \r\nZ) 2260", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What is the name of the group of large fissure basalt \r\nflows found covering a great portion of the Pacific Northwest?", 
     "tossupA": "X) 2061", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd020"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT an effect of the sympathetic \r\nnervous system? \r\n \r\nW) Stimulation of glucose release \r\nX) Inhibition of salivation \r\nY) Relaxation of bronchi \r\nZ) Constriction of pupils", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following properties of water allow tall trees to \r\ntransport water to the canopy? \r\n \r\nW) Hydrolytic action \r\nX) Adhesion and cohesion \r\nY) Ionic bonding \r\nZ) Salt gradient", 
     "tossupA": "Z) CONSTRICTION OF PUPILS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd021"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 6, 
@@ -36,13 +40,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following animals is NOT extinct? \r\n \r\nW) Tasmanian wolf \r\nX) Passenger pigeon \r\nY) Red wolf \r\nZ) Dodo", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Of the following salts, which is the least soluble in \r\nwater? \r\n \r\nW) Magnesium nitrate \r\nX) Sodium acetate \r\nY) Lead perchlorate \r\nZ) Lead chromate", 
     "tossupA": "Y) RED WOLF", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd022"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +57,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following best describes the graph of this system of \r\nequations: y = 3/4 x + 2 and y = 4/3 x + 4? \r\n \r\nW) They are parallel \r\nX) They are perpendicular \r\nY) They are skewed \r\nZ) They intersect at one point", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Find the discriminant of the following equation, and then state the \r\nnumber of rational, irrational, and imaginary solutions, respectively: 6n<sup>2</sup> + n \u2013 3 = 7 + 2n.", 
     "tossupA": "Z) THEY INTERSECT AT ONE POINT", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd023"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -66,28 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the minimum amount of \r\nenergy needed to start a chemical reaction? \r\n \r\nW) Production \r\nX) Reaction \r\nY) Activation \r\nZ) Catalytic", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Using proper chemical nomenclature and indicating the \r\nstate of each substance as solid, liquid, aqueous [AY-kwee-uhs], or gas, what is a balanced \r\nequation for the reaction in which silver nitrate solution is mixed with sodium chloride solution, \r\nproducing insoluble silver chloride and sodium nitrate solution?", 
     "tossupA": "Y) ACTIVATION", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd024"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "MOHOROVICIC DISCONTINUITY (ACCEPT: MOHO)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE Short Answer When a meteoroid passes through Earth\u2019s atmosphere, \r\nwhat is the term for the transient visible streak in the sky it leaves behind?", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE Short Answer What layer separates the crust and the mantle?", 
-    "tossupA": "METEOR (ACCEPT: SHOOTING STAR, FALLING STAR)", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd025"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 1, 
@@ -96,13 +91,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the term for the RNA sequences between exons that \r\nare removed before translation in eukaryotic [yoo-KAR-ee-oh-tik] cells?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer You have isolated a very small segment of DNA from the \r\nremains of an organism and would like to make many copies of it so that you can determine its \r\nidentity. What commonly used tool in molecular biology are you most likely to use to amplify this \r\nDNA segment for further testing?", 
     "tossupA": "INTRONS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd026"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,13 +108,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following types of seismic waves are S waves? \r\n \r\nW) Shear \r\nX) Surface \r\nY) Compressional \r\nZ) Tsunami", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Burning which of the following produces the least amount of \r\ncarbon dioxide per unit of energy? \r\n \r\nW) Coal \r\nX) Oil \r\nY) Natural gas \r\nZ) Wood", 
     "tossupA": "W) SHEAR", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd027"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 6, 
@@ -126,13 +125,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the name for a plant \r\nhormone produced primarily in root tips? \r\n \r\nW) Auxin [AWK-sin] \r\nX) Cytokinin [sy-tuh-KY-nin] \r\nY) Ethylene [ETH-uh-leen] \r\nZ) Gibberellin [jib-uh-REL-in]", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Bacteria are surviving in an anaerobic environment. \r\nThe lack of oxygen forces the cells to generate which of the following via fermentation? \r\n \r\nW) NAD+ \r\nX) NADH \r\nY) FAD+ \r\nZ) FADH2", 
     "tossupA": "X) CYTOKININ", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd028"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,13 +142,15 @@
     "tossupQ": "MATH Short Answer What is log<sub>5</sub> 625 [log base 5 of 625]?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice A parabola, when graphed on a coordinate plane, has a vertex at  \r\n(-1, 3) and opens to the right. Which of the following could possibly be the equation for this \r\nparabola? \r\n \r\nW) x = y<sup>2</sup> + 2y \u2013 2  \r\nX) x = y<sup>2</sup> + 2y + 4 \r\nY) x = y<sup>2</sup> \u20136y + 8 \r\nZ) x = y<sup>2</sup> \u2013 6y + 10", 
     "tossupA": "4", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd029"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,13 +159,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice For which of the following reasons is baking soda a \r\ngood substance for putting out a grease fire? \r\n \r\nW) It cools the area \r\nX) It soaks up the grease \r\nY) It deprives the fire of oxygen \r\nZ) It removes all the components of a fire", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following solutions could be used to \r\ntitrate an oxalic acid solution? \r\n \r\nW) Hydrogen bromide \r\nX) Calcium nitrate \r\nY) Sodium hydroxide \r\nZ) Ammonium chloride", 
     "tossupA": "Y) IT DEPRIVES THE FIRE OF OXYGEN", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd02a"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,13 +176,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice If the Earth were to suddenly gain mass, it would \r\nneed to do which of the following in order to maintain its current distance from the Sun? \r\n \r\nW) Accelerate \r\nX) Decelerate \r\nY) Increase the eccentricity of its orbit \r\nZ) Nothing", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following volcanoes erupted in 1915? \r\n \r\nW) St. Helens \r\nX) Hood \r\nY) Lassen \r\nZ) Shasta", 
     "tossupA": "Z) NOTHING", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd02b"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -186,13 +193,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the most practical method that \r\ncould be used to isolate proteins for reinjection into mice? \r\n \r\nW) Western blot \r\nX) Affinity chromatography \r\nY) X-ray crystal diffraction \r\nZ) NMR", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer How many origins of replication are there in a bacterial \r\nchromosome?", 
     "tossupA": "X) AFFINITY CHROMATOGRAPHY", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd02c"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 5, 
@@ -201,13 +210,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following is used to focus sunlight to a specific \r\npoint in solar panels? \r\n \r\nW) Heliostats \r\nX) Concave mirrors \r\nY) Convex mirrors \r\nZ) Diffuse mirrors", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following is the type of moderator used in the \r\nreactor in Chernobyl, Ukraine? \r\n \r\nW) Fast neutron \r\nX) Composite \r\nY) Light water \r\nZ) Graphite", 
     "tossupA": "W) HELIOSTATS", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd02d"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,13 +227,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer According to the Richter scale, a magnitude 7 \r\nearthquake has a wave with an amplitude how many times as large as that of a magnitude 5 \r\nearthquake?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer A single-subunit protein folds into a single, giant alpha \r\nhelix. If there are 3.6 amino acids per turn of the alpha helix and there are 3791 water molecules \r\nformed during the synthesis of this protein, then how many full alpha helical turns are there in \r\nthe protein?", 
     "tossupA": "100", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd02e"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +244,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is equal to the imaginary number i<sup>3</sup>? \r\n \r\nW) -1 \r\nX) 1 \r\nY) i \r\nZ) -i", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What are the largest possible real domain and range, respectively, of \r\nthe following function: f(x) = 4/(x + 1) [f of x equals 4 over the quantity x plus 1]?", 
     "tossupA": "Z) -i", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd02f"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -246,13 +261,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice A student observes her weight on a scale as she \r\nrides an elevator down 3 stories. What happens to her observed weight during the ride? \r\n \r\nW) Her weight stays the same, but it is less than her weight on the ground \r\nX) Her weight stays the same, and it equals her weight on the ground \r\nY) First she weighs less, then the same, then more than her weight on the ground \r\nZ) First she weighs more, then the same, then less than her weight on the ground", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Two objects, each with a mass of 1 kilogram, are \r\nmoving directly towards each other at 20 meters per second before they collide perfectly \r\ninelastically. What will be the impulse in kilogram meters per second on the first object? \r\n \r\nW) 0 \r\nX) 20 \r\nY) 40 \r\nZ) 80", 
     "tossupA": "Y) FIRST SHE WEIGHS LESS, THEN THE SAME, THEN MORE THAN HER \r\nWEIGHT ON THE GROUND", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd030"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -261,13 +278,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What are the two most abundant ions found in \r\nseawater?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following environments is most likely to \r\nhost a community of methane producing organisms? \r\n \r\nW) Hydrothermal vents \r\nX) The upper ocean \r\nY) Leaf litter in the forest \r\nZ) A fast moving stream", 
     "tossupA": "SODIUM (ACCEPT: Na+) AND CHLORIDE (ACCEPT: Cl-; DO NOT ACCEPT: \r\nCHLORINE)", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd031"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +295,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following structures do bacteria use to \r\ntransfer DNA during conjugation? \r\n \r\nW) Nucleoids [NOO-klee-oids] \r\nX) Pili [pee-LEE] \r\nY) Transcriptase [tran-SKRIP-tays] \r\nZ) Capsid", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What end product of glycolysis [gly-KOL-uh-sis] serves as \r\nan electron acceptor for oxidizing NADH back to NAD+?", 
     "tossupA": "X) PILI", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd032"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 5, 
@@ -291,28 +312,15 @@
     "tossupQ": "ENERGY Multiple Choice The Energy Star program was created by which of the following \r\nagencies? \r\n \r\nW) Environmental Protection Agency \r\nX) Green Building Council \r\nY) Federal Energy Regulatory Commission \r\nZ) Department of Energy", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Kirchhoff's voltage law states that which of the following is true? \r\n \r\nW) The sum of voltages in a closed path is equal to zero \r\nX) The power produced by sources must be equal to the power used by appliances \r\nY) The sum of currents in a node is equal to zero \r\nZ) The voltage in a resistor is equal to the current times the value of the circuit's resistance", 
     "tossupA": "W) ENVIRONMENTAL PROTECTION AGENCY", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd033"
     }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "X) BROCA\u2019S AREA", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Multiple Choice During nitrogen fixation, lightning converts nitrogen \r\ngas into which of the following forms that can be used by living organisms? \r\n \r\nW) NO3 \r\nX) NH4 \r\nY) N3 \r\nZ) CN3", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice A person is brought into a hospital following a \r\nterrible accident. This person has no difficulty speaking, but his words are out of sequence and \r\ndo not make sense. Additionally, he is very agitated and will try to attack the doctors if given the \r\nchance. He also seems to have severe memory impairments. Based on this information, which \r\nregion of his brain does NOT appear to be damaged? \r\n \r\nW) Wernicke\u2019s area \r\nX) Broca\u2019s area \r\nY) Hippocampus [hip-uh-KAM-puhs] \r\nZ) Amygdala [uh-MIG-duh-luh]", 
-    "tossupA": "W) NO3", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd034"
-    }, 
-    "questionNum": "21"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -321,28 +329,15 @@
     "tossupQ": "MATH Short Answer What is \u221a1,600 divided by \u221a0.04?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Classify the following conic section and provide its equation in vertex \r\nform: -x<sup>2</sup> + 10x + y \u2013 21 = 0.", 
     "tossupA": "200", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd035"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "GRAVITY, ELECTROMAGNETISM, STRONG, AND WEAK", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer What do scientists call the group of liquids that, close \r\nto absolute zero, have zero viscosity or infinite fluidity?", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What are the four fundamental forces?", 
-    "tossupA": "SUPERFLUIDS", 
-    "setNum": 6, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd036"
-    }, 
-    "questionNum": "23"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -351,13 +346,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is the thickest layer of Earth\u2019s \r\ninterior? \r\n \r\nW) Crust \r\nX) Mantle \r\nY) Outer core \r\nZ) Inner core", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Radioactive isotopes from which of the following \r\nelements would be most useful for dating very old rocks? \r\n \r\nW) Lead \r\nX) Uranium \r\nY) Carbon \r\nZ) Hydrogen", 
     "tossupA": "X) MANTLE", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd037"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -366,12 +363,65 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice On the Galapagos Islands, Darwin discovered 13 species \r\nof finches that possess specialized beaks for unique environments. Which of the following \r\nevolutionary principles is exemplified by this phenomenon? \r\n \r\nW) Convergent evolution \r\nX) Parallel evolution \r\nY) Adaptive radiation \r\nZ) Coevolution", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following sets of two light colors do \r\nchloroplast pigments absorb most effectively during photosynthesis? \r\n \r\nW) Red and blue \r\nX) Green and yellow \r\nY) Green and blue \r\nZ) Red and purple", 
     "tossupA": "Y) ADAPTIVE RADIATION", 
     "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd038"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MOHOROVICIC DISCONTINUITY (ACCEPT: MOHO)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer When a meteoroid passes through Earth\u2019s atmosphere, \r\nwhat is the term for the transient visible streak in the sky it leaves behind?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What layer separates the crust and the mantle?", 
+    "tossupA": "METEOR (ACCEPT: SHOOTING STAR, FALLING STAR)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd025"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "GRAVITY, ELECTROMAGNETISM, STRONG, AND WEAK", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What do scientists call the group of liquids that, close \r\nto absolute zero, have zero viscosity or infinite fluidity?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What are the four fundamental forces?", 
+    "tossupA": "SUPERFLUIDS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd036"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) BROCA\u2019S AREA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice During nitrogen fixation, lightning converts nitrogen \r\ngas into which of the following forms that can be used by living organisms? \r\n \r\nW) NO3 \r\nX) NH4 \r\nY) N3 \r\nZ) CN3", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice A person is brought into a hospital following a \r\nterrible accident. This person has no difficulty speaking, but his words are out of sequence and \r\ndo not make sense. Additionally, he is very agitated and will try to attack the doctors if given the \r\nchance. He also seems to have severe memory impairments. Based on this information, which \r\nregion of his brain does NOT appear to be damaged? \r\n \r\nW) Wernicke\u2019s area \r\nX) Broca\u2019s area \r\nY) Hippocampus [hip-uh-KAM-puhs] \r\nZ) Amygdala [uh-MIG-duh-luh]", 
+    "tossupA": "W) NO3", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd034"
+    }, 
+    "questionNum": 21
   }
 ]

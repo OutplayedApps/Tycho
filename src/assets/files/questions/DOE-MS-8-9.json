@@ -1,33 +1,20 @@
 [
   {
-    "category": 3, 
-    "bonusA": "X) 0.5 Hz", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice How many neutrons does fluorine-19 have? \r\n \r\nW) 8 \r\nX) 9 \r\nY) 10 \r\nZ) 11", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Multiple Choice What is the frequency of a wave with a velocity of 10 \r\nmeters per second and wavelength of 20 meters? \r\n \r\nW) 0.1 Hz \r\nX) 0.5 Hz \r\nY) 5 Hz \r\nZ) 10 Hz", 
-    "tossupA": "Y) 10", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd3b1"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 0, 
     "bonusA": "X) LOSS OF BEACH SOUTH OF THE GROIN", 
     "vendorNum": "DOE-MS", 
     "tossupQ": "EARTH AND SPACE Short Answer What is the term for the dark, broad plains on the surface \r\nof the Moon?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice A long stretch of beach is east facing with a southerly \r\nlongshore current. The construction of an artificial groin will lead to which of the following? \r\n \r\nW) Increased erosion on both sides of the groin \r\nX) Loss of beach south of the groin \r\nY) Sand bar formation south of the groin \r\nZ) Change in the direction of the longshore current", 
     "tossupA": "MARIA (ACCEPT: MARES)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3b2"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,13 +23,15 @@
     "tossupQ": "MATH Multiple Choice A jar contains only red marbles and green marbles. If a marble is \r\nselected at random from the jar, the probability that a red marble will be selected is 2/3. If there \r\nare 36 green marbles in the jar, how many red marbles are there in the jar? \r\n \r\nW) 18 \r\nX) 24 \r\nY) 54 \r\nZ) 72", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the base-ten equivalent of the base-six number \u201cfour five\u201d?", 
     "tossupA": "Z) 72", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3b3"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,13 +40,15 @@
     "tossupQ": "ENERGY Multiple Choice Photovoltaic [foh-toh-vol-TAY-ik] solar trackers can track which of \r\nthe following in order to further increase power production? \r\n \r\nW) Azimuth angle [AZ-uh-muhth] \r\nX) Power angle \r\nY) Power factor \r\nZ) Declination angle", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer How much energy is released when converting 1.5 kilograms of iron \r\noxide to iron if the heat of fusion is 272 kilojoules per kilogram?", 
     "tossupA": "W) AZIMUTH ANGLE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3b4"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,13 +57,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Bacteria are commonly used to produce which of the \r\nfollowing? \r\n \r\nW) Gelatin \r\nX) Wine \r\nY) Pasteurized milk \r\nZ) Vinegar", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following terms is used to define benthic \r\norganisms that live in the spaces between particles of sediment? \r\n \r\nW) Epifauna \r\nX) Infauna \r\nY) Meiofauna [my-uh-FAW-nuh] \r\nZ) Sessile", 
     "tossupA": "Z) VINEGAR", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3b5"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -81,13 +74,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Many ducks have oils on their feathers so that their \r\nfeathers do not get wet. What type of interaction is occurring between the feathers and water? \r\n \r\nW) Hydrophobic \r\nX) Hygroscopic \r\nY) Hydrophilic \r\nZ) Heliophobic", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which cambium [KAM-bee-uhm] layer gives rise to \r\nsecondary phloem [FLOH-em] and secondary xylem [ZY-luhm]? \r\n \r\nW) Primary \r\nX) Secondary \r\nY) Tertiary \r\nZ) Pro", 
     "tossupA": "W) HYDROPHOBIC", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3b6"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -96,28 +91,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a force that will always \r\ndecrease the efficiency of a mechanical system? \r\n \r\nW) Gravity \r\nX) Spring force \r\nY) Magnetic force \r\nZ) Friction", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice The mass of most distant stars is estimated by \r\nastronomers by measuring which of the following? \r\n \r\nW) The speed at which a star is rotating on its axis \r\nX) The distance between Earth and the star \r\nY) The gravitation attraction of the star and nearby planetary objects \r\nZ) The speed of light traveling from that star to Earth", 
     "tossupA": "Z) FRICTION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3b7"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "W) CRYOLITE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Short Answer What element is being produced in abundance by the nuclear \r\nreaction in the Sun?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Multiple Choice What mineral is used in its molten state as a necessary part of the \r\nHall-Heroult process? \r\n \r\nW) Cryolite [KRY-uh-lyt] \r\nX) Kaolin \r\nY) Bentonite \r\nZ) Malachite [MAL-uh-kyt]", 
-    "tossupA": "HELIUM", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd3b8"
-    }, 
-    "questionNum": "8"
+    "questionNum": 7
   }, 
   {
     "category": 0, 
@@ -126,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice What is the period of semi-diurnal tides? \r\n \r\nW) 11 hours and 22 minutes \r\nX) 12 hours \r\nY) 12 hours and 25 minutes \r\nZ) 13 hours and 5 minutes", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice What ocean floor feature is found along the South \r\nPacific Ocean that is not found along the South Atlantic Ocean? \r\n \r\nW) Abyssal plain [uh-BIS-uhl] \r\nX) Mid-ocean ridge \r\nY) Deep-ocean trench \r\nZ) Continental shelf", 
     "tossupA": "Y) 12 HOURS AND 25 MINUTES", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3b9"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,13 +125,15 @@
     "tossupQ": "MATH Multiple Choice For two particular numbers x and y, the values of x \u2013 y and 2x \u2212 y are \r\nconsecutive odd integers in increasing order. What is the value of x? \r\n \r\nW) -1 \r\nX) 0 \r\nY) 1 \r\nZ) 2", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Simplify the expression: 3/(5-&radic;10) [3 divided by the quantity 5 minus the \r\nsquare root of 10].", 
     "tossupA": "Z) 2", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3ba"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,13 +142,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Within the chloroplast, where do the light-dependent reactions \r\nand light-independent reactions occur, respectively?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice A photosynthetic cell might have more of what organelle \r\nthan a non-photosynthetic cell? \r\n \r\nW) Peroxisomes [puh-ROK-suh-sohms] \r\nX) Mitochondria [my-tuh-KON-dree-uh] \r\nY) Free ribosomes [RY-buh-sohms] \r\nZ) Cytosol [SY-tuh-sol]", 
     "tossupA": "THYLAKOID MEMBRANES (ACCEPT: THYLAKOID), STROMA", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3bb"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,28 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Ribosomes [RY-buh-sohms] are cellular structures \r\ncritical for protein synthesis. In what specific structure in the nucleus are ribosomes produced?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice El Ni\u00f1o Southern Oscillation can cause all EXCEPT \r\nwhich of the following? \r\n \r\nW) Increased productivity in South American fisheries \r\nX) Increased rainfall in the Western Pacific \r\nY) Weakened equatorial trade winds \r\nZ) A deeper thermocline in the south-eastern Pacific", 
     "tossupA": "NUCLEOLUS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3bc"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "Y) ARCTIC CIRCLE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Why does the pressure exerted by a gas against a \r\nsealed container increase as the temperature increases? \r\n \r\nW) The gas molecules move faster and strike the container wall more frequently \r\nX) The gas molecules gain more entropy and hence produce more pressure \r\nY) The gas molecules generate more collision energy \r\nZ) The increased kinetic energy increases the rate of chemical reactions between gas particles", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Multiple Choice During winter in the northern hemisphere, what is the \r\nnorthernmost latitude at which the Sun is visible above the horizon? \r\n \r\nW) Tropic of Cancer \r\nX) Tropic of Capricorn \r\nY) Arctic Circle \r\nZ) Antarctic Circle", 
-    "tossupA": "W) THE GAS MOLECULES MOVE FASTER AND STRIKE THE CONTAINER WALL \r\nMORE FREQUENTLY", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd3bd"
-    }, 
-    "questionNum": "13"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -201,13 +176,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What kind of telescope lens will focus two colors of light \r\nat the same distance?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following margins is considered active? \r\n \r\nW) Eastern North American \r\nX) Western African \r\nY) Eastern Indian \r\nZ) Northeastern Eurasian", 
     "tossupA": "ACHROMATIC (ACCEPT: ACHROMAT)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3be"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 4, 
@@ -216,28 +193,15 @@
     "tossupQ": "MATH Short Answer Casey poured sand into a box measuring 4 inches by 16 inches by 8 \r\ninches until it was completely full. She then dumped all the sand into a plastic cube and \r\ndiscovered that the cube held the exact same amount of sand. In inches, how long was the \r\nedge of the cube?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Provided x is a value for which it is defined, simplify the expression \r\n(x&radic;8-&radic;32) / (x<sup>2</sup> \u2013 4) \r\n \r\nW) (x+ 2)/ (x\u221a2)  \r\nX) (2\u221a2)/(x+2) [the fraction with numerator 2 times the square root of 2 and denominator x \r\nplus 2] \r\nY) (2-x)/(2\u221a2)  \r\nZ) (x-2)/(2\u221a2)", 
     "tossupA": "8", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3bf"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "HYDROLYSIS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice A sea dragon mimics what to stay camouflaged? \r\n \r\nW) Rock \r\nX) Coral \r\nY) Seaweed \r\nZ) Kelp", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What is the term for the process of breaking up a molecule \r\nwith water?", 
-    "tossupA": "Y) SEAWEED", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd3c0"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 6, 
@@ -246,13 +210,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following lists the primary gases found in \r\nthe Earth\u2019s atmosphere from the most to the least common? \r\n \r\nW) Argon, nitrogen, oxygen, carbon dioxide \r\nX) Oxygen, carbon dioxide, nitrogen, argon \r\nY) Nitrogen, oxygen, carbon dioxide, argon \r\nZ) Nitrogen, oxygen, argon, carbon dioxide", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Rank the following mountain chains from shortest to \r\nlongest: Andes, Himalayas, Trans-Arctic, Urals.", 
     "tossupA": "Z) NITROGEN, OXYGEN, ARGON, CARBON DIOXIDE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3c1"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +227,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Air drag opposes any motion of an object through air \r\nand is proportional to the velocity of the object. In free fall, what is the common name for the \r\nspeed at which the drag force equates the gravitational force acting on a given object?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice A modern camera allows light to hit its sensor through \r\na circular opening called an aperture. Assuming the amount of light per area is uniform; by what \r\nfactor must the radius of the aperture be multiplied to double the amount of light hitting the \r\nsensor? \r\n \r\nW) 1/2 \r\nX) \u221a2 \r\nY) 2\t\r\nZ) 4", 
     "tossupA": "TERMINAL VELOCITY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3c2"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 5, 
@@ -276,28 +244,15 @@
     "tossupQ": "ENERGY Multiple Choice What is the theoretical maximum voltage that can be produced \r\nfrom a hydrogen fuel cell? \r\n \r\nW) 0.41 volts per cell \r\nX) 0.75 volts per cell \r\nY) 1.23 volts per cell \r\nZ) 2.54 volts per cell", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What is the total resistance of a circuit with the following resistors in \r\nseries: 6 ohm, 0.5 ohm, 1.5 ohm, all in parallel with a 3 ohm resistor?", 
     "tossupA": "Y) 1.23 VOLTS PER CELL", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3c3"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "Y) CARBONATE SHELLS DISSOLVE AT DEPTHS BELOW THE CARBONATE \r\nCOMPENSATION DEPTH", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE Short Answer What constellation occupies the largest area in the sky?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE Multiple Choice The lack of foraminiferal [fuh-ram-uh-NIF-er-uhl] and \r\nother carbonate oozes at depths greater than 4 kilometers is explained by which of the \r\nfollowing? \r\n \r\nW) Foraminifera or other shelled organisms cannot exist at this depth due to pressure \r\nX) Deep sea decomposers break down carbonate shells \r\nY) Carbonate shells dissolve at depths below the carbonate compensation depth \r\nZ) Hydrothermal vent activity at depths exceeding 4 km create highly acidic deep ocean \r\nenvironments, limiting the ability for organisms to live", 
-    "tossupA": "HYDRA (DO NOT ACCEPT: HYDRUS)", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd3c4"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -306,13 +261,15 @@
     "tossupQ": "MATH Multiple Choice For real values of n and k, which of the following expressions is equal \r\nto: 5n * 5k [5 raised to the power of n times 5 raised to the power of k]? \r\n \r\nW) 5n+k [5 raised to the power of the quantity n plus k] \r\nX) 5nk [5 raised to the power of the quantity n times k] \r\nY) 5n-k [5 raised to the power of the quantity n minus k] \r\nZ) 5n/k [5 raised to the power of the quantity n over k]", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the tangent of angle A if the cosine of angle A measures 3/5 \r\nand the sine of angle A measures 4/5?", 
     "tossupA": "W) 5n+k", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3c5"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +278,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What are the four traditional kingdoms of the domain \r\nEukarya?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice What is the purpose of the Eustachian tube [yoo-STAY-\r\nshuhn]? \r\n \r\nW) It improves outer ear transmission of sound \r\nX) It improves vibration of the malleus \r\nY) It assists in decreasing hearing \r\nZ) It clears mucous from the middle ear into the throat", 
     "tossupA": "PROTISTA, PLANTAE, ANIMALIA, AND FUNGI", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3c6"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 6, 
@@ -336,12 +295,99 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following models primary succession of \r\na region? \r\n \r\nW) Soil, trees, grasses \r\nX) Grasses, trees, shrubs, flowering plants \r\nY) Bare rock, pioneer community, climax community \r\nZ) Regolith [REG-uh-lith], colonial community, domestic community", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice What is the difference between basic and applied \r\nscience? \r\n \r\nW) Basic science is less difficult than applied science \r\nX) Basic science describes fundamental phenomena while applied science seeks to address \r\npractical problems \r\nY) Basic science seeks to address practical problems while applied science seeks to describe \r\nfundamental phenomena \r\nZ) Basic science is essential to understanding the world whereas applied science does not have \r\npractical implications", 
     "tossupA": "Y) BARE ROCK, PIONEER COMMUNITY, CLIMAX COMMUNITY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd3c7"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) 0.5 Hz", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice How many neutrons does fluorine-19 have? \r\n \r\nW) 8 \r\nX) 9 \r\nY) 10 \r\nZ) 11", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice What is the frequency of a wave with a velocity of 10 \r\nmeters per second and wavelength of 20 meters? \r\n \r\nW) 0.1 Hz \r\nX) 0.5 Hz \r\nY) 5 Hz \r\nZ) 10 Hz", 
+    "tossupA": "Y) 10", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3b1"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HYDROLYSIS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice A sea dragon mimics what to stay camouflaged? \r\n \r\nW) Rock \r\nX) Coral \r\nY) Seaweed \r\nZ) Kelp", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the term for the process of breaking up a molecule \r\nwith water?", 
+    "tossupA": "Y) SEAWEED", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3c0"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) CRYOLITE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer What element is being produced in abundance by the nuclear \r\nreaction in the Sun?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice What mineral is used in its molten state as a necessary part of the \r\nHall-Heroult process? \r\n \r\nW) Cryolite [KRY-uh-lyt] \r\nX) Kaolin \r\nY) Bentonite \r\nZ) Malachite [MAL-uh-kyt]", 
+    "tossupA": "HELIUM", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3b8"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) ARCTIC CIRCLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Why does the pressure exerted by a gas against a \r\nsealed container increase as the temperature increases? \r\n \r\nW) The gas molecules move faster and strike the container wall more frequently \r\nX) The gas molecules gain more entropy and hence produce more pressure \r\nY) The gas molecules generate more collision energy \r\nZ) The increased kinetic energy increases the rate of chemical reactions between gas particles", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice During winter in the northern hemisphere, what is the \r\nnorthernmost latitude at which the Sun is visible above the horizon? \r\n \r\nW) Tropic of Cancer \r\nX) Tropic of Capricorn \r\nY) Arctic Circle \r\nZ) Antarctic Circle", 
+    "tossupA": "W) THE GAS MOLECULES MOVE FASTER AND STRIKE THE CONTAINER WALL \r\nMORE FREQUENTLY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3bd"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) CARBONATE SHELLS DISSOLVE AT DEPTHS BELOW THE CARBONATE \r\nCOMPENSATION DEPTH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What constellation occupies the largest area in the sky?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice The lack of foraminiferal [fuh-ram-uh-NIF-er-uhl] and \r\nother carbonate oozes at depths greater than 4 kilometers is explained by which of the \r\nfollowing? \r\n \r\nW) Foraminifera or other shelled organisms cannot exist at this depth due to pressure \r\nX) Deep sea decomposers break down carbonate shells \r\nY) Carbonate shells dissolve at depths below the carbonate compensation depth \r\nZ) Hydrothermal vent activity at depths exceeding 4 km create highly acidic deep ocean \r\nenvironments, limiting the ability for organisms to live", 
+    "tossupA": "HYDRA (DO NOT ACCEPT: HYDRUS)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3c4"
+    }, 
+    "questionNum": 20
   }
 ]

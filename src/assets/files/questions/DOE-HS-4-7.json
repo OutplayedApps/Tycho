@@ -6,13 +6,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the purpose of cones in gymnosperms?", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Name the plant type that has one seed leaf when it germinates, \r\nleaf veins that are parallel to each other, and includes plants such as corn, wheat, lilies, \r\ndaffodils, and palms.", 
     "tossupA": "SEXUAL REPRODUCTION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd63e"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -21,13 +23,15 @@
     "tossupQ": "MATH  Short Answer  The lengths of two sides of a triangle are 4 and 9. If the triangle is \r\nisosceles, what is the length of the third side?", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Rebekah wants to fill a spherical pi\u00f1ata with candy. If the radius of her \r\npi\u00f1ata is 6 inches, what is the volume in cubic inches of her pi\u00f1ata in terms of pi?", 
     "tossupA": "9", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd63f"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -36,13 +40,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  What ice sheet on Earth contains the largest volume of \r\nice?", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  The West Antarctic Ice Sheet and the East Antarctic \r\nIce Sheet are separated by what mountain range?   \r\n \r\nW) Transantarctic Mountains \r\nX) Admiralty Mountains \r\nY) Shackleton Range \r\nZ) East Antarctic Ranges", 
     "tossupA": "EAST ANTARCTIC ICE SHEET", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd640"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +57,15 @@
     "tossupQ": "MATH  Short Answer  If the volume of a cube is 64 cubic centimeters, then what is the \r\nsurface area of the cube in square centimeters?", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Multiple Choice  Which of the following categories of statistical plots displays the first, \r\nsecond, and third quartiles for the data that it represents? \r\n \r\nW) Box plot \r\nX) Scatter plot \r\nY) Histogram \r\n Z) Pie chart", 
     "tossupA": "96", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd641"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 2, 
@@ -66,28 +74,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  What are the products for the complete combustion of \r\nmethane? \r\n \r\nW) Carbon and hydrogen \r\nX) Carbon dioxide and hydrogen  \r\nY) Carbon monoxide and water \r\nZ) Carbon dioxide and water", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  For the complete combustion of butane, butane plus oxygen \r\nproduces carbon dioxide and water vapor. What is the balanced equation for the combustion of \r\nbutane?", 
     "tossupA": "Z) CARBON DIOXIDE AND WATER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd642"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "Z) THE OBJECT\u2019S SPEED INCREASES BY 9.8 METERS PER SECOND EACH \r\nSECOND", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Multiple Choice  The mass of a raindrop is 4 milligrams. Which of the following \r\nrepresents the correct mass in grams of the raindrop? \r\n \r\nW) 4 \u00d7 10\r\n-3\r\n \r\nX) 4 \u00d7 10\r\n-1\r\n \r\nY) 4 \u00d7 10<sup>3</sup> \r\nZ) 4 \u00d7 10<sup>6</sup>", 
-    "packetNum": 7, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Multiple Choice  A freely falling object has a constant acceleration of 9.8 meters \r\nper second squared. Which of the following is correct? \r\n \r\nW) The object\u2019s displacement changes by 9.8 meters every second squared \r\nX) The object\u2019s acceleration increases by 9.8 meters per second squared each second \r\nY) The object travels 9.8 meters each second \r\nZ) The object\u2019s speed increases by 9.8 meters per second each second", 
-    "tossupA": "W) 4 \u00d7 10\r\n-3", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd643"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -96,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  In which sphere is the \u201cbad\u201d ozone, a volatile \r\ncompound that contributes to smog, located? \r\n \r\nW) Stratosphere \r\nX) Biosphere \r\nY) Troposphere \r\nZ) Lithosphere", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  In which sphere is the \u201cgood\u201d ozone that absorbs \r\nharmful ultraviolet rays located?", 
     "tossupA": "Y) TROPOSPHERE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd644"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,13 +108,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Ducklings learn to recognize and follow the first moving object \r\nthat they see, usually their mother. What is this behavior called? \r\n \r\nW) Instinct \r\nX) Imprinting \r\nY) Remote sensing  \r\nZ) Classical conditioning", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  A pigeon is placed in a box. Sooner or later, the pigeon \r\naccidentally presses a button or lever that releases food. Eventually, the pigeon learns how to \r\npress the button whenever it wants food. This kind of learning is called: \r\n \r\nW) Habituation \r\nX) Classical conditioning \r\nY) Insight learning \r\nZ) Operant conditioning", 
     "tossupA": "X) IMPRINTING", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd645"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 2, 
@@ -126,28 +125,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Determine the solubility product constant (or K\r\nsp\r\n) of silver \r\nbromide, given that its molar solubility is 5.71  10\r\n-7\r\n moles per liter.  \r\n \r\nW) 3.26  10\r\n-13 X) 5.71  10\r\n-7 Y) 1.14 10\r\n-6\r\n \r\nZ) 2.14  10\r\n-4", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Which of the following are strong bases in aqueous solution: 1) \r\npotassium hydroxide, 2) ammonia, 3) sodium chloride, 4) calcium hydroxide, or 5) beryllium \r\nhydroxide?", 
     "tossupA": "W) 3.26  10\r\n-13", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd646"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "AORTA", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is most likely a descendent of dinosaurs? \r\n \r\nW) Frog \r\nX) Cockroach \r\nY) Turtle \r\nZ) Robin", 
-    "packetNum": 7, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  Oxygen-rich blood leaves the left ventricle to enter the largest \r\nblood vessel in the body. What is this blood vessel called?", 
-    "tossupA": "Z) ROBIN", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd647"
-    }, 
-    "questionNum": "10"
+    "questionNum": 9
   }, 
   {
     "category": 3, 
@@ -156,13 +142,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A poorly designed fishing bob does not float in a sucrose \r\nsolution. Which of the following actions could be taken so the fishing bob would float? \r\n \r\nW) Increase the volume of the solution \r\nX) Decrease the volume of the solution \r\nY) Increase the concentration of the solution \r\nZ) Decrease the concentration of the solution", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Water tank A has width W1 and tank B has width W2, where W1 \r\n> W2. The two water tanks are the same height, H.  If both tanks are completely filled with \r\nwater, which of the following is true about the water pressure at the bottom of the tank? \r\n \r\nW) Pressure cannot be determined  \r\nX) The pressure is greater in tank A \r\nY) The pressure is greater in tank B \r\nZ) Both tanks have the same pressure", 
     "tossupA": "Y) INCREASE THE CONCENTRATION OF THE SOLUTION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd648"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,28 +159,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  What is the most abundant element in the universe?", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Our solar system formed approximately how many \r\nbillion years ago? \r\n \r\nW) 2 \r\nX) 3 \r\nY) 5 \r\nZ) 7", 
     "tossupA": "HYDROGEN", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd649"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "27x<sup>3</sup> + 54x<sup>2</sup> + 36x + 8", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Given the function y=4x-x<sup>2</sup>, what is the largest possible value for y?", 
-    "packetNum": 7, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Express the following in standard polynomial form: (3x+2)<sup>3</sup> (read as: \r\nthe quantity 3x plus 2 cubed)", 
-    "tossupA": "4", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd64a"
-    }, 
-    "questionNum": "13"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -201,13 +176,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  In the 1980s, Europeans began to be diagnosed with mad cow \r\ndisease, a disease which affects the brain. What is the type of infectious agent that causes this \r\ndisease?   \r\n \r\nW) Virus \r\nX) Bacteria \r\nY) Fungi \r\nZ) Prion", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  The prions that cause mad cow disease lack DNA. What does \r\ncurrent research suggest that prions are?", 
     "tossupA": "Z) PRION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd64b"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 2, 
@@ -216,13 +193,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  What is the mass of an electron relative to a proton? \r\n \r\nW) 9.1 x 10\r\n-31\r\n \r\nX) 8.2 x 10\r\n-14\r\n \r\nY) 1/1836 \r\nZ) 0.51", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Sulfuric acid is used to neutralize a solution of sodium \r\nhydroxide. Calculate the number of moles of sodium hydroxide required to completely neutralize \r\ntwo moles of sulfuric acid.", 
     "tossupA": "Y) 1/1836", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd64c"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,13 +210,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following describes an electromagnet? \r\n \r\nW) Straight wire carrying a current \r\nX) Current-carrying wire wrapped around a core \r\nY) Permanent bar magnet \r\nZ) Rock that is iron attracting", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A voltage difference of 10 volts delivers how much power, in \r\nwatts, to a 1-ohm resistor?", 
     "tossupA": "X) CURRENT-CARRYING WIRE WRAPPED AROUND A CORE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd64d"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 2, 
@@ -246,28 +227,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is NOT a strong acid? \r\n \r\nW) Hydrofluoric acid \r\nX) Hydrochloric acid \r\nY) Hydrobromic acid \r\nZ) Hydroiodic acid", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following would be the resulting pH from the \r\nreaction of equal amounts of a strong acid with a strong base? \r\n \r\nW) Less than 7 \r\nX) Equal to 7 \r\nY) More than 7 \r\nZ) The reaction is independent of the pH", 
     "tossupA": "W) HYDROFLUORIC ACID", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd64e"
     }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "(4,0)  ALSO ACCEPT: X = 4 AND Y = 0", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Where do the lines y = (2x/3) + 5 and 3y = 2x - 21 intersect?", 
-    "packetNum": 7, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Where do the lines 3x - 4y =12 and 5x + 4y =20 intersect?", 
-    "tossupA": "THEY DON\u2019T (ACCEPT: THEY\u2019RE PARALLEL, NULL SET, EMPTY SET)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd64f"
-    }, 
-    "questionNum": "18"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -276,13 +244,15 @@
     "tossupQ": "ENERGY  Multiple Choice  The largest reserve of energy in the United States is in which of \r\nthe following?    \r\n \r\nW) Natural gas \r\nX) Coal \r\nY) Nuclear \r\nZ) Offshore oil", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  The Organization of the Petroleum Exporting Countries (OPEC) \r\nproduces about what percentage of the world\u2019s crude oil? \r\n \r\nW) 20% \r\nX) 40% \r\nY) 60% \r\nZ) 80%", 
     "tossupA": "X) COAL", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd650"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +261,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  The world\u2019s largest desert is on which continent?", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What property of many meteors makes Antarctica a \r\ngood place to go meteor hunting?", 
     "tossupA": "ANTARCTICA", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd651"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -306,43 +278,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  What type of collision occurs when two objects collide and stick \r\ntogether? \r\n \r\nW) Partially elastic \r\nX) Perfectly elastic \r\nY) Partially inelastic \r\nZ) Perfectly inelastic", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  For all collisions, all of the following properties are conserved \r\nexcept: \r\n \r\nW) Total mass \r\nX) Center of mass \r\nY) Kinetic energy \r\nZ) Momentum", 
     "tossupA": "Z) PERFECTLY INELASTIC", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd652"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "LACTIC ACID", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ENERGY  Short Answer  What is the final three-carbon product of glycolysis?", 
-    "packetNum": 7, 
-    "grade": "HS", 
-    "bonusQ": "ENERGY  Short Answer  Which acidic compound is the major product of fermentation in \r\nskeletal muscle?", 
-    "tossupA": "PYRUVATE (read as: py-RUH-vayt) [ACCEPT: PYRUVIC (read as: py-RUH-vik) \r\nACID, CH\r\n3\r\nCOCO\r\n2\r\nH]", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd653"
-    }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "19", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Two triangles are similar. If the smaller one has a perimeter of 18 and \r\nthe ratio between them is 5:3 (read as: 5 to 3), what is the perimeter of the larger triangle?", 
-    "packetNum": 7, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  If all of the interior angles of a polygon sum to 3060 degrees, how \r\nmany sides does the polygon have?", 
-    "tossupA": "30", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd654"
-    }, 
-    "questionNum": "23"
+    "questionNum": 21
   }, 
   {
     "category": 5, 
@@ -351,13 +295,117 @@
     "tossupQ": "ENERGY  Multiple Choice  Ocean thermal energy conversion systems convert solar \r\nradiation to electric power. Which of the following describes the source of energy in ocean \r\nthermal energy conversion systems? \r\n \r\nW) Magma below the ocean floor  \r\nX) Oceanic thermal vents  \r\nY) Wave motion \r\nZ) The difference in temperatures between surface and deep waters", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  What is the minimum temperature difference, in degrees \r\nCelsius, needed to develop an ocean thermal energy conversion system? \r\n \r\nW) 10 &deg; \r\nX) 15 &deg; \r\nY) 20 &deg; \r\nZ) 25 &deg;", 
     "tossupA": "Z) THE DIFFERENCE IN TEMPERATURES BETWEEN SURFACE AND DEEP \r\nWATERS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd655"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) THE OBJECT\u2019S SPEED INCREASES BY 9.8 METERS PER SECOND EACH \r\nSECOND", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  The mass of a raindrop is 4 milligrams. Which of the following \r\nrepresents the correct mass in grams of the raindrop? \r\n \r\nW) 4 \u00d7 10\r\n-3\r\n \r\nX) 4 \u00d7 10\r\n-1\r\n \r\nY) 4 \u00d7 10<sup>3</sup> \r\nZ) 4 \u00d7 10<sup>6</sup>", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  A freely falling object has a constant acceleration of 9.8 meters \r\nper second squared. Which of the following is correct? \r\n \r\nW) The object\u2019s displacement changes by 9.8 meters every second squared \r\nX) The object\u2019s acceleration increases by 9.8 meters per second squared each second \r\nY) The object travels 9.8 meters each second \r\nZ) The object\u2019s speed increases by 9.8 meters per second each second", 
+    "tossupA": "W) 4 \u00d7 10\r\n-3", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd643"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "AORTA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is most likely a descendent of dinosaurs? \r\n \r\nW) Frog \r\nX) Cockroach \r\nY) Turtle \r\nZ) Robin", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Oxygen-rich blood leaves the left ventricle to enter the largest \r\nblood vessel in the body. What is this blood vessel called?", 
+    "tossupA": "Z) ROBIN", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd647"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "27x<sup>3</sup> + 54x<sup>2</sup> + 36x + 8", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Given the function y=4x-x<sup>2</sup>, what is the largest possible value for y?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Express the following in standard polynomial form: (3x+2)<sup>3</sup> (read as: \r\nthe quantity 3x plus 2 cubed)", 
+    "tossupA": "4", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd64a"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(4,0)  ALSO ACCEPT: X = 4 AND Y = 0", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Where do the lines y = (2x/3) + 5 and 3y = 2x - 21 intersect?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Where do the lines 3x - 4y =12 and 5x + 4y =20 intersect?", 
+    "tossupA": "THEY DON\u2019T (ACCEPT: THEY\u2019RE PARALLEL, NULL SET, EMPTY SET)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd64f"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "LACTIC ACID", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Short Answer  What is the final three-carbon product of glycolysis?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  Which acidic compound is the major product of fermentation in \r\nskeletal muscle?", 
+    "tossupA": "PYRUVATE (read as: py-RUH-vayt) [ACCEPT: PYRUVIC (read as: py-RUH-vik) \r\nACID, CH\r\n3\r\nCOCO\r\n2\r\nH]", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd653"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "19", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Two triangles are similar. If the smaller one has a perimeter of 18 and \r\nthe ratio between them is 5:3 (read as: 5 to 3), what is the perimeter of the larger triangle?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  If all of the interior angles of a polygon sum to 3060 degrees, how \r\nmany sides does the polygon have?", 
+    "tossupA": "30", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd654"
+    }, 
+    "questionNum": 23
   }, 
   {
     "category": 0, 
@@ -366,12 +414,14 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following describes Jupiter's great red \r\nspot?  \r\n \r\nW) A storm  \r\nX) An aurora \r\nY) A magnetotail \r\nZ) A volcano", 
     "packetNum": 7, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  Saturn's rings are made mostly of:", 
     "tossupA": "W) A STORM", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd656"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

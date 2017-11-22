@@ -6,13 +6,15 @@
     "tossupQ": "MATH  Multiple Choice  Which of the following statements BEST describes whether or not \r\nthe magnitude of the standard deviation depends on the location of the center of the data? \r\n \r\nW) Yes, the larger the mean, the larger the standard deviation \r\nX) Yes, because you have to know the mean in order to calculate the standard deviation \r\nY) No, standard deviation is not affected by the location of the center \r\nZ) No, standard deviation only measures how values differ from each other and not how they \r\ndiffer from the mean", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  What is the minimum value of the function f(x) = x ln(x)?", 
     "tossupA": "Y) NO, STANDARD DEVIATION IS NOT AFFECTED BY THE LOCATION OF THE \r\nCENTER", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc97"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Which family of genes, present in all metazoan organisms, is \r\ninstrumental in specifying the anterior-posterior access and segment identity during early \r\nembryonic development?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  By name or number, identify all of the following four actions that \r\nare caused by parasympathetic nerves: 1) expansion of airways, 2) slowing of heartbeat, 3) \r\nconstriction of pupils, 4) contraction of bladder.", 
     "tossupA": "HOX", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc98"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 5, 
@@ -36,13 +40,15 @@
     "tossupQ": "ENERGY  Short Answer  What kind of fossil-fuel based fuel plant recovers the waste heat \r\nthat is otherwise lost during conventional thermal power generation, thus achieving effective \r\nelectric efficiencies of 70% to 90%?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  How do the internal energies compare for dense packings of Janus \r\nparticles on a cylindrical surface in which each hydrophobic side faces the corresponding \r\nhemispheres of all neighbors?", 
     "tossupA": "COGENERATION (ACCEPT: COMBINED HEAT AND POWER OR CHP)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc99"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 3, 
@@ -51,13 +57,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Two long, straight wires are hanging parallel to each other and \r\nare 1 centimeter apart. The current in wire 1 is 5 amperes, and the current in wire 2 is 10 \r\namperes in the same direction. Which of the following BEST describes the magnetic force per \r\nunit of length felt on wire 1? \r\n \r\nW) It is twice the force per unit of length on wire 2 \r\nX) It is half the force per unit of length on wire 2 \r\nY) It is 0.001 newtons per meter away from wire 2 \r\nZ) It is 0.001 newtons per meter toward wire 2", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A 2-kilogram object moves in a circle with a radius of 4 meters at a \r\nconstant speed of 3 meters per second. A net force of 4.5 newtons acts on the object. What is \r\nthe angular momentum of the object, in kilogram meters squared per second, with respect to an \r\naxis perpendicular to the circle and through its center?", 
     "tossupA": "Z) IT IS 0.001 NEWTONS PER METER TOWARD WIRE 2", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc9a"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,43 +74,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the scientific term for the skeletons of diatoms?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  By number, identify all of the five following characteristics that are \r\nTRUE of Humbolt squids: 1) they can reach up to six feet in length; 2) they live about one year \r\non average; 3) they are very passive; 4) they hunt in schools; 5) they can eject themselves from \r\nthe water into the air to escape predators.", 
     "tossupA": "FRUSTULES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc9b"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "(-4, 2)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  If sin(2x) = 0.4, then what does (cosx + sinx)<sup>2</sup> equal?", 
-    "packetNum": 13, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Give the interval or intervals of values of x for which the graph of the \r\nfunction f(x) = 5 \u2013 x<sup>2</sup> is above the graph of g(x)= 2x \u2013 3?", 
-    "tossupA": "1.4", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdc9c"
-    }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "KRYPTON DIFLUORIDE AND CARBON DIOXIDE (ACCEPT: 1 AND 4)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Multiple Choice  Two solutions are made with equal molarity: one contains \r\nsucrose dissolved in water, while the other contains an unknown salt dissolved in water. The \r\nfreezing point of the sucrose solution is found to be -0.75\u00b0 Celsius, and the freezing point of the \r\nunknown salt solution is -2.2\u00b0 Celsius. Which of the following is the most likely chemical formula \r\nof the salt? \r\n \r\nW) NaCl \r\nX) CaCl\r\n2\r\n \r\nY) AlCl\r\n3\r\n \r\nZ) AgCl", 
-    "packetNum": 13, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  By name or number, identify all of the following five compounds \r\nthat would be more soluble in carbon tetrachloride than in water: 1) krypton difluoride, 2) sulfur \r\ndifluoride, 3) sulfur dioxide, 4) carbon dioxide, 5) magnesium fluoride.", 
-    "tossupA": "X) CaCl\r\n2", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdc9d"
-    }, 
-    "questionNum": "7"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -111,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following was NOT observed at the \r\nTunguska event? \r\n \r\nW) About eighty million trees were lying on their sides \r\nX) Night skies glowed \r\nY) A massive impact crater was formed \r\nZ) Energy approximating 2.8 megatons was released", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  By name or number, identify all of the following four \r\nbodies of water that are currently experiencing a relative drop in sea level: 1) Mediterranean \r\nSea, 2) Yellow Sea, 3) Hudson Bay, 4) Caribbean Sea?", 
     "tossupA": "Y) A MASSIVE IMPACT CRATER WAS FORMED", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc9e"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 2, 
@@ -126,13 +108,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following elements has the lowest freezing \r\npoint? \r\n \r\nW) Nitrogen \r\nX) Oxygen \r\nY) Sodium \r\nZ) Bromine", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  By name or number, identify all of the following five compounds \r\nfor which London dispersion is the most significant type of interparticle force present in its solid \r\nstate: 1) argon, 2) hydrogen chloride, 3) calcium chloride, 4) carbon dioxide, 5) hydrogen \r\nsulfide.", 
     "tossupA": "X) OXYGEN", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc9f"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +125,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Gap junctions in animal cells and plasmodesmata in plant cells \r\npermit which of the following? \r\n \r\nW) Adjacent cells to adhere strongly to each other \r\nX) Secondary messengers produced in one cell to rapidly diffuse into and stimulate events in \r\nsurrounding cells \r\nY) The passage of connexin signals allowing coordinated cellular responses   \r\nZ) Rapid exchange of genetic information between adjacent cells", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Most insects take in oxygen and expel carbon dioxide through \r\nspiracles. What tubes connect directly to the spiracles?", 
     "tossupA": "X) SECONDARY MESSENGERS PRODUCED IN ONE CELL TO RAPIDLY \r\nDIFFUSE INTO AND STIMULATE EVENTS IN SURROUNDING CELLS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca0"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 2, 
@@ -156,13 +142,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What type of semiconductor would be formed if a small \r\namount of indium impurity is added to pure selenium?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  By name or number, put the following five compounds in order \r\nfrom lowest to highest melting point: 1) carbon tetrachloride, 2) water, 3) sodium chloride, 4) \r\nmolecular oxygen, 5) chloroform.", 
     "tossupA": "P-TYPE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca1"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -171,13 +159,15 @@
     "tossupQ": "MATH  Short Answer  You find that your maximum error of estimate in determining a \r\npopulation proportion is \u00b1 4%, based on your sample size. If you were to repeat the experiment \r\nwith a sample four times as large, what would your maximum error of estimate be?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  By number, identify all of the following three statements that are \r\nTRUE: 1) the area under a normal curve is always equal to one; 2) the larger the standard \r\ndeviation of a normal curve, the higher and narrower the graph; 3) normal curves with different \r\nmeans are centered around different numbers.", 
     "tossupA": "2%", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca2"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 3, 
@@ -186,13 +176,15 @@
     "tossupQ": "PHYSICS  Short Answer  What is the name of a rotary electrical switch that reverses \r\nmagnetic field polarity in a DC motor?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A spring mass system is vibrating along a frictionless horizontal \r\nfloor. The spring constant is 8 newtons per meter, the amplitude is 5 centimeters, and the period \r\nis 4 seconds. What is the mass of the system in newtons in terms of pi?", 
     "tossupA": "COMMUTATOR (ACCEPT: SPLIT RING COMMUTATOR OR COMMUTATOR \r\nRING)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca3"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 1, 
@@ -201,13 +193,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the name of the genus for the human itch mite \r\nresponsible for causing human scabies?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  The somatosensory map in the human brain has neurons that \r\nsense touch in all parts of the body. Relative to their physical size, which two parts of the body \r\nhave the largest area of the map devoted to them?", 
     "tossupA": "SARCOPTES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca4"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 2, 
@@ -216,13 +210,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What is the name of any material with the same type of crystal \r\nstructure as calcium titanium oxide and a general chemical formula of ABX\r\n3\r\n, where A and B are \r\ntwo cations of very different sizes, and X is an anion that bonds to both?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Classify the order of each reagent and of the reaction overall \r\nbetween nitric oxide and molecular oxygen to form nitrogen dioxide, given the equation:  \r\n2NO\r\n(g)\r\n + O\r\n2(g) \r\n\u2192 2NO\r\n2(g)\r\n and given that the rate law of this reaction is k(NO)\r\n2\r\n.", 
     "tossupA": "PEROVSKITE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca5"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,13 +227,15 @@
     "tossupQ": "PHYSICS  Short Answer  An annular ring with inner and outer radii r\r\n1\r\n and r\r\n2\r\n, respectively, is \r\nrolling without slipping with a uniform angular speed. What is the ratio of the centripetal forces \r\nf\r\n1\r\n/f\r\n2\r\n experienced at two points on the inner and outer parts of the ring?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A 0.5 kilogram book is dropped from a height of 1.5 meters. Given \r\ng as 10 meters per second squared and providing your answer as a decimal to the nearest \r\ntenth, with what kinetic energy, in joules, will it hit the floor?", 
     "tossupA": "r\r\n1\r\n/r\r\n2", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca6"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -246,13 +244,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  What is the name for the lobe-shaped cliffs on Mercury \r\nformed by contraction of the crust?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What type of cloud is formed when warm, moist air \r\nruns into the surface of a mountain, in which wind flows through the cloud, ascending on the \r\nwindward side and descending on the lee side?", 
     "tossupA": "SCARPS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca7"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +261,15 @@
     "tossupQ": "PHYSICS  Short Answer  When two tuning forks, fork 1 and fork 2, are sounded \r\nsimultaneously, 4 beats per second are heard. If the frequency of fork 1 is 200 hertz, then what \r\ntwo values are possible for the frequency of fork 2?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Two blocks, A and B, of mass 3m and 2m, respectively, are \r\nconnected by a massless, inextensible string. They are also suspended by a massless spring, \r\nwith block A attached directly to the spring and block B hanging below block A. The system is \r\ninitially at rest, then the string connecting the blocks is suddenly cut. Immediately after the string \r\nis cut, what are the accelerations of blocks A and B, respectively?", 
     "tossupA": "196 AND 204", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca8"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 5, 
@@ -276,28 +278,15 @@
     "tossupQ": "ENERGY  Short Answer  What is the name of the non-equilibrium state between a solid and \r\na plasma, with potential energy of the interaction between electrons and nuclei roughly of the \r\nsame magnitude as the kinetic energy of the electrons?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  The cyanobacterium Synechococcus elongatus (read as: sy-neh-\r\nKOH-k\u014de-kuhs eh-lohn-GAH-tuhs) has a core circadian oscillator that can be reconstituted in \r\nvitro from which three purified proteins?", 
     "tossupA": "WARM DENSE MATTER (ACCEPT: WDM)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdca9"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "56", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Providing your answer as a fraction in simplest form, for a distribution \r\nwith a mean of 40 and a standard deviation of 8, what is the z-score for a score of 36?", 
-    "packetNum": 13, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  How many positive integer divisors does 8640 have?", 
-    "tossupA": "-1/2", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdcaa"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -306,13 +295,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following geologic observations would \r\nNOT directly assist in the determination of the sequence of geologic events in an area? \r\n \r\nW) An unconformity between a granite and sandstone \r\nX) A well-exposed dike of basalt in sandstone \r\nY) Inclusions of sandstone in a granite pluton  \r\nZ) The feldspar and quartz contents of a granite", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What term is used to describe a weather front that is \r\nthe boundary between two air masses of different moisture content, one of warm, moist air and \r\nthe other of hot, dry air?", 
     "tossupA": "Z) THE FELDSPAR AND QUARTZ CONTENTS OF A GRANITE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdcab"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 3, 
@@ -321,28 +312,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A moving coil galvanometer has 150 equal divisions. Its current \r\nsensitivity is 10 divisions per milliampere and its voltage sensitivity is 2 divisions per millivolt. In \r\norder for each division to read 1-volt, what resistance, in ohms, must be connected in series \r\nwith the coil? \r\n \r\nW) 995 \r\nX) 9,995 \r\nY) 99,995 \r\nZ) 999,995", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A pilot flying at 700 meters per second experiences an \r\nacceleration of 5 g when pulling out of a dive. Given 9.8 meters per second squared as g, what \r\nis the radius, in meters, of curvature of the loop in which the plane is flying?", 
     "tossupA": "X) 9,995", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdcac"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "THEY WILL DECREASE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT a consequence of the \r\napparent stretching of the crust during extension in order to form fault-block mountains? \r\n \r\nW) Episodes of volcanism \r\nX) Doming of the crust \r\nY) Higher heat than average \r\nZ) Accretion of terranes", 
-    "packetNum": 13, 
-    "grade": "HS", 
-    "bonusQ": "EARTH AND SPACE  Short Answer  Flowville expects significant population growth in the \r\nnext decade. Obviously, more people will produce more sewage, and, considering that Flowville \r\nWastewater Treatment Facility only performs primary and secondary treatment, the increased \r\nsewage will lead to a higher phosphorus discharge into Flow Lake. As a result of these \r\nactivities, how will Secchi depth (read as: SEK-kee) readings at Flow Lake be affected?", 
-    "tossupA": "Z) ACCRETION OF TERRANES", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdcad"
-    }, 
-    "questionNum": "23"
+    "questionNum": 22
   }, 
   {
     "category": 5, 
@@ -351,13 +329,15 @@
     "tossupQ": "ENERGY  Multiple Choice  In compact fluorescent light bulbs, conversion of electrical \r\nenergy into radiant energy occurs due to which of the following? \r\n \r\nW) Inelastic scattering  \r\nX) Chemical bonding \r\nY) Phase change  \r\nZ) Elastic scattering", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  Tsunamis are characterized as shallow-water waves. Given g as \r\n10 meters per second squared, which of the following is the approximate velocity in kilometers \r\nper hour of a tsunami which originates in shallow water, but then propagates in water with a \r\ndepth of 6100 meters? \r\n \r\nW)150 \r\nX) 300 \r\nY) 600 \r\nZ) 900", 
     "tossupA": "W) INELASTIC SCATTERING", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdcae"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -366,12 +346,82 @@
     "tossupQ": "BIOLOGY  Short Answer  Which form of hepatitis is transmitted by ingestion of fecal matter, \r\neven in microscopic amounts, and results in an acute but not chronic infection?", 
     "packetNum": 13, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following insects has a unique muscle \r\narrangement that allows them to power their flight directly? \r\n \r\nW) Beetle \r\nX) Butterfly \r\nY) Dragonfly \r\nZ) Cockroach", 
     "tossupA": "A (ACCEPT: E)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdcaf"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(-4, 2)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If sin(2x) = 0.4, then what does (cosx + sinx)<sup>2</sup> equal?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Give the interval or intervals of values of x for which the graph of the \r\nfunction f(x) = 5 \u2013 x<sup>2</sup> is above the graph of g(x)= 2x \u2013 3?", 
+    "tossupA": "1.4", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdc9c"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "KRYPTON DIFLUORIDE AND CARBON DIOXIDE (ACCEPT: 1 AND 4)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Two solutions are made with equal molarity: one contains \r\nsucrose dissolved in water, while the other contains an unknown salt dissolved in water. The \r\nfreezing point of the sucrose solution is found to be -0.75\u00b0 Celsius, and the freezing point of the \r\nunknown salt solution is -2.2\u00b0 Celsius. Which of the following is the most likely chemical formula \r\nof the salt? \r\n \r\nW) NaCl \r\nX) CaCl\r\n2\r\n \r\nY) AlCl\r\n3\r\n \r\nZ) AgCl", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  By name or number, identify all of the following five compounds \r\nthat would be more soluble in carbon tetrachloride than in water: 1) krypton difluoride, 2) sulfur \r\ndifluoride, 3) sulfur dioxide, 4) carbon dioxide, 5) magnesium fluoride.", 
+    "tossupA": "X) CaCl\r\n2", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdc9d"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "56", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Providing your answer as a fraction in simplest form, for a distribution \r\nwith a mean of 40 and a standard deviation of 8, what is the z-score for a score of 36?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  How many positive integer divisors does 8640 have?", 
+    "tossupA": "-1/2", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdcaa"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "THEY WILL DECREASE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT a consequence of the \r\napparent stretching of the crust during extension in order to form fault-block mountains? \r\n \r\nW) Episodes of volcanism \r\nX) Doming of the crust \r\nY) Higher heat than average \r\nZ) Accretion of terranes", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  Flowville expects significant population growth in the \r\nnext decade. Obviously, more people will produce more sewage, and, considering that Flowville \r\nWastewater Treatment Facility only performs primary and secondary treatment, the increased \r\nsewage will lead to a higher phosphorus discharge into Flow Lake. As a result of these \r\nactivities, how will Secchi depth (read as: SEK-kee) readings at Flow Lake be affected?", 
+    "tossupA": "Z) ACCRETION OF TERRANES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdcad"
+    }, 
+    "questionNum": 23
   }
 ]

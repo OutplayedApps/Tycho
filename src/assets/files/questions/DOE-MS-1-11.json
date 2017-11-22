@@ -6,13 +6,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following terms is MOST commonly used to \r\nrefer to the copying of DNA during the cell cycle: \r\n \r\nW) duplication \r\nX) replication \r\nY) translation \r\nZ) complementation", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the most common term for a random change in the \r\nnucleotide base sequence in DNA?", 
     "tossupA": "X) REPLICATION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9fa"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,13 +23,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a simple instrument often \r\nused to demonstrate electrostatic induction: \r\n \r\nW) electroscope \r\nX) voltmeter \r\nY) electrometer \r\nZ) spectrometer", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the most common term for the form of radio \r\ntelecommunications that broadcasts electromagnetic information by varying the wave frequency?", 
     "tossupA": "W) ELECTROSCOPE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9fb"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -36,28 +40,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Meanders are typically associated with: \r\n \r\nW) turbulent rivers \r\nX) low-gradient streams \r\nY) V-shaped valleys \r\nZ) alluvial fans", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer Of the 3 main parts of the continental margin, which one is \r\nconsidered the flooded part of the continent?", 
     "tossupA": "X) LOW-GRADIENT STREAMS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9fc"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "20", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Find the mean and median, respectively, of the following set of 6 \r\nnumbers: 10, 10, 10, 11, 11, 11", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Consider a line that contains the points ABCD in order from left to right. \r\nIf AB = 10, BC = 26, and AD = 56, find CD:", 
-    "tossupA": "MEAN = 10.5; MEDIAN = 10.5 (ACCEPT: BOTH 10.5)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc9fd"
-    }, 
-    "questionNum": "4"
+    "questionNum": 3
   }, 
   {
     "category": 6, 
@@ -66,13 +57,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following would be most useful for \r\nseparating blood into its component parts: \r\n \r\nW) cross matching \r\nX) precipitation \r\nY) centrifugation \r\nZ) atomization", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is closest to the diameter of a \r\nstandard compact disc or DVD: \r\n \r\nW) 3 centimeters \r\nX) 12 centimeters \r\nY) 20 millimeters \r\nZ) 1500 millimeters", 
     "tossupA": "Y) CENTRIFUGATION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9fe"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 1, 
@@ -81,13 +74,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the most common long-term storage \r\nform of energy for vertebrate animals: \r\n \r\nW) nucleic acids \r\nX) proteins \r\nY) starch \r\nZ) lipids", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the name for the structures in plants that regulate air \r\nentering the plant through stems and leaves?", 
     "tossupA": "Z) LIPIDS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc9ff"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -96,13 +91,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is LEAST accurate regarding \r\nthe element helium: \r\n \r\nW) it is the second most abundant element in the universe \r\nX) it is constantly escaping from Earth\u2019s atmosphere into space \r\nY) it is toxic to humans even in very low concentrations \r\nZ) it is a noble gas", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following substances when pure typically \r\ncontains ONLY carbon atoms: \r\n \r\nW) isopropyl alcohol \r\nX) glass \r\nY) graphite \r\nZ) natural gas", 
     "tossupA": "Y) IT IS TOXIC TO HUMANS EVEN IN VERY LOW CONCENTRATIONS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca00"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 6, 
@@ -111,13 +108,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What parasitic disease is one of the most common \r\ninfectious diseases in the world and got its name because it was thought to be caused by or \r\nassociated with bad air?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following contains the FEWEST calories: \r\n \r\nW) 1 large, fresh apple \r\nX) 1 large, baked potato \r\nY) 1 cup raw spinach \r\nZ) 1 tablespoon extra virgin olive oil", 
     "tossupA": "MALARIA", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca01"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,13 +125,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice The presence of which of the following most clearly \r\nindicates that much of the U.S. was covered by shallow seas for millions of years: \r\n \r\nW) limestone \r\nX) breccia \r\nY) basalt \r\nZ) coal", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice In which of the following locations would a preponderance \r\nof actively-produced pillow lavas be found: \r\n \r\nW) Mount Saint Helens \r\nX) mid-Atlantic ridge \r\nY) Mount Vesuvius, Italy \r\nZ) Yellowstone Caldera", 
     "tossupA": "W) LIMESTONE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca02"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,13 +142,15 @@
     "tossupQ": "MATH Short Answer Simplify the following expression, combining like terms:  \r\n2x \u2013 3y \u2013 (5x \u2013 4y)", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A scale drawing of a tractor is drawn as 1 inch equal to 4 feet. If the \r\nwidth of the bucket is drawn as five-eights of an inch, what is the actual width of the bucket, in feet \r\nto the first decimal place?", 
     "tossupA": "\u20133x + y (ACCEPT: y \u2013 3x)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca03"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,13 +159,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a general term widely used by \r\nscientists to indicate artificial growth of cells in the laboratory: \r\n \r\nW) culture \r\nX) monocell \r\nY) attenuate \r\nZ) decoction", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the most common term biologists \r\nuse for the molecule that an enzyme will act on: \r\n \r\nW) substrate \r\nX) product \r\nY) producer \r\nZ) catalyst", 
     "tossupA": "W) CULTURE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca04"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 3, 
@@ -171,13 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true: \r\n \r\nW) the freezing point of pure water is 0\u00baC at sea level \r\nX) when pure water freezes, it reaches its maximum density at 0\u00baC \r\nY) adding salt to ice will lower its melting point \r\nZ) when pure maple syrup is cooled below 0\u00baC, pure water ice separates out", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 4 processes where energy is \r\nreleased: water melts; water freezes; evaporation; condensation", 
     "tossupA": "X) WHEN PURE WATER FREEZES, IT REACHES ITS MAXIMUM DENSITY AT \r\n0\u00baC \r\n \r\n(Solution: max density at ~4\u00baC)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca05"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,58 +193,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true: \r\n \r\nW) global sea levels have generally risen over the past 18,000 years \r\nX) the Mississippi River Delta in Louisiana has one of the highest rates of wetland loss in the U.S. \r\nY) tide stations measure local sea levels \r\nZ) most of Earth\u2019s groundwater comes from glacial meltwater", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice The primary process in the mechanical weathering of \r\nrocks worldwide is: \r\n \r\nW) exfoliation \r\nX) abrasion \r\nY) thermal expansion \r\nZ) thermal contraction", 
     "tossupA": "Z) MOST OF EARTH\u2019S GROUNDWATER COMES FROM GLACIAL \r\nMELTWATER", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca06"
     }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "400 \r\n \r\n(Solution: 2/7 = x/1400, x = 400)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Subtract 27 from 57, giving your answer in its simplest radical \r\nform:", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer If on average 2 out 7 students prefer vegetarian sandwiches over non-\r\nvegetarian sandwiches, how many vegetarian sandwiches should be ordered for 1400 students?", 
-    "tossupA": "37", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca07"
-    }, 
-    "questionNum": "14"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "W) LUPUS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Multiple Choice Chickenpox is a disease caused by a: \r\n \r\nW) bacteria \r\nX) fungus \r\nY) virus \r\nZ) protozoan", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is an autoimmune disease: \r\n \r\nW) Lupus \r\nX) spina bifida \r\nY) scabies \r\nZ) yellow fever", 
-    "tossupA": "Y) VIRUS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca08"
-    }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "MATURE OVUM; SPERM", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a protein: \r\n \r\nW) glycerol \r\nX) trypsin \r\nY) cholesterol \r\nZ) tyrosine", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 cells of a human that are typically \r\nhaploid: skin cell; mature ovum; sperm; lymphocyte", 
-    "tossupA": "X) TRYPSIN", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca09"
-    }, 
-    "questionNum": "16"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -246,13 +210,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Giving the proper charges, what are the chemical \r\nformulas for the major ions present in a aqueous solution of sodium hydroxide, or NaOH?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Arrange the following 3 pure substances in order of \r\nINCREASING melting points at 1 atmosphere of pressure: iron; oxygen; water", 
     "tossupA": "Na+ AND OH\u2013 (in any order)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca0a"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -261,28 +227,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is a greenhouse gas that primarily \r\ncomes from landfills, coal mines, oil and natural gas operations, and agriculture: \r\n \r\nW) ozone \r\nX) sulfur dioxide \r\nY) nitric oxide \r\nZ) methane", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Mammoths and mastodons became extinct around the end \r\nof the: \r\n \r\nW) Cretaceous \r\nX) Jurassic \r\nY) Triassic \r\nZ) Pleistocene", 
     "tossupA": "Z) METHANE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca0b"
     }, 
-    "questionNum": "18"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "(\u20131, 1)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer For the equation, \u20133x + 4y = 16, find y when x = 0:", 
-    "packetNum": 11, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer If the point on a graph with coordinates (3, 2) is translated 1 unit to the \r\nleft and 3 units down, and then another 3 units to the left and 2 units up, what are the new \r\ncoordinates?", 
-    "tossupA": "4", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca0c"
-    }, 
-    "questionNum": "19"
+    "questionNum": 18
   }, 
   {
     "category": 6, 
@@ -291,13 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer The Pleiades is an open cluster whose stars all formed \r\nfrom the same interstellar cloud. What basic force holds this cluster together?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice If we were to use human developmental stages for the \r\nage of our Sun, in which of the following stages of life would our Sun be considered: \r\n \r\nW) infant \r\nX) teenager \r\nY) middle age \r\nZ) elderly", 
     "tossupA": "GRAVITY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca0d"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 1, 
@@ -306,13 +261,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Tell whether the medusa and polyp stages of hydrozoans are \r\nhaploid or diploid, respectively?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 choices that are most commonly \r\nassociated with asexual reproduction in organisms: meiosis; budding; binary fission; \r\nfragmentation", 
     "tossupA": "BOTH ARE DIPLOID (ACCEPT: DIPLOID AND DIPLOID)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca0e"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 3, 
@@ -321,13 +278,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer As what color will a red object appear when illuminated \r\nby a blue light?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the wavelength, in meters, of a sound wave that \r\nhas a frequency of 4 kilohertz and a speed in a medium of 400 meters per second?", 
     "tossupA": "BLACK", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca0f"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,13 +295,100 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice The impact crater located beneath the Yucatan Peninsula \r\nin Mexico is implicated in causing an extinction event that happened between which of the following \r\ntwo periods: \r\n \r\nW) Permian and Triassic \r\nX) Cretaceous and Tertiary \r\nY) Cambrian and Ordovician \r\nZ) Devonian and Carboniferous", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer What is the name for the Era that began after the extinction \r\nevent that occured at the end of the Cretaceous Period?", 
     "tossupA": "X) CRETACEOUS AND TERTIARY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca10"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "20", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Find the mean and median, respectively, of the following set of 6 \r\nnumbers: 10, 10, 10, 11, 11, 11", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Consider a line that contains the points ABCD in order from left to right. \r\nIf AB = 10, BC = 26, and AD = 56, find CD:", 
+    "tossupA": "MEAN = 10.5; MEDIAN = 10.5 (ACCEPT: BOTH 10.5)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9fd"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "400 \r\n \r\n(Solution: 2/7 = x/1400, x = 400)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Subtract 27 from 57, giving your answer in its simplest radical \r\nform:", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If on average 2 out 7 students prefer vegetarian sandwiches over non-\r\nvegetarian sandwiches, how many vegetarian sandwiches should be ordered for 1400 students?", 
+    "tossupA": "37", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca07"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) LUPUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Chickenpox is a disease caused by a: \r\n \r\nW) bacteria \r\nX) fungus \r\nY) virus \r\nZ) protozoan", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is an autoimmune disease: \r\n \r\nW) Lupus \r\nX) spina bifida \r\nY) scabies \r\nZ) yellow fever", 
+    "tossupA": "Y) VIRUS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca08"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MATURE OVUM; SPERM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a protein: \r\n \r\nW) glycerol \r\nX) trypsin \r\nY) cholesterol \r\nZ) tyrosine", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 cells of a human that are typically \r\nhaploid: skin cell; mature ovum; sperm; lymphocyte", 
+    "tossupA": "X) TRYPSIN", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca09"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(\u20131, 1)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer For the equation, \u20133x + 4y = 16, find y when x = 0:", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the point on a graph with coordinates (3, 2) is translated 1 unit to the \r\nleft and 3 units down, and then another 3 units to the left and 2 units up, what are the new \r\ncoordinates?", 
+    "tossupA": "4", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca0c"
+    }, 
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -351,13 +397,15 @@
     "tossupQ": "MATH Short Answer Expand the following expression, giving your answer in standard form: \r\n(x + 10)2", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Find the following product, giving your answer in standard form:  \r\n(2x + y)(x + y)", 
     "tossupA": "x<sup>2</sup> + 20x + 100", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca11"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 6, 
@@ -366,12 +414,14 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What fraction of the celestial sphere can be seen from the \r\nEarth\u2019s South Pole?", 
     "packetNum": 11, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer  Name all of the following states of matter through which \r\nsound can travel: solid; liquid; gas; plasma", 
     "tossupA": "\u00bd", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca12"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

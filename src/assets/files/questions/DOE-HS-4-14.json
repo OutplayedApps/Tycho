@@ -6,13 +6,15 @@
     "tossupQ": "MATH  Short Answer  If the determinant of a 2 by 2 matrix, denoted A, is equal to -2, what is \r\nthe determinant of 2 times A?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Multiple Choice  Which of the following matrices does not have the same determinant \r\nas the 2 by 2 matrix with row 1: 0, -1; and row 2: 1, 0? \r\n \r\nW) the 2 by 2 matrix row 1: 0, -1; row 2: -1, 0 \r\nX)  the 2 by 2 matrix row 1: 1, 0; row 2: 0, 1 \r\nY)  the 2 by 2 matrix row 1: 1, -1; row 2: 0, 1 \r\nZ)  the 2 by 2 matrix row 1: 0, 1; row 2: -1, 0", 
     "tossupA": "- 8", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf08"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,27 +23,31 @@
     "tossupQ": "PHYSICS  Short Answer  If two sine waves are played with frequencies of 400 and 410 \r\nHertz, at what frequency in Hertz will you perceive that their volumes are \u201cpulsing\u201d?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  If the fundamental frequency of a pipe open at both ends is 70 \r\nHertz, what will its next two harmonics be in Hertz? \r\n \r\nW) 105 and 140 \r\nX) 140 and 210 \r\nY) 210 and 350 \r\nZ) 210 and 420", 
     "tossupA": "10", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf09"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "bonusA": "NORTHERN HEMISPHERE", 
     "packetNum": 14, 
     "vendorNum": "DOE-HS", 
     "tossupQ": "EARTH AND SPACE  Multiple Choice  If you measure the solar altitude at noon and find it to \r\nbe 90\u00b0, at which of the following locations could you be? \r\n \r\nW) Congo, in sub-Saharan Africa \r\nX) France, in Western Europe Y) Buenos Aires, Argentina, in southeastern South America Z) Tokyo, Japan, off the coast of eastern Asia", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "grade": "HS", 
     "bonusQ": "EARTH AND SPACE Short Answer If where you live, the sun rises at 75\u00b0 northeast on the horizon, in May, and the solar altitude is less than 90\u00b0 at the equinox, in which hemisphere do you live?", 
     "tossupA": "W) CONGO, IN SUB-SAHARAN AFRICA", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0a"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -50,13 +56,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Many mammal species produce colostrum during the late stages of \r\npregnancy or shortly after giving birth. This \"first milk\" transfers antibodies from the mother to \r\nthe infant. What is the isotype of these antibodies that can be transferred from the infant gut to \r\nthe infant bloodstream?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  In humans, in addition to transferring antibodies, colostrum also \r\nstimulates the development of the neonatal gut through the transference of: \r\n \r\nW) Pheromones (read as: FEHR-oh-m\u014dens) \r\nX) Non-heritable mutations \r\nY) Beta-galactose \r\nZ) Growth factors", 
     "tossupA": "IgA", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0b"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 2, 
@@ -65,13 +73,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is a polar, aprotic solvent? \r\n \r\nW) Water \r\nX) Methanol \r\nY) Dimethyl sulfoxide \r\nZ) Chloroform", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  What kind of isomers are mannose and glucose? \r\n \r\nW) Enantiomers (read as: i-nahn-TEE-\u014de-mehrs) \r\nX) Conformational isomers \r\nY) Mesoisomers \r\nZ) Diastereoisomers (read as: dy-ah-STEHR-ee-\u014cE-mehrs)", 
     "tossupA": "Y) DIMETHYL SULFOXIDE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0c"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -80,13 +90,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  In determining the escape velocity of an object on Earth, which of \r\nthe following values is generally least important? \r\n \r\nW) The mass of the object \r\nX) The volume of the object  \r\nY) The radius of Earth \r\nZ) The mass of Earth", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  A spherical Gaussian surface encloses two point charges, q1 and \r\nq2, while a third point charge, q3, is placed outside the Gaussian surface.  The electrical field on \r\nthe Gaussian surface is due to which of the charges?", 
     "tossupA": "X) THE VOLUME OF THE OBJECT", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0d"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 2, 
@@ -95,28 +107,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Transition metal elements have atoms or ions with which of \r\nthe following orbitals partially filled?  \r\n \r\nW) d  \r\nX) f  \r\nY) p \r\nZ) s", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which choice represents the electron configuration for the \r\nmagnesium 2+ ion? \r\n \r\nW) 1s\r\n2 \r\n2s\r\n2 \r\n2p\r\n6 \r\n3s\r\n2 X) 1s\r\n2 \r\n2s\r\n2 \r\n2p\r\n6 \r\n3s\r\n2 \r\n3p\r\n2\r\n \r\nY) 1s\r\n2 \r\n2s\r\n2 \r\n2p\r\n6 \r\n3s\r\n1 Z) 1s\r\n2 \r\n2s\r\n2 \r\n2p\r\n6", 
     "tossupA": "W) d", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf0e"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "Z) \r\n.91", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  How far apart, in degrees, are the asymptotes of the graph of \r\n2tan(3x/2) (read as: 2 times the tangent of 3x over 2)?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Multiple Choice  If the sine of an angle is 0.3, which of the following is a possible \r\ncosine of that angle? \r\n \r\nW) .09 \r\nX) .7 \r\nY) \r\n.7\r\n \r\nZ) \r\n.91", 
-    "tossupA": "120\u00b0", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdf0f"
-    }, 
-    "questionNum": "8"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -125,13 +124,15 @@
     "tossupQ": "ENERGY  Multiple Choice  A strong oxidizing agent would show which of the following \r\ncharacteristics? \r\n \r\nW) A large, positive reduction potential \r\nX) A large, positive oxidation potential \r\nY) A small, positive reduction potential \r\nZ) A small, positive oxidation potential", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  Which of the following is the strongest reducing agent yielding the \r\nmost ATP per molecule during oxidative phosphorylation? \r\n \r\nW) FADH\r\n2\r\n \r\nX) FAD\r\n+\r\n \r\nY) NADH \r\nZ) NAD\r\n+", 
     "tossupA": "W) A LARGE, POSITIVE REDUCTION POTENTIAL", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf10"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -140,13 +141,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  A putative observation of methane on Mars was \r\nreported in 2009. Which of the following is NOT considered a possible source of this methane? \r\n \r\nW) Methanogenesis \r\nX) Clathrate (read as: CLAH-thrayt) dissociation  \r\nY) Volcanic outgassing \r\nZ) Serpentinization", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  If the moon is in a new moon phase on April 1, \r\napproximately when will the next spring tide occur?", 
     "tossupA": "Y) VOLCANIC OUTGASSING", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf11"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -155,13 +158,15 @@
     "tossupQ": "PHYSICS  Short Answer  Assuming that the light bulbs, wires, and batteries are all the \r\nsame in two different circuits, how would the brightness of two light bulbs in series compare to \r\nthe brightness of just one light bulb?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What will the power loss be in watts in a 100,000 volt transmission \r\nline carrying 10 amperes of current if the resistance of the line is 20 ohms?", 
     "tossupA": "DIMMER (ACCEPT: LESS BRIGHT, LESS)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf12"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 5, 
@@ -170,28 +175,15 @@
     "tossupQ": "ENERGY  Multiple Choice  One component of a solar energy system is the charge \r\ncontroller. Its function is to:   \r\n \r\nW) Provide electrical protection to the system \r\nX) Regulate the amount of power that goes into energy storage for later use \r\nY) Dissipate excess energy \r\nZ) Store the energy for later use", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  How much heat in kilocalories does it take to heat 10 kilograms of \r\nbathwater from 10\u00b0 Celsius to 20\u00b0 Celsius?", 
     "tossupA": "X) REGULATE THE AMOUNT OF POWER THAT GOES INTO THE ENERGY \r\nSTORAGE FOR LATER USE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf13"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "-cos(w) (DO NOT ACCEPT: OTHER ANSWERS)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  What is the derivative of sin(w) at w = 0?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  What is the derivative of cos ( + w) (read as: cosine of open \r\nparenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?", 
-    "tossupA": "1", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdf14"
-    }, 
-    "questionNum": "13"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -200,13 +192,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  What will likely happen to the amount of dissolved \r\noxygen in a river downstream of a tributary that brings sewage effluent? \r\n \r\nW) The amount of oxygen will be depleted  \r\nX) The amount of oxygen will stay the same \r\nY) Oxygen will be generated \r\nZ) More oxygen will diffuse into the water", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Does a heavy wet snowfall in Buffalo, New York \r\nnecessarily mean that Boston, Massachusetts will experience the same weather? \r\n \r\nW) Yes, because they are geographically close and the Westerlies drive storm systems across \r\nthe U.S. towards the East \r\nX) Yes, because airmasses hitting New England are always impacted by their proximity to the \r\nocean and, therefore, pick up moisture that will be dumped as snow  \r\nY) No, because Buffalo, New York, is subject to lake-effect snows; the airmass may be \u201cdried \r\nout\u201d by the time it gets to Boston \r\nZ) No, because weather in the U.S. is driven by the Westerlies which push storm systems from \r\neast to west across the continent", 
     "tossupA": "W) THE AMOUNT OF OXYGEN WILL BE DEPLETED", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf15"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 5, 
@@ -215,28 +209,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Which of the following principles is at work in hybrid cars? \r\n \r\nW) Recapture some of car\u2019s kinetic energy and use it to go faster \r\nX) Recapture some of the car\u2019s kinetic energy and use it for better fuel economy \r\nY) Recapture some of the car\u2019s kinetic energy to synthesize gasoline \r\nZ) Recapture engine heat and convert it to more kinetic energy for the car", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  If a force of 10 newtons raises a mass 1.0 meters in 1.0 seconds, \r\nthen what is the power in watts?", 
     "tossupA": "X) RECAPTURE SOME OF THE CAR\u2019S KINETIC ENERGY AND USE IT FOR \r\nBETTER FUEL ECONOMY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf16"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "DIVERGENT EVOLUTION", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Multiple Choice  Humans have a gene, called LCT, which encodes lactase. In \r\nmost of the world, LCT is active in young children but is turned off in adults. However, northern \r\nEuropeans and three different tribes of African pastoralists carry a mutation that permits it to be \r\nexpressed in adults. The mutation is different in each of the four cases, indicating the mutation \r\nis an example of: \r\n \r\nW) Paralogous genes \r\nX) Convergent evolution \r\nY) Homologous genes \r\nZ) Divergent evolution", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  The human foot and the monkey foot are very different, despite \r\ncommon primate ancestry. The evolution of these differing traits allowed organisms to adapt to \r\ndifferent environmental conditions. This type of evolution is known as:", 
-    "tossupA": "X) CONVERGENT EVOLUTION", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdf17"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -245,43 +226,15 @@
     "tossupQ": "MATH  Multiple Choice  In a parallelogram ABCD, the sides AB and DC can be represented \r\nby: \r\n \r\nW) Opposite vectors \r\nX) Two different vectors with the same direction \r\nY) Two different vectors with the same magnitude \r\nZ) The same vector", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  The number 360 has how many positive integer factors?", 
     "tossupA": "Z) THE SAME VECTOR", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf18"
     }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "NAZCA PLATE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "EARTH AND SPACE  Multiple Choice  What kind of plate tectonic boundary formed the \r\nEast African rift? \r\n \r\nW) Divergent \r\nX) Convergent \r\nY) Thrust \r\nZ) Transform", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "EARTH AND SPACE  Short Answer  What oceanic plate sits west of the South American \r\nplate, forming a convergent boundary?", 
-    "tossupA": "W) DIVERGENT", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdf19"
-    }, 
-    "questionNum": "18"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "6", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  If N represents the number of sides for a regular polygon that \r\ntessellates the plane, how many different values of N are there?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Find the limit as x approaches -2 of (x<sup>3</sup> + 8)/(2x + 4) (read as: the \r\nquantity x cubed plus 8 divided by the quantity 2x plus 4).", 
-    "tossupA": "3", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdf1a"
-    }, 
-    "questionNum": "19"
+    "questionNum": 17
   }, 
   {
     "category": 2, 
@@ -290,13 +243,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following ions are NOT isoelectronic with an \r\nargon atom? \r\n \r\nW) K\r\n+\r\n \r\nX) Ti\r\n2+\r\n \r\nY) S\r\n2-\r\n \r\nZ) Ca\r\n2+", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  In a breath analyzer, what color change occurs in a \r\npotassium dichromate solution in the presence of alcohol? \r\n \r\nW) Orange-yellow to green \r\nX) Red to blue \r\nY) Clear to pink \r\nZ) Orange-yellow to red", 
     "tossupA": "X) Ti\r\n2+", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1b"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -305,13 +260,15 @@
     "tossupQ": "PHYSICS  Short Answer  When the path difference between two slits is an odd multiple of \r\nthe light\u2019s wavelength divided by 2, the waves arrive 180 degrees out of phase. What kind of \r\ninterference does this represent?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  A beam of white light is incident on a triangular glass prism with \r\nan index of refraction of 1.5 for visible light, producing a spectrum. Initially, the prism is in a \r\nglass aquarium filled with air. If the aquarium is filled with water with an index of refraction of \r\n1.3, which of the following is true? \r\n \r\nW) The spectrum produced has the deviation of the beam opposite to that in air \r\nX) The positions of red and violet are reversed in the spectrum \r\nY) The spectrum produced has greater separation between red and violet than that produced in \r\nair \r\nZ) The spectrum produced has lesser separation between red and violet than that produced in \r\nair", 
     "tossupA": "DESTRUCTIVE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1c"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 2, 
@@ -320,13 +277,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What is the pH for a solution with 0.01 mole of nitric acid in 1.0 \r\nliter of water?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  What are the nonsuperimposable mirror images of a chiral \r\ncompound called?", 
     "tossupA": "2", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1d"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -335,13 +294,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  The incorporation of beta carotene genes from daffodil flowers \r\ninto rice represents a type of: \r\n \r\nW) Traditional plant breeding \r\nX) Natural selection \r\nY) Genetic engineering \r\nZ) Bioprospecting", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the method by which scientists determine the precise \r\nchromosomal location for a gene that encodes a particular biological trait?", 
     "tossupA": "Y) GENETIC ENGINEERING", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1e"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 0, 
@@ -350,13 +311,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT an accurate \r\ndescription of the dominant airmass effecting America\u2019s Pacific Northwest?   \r\n \r\nW) Cool \r\nX) Maritime \r\nY) Humid \r\nZ) Dry", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  The Chinook winds that come from the west and \r\nmove air down the eastern face of the Rocky Mountains are known as \u201csnow eaters\u201d, because: \r\n \r\nW) The winds bring moist warm air from California, causing the snows to melt and \u201cdisappear\u201d \r\nfrom the Front Range region of Colorado \r\nX) The airmass brings cold, dry winds from the peaks of the Rockies, causing the snow to \r\nfreeze into black ice, making it look like the snow \u201cdisappeared\u201d \r\nY) The winds blow the snow off the Front Range and onto the Plains, making the snow \r\n\u201cdisappear\u201d from the eastern face of the mountains \r\nZ) The airmass warms as it descends, increasing its water vapor capacity and causing the snow \r\nto sublime and \u201cdisappear\u201d", 
     "tossupA": "Z) DRY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf1f"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -365,12 +328,99 @@
     "tossupQ": "BIOLOGY  Short Answer  Which one or ones of the following are aquatic insect nymphs that \r\nhave external gills on either the thorax or the abdomen: 1) stoneflies, 2) damselflies,                 \r\n3) dragonflies, or 4) mayflies?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  In insects, prothoracicotropic (read as: pr\u014de-thoh-rah-si-koh-\r\nTROH-pik) hormone stimulates the prothoracic gland to produce what hormone important in \r\ninsect development?", 
     "tossupA": "STONEFLIES, DAMSELFLIES, AND MAYFLIES (ACCEPT: 1, 2, 4)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdf20"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Z) \r\n.91", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  How far apart, in degrees, are the asymptotes of the graph of \r\n2tan(3x/2) (read as: 2 times the tangent of 3x over 2)?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Multiple Choice  If the sine of an angle is 0.3, which of the following is a possible \r\ncosine of that angle? \r\n \r\nW) .09 \r\nX) .7 \r\nY) \r\n.7\r\n \r\nZ) \r\n.91", 
+    "tossupA": "120\u00b0", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf0f"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-cos(w) (DO NOT ACCEPT: OTHER ANSWERS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the derivative of sin(w) at w = 0?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the derivative of cos ( + w) (read as: cosine of open \r\nparenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?", 
+    "tossupA": "1", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf14"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "DIVERGENT EVOLUTION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Humans have a gene, called LCT, which encodes lactase. In \r\nmost of the world, LCT is active in young children but is turned off in adults. However, northern \r\nEuropeans and three different tribes of African pastoralists carry a mutation that permits it to be \r\nexpressed in adults. The mutation is different in each of the four cases, indicating the mutation \r\nis an example of: \r\n \r\nW) Paralogous genes \r\nX) Convergent evolution \r\nY) Homologous genes \r\nZ) Divergent evolution", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  The human foot and the monkey foot are very different, despite \r\ncommon primate ancestry. The evolution of these differing traits allowed organisms to adapt to \r\ndifferent environmental conditions. This type of evolution is known as:", 
+    "tossupA": "X) CONVERGENT EVOLUTION", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf17"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "NAZCA PLATE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  What kind of plate tectonic boundary formed the \r\nEast African rift? \r\n \r\nW) Divergent \r\nX) Convergent \r\nY) Thrust \r\nZ) Transform", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What oceanic plate sits west of the South American \r\nplate, forming a convergent boundary?", 
+    "tossupA": "W) DIVERGENT", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf19"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If N represents the number of sides for a regular polygon that \r\ntessellates the plane, how many different values of N are there?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the limit as x approaches -2 of (x<sup>3</sup> + 8)/(2x + 4) (read as: the \r\nquantity x cubed plus 8 divided by the quantity 2x plus 4).", 
+    "tossupA": "3", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf1a"
+    }, 
+    "questionNum": 19
   }
 ]

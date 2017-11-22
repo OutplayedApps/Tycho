@@ -6,13 +6,15 @@
     "tossupQ": "MATH Multiple Choice The graph of which of the following equations has a negative slope: \r\n \r\nW) y = 2x \u2013 4 \r\nX) y = \u2013 2x + 4 \r\nY) y = \u2013 4 \r\nZ) x = \u2013 2", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Simplify the following completely: (20x<sup>6</sup>y<sup>2</sup>z<sup>3</sup>)/(2x<sup>4</sup>y<sup>2</sup>z<sup>3</sup>)", 
     "tossupA": "X) y = \u2013 2x + 4", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc919"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -21,13 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true: \r\n \r\nW) all fires burn with a yellow flame \r\nX) snowflakes and raindrops often contain bacteria \r\nY) a general rule for solubility is that \u2018like dissolves like\u2019 \r\nZ) a super-cooled liquid is a liquid at a temperature below its normal freezing point", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following BEST describes the range of \r\nsizes of most animal cells: \r\n \r\nW) 0.2 to 2.0 micrometers \r\nX) 2.0 to 4.0 micrometers \r\nY) 5.0 to 20.0 micrometers \r\nZ) 12.0 to 40.0 micrometers", 
     "tossupA": "W) ALL FIRES BURN WITH A YELLOW FLAME", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc91a"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 1, 
@@ -36,13 +40,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is most advantageous to plants that \r\ndepend on insects for pollination: \r\n \r\nW) absence of rhizomes \r\nX) sticky pollen \r\nY) small green flowers \r\nZ) numerous stomata", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following biological molecules that are \r\nconsidered polymers: glucose; cellulose; DNA; RNA", 
     "tossupA": "X) STICKY POLLEN", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc91b"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 3, 
@@ -51,13 +57,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following materials in pure form would \r\nregister the LOWEST amount of ohms for a given electric current at 20\u00baC if all other variables are \r\nconstant: \r\n \r\nW) silver \r\nX) gold \r\nY) tin \r\nZ) lead", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following optical devices produces a real \r\nimage: \r\n \r\nW) plane mirror \r\nX) convex mirror \r\nY) concave lens \r\nZ) convex lens", 
     "tossupA": "W) SILVER", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc91c"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -66,28 +74,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice A semidiurnal tidal pattern is more typical of which of the \r\nfollowing locations: \r\n \r\nW) the East Coast of the U.S. \r\nX) the West Coast of the U.S. \r\nY) the Gulf of Mexico \r\nZ) the North Pole", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is the most notable product of the \r\nhydrolysis of feldspar: \r\n \r\nW) chalk \r\nX) sandstone \r\nY) clay minerals \r\nZ) halite", 
     "tossupA": "W) THE EAST COAST OF THE U.S.", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc91d"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "\u20131, \u20139, \u201317", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Which of the following is closest in value to 51: \r\n \r\nW) 5.1 \r\nX) 5.5 \r\nY) 6.8 \r\nZ) 7.1", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Find the next 3 terms of the arithmetic sequence whose first 3 terms are: \r\n23, 15, 7", 
-    "tossupA": "Z) 7.1", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc91e"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -96,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is one of the most likely causes \r\nof algal blooms in waterways along the Chesapeake Bay: \r\n \r\nW) fertilizers \r\nX) natural pesticides \r\nY) nitrogen-fixing bacteria \r\nZ) plastics pollution", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Giving your answer as winter, spring, summer, or fall, in \r\nwhat season will \u201cdead zones\u201d be most prevalent in the Chesapeake Bay?", 
     "tossupA": "W) FERTILIZERS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc91f"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,13 +108,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Pampas, steppes, and savannas are all different types of: \r\n \r\nW) deserts \r\nX) tropical forests \r\nY) tropical shrublands \r\nZ) grasslands", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following biomes takes up more square area of \r\nthe world than any other biome: \r\n \r\nW) rainforest \r\nX) savanna \r\nY) taiga \r\nZ) tundra", 
     "tossupA": "Z) GRASSLANDS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc920"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +125,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Hydrogen bonding is NOT important in the physical \r\nand chemical properties of: \r\n \r\nW) liquid water \r\nX) water ice \r\nY) DNA \r\nZ) methane gas", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Arrange the following 3 diatomic molecules in order of \r\nINCREASING number of bonds between atoms: oxygen; fluorine; nitrogen", 
     "tossupA": "Z) METHANE GAS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc921"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -141,28 +142,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT a key step in the rock \r\ncycle: \r\n \r\nW) cementation \r\nX) melting \r\nY) cooling \r\nZ) evaporation", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Most of Earth\u2019s deserts in the northern hemisphere are \r\nlocated near which of the following latitudes: \r\n \r\nW) 0\u00ba \r\nX) 30\u00ba \r\nY) 70\u00ba \r\nZ) 90\u00ba", 
     "tossupA": "Z) EVAPORATION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc922"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "xx<sup>5</sup>", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Express the following radical in simplified form for all positive values of \r\nx and y: )36(64yx", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Find the product of 25x times x<sup>5</sup>, giving your answer in its simplest \r\nradical form for all positive values of x:", 
-    "tossupA": "6x<sup>2</sup>y<sup>3</sup>", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc923"
-    }, 
-    "questionNum": "11"
+    "questionNum": 10
   }, 
   {
     "category": 6, 
@@ -171,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is typically used to sterilize \r\nlaboratory glassware: \r\n \r\nW) hot plate \r\nX) freeze dryer \r\nY) autoclave \r\nZ) fume hood", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true of the Big Dipper: \r\n \r\nW) it is a well known constellation that can be seen from mid-northern latitudes \r\nX) it appears on the opposite side of the North Star from Cassiopeia \r\nY) it is sometimes called the Plough \r\nZ) assuming clear skies, it can be seen throughout the night every night of the year from mid-\r\nnorthern latitudes", 
     "tossupA": "Y) AUTOCLAVE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc924"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -186,28 +176,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the most likely highest power for \r\nan objective lens on a typical student compound light microscope: \r\n \r\nW) 25-times \r\nX) 100-times \r\nY) 500-times \r\nZ) 1500-times", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Order the following 4 parts of the human intestine from the \r\nFIRST to receive food from the stomach to the LAST: colon; duodenum; ileum; jejunum", 
     "tossupA": "X) 100-TIMES", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc925"
     }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "W) A 10-FOLD INCREASE IN THE HYDROGEN ION CONCENTRATION", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true of pH: \r\n \r\nW) the terms basic or alkaline describe a solution with pH greater than 7 \r\nX) the highest value on the pH scale is 14 \r\nY) strong acids dissociate almost completely in water \r\nZ) a pH meter operates by measuring small differences in the density of different fluids", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Multiple Choice A decrease of 1 unit on the pH scale represents which \r\nof the following: \r\n \r\nW) a 10-fold increase in the hydrogen ion concentration \r\nX) a 10-fold decrease in the hydrogen ion concentration \r\nY) a 100-fold increase in the hydrogen ion concentration \r\nZ) a 100-fold decrease in the hydrogen ion concentration", 
-    "tossupA": "Z) A PH METER OPERATES BY MEASURING SMALL DIFFERENCES IN THE \r\nDENSITY OF DIFFERENT FLUIDS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc926"
-    }, 
-    "questionNum": "14"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -216,13 +193,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Earth\u2019s atmosphere contains several different layers that \r\nare most often defined according to: \r\n \r\nW) pressure \r\nX) moisture \r\nY) wind velocity \r\nZ) temperature", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer Name all of the following 3 choices that influence wind \r\ndirection on Earth: Coriolis effect; centripetal force; pressure gradients", 
     "tossupA": "Z) TEMPERATURE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc927"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +210,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is closest in value to 792: \r\n \r\nW) 6084 \r\nX) 6241 \r\nY) 6399 \r\nZ) 6400", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Solve the following equation for x: 9x<sup>2</sup> + 12x = \u20134", 
     "tossupA": "X) 6241", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc928"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -246,13 +227,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer In 2005, into what celestial object did the Deep Impact \r\nprobe crash into?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following terms is used most often by \r\nastronomers for the total energy emitted per unit time from a star: \r\n \r\nW) apparent magnitude \r\nX) watts \r\nY) luminosity \r\nZ) stellar unit", 
     "tossupA": "COMET (ACCEPT: COMET TEMPLE)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc929"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +244,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice The presence of which of the following is the most important \r\ncharacteristic that allows xylem to function in plants: \r\n \r\nW) plastids and chloroplasts \r\nX) strong thick walls \r\nY) large fluid-filled vacuoles \r\nZ) nuclei and endoplasmic reticulum", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 structures that are composed mostly \r\nof keratin: bird\u2019s beak; snake teeth; human fingernail; mammalian fur", 
     "tossupA": "X) STRONG THICK WALLS \r\n \r\n(Solution: xylem cells are dead therefore, W and Z are not possible and Y is unlikely)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc92a"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -276,28 +261,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Francium has the lowest electronegativity of the \r\nelements. This would indicate that francium is in what corner of the periodic chart: \r\n \r\nW) upper left \r\nX) lower left \r\nY) upper right \r\nZ) lower right", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following compounds is LEAST soluble \r\nin water and is frequently used as a radiocontrast agent in imaging of the GI tract: \r\n \r\nW) sodium chloride \r\nX) potassium chloride \r\nY) barium sulfate \r\nZ) sodium hydroxide", 
     "tossupA": "X) LOWER LEFT", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc92b"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "GRAVITY; INERTIA", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH SCIENCE Short Answer At any one time, there are always how many major tidal \r\nbulges on Earth?", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "EARTH SCIENCE Short Answer Which 2 of the following 4 choices are primarily responsible \r\nfor the creation of two major tidal bulges on the Earth: gravity; wind; inertia; sunlight", 
-    "tossupA": "2", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc92c"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -306,13 +278,15 @@
     "tossupQ": "MATH Short Answer Your English teacher asks that you learn 2 new words every day. If you \r\nstarted with 12 new words, how many total new words will you learn after 30 days?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Arrange the following 4 choices in INCREASING order:  \r\n\u03c0\r\n5.0; 5.0; 0.52; 35 (read as: the cube root of 5)", 
     "tossupA": "72 \r\n \r\n(Solution: w = 12 + 2d = 12 + 2(30) = 72 words)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc92d"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 6, 
@@ -321,28 +295,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What uranium isotope is most common on Earth?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the common name for the plant from which the \r\nprized spice saffron is derived?", 
     "tossupA": "URANIUM-238 (ACCEPT: 238)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc92e"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "SIMPLE SUGARS; mRNA", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What natural plant hormone is most directly involved in \r\ncontrolling phototropism?", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 3 types of molecules that are \r\ngenerally soluble in water: simple sugars; mRNA; lipids", 
-    "tossupA": "AUXIN (ACCEPT: INDOLE ACETIC ACID or IAA)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc92f"
-    }, 
-    "questionNum": "23"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -351,13 +312,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Knowing that carbon is in group 4 and period 2 on the \r\nPeriodic Table, give the electron configuration of the carbon atom:", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Arrange the following 4 materials in DECREASING \r\norder of thermal conductivity: granite; rubber; gold; lead", 
     "tossupA": "1s22s22p2 (ACCEPT: [He]2s22p2)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc930"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 0, 
@@ -366,12 +329,99 @@
     "tossupQ": "EARTH SCIENCE Short Answer What is the MOST common name for the last stellar stage in \r\nthe life of our Sun?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer The decay rate of the radioactive isotope potassium-40 into \r\nstable argon-40 can be used to radiometrically date rocks. If it takes 1.28 billion years for half the \r\npotassium-40 to decay into argon-40, a rock that contains a 50/50 ratio of the two is how many \r\nbillion years old, to the second decimal place?", 
     "tossupA": "WHITE DWARF (ACCEPT: BLACK DWARF)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc931"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "GRAVITY; INERTIA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer At any one time, there are always how many major tidal \r\nbulges on Earth?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Which 2 of the following 4 choices are primarily responsible \r\nfor the creation of two major tidal bulges on the Earth: gravity; wind; inertia; sunlight", 
+    "tossupA": "2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc92c"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "\u20131, \u20139, \u201317", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is closest in value to 51: \r\n \r\nW) 5.1 \r\nX) 5.5 \r\nY) 6.8 \r\nZ) 7.1", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the next 3 terms of the arithmetic sequence whose first 3 terms are: \r\n23, 15, 7", 
+    "tossupA": "Z) 7.1", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc91e"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "xx<sup>5</sup>", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Express the following radical in simplified form for all positive values of \r\nx and y: )36(64yx", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the product of 25x times x<sup>5</sup>, giving your answer in its simplest \r\nradical form for all positive values of x:", 
+    "tossupA": "6x<sup>2</sup>y<sup>3</sup>", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc923"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) A 10-FOLD INCREASE IN THE HYDROGEN ION CONCENTRATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true of pH: \r\n \r\nW) the terms basic or alkaline describe a solution with pH greater than 7 \r\nX) the highest value on the pH scale is 14 \r\nY) strong acids dissociate almost completely in water \r\nZ) a pH meter operates by measuring small differences in the density of different fluids", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice A decrease of 1 unit on the pH scale represents which \r\nof the following: \r\n \r\nW) a 10-fold increase in the hydrogen ion concentration \r\nX) a 10-fold decrease in the hydrogen ion concentration \r\nY) a 100-fold increase in the hydrogen ion concentration \r\nZ) a 100-fold decrease in the hydrogen ion concentration", 
+    "tossupA": "Z) A PH METER OPERATES BY MEASURING SMALL DIFFERENCES IN THE \r\nDENSITY OF DIFFERENT FLUIDS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc926"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SIMPLE SUGARS; mRNA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What natural plant hormone is most directly involved in \r\ncontrolling phototropism?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 3 types of molecules that are \r\ngenerally soluble in water: simple sugars; mRNA; lipids", 
+    "tossupA": "AUXIN (ACCEPT: INDOLE ACETIC ACID or IAA)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc92f"
+    }, 
+    "questionNum": 23
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is TRUE: \r\n \r\nW)  chimpanzees are an ancestor of Homo sapiens \r\nX)  bipedal motion dominated hominoid ancestors by about 30 million years ago \r\nY)  humans and modern apes have a common ancestor \r\nZ)  Neanderthals were ancestors to modern humans", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Order the following 5 taxonomic group with the MOST members to \r\nthe one with the FEWEST members:  genus;  order;  phylum;  class;  family", 
     "tossupA": "Y)  HUMANS AND MODERN APES HAVE A COMMON ANCESTOR", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8e1"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 2, 
@@ -21,13 +23,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is an element that is very important to \r\nhuman life, is contained in vitamin B-12, belongs to a group of transition metals, and has magnetic \r\nproperties like iron: \r\n \r\nW)  selenium \r\nX)  cobalt \r\nY)  zinc \r\nZ)  manganese", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  What is the pH of a 1 molar NaOH solution at 25\u00baC?", 
     "tossupA": "X)  COBALT", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8e2"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following is the most common instrument used for \r\nmeasuring gas pressure: \r\n \r\nW)  manometer \r\nX)  anemometer \r\nY)  tensitometer \r\nZ)  flow-meter", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Which of the following is TRUE of a sound wave traveling in dry \r\nair at STP at a constant velocity: \r\n \r\nW)  if frequency increases, wavelength increases \r\nX)  if frequency increases, wavelength decreases \r\nY)  if frequency decreases, wavelength decreases \r\nZ)  if frequency increases, wavelength stays the same", 
     "tossupA": "W)  MANOMETER", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8e3"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +57,15 @@
     "tossupQ": "MATH  Short Answer  If the shortest leg of a 30-60-90 right triangle is 6 inches, what is the \r\nmeasure, in inches, of the other 2 sides?", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Consider triangle ABC, where the measure of angle A = 20\u00ba, B =117\u00ba, and \r\nC = 43\u00ba.  Arrange the 3 sides in order of increasing length:", 
     "tossupA": "12 AND 63", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8e4"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -66,58 +74,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Ocean tides of diminished range are called: \r\n \r\nW)  spring tides \r\nX)  neap tides \r\nY)  diurnal tides \r\nZ)  semi-diurnal tides", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following was a time when glaciation was \r\nminimal on Earth: \r\n \r\nW)  Cretaceous Period \r\nX)  Quaternary Period  \r\nY)  Holocene Epoch \r\nZ)  Pleistocene Epoch", 
     "tossupA": "X)  NEAP TIDES", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8e5"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "1,000 \r\n \r\n(Solution: 1 Hpa = 1 mb)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Short Answer  1 bar equals how many Pascals?", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Short Answer  Meteorologists commonly use the hectopascal for air \r\npressure.  1,000 hectopascals equals how many millibars?", 
-    "tossupA": "100,000  (ACCEPT:  1 \u00d7 105 or 105)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8e6"
-    }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "Z)  DWARF", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  What planet of our solar system has the most nitrogen-rich \r\natmosphere?", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Multiple Choice  Most of the galaxies in the universe are classified as which of \r\nthe following: \r\n \r\nW)  spiral \r\nX)  elliptical \r\nY)  irregular \r\nZ)  dwarf", 
-    "tossupA": "EARTH", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8e7"
-    }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "DANDELION;  MILKWEED", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Short Answer  What is the common name for the product of human lachrymal (read \r\nas:  LACK-reh-mal) glands?", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 plants that have their seeds typically \r\ndispersed by wind:  dandelion;  milkweed;  maize;  lupine", 
-    "tossupA": "TEARS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8e8"
-    }, 
-    "questionNum": "8"
+    "questionNum": 5
   }, 
   {
     "category": 2, 
@@ -126,13 +91,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is a weak electrolyte: \r\n \r\nW)  ammonia \r\nX)  dilute sulfuric acid \r\nY)  1 molar sodium chloride \r\nZ)  dilute perchloric acid", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  A molecular solid will most typically have which of the \r\nfollowing melting points: \r\n \r\nW)  very high \r\nX)  high to very high \r\nY)  low \r\nZ)  variable", 
     "tossupA": "W)  AMMONIA", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8e9"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 3, 
@@ -141,28 +108,15 @@
     "tossupQ": "PHYSICS  Short Answer  What particle of an atom is most directly responsible for the emission \r\nof light when an atom is excited by electromagnetic radiation?", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What is the wavelength, in meters, of a wave moving at 500 meters \r\nper second if its frequency is 20 Hertz?", 
     "tossupA": "ELECTRON", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8ea"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "-6/5", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Simplify the following expression:  x<sup>1/2</sup><sup>2/5</sup>", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  What is the slope of a line perpendicular to the line given by the graph of \r\nthe equation, \u20135x = \u20136y + 4", 
-    "tossupA": "x<sup>9/10</sup>  (ACCEPT:  10th root of x<sup>9</sup>)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8eb"
-    }, 
-    "questionNum": "11"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -171,13 +125,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  When rain freezes into pellets while falling to the ground \r\nduring a winter storm, the most accurate forecast would have predicted: \r\n \r\nW)  hail \r\nX)  snow \r\nY)  freezing rain \r\nZ)  sleet", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Short Answer  Identify each of the following 3 rocks, respectively, as \r\nigneous, metamorphic, or sedimentary:  marble;  pumice;  conglomerate", 
     "tossupA": "Z)  SLEET", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8ec"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 6, 
@@ -186,13 +142,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  Bioluminescence is a phenomenon most common in \r\nwhich of the following environments: \r\n \r\nW)  marine \r\nX)  fresh water \r\nY)  land \r\nZ)  atmosphere", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is a mixing incompatibility of \r\ncommon household products that can produce toxic products: \r\n \r\nW)  vinegar and baking soda \r\nX)  vinegar and bleach  \r\nY)  vinegar and borax  \r\nZ)  castile soap and salt", 
     "tossupA": "W)  MARINE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8ed"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +159,15 @@
     "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is the primary characteristic of the \r\nJovian planets: \r\n \r\nW)  high axial spin rates \r\nX)  low mean density \r\nY)  retrograde orbits \r\nZ)  prominent layer of liquid-metallic hydrogen", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  Which one of the Gas Giant planets emits the LEAST amount of \r\nenergy?", 
     "tossupA": "X)  LOW MEAN DENSITY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8ee"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,58 +176,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Eggs exit a chicken\u2019s body through what specific structure: \r\n \r\nW)  rectal plexus \r\nX)  cloaca  (read as:  KLO-aye-ka) \r\nY)  rostrum \r\nZ)  spiculum", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  In which of the following areas of the human body is the \r\nzygomatic (read as: ZYE-go-MAT-ick) arch found: \r\n \r\nW) shoulder \r\nX)  pelvis \r\nY)  head \r\nZ)  knee", 
     "tossupA": "X)  CLOACA", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8ef"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "SO32\u2013  (ACCEPT:  SO<sub>3</sub>\u20132)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  What is the bond order between the 2 carbon atoms in acetylene?", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  According to standard chemical nomenclature and indicating the \r\nproper charge, what is the formula for the sulfite ion?", 
-    "tossupA": "3", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8f0"
-    }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "NEUTRONS = 7;  PROTONS = 8", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Short Answer  How many neutrons does the most common isotope of hydrogen \r\nhave?", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Short Answer  How many neutrons and how many protons are present in a single \r\noxygen-15 nucleus, respectively?", 
-    "tossupA": "ZERO", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8f1"
-    }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "36", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Multiple Choice  Which of the following is NOT a Pythagorean triple: \r\n \r\nW)  15, 20, 25 \r\nX)  10, 24, 26 \r\nY)  16, 24, 30 \r\nZ)  33, 44, 55", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Evaluate the following expression when a = 1/3, b = 4, c = \u20131, and  \r\nd = \u20135:   2[3a \u2013 (b + c) \u2013 4d]", 
-    "tossupA": "Y)  16, 24, 30", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8f2"
-    }, 
-    "questionNum": "18"
+    "questionNum": 15
   }, 
   {
     "category": 0, 
@@ -276,13 +193,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Cirrus clouds are typically found at elevations of: \r\n \r\nW)  20,000 feet and above \r\nX)  10,000 to 20,000 feet \r\nY)  5,000 to 10,000 feet \r\nZ)  2,000 to 5,000 feet", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Andesitic magmas typically erupt above: \r\n \r\nW)  hot spots \r\nX)  divergent plate boundaries \r\nY)  subduction zones \r\nZ)  fissure eruptions", 
     "tossupA": "W)  20,000 FEET AND ABOVE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8f3"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +210,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is the main reason why \r\nAfricanized honey bees are much more dangerous to humans and animals than European honey \r\nbees: \r\n \r\nW)  they defend their nests more intensely   \r\nX)  their venom is 10-times more potent \r\nY)  they can sting multiple times \r\nZ)  they are larger and carry more venom", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Short Answer  In most cars, what acts as the circuit ground?", 
     "tossupA": "W)  THEY DEFEND THEIR NESTS MORE INTENSELY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8f4"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 0, 
@@ -306,28 +227,15 @@
     "tossupQ": "ASTRONOMY  Multiple Choice  From mid-northern latitudes, during which of the following  \r\nmonths would the constellation Orion be most prominent in the southern sky at about 10 PM: \r\n \r\nW)  April \r\nX)  July \r\nY)  August \r\nZ)  December", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  What is the most common term for the apparent dividing line \r\nbetween night and day on the Moon?", 
     "tossupA": "Z)  DECEMBER", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8f5"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "SALIVA", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Multiple Choice  From which of the following is the cell wall of plants mostly \r\ncomposed: \r\n \r\nW)  protein \r\nX)  lipid monolayer \r\nY)  lipid bilayer \r\nZ)  polysaccharide", 
-    "packetNum": 4, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  What is the common biological name for the product of human \r\nsublingual glands?", 
-    "tossupA": "Z)  POLYSACCHARIDE", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd8f6"
-    }, 
-    "questionNum": "22"
+    "questionNum": 21
   }, 
   {
     "category": 2, 
@@ -336,13 +244,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is the atomic sublevel with the next \r\nhighest energy after the 4p sublevel: \r\n \r\nW)  4d \r\nX)  4f \r\nY)  5s \r\nZ)  5p", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Give the  electronic configuration for sulfur, located in Period 3 \r\nand Group 16 of the Periodic Table:", 
     "tossupA": "Y)  5s", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8f7"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 3, 
@@ -351,13 +261,151 @@
     "tossupQ": "PHYSICS  Short Answer  Jan is riding her bike northward on Main Street at 20 kilometers per \r\nhour and applies her brakes.  In what direction would a physicist MOST likely record her \r\nacceleration?", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  If 200 coulombs pass through a wire in 0.5 seconds, what is the \r\naverage current, in amps, passing through the wire?", 
     "tossupA": "SOUTH", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8f8"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "1,000 \r\n \r\n(Solution: 1 Hpa = 1 mb)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  1 bar equals how many Pascals?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  Meteorologists commonly use the hectopascal for air \r\npressure.  1,000 hectopascals equals how many millibars?", 
+    "tossupA": "100,000  (ACCEPT:  1 \u00d7 105 or 105)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8e6"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  DWARF", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What planet of our solar system has the most nitrogen-rich \r\natmosphere?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  Most of the galaxies in the universe are classified as which of \r\nthe following: \r\n \r\nW)  spiral \r\nX)  elliptical \r\nY)  irregular \r\nZ)  dwarf", 
+    "tossupA": "EARTH", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8e7"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "DANDELION;  MILKWEED", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the common name for the product of human lachrymal (read \r\nas:  LACK-reh-mal) glands?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 plants that have their seeds typically \r\ndispersed by wind:  dandelion;  milkweed;  maize;  lupine", 
+    "tossupA": "TEARS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8e8"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-6/5", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Simplify the following expression:  x<sup>1/2</sup><sup>2/5</sup>", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the slope of a line perpendicular to the line given by the graph of \r\nthe equation, \u20135x = \u20136y + 4", 
+    "tossupA": "x<sup>9/10</sup>  (ACCEPT:  10th root of x<sup>9</sup>)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8eb"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "SO32\u2013  (ACCEPT:  SO<sub>3</sub>\u20132)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the bond order between the 2 carbon atoms in acetylene?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  According to standard chemical nomenclature and indicating the \r\nproper charge, what is the formula for the sulfite ion?", 
+    "tossupA": "3", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8f0"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "NEUTRONS = 7;  PROTONS = 8", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  How many neutrons does the most common isotope of hydrogen \r\nhave?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  How many neutrons and how many protons are present in a single \r\noxygen-15 nucleus, respectively?", 
+    "tossupA": "ZERO", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8f1"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "36", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following is NOT a Pythagorean triple: \r\n \r\nW)  15, 20, 25 \r\nX)  10, 24, 26 \r\nY)  16, 24, 30 \r\nZ)  33, 44, 55", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Evaluate the following expression when a = 1/3, b = 4, c = \u20131, and  \r\nd = \u20135:   2[3a \u2013 (b + c) \u2013 4d]", 
+    "tossupA": "Y)  16, 24, 30", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8f2"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SALIVA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  From which of the following is the cell wall of plants mostly \r\ncomposed: \r\n \r\nW)  protein \r\nX)  lipid monolayer \r\nY)  lipid bilayer \r\nZ)  polysaccharide", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the common biological name for the product of human \r\nsublingual glands?", 
+    "tossupA": "Z)  POLYSACCHARIDE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8f6"
+    }, 
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -366,12 +414,14 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the most common color for the calyx (read as: KAL-IX) of \r\nangiosperms?", 
     "packetNum": 4, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 diseases that are caused by viruses: \r\nmeasles;  AIDS;  tuberculosis;  leprosy", 
     "tossupA": "GREEN", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd8f9"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

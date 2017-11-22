@@ -6,13 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Coal formed from the remains of plants that died more \r\nthan 300 million years ago. In what period did these plants live? \r\n \r\nW) Precambrian \r\nX) Cenozoic \r\nY) Carboniferous [kahr-buh-NIF-er-uhs] \r\nZ) Cretaceous [kri-TAY-shuhs]", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice What is the difference between mitosis [my-TOH-sis] \r\nand meiosis [my-OH-sis]? \r\n \r\nW) Mitosis refers to cell division while meiosis refers to cell repair \r\nX) Mitosis produces haploid cells while meiosis produces diploid cells \r\nY) Meiosis has fewer stages than mitosis \r\nZ) Meiosis typically produces haploid gametes while mitosis does not", 
     "tossupA": "Y) CARBONIFEROUS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfee"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 5, 
@@ -21,13 +23,15 @@
     "tossupQ": "ENERGY Short Answer Our Sun is a power source that generates energy through nuclear \r\nfusion. In this process, lighter hydrogen nuclei combine to form what heavier element?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer Given a temperature of 95\u00b0 Fahrenheit, the energy efficiency ratio \r\n(EER) is defined as the cooling capacity in Btu per hour over watts. Calculate the EER of an air \r\nconditioner with a cooling capacity of 10,000 Btu per hour and a watts unit consumption of 1000 \r\nwatts.", 
     "tossupA": "HELIUM", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfef"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice A student hears the siren of a steadily approaching \r\npolice car. Which of the following is true? \r\n \r\nW) The sound waves decrease in speed as the car nears \r\nX) The sound waves increase in speed as the car nears \r\nY) The perceived frequency of the siren is greater than the frequency heard when the police car \r\nis at rest \r\nZ) The perceived frequency of the siren is less than the frequency heard when the police car is \r\nat rest", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice The dynamic equilibrium [ee-kwuh-LIB-ree-uhm] of a \r\nreaction is best characterized by which of the following? \r\n \r\nW) Equal amounts of products, enzymes, and reactants \r\nX) Complete use of all enzymes \r\nY) The forward rate of reaction has reached the maximum rate \r\nZ) The forward and reverse rates of reaction are equal", 
     "tossupA": "Y) THE PERCEIVED FREQUENCY OF THE SIREN IS GREATER THAN THE \r\nFREQUENCY HEARD WHEN THE POLICE CAR IS AT REST", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccff0"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -51,28 +57,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following cellular organelles does NOT contain \r\nDNA? \r\n \r\nW) Chloroplasts \r\nX) Mitochondria [my-tuh-KON-dree-uh] \r\nY) Nuclei \r\nZ) Ribosomes [RY-buh-sohms]", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Why are so-called nectar robbers a problem for plants? \r\n \r\nW) They cause inappropriate cross-pollination \r\nX) They do not help pollinate plants \r\nY) They steal the plant\u2019s pollen \r\nZ) They cause self-pollination", 
     "tossupA": "Z) RIBOSOMES", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccff1"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "S, O, AND X", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Once it breaks through the ground, a type of flower grows 3/4 of an inch a \r\nday. How many days will it take to reach a height of 6 feet?", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Identify all of the following five block letters that have rotational \r\nsymmetry: M, T, S, O, X.", 
-    "tossupA": "96", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccff2"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -81,13 +74,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What primary weather factor is driven by the pressure \r\ngradient caused by uneven heating of Earth\u2019s surface?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following states would have the least \r\namount of mass wasting based on the state\u2019s topography? \r\n \r\nW) Virginia \r\nX) Colorado \r\nY) South Dakota \r\nZ) Oregon", 
     "tossupA": "WIND", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccff3"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 6, 
@@ -96,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Your body senses balance using semicircular canals, \r\nwhich are located in which of the following? \r\n \r\nW) Hippocampus \r\nX) Ears \r\nY) Thyroid \r\nZ) Optic nerve", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Which members of our solar system left the majority of \r\ncraters, scars, and apparent pockmarks on the surface of Earth's moon as a result of multiple \r\nimpacts?", 
     "tossupA": "X) EARS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccff4"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Pressure is defined as: \r\n \r\nW) Force divided by unit area \r\nX) Force divided by mass of air above the object \r\nY) Force divided by unit volume \r\nZ) Power divided by unit force", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is true about sound perception? \r\n \r\nW) The intensity of sound is independent of loudness \r\nX) The frequency of sound is logarithmically related to the intensity \r\nY) The loudness of a sound is logarithmically related to the intensity \r\nZ) Sounds measured in decibels are independent of the threshold of hearing", 
     "tossupA": "W) FORCE DIVIDED BY UNIT AREA", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccff5"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 1, 
@@ -126,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice In humans, red-green color blindness is caused by a \r\nrecessive sex-linked trait on the X chromosome. If a man and a woman produce a color blind \r\nson, assuming no spontaneous mutation, which of the following must be true? \r\n \r\nW) The father is color blind \r\nX) Both parents carry the allele for color blindness \r\nY) The mother carries the allele for color blindness \r\nZ) Neither parent carries the allele for color blindness", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Expressed as a fraction, what is the probability that the \r\ndaughter of a color blind father and carrier mother will also be color blind?", 
     "tossupA": "Y) THE MOTHER CARRIES THE ALLELE FOR COLOR BLINDNESS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccff6"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,43 +142,15 @@
     "tossupQ": "MATH Multiple Choice The slope of a line with equation y = px + b is greater than the slope \r\nof the line with equation y = qx + b. Which of the following must be true about the relationship \r\nbetween p and q? \r\n \r\nW) p > q \r\nX) p < q \r\nY) p = q \r\nZ) p \u2264 q", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What fraction has 0.757575... as its infinite repeating decimal?", 
     "tossupA": "W) p > q", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccff7"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "FRACTURE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT a type of sediment load \r\ncarried by a river? \r\n \r\nW) Dissolved \r\nX) Drifting \r\nY) Suspended \r\nZ) Bed", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE Short Answer What is the name for the characteristic assigned to \r\nminerals that do NOT cleave in an organized fashion?", 
-    "tossupA": "X) DRIFTING", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccff8"
-    }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "Z) INCREASINGTHE PROPORTION OF HAPLOID OFFSPRING", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Multiple Choice Wolbachia [wohl-BAK-eea] bacteria are maternally \r\ntransmitted in insect hosts. Wolbachia tend to localize to what region of their insect host? \r\n \r\nW) Digestive tract \r\nX) Head \r\nY) Ovaries \r\nZ) Lungs", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice Wolbachia [wohl-BAK-eea] bacteria are maternally \r\ntransmitted in insect hosts. Which of the following is NOT a method by which Wolbachia \r\nmanipulate the reproductive processes of their hosts in order to promote their proliferation \r\nthrough a host population? \r\n \r\nW) Killing male offspring \r\nX) Inducing parthenogenesis [par-thuh-noh-JEN-uh-sis] \r\nY) Causing infected males to develop as females \r\nZ) Increasing the proportion of haploid offspring", 
-    "tossupA": "Y) OVARIES", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccff9"
-    }, 
-    "questionNum": "12"
+    "questionNum": 10
   }, 
   {
     "category": 5, 
@@ -186,13 +159,15 @@
     "tossupQ": "ENERGY Multiple Choice When exposed to the atmosphere, iron begins to rust. This \r\nsurface process represents what type of reaction? \r\n \r\nW) Oxidation \r\nX) Electrolysis \r\nY) Gas evolution \r\nZ) Reduction", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer Traditional incandescent light bulbs are being replaced by more \r\nenergy efficient devices such as LEDs. What is the full term for the acronym LED?", 
     "tossupA": "W) OXIDATION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccffa"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -201,13 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice The kinetic energy of an object is which of the \r\nfollowing? \r\n \r\nW) Directly proportional to the square of the velocity \r\nX) Independent of the speed at which it is moving \r\nY) Always a vector quantity \r\nZ) Independent of the mass of the object", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true of metals? \r\n \r\nW) They exist as extended planes of atoms \r\nX) They are malleable and ductile \r\nY) They conduct electricity but do not conduct heat \r\nZ) They can be combined to form alloys", 
     "tossupA": "W) DIRECTLY PROPORTIONAL TO THE SQUARE OF THE VELOCITY", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccffb"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +193,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice The oxygen released into the air as a product of \r\nphotosynthesis comes from what? \r\n \r\nW) Carbon dioxide \r\nX) Water \r\nY) Glucose \r\nZ) Rubisco", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Arrange the following four groupings of organisms from \r\nnarrowest to broadest level of categorization: 1) genus, 2) phylum [FY-luhm], 3) domain, 4) \r\nclass.", 
     "tossupA": "X) WATER", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccffc"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +210,15 @@
     "tossupQ": "MATH Multiple Choice For a system of two linear equations, which of the following is true if \r\ntheir graphs intersect and have the same slope? \r\n \r\nW) There is a unique solution \r\nX) There are exactly two solutions \r\nY) There are infinitely many solutions \r\nZ) There is no solution", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Solve the following equation for x over the real numbers: \r\n(x \u2013 5)(x + 5) = \u221216.", 
     "tossupA": "Y) THERE ARE INFINITELY MANY SOLUTIONS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccffd"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -246,13 +227,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What is the meteorological term for the level of water \r\nvapor in a given air parcel?", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is the crystal habit of halite? \r\n \r\nW) Cubic \r\nX) Hexagonal prism \r\nY) Rhombohedra [rom-buh-HEE-druh] \r\nZ) Dodecahedra [doh-dek-uh-HEE-druh]", 
     "tossupA": "HUMIDITY (DO NOT ACCEPT: RELATIVE HUMIDITY)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccffe"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +244,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice An adaptation is any kind of modification in bodily structure \r\nor behavior that increases an organism\u2019s chance of survival in their environment. Which of the \r\nfollowing is NOT an example of an adaptation in an organism to its current environment? \r\n \r\nW) The large eyes of an owl for improved night vision \r\nX) The spines of a cactus for improved water retention \r\nY) The appendix of a human for improved protein digestion \r\nZ) The jaws of a Venus Flytrap for improved ability to capture insects", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Exopolymeric substances, or EPS, are exuded by \r\nmicroorganisms during times of environmental stress. Which of the following is NOT a function \r\nof EPS? \r\n \r\nW) Protection against starvation \r\nX) Protection against mechanical damage \r\nY) Protection against desiccation \r\nZ) Protection against viral attack", 
     "tossupA": "Y) THE APPENDIX OF A HUMAN FOR IMPROVED PROTEIN DIGESTION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccfff"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 6, 
@@ -276,28 +261,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Tapeworms can infect the human digestive tract, \r\nwhere they grow and persist for long periods of time, causing relatively moderate symptoms \r\nsuch as diarrhea and anemia. Therefore, tapeworms are best described as which of the \r\nfollowing? \r\n \r\nW) Commensalists \r\nX) Parasites \r\nY) Mutualists \r\nZ) Parasitoids [PAR-uh-si-toids]", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What two products are most commonly formed when a \r\nstrong acid and a strong base react?", 
     "tossupA": "X) PARASITES", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd000"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "SUGAR CANE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Multiple Choice Approximately which of the following percentages of U.S. electric \r\npower is generated by nuclear reactors? \r\n \r\nW) 2% \r\nX) 19% \r\nY) 37% \r\nZ) 56%", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer What is primarily used in Brazil as a source of sugar for the \r\nproduction of ethanol?", 
-    "tossupA": "X) 19%", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd001"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -306,13 +278,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT an example of an \r\nelectromagnetic wave? \r\n \r\nW) Visible light \r\nX) Sound waves \r\nY) Microwaves \r\nZ) Gamma rays", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Rubbing alcohol has a density of 0.778 grams per \r\nmilliliter. Providing your answer to two significant figures, what is the mass in grams of a sample \r\nthat has a volume of 81.0 milliliters?", 
     "tossupA": "X) SOUND WAVES", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd002"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,28 +295,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT made primarily out of \r\nglucose? \r\n \r\nW) Maltose \r\nX) Silk \r\nY) Starch \r\nZ) Cotton", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer A simplified food chain for the Aleutian Islands consists of \r\nkiller whales, sea otters, sea urchins, and kelp. Reducing the number of sea otters is likely to \r\nhave what impact on the population of kelp?", 
     "tossupA": "X) SILK", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd003"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "71, 73, 79", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Divide 16 into two parts, such that twice the smaller number is 4 less \r\nthan the larger number. What are the two numbers? \r\n \r\nW) 4, 12 \r\nX) 6, 10 \r\nY) 7, 9 \r\nZ) 8, 8", 
-    "packetNum": 2, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer What are the prime numbers between 70 and 82?", 
-    "tossupA": "W) 4, 12", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd004"
-    }, 
-    "questionNum": "23"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -351,13 +312,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following intrusive rock deposits is \r\nlargest in size? \r\n \r\nW) Dike \r\nX) Batholith [BATH-uh-lith] \r\nY) Laccolith [LAK-uh-lith] \r\nZ) Sill", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer The presence of snow on sea ice has what effect on \r\nfreeboard, the amount of snow and ice protruding above the surface?", 
     "tossupA": "X) BATHOLITH", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd005"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 6, 
@@ -366,12 +329,99 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is an example of abrasion \r\nweathering? \r\n \r\nW) Loose rocks collide with each other, wearing each other down \r\nX) Oxygen combines with iron to form iron oxide \r\nY) Water enters the cracks of rocks and freezes, causing the cracks to expand \r\nZ) Hydrogen ions in water replace elements such as potassium or calcium in rocks", 
     "packetNum": 2, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer In 1912, the German scientist Alfred Wegener proposed \r\nthe theory of continental drift, the theory that the continents had moved. However, he wasn\u2019t \r\ncompletely sure how or why. It wasn\u2019t until the 1960s that enough evidence had been found to \r\npropose a theory of how continental drift occurred, the theory we still use today. What is the \r\nname for this theory?", 
     "tossupA": "W) LOOSE ROCKS COLLIDE WITH EACH OTHER, WEARING EACH OTHER \r\nDOWN", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd006"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "SUGAR CANE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Approximately which of the following percentages of U.S. electric \r\npower is generated by nuclear reactors? \r\n \r\nW) 2% \r\nX) 19% \r\nY) 37% \r\nZ) 56%", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What is primarily used in Brazil as a source of sugar for the \r\nproduction of ethanol?", 
+    "tossupA": "X) 19%", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd001"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "S, O, AND X", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Once it breaks through the ground, a type of flower grows 3/4 of an inch a \r\nday. How many days will it take to reach a height of 6 feet?", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Identify all of the following five block letters that have rotational \r\nsymmetry: M, T, S, O, X.", 
+    "tossupA": "96", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccff2"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "FRACTURE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT a type of sediment load \r\ncarried by a river? \r\n \r\nW) Dissolved \r\nX) Drifting \r\nY) Suspended \r\nZ) Bed", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What is the name for the characteristic assigned to \r\nminerals that do NOT cleave in an organized fashion?", 
+    "tossupA": "X) DRIFTING", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccff8"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) INCREASINGTHE PROPORTION OF HAPLOID OFFSPRING", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Wolbachia [wohl-BAK-eea] bacteria are maternally \r\ntransmitted in insect hosts. Wolbachia tend to localize to what region of their insect host? \r\n \r\nW) Digestive tract \r\nX) Head \r\nY) Ovaries \r\nZ) Lungs", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Wolbachia [wohl-BAK-eea] bacteria are maternally \r\ntransmitted in insect hosts. Which of the following is NOT a method by which Wolbachia \r\nmanipulate the reproductive processes of their hosts in order to promote their proliferation \r\nthrough a host population? \r\n \r\nW) Killing male offspring \r\nX) Inducing parthenogenesis [par-thuh-noh-JEN-uh-sis] \r\nY) Causing infected males to develop as females \r\nZ) Increasing the proportion of haploid offspring", 
+    "tossupA": "Y) OVARIES", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccff9"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "71, 73, 79", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Divide 16 into two parts, such that twice the smaller number is 4 less \r\nthan the larger number. What are the two numbers? \r\n \r\nW) 4, 12 \r\nX) 6, 10 \r\nY) 7, 9 \r\nZ) 8, 8", 
+    "packetNum": 2, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What are the prime numbers between 70 and 82?", 
+    "tossupA": "W) 4, 12", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd004"
+    }, 
+    "questionNum": 23
   }
 ]

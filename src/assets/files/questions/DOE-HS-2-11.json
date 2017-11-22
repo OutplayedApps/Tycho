@@ -6,13 +6,15 @@
     "tossupQ": "PHYSICS  Short Answer  In their studies of trans-uranium elements and crystallization studies of \r\nbarium, Hahn and Meitner discovered what process?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Assuming g = -32 feet/sec2 and friction is negligible, if a coffee bean is \r\nthrown upward from the top of a building with a vertical velocity of +32 ft/sec, what will its velocity \r\nbe in ft/sec after 3 seconds?", 
     "tossupA": "FISSION  (ACCEPT:  NUCLEAR FISSION)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd52b"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Afferent neuron is to sensory neuron as efferent neuron is to:", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is most accurate about the pasteurization of \r\nmilk: \r\n \r\nW)  it heats milk to the boiling point for about 1minute \r\nX)  it kills all bacteria by passing steam through the milk \r\nY)  it kills most of the germs in the milk by moderate heating \r\nZ)  it kills all the bacteria but not the viruses in the milk", 
     "tossupA": "MOTOR NEURON", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd52c"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 2, 
@@ -36,13 +40,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  Hydrocarbons that contain a carbon-carbon double bond are \r\ngenerally know as what:", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  If you have 1 milliliter of a 75% ethanol stock solution, how much \r\nwater, in milliliters, must be added to the 1 milliliter stock solution to obtain a 25% ethanol solution?", 
     "tossupA": "ALKENES  (ACCEPT:  OLEFINS)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd52d"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -51,28 +57,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  The total  amount of energy of a star\u2019s surface radiated into space \r\neach second  is most commonly referred to as what?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Multiple Choice  If you could shrink the Earth to a quarter its present diameter \r\nwhile maintaining its mass, by what factor would the escape velocity change? \r\n \r\nW)  the escape velocity would be doubled \r\nX)  the escape velocity would be four times larger \r\nY)  the escape velocity would remain unchanged \r\nZ)  the escape velocity would  be reduced by half", 
     "tossupA": "ABSOLUTE LUMINOSITY  (ACCEPT:  LUMINOSITY, INTRINSIC BRIGHTNESS, \r\nOR ABSOLUTE BRIGHTNESS)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd52e"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "-1 \u2264 x \u2264 2", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  What is the term for the part of the secant contained between the points of \r\nintersection on a curve?", 
-    "packetNum": 11, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Find the solution set of the following inequality:  x<sup>2</sup> \u2013 x \u2013 2 \u2264 0", 
-    "tossupA": "CHORD", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd52f"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -81,13 +74,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  The Hawaiian Islands originated from magma: \r\n \r\nW)  intruding along the boundary between two lithospheric plates \r\nX)  formed within an island arc \r\nY)  injected along a mid-ocean fracture zone \r\nZ)  coming from a hotspot within the mantle", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is classified as a silicate mineral: \r\n \r\nW)  gypsum \r\nX)  malachite \r\nY)  halite \r\nZ)  quartz", 
     "tossupA": "Z)  COMING FROM A HOTSPOT WITHIN THE MANTLE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd530"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 6, 
@@ -96,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  A severe and chronic deficiency in what vitamin causes \r\nthe disease known as pellagra: \r\n \r\nW)  vitamin C \r\nX)  vitamin D \r\nY)  niacin \r\nZ)  thiamine", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  What tree in the North-Central to Northeast US has \r\nheart-shaped leaves and a light-colored wood which is prized by wood carvers \r\n \r\nW)  pin oak \r\nX)  cottonwood \r\nY)  American sycamore \r\nZ)  basswood", 
     "tossupA": "Y)  NIACIN", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd531"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 7, 
@@ -111,13 +108,15 @@
     "tossupQ": "COMPUTER SCIENCE  Multiple Choice  This distributed information system was prevalent in \r\nthe years before the World Wide Web: \r\n \r\nW)  Gopher \r\nX)  SSL \r\nY)  LINUX \r\nZ)  Fox", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "COMPUTER SCIENCE  Multiple Choice  Dynamic RAM is called such because: \r\n \r\nW)  the value it holds can be dynamically changed at any time \r\nX)  the address space the RAM refers to can be dynamically changed \r\nY)  the value it holds must be dynamically refreshed every few milliseconds \r\nZ)  the value it holds must be dynamically refreshed once a session", 
     "tossupA": "W)  GOPHER", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd532"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +125,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following exhibits the least resistivity at 20\u00b0C: \r\n \r\nW)  gold  \r\nX)  tungsten \r\nY)  iron \r\nZ)  copper", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  If a violin string is 0.5 meters long and has a mass of 3.0 grams, what \r\ntension, in Newtons, must be on the string to give a wave velocity of 14.14 meters per second?", 
     "tossupA": "Z)  COPPER", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd533"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +142,15 @@
     "tossupQ": "BIOLOGY  Short Answer  The coronal suture is found between what two bones?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following infectious agents is NOT properly \r\nmatched with its disease: \r\n \r\nW)  Trichophyton (read as:TRI-co-fie-ton) and ringworm \r\nX)  Hepatitis A and serum hepatitis \r\nY)  Rubella and German measles \r\nZ)  Epstein Barr and infectious mononucleosis", 
     "tossupA": "PARIETAL AND FRONTAL  (accept in any order)", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd534"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 2, 
@@ -156,13 +159,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Polystyrene is produced by which of the following reactions: \r\n \r\nW)  free radical vinyl polymerization from the monomer styrene \r\nX)  metalocene catalysis polymerization  \r\nY)  graft copolymerization \r\nZ)  butadiene polymerization", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following molecular shapes would you expect \r\nfrom O<sub>3</sub>: \r\n \r\nW)  bent \r\nX)  trigonal planar  \r\nY)  linear \r\nZ)  see-saw", 
     "tossupA": "W)  FREE RADICAL VINYL POLYMERIZATION FROM THE MONOMER \r\nSTYRENE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd535"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,13 +176,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  When a one solar mass star becomes a red giant for the first \r\ntime, its energy comes mainly from the fusion of helium forming into what final element?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following distance-measuring techniques \r\nmeasures the farthest: \r\n \r\nW)  radar ranging \r\nX)  stellar parallax \r\nY)  variable stars \r\nZ)  standard candle/Tully-Fisher relation", 
     "tossupA": "CARBON", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd536"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,13 +193,15 @@
     "tossupQ": "MATH  Multiple Choice  In a normal distribution, a mean of a sample population, plus or minus \r\n1 standard deviation, includes what percentage of the sample: \r\n \r\nW)  16% \r\nX)  32% \r\nY)  68% \r\nZ)  95%", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  What is the 13th term in the following arithmetic progression:  2, 7, 12...", 
     "tossupA": "Y)  68%", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd537"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +210,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  When two halves of a crystal aggregate are mirror images \r\nof each other and joined together in some definite, shared crystallographic orientation, such crystals \r\nare referred to as being:  \r\n \r\nW)  polymorphs \r\nX)  symmetrical \r\nY)  twinned  \r\nZ)  anhedral", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is FALSE about the Coriolis \r\nEffect: \r\n \r\nW)  it is an apparent force due to the precession of the Earth   \r\nX)  it is an apparent force due to the rotation of the Earth \r\nY)  it causes winds in the Northern Hemisphere to be deflected to the right \r\nZ)  it causes winds in the Southern Hemisphere to be deflected to the left", 
     "tossupA": "Y)  TWINNED", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd538"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,13 +227,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  A wave with a wavelength of 40 meters and a height \r\nof 2 meters, will NOT be refracted in water with a depth of more than: \r\n \r\nW)  1 meter \r\nX)  2 meters \r\nY)  10 meters \r\nZ)  20 meters", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  The mass of a new 2002 USA quarter is about how \r\nmany grams: \r\n \r\nW)  3.0 \r\nX)  4.5 \r\nY)  5.5 \r\nZ)  7.0", 
     "tossupA": "Z)  20 METERS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd539"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 7, 
@@ -231,13 +244,15 @@
     "tossupQ": "COMPUTER SCIENCE  Multiple Choice  Which printer uses bits of plastic that effectively are \r\nmelted onto the surface of the paper: \r\n \r\nW)  thermal \r\nX)  ink jet \r\nY)  laser \r\nZ)  dot matrix", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "COMPUTER SCIENCE  Multiple Choice  Which of the following is true for a binary tree but \r\nnot for a regular tree: \r\n \r\nW)  it stores only zeros and ones \r\nX)  each parent node has no more than two children \r\nY)  its branches are ordered \r\nZ)  nodes without children are called leaves", 
     "tossupA": "Y)  LASER", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd53a"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -246,13 +261,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Red light has a wavelength of: \r\n \r\nW)  300-350 nanometers \r\nX)  450-500 nanometers \r\nY)  550-600 nanometers \r\nZ)  650-700 nanometers", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Bose-Einstein condensates were initially created by using elements \r\nfrom what specific part of the periodic table:", 
     "tossupA": "Z)  650-700 NANOMETERS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd53b"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +278,15 @@
     "tossupQ": "BIOLOGY  Short Answer  From what vitamin is NAD derived?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Penicillium notatum is to penicillin as Bacillus subtilis (pronounced:  \r\nSUT-ill-iss) is to:", 
     "tossupA": "NIACIN", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd53c"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 2, 
@@ -276,13 +295,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following radioactive isotopes emits alpha \r\nparticles: \r\n \r\nW)  hydrogen-3 \r\nX)  cobalt-60 \r\nY)  carbon-14 \r\nZ)  radium-226", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  What is the molecular formula for the conjugate acid of the \r\nfollowing Br\u00f8nsted-Lowry base:  HCO<sub>3</sub><sup>-</sup>", 
     "tossupA": "Z)  RADIUM-226", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd53d"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +312,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  In North America, what is typically the most spectacular meteor \r\nshower in the month of August?", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Multiple Choice  A bolometer (pronounced: bowl-O-meter) is used to: \r\n \r\nW)  measure the energy output of the Sun \r\nX)  measure the length of a bowling alley \r\nY)  measure the size of celestial bodies \r\nZ)  standardize the azimuth of a sextant", 
     "tossupA": "PERSEIDS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd53e"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 0, 
@@ -306,28 +329,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  As the intensity of metamorphism increases, which of the \r\nfollowing transformations occurs: \r\n \r\nW)  granite to slate \r\nX)  schist to slate \r\nY)  gneiss to quartzite \r\nZ)  limestone to marble", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  In which of the following latitudes would you expect \r\nbelts of high pressure to typically develop: \r\n \r\nW)  30\u00b0 North  \r\nX)  0\u00b0 \r\nY)  50\u00b0 North  \r\nZ)  60\u00b0 South", 
     "tossupA": "Z)  LIMESTONE TO MARBLE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd53f"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "CYSTINE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is classified as a water-\r\ninsoluble fiber: \r\n \r\nW)  algal polysaccharides \r\nX)  pectin \r\nY)  lignin \r\nZ)  gums", 
-    "packetNum": 11, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Short Answer  Methods that cause hair to have curls usually rely on \r\nmanipulating disulfide bonds in what amino acid?", 
-    "tossupA": "Y)  LIGNIN", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd540"
-    }, 
-    "questionNum": "22"
+    "questionNum": 21
   }, 
   {
     "category": 3, 
@@ -336,28 +346,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  The line spectra of low density gases is usually produced by the \r\nemission or absorption of light by: \r\n \r\nW)  molecules \r\nX)  crystals \r\nY)  crystal lattices \r\nZ)  individual atoms", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What was the last name of the father and son team that developed the \r\ntheory and technique of X-ray diffraction by crystals?", 
     "tossupA": "Z)  INDIVIDUAL ATOMS", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd541"
     }, 
-    "questionNum": "23"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "VITAMIN E \r\n \r\n(Solution:  both are isoprenoids)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Short Answer  Avery and Macleod attributed the transforming principle to what \r\nsubstance?", 
-    "packetNum": 11, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  What other vitamin acts like an antagonist and has the most similar \r\nstructure to vitamin K?", 
-    "tossupA": "DNA", 
-    "setNum": 2, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd542"
-    }, 
-    "questionNum": "24"
+    "questionNum": 23
   }, 
   {
     "category": 2, 
@@ -366,12 +363,65 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Reaction with a copper compound is a qualitative test for \r\nwhich functional group: \r\n \r\nW)  alcohol \r\nX)  aldehyde \r\nY)  ketone \r\nZ)  carboxylic acid", 
     "packetNum": 11, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Name the two elements that have atomic numbers less than that \r\nof lead that have no stable isotopes:", 
     "tossupA": "X)  ALDEHYDE", 
     "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd543"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-1 \u2264 x \u2264 2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the term for the part of the secant contained between the points of \r\nintersection on a curve?", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the solution set of the following inequality:  x<sup>2</sup> \u2013 x \u2013 2 \u2264 0", 
+    "tossupA": "CHORD", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd52f"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "CYSTINE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is classified as a water-\r\ninsoluble fiber: \r\n \r\nW)  algal polysaccharides \r\nX)  pectin \r\nY)  lignin \r\nZ)  gums", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  Methods that cause hair to have curls usually rely on \r\nmanipulating disulfide bonds in what amino acid?", 
+    "tossupA": "Y)  LIGNIN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd540"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "VITAMIN E \r\n \r\n(Solution:  both are isoprenoids)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Avery and Macleod attributed the transforming principle to what \r\nsubstance?", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What other vitamin acts like an antagonist and has the most similar \r\nstructure to vitamin K?", 
+    "tossupA": "DNA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd542"
+    }, 
+    "questionNum": 24
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice If you stick a thermometer into a frozen slurry of \r\nlemonade as it is melting, you will find that the reading on the thermometer is:  \r\n \r\nW) Slowly falling \r\nX) Not changing, as long as there is ice \r\nY) Slowly rising \r\nZ) Quickly rising", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer At incredibly low temperatures near 0 Kelvin, atoms \r\ncoalesce into what substance?", 
     "tossupA": "X) NOT CHANGING, AS LONG AS THERE IS ICE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd197"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -21,13 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is an example of an igneous \r\n(read as: IG-nee-ehs) rock? \r\n \r\nW) Flint \r\nX) Obsidian (read as: ohb-SI-dee-ahn) \r\nY) Anthracite (read as: AN-thrah-syt) \r\nZ) Chalk", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice You discover an igneous (read as: IG-nee-ehs) rock \r\nwith a course-grained texture and the appearance of a mass of intergrown crystals of similar \r\nsize. At which of the following locations did magma most likely solidify? \r\n \r\nW) In the ocean \r\nX) On the surface \r\nY) Far below the surface \r\nZ) No more than 100 feet below the surface", 
     "tossupA": "X) OBSIDIAN", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd198"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 1, 
@@ -36,13 +40,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following best explains why most food chains \r\nhave fewer than five organisms in them? \r\n \r\nW) Energy is too complex to cycle through multiple steps \r\nX) The amount of energy at the producer level can only support a limited number of consumers \r\nY) There is only enough room on Earth for a certain number of animals, and they are divided \r\ninto food chains \r\nZ) Ecosystems can only support a certain number of organisms, and they are divided into food \r\nchains", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice An organism\u2019s way of life, including its habitat, food, \r\npredators, and other organisms it competes with for resources make up an organism\u2019s: \r\n \r\nW) Ecosystem \r\nX) Niche \r\nY) Biome \r\nZ) Food pyramid", 
     "tossupA": "X) THE AMOUNT OF ENERGY AT THE PRODUCER LEVEL CAN ONLY \r\nSUPPORT A LIMITED NUMBER OF CONSUMERS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd199"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -51,28 +57,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice If convection currents in the mantle \r\nstopped, which of the following would likely happen? \r\n \r\nW) The number of earthquakes would increase \r\nX) The number of earthquakes would stay the same \r\nY) Earthquakes would get stronger \r\nZ) The number of earthquakes would decrease", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer In what state of matter are convection \r\ncurrents unable to transfer heat?", 
     "tossupA": "Z) THE NUMBER OF EARTHQUAKES WOULD DECREASE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd19a"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "W) 1%", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer Name the rigid segments into which the Earth\u2019s crust is \r\ndivided.", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice The Earth\u2019s crust accounts for about what percentage \r\nof the Earth\u2019s volume? \r\n \r\nW) 1% \r\nX) 5% \r\nY) 10% \r\nZ) 15%", 
-    "tossupA": "PLATES (ACCEPT: TECTONIC PLATES)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd19b"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 5, 
@@ -81,28 +74,15 @@
     "tossupQ": "ENERGY Short Answer If the temperature change of a pot of water is 180 Kelvin, what is \r\nthe temperature change in degrees Celsius?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following household appliances uses the least \r\namount of energy over the course of a year? \r\n \r\nW) Refrigerator \r\nX) Water heater \r\nY) Air conditioner \r\nZ) Dishwasher", 
     "tossupA": "180", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd19c"
     }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "5", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer What is the name for the vector quantity defined as the \r\nrate of change of position?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer In 12 seconds, a car goes from 0 to 60 miles per hour. \r\nIn miles per hour per second, what is its average rate of acceleration?", 
-    "tossupA": "VELOCITY", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd19d"
-    }, 
-    "questionNum": "7"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -111,13 +91,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer An ice cube is placed in a perfectly insulated box with \r\nan air temperature of 60\u00b0 Fahrenheit and covered. Sometime later, the box is opened and the \r\nice cube has completely melted. How will the air temperature in the box have changed?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "Physical SCIENCE Short Answer According to the laws of entropy, all useful forms of \r\nenergy are converted into what form of energy?", 
     "tossupA": "IT WILL BE LOWER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd19e"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Shortly after its formation, Earth\u2019s moon \r\nwas: \r\n \r\nW) Closer to Earth than it is now \r\nX) Farther from Earth than it is now \r\nY) The same distance from Earth as it is now \r\nZ) Oscillating between further from and closer to Earth", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice What rock type would you not expect to \r\nfind on the Moon? \r\n \r\nW) Rock similar in composition to Earth\u2019s mantle \r\nX) Layered sedimentary rock \r\nY) Igneous (read as: IG-nee-ehs) rock \r\nZ) Rock similar in composition to a metallic meteor", 
     "tossupA": "W) CLOSER TO EARTH THAN IT IS NOW", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd19f"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,13 +125,15 @@
     "tossupQ": "MATH Short Answer What is the coefficient of x in 10y \u2013 6x + 13?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Where is the geometric center of a cube? \r\n \r\nW) It is at the center of its face \r\nX) It is at the vertex of two faces \r\nY) It is at the point of intersection of the diagonals of a face \r\nZ) It is at the point of intersection of the cube\u2019s diagonals", 
     "tossupA": "-6", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a0"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,28 +142,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following substances is likely to be the \r\nmost reactive in water? \r\n \r\nW) Sodium \r\nX) Mercury \r\nY) Aluminum \r\nZ) Gold", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice The reactivity of an element depends predominantly \r\non its:  \r\n \r\nW) Atomic mass \r\nX) Valence electron configuration \r\nY) Electronegativity \r\nZ) Relative abundance", 
     "tossupA": "W) SODIUM", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a1"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "Y) COPEPOD", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer Glucose is the main source of energy for most animals. \r\nWhat form of energy is glucose?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms is considered to be a \r\ncrustacean? \r\n \r\nW) Jellyfish \r\nX) Diatom \r\nY) Copepod \r\nZ) Foraminifera", 
-    "tossupA": "CHEMICAL (ACCEPT: FOOD)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1a2"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -186,13 +159,15 @@
     "tossupQ": "MATH Multiple Choice Molly walks an average of 3 strides in 2 seconds. At this rate, how \r\nmany strides can she make in 1 minute? \r\n \r\nW) 30 \r\nX) 60 \r\nY) 90 \r\nZ) 120", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Rectangle A has a length of 53 inches and a height of 28 inches. If \r\nrectangle B is similar to A such that the scale factor of B to A is 5 to 1, what is the perimeter of \r\nrectangle B in inches?", 
     "tossupA": "Y) 90", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a3"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 5, 
@@ -201,28 +176,15 @@
     "tossupQ": "ENERGY Short Answer What is the color of the lowest frequency light that is visible to \r\nhumans?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice An observer is watching a train pass. As the train approaches \r\nthe observer, in what way will the frequency of the sound emanating from the train appear to \r\nchange relative to the observer? \r\n \r\nW) It will be lower \r\nX) It will be higher \r\nY) It varies \r\nZ) It will not be different", 
     "tossupA": "RED", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a4"
     }, 
-    "questionNum": "14"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "IT DOESN'T CHANGE (ACCEPT: IT IS CONSTANT)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Ariah is holding a bowling ball and Robert is holding \r\na tennis ball on the roof of their school. Ariah and Robert drop these objects off the roof at the \r\nsame time. Neglecting air resistance, what will happen? \r\n \r\nW) Ariah's bowling ball will hit the ground first due to its greater mass \r\nX) Robert's tennis ball will hit the ground first due to its faster acceleration \r\nY) The tennis ball and the bowling ball will hit the ground at the same time \r\nZ) The result can't be determined without knowing the ball's density", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What does the law of conservation of energy tell us \r\nabout the total amount of energy in a closed system?", 
-    "tossupA": "Y) THE TENNIS BALL AND THE BOWLING BALL WILL HIT THE GROUND AT \r\nTHE SAME TIME", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1a5"
-    }, 
-    "questionNum": "15"
+    "questionNum": 14
   }, 
   {
     "category": 4, 
@@ -231,13 +193,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is NOT necessarily a regular polygon?  \r\n \r\nW) Square \r\nX) Isosceles triangle \r\nY) Octagon with all internal angles of 135\u00b0 \r\nZ) Hexagon with all internal angles of 120\u00b0", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer If you double a number, then double that result, and continue that \r\ndoubling process, how many times must you double a number in order to make the result \r\ngreater than 10 times the original number?", 
     "tossupA": "X) ISOSCELES TRIANGLE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a6"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,13 +210,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Of what kingdom are yeast members?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements is NOT true about the \r\nkingdom Fungi? \r\n \r\nW) Fungi are more closely related to plants than animals \r\nX) Fungi are not dependent on light \r\nY) Fungi can grow in any direction \r\nZ) Fungi usually reproduce by wind-disseminated spores", 
     "tossupA": "FUNGI", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a7"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -261,13 +227,15 @@
     "tossupQ": "ENERGY Multiple Choice Electrical current is best conducted through which of the \r\nfollowing substances? \r\n \r\nW) Copper \r\nX) Water \r\nY) Wood \r\nZ) Stone", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice The presence of which of the following in the ocean best \r\nexplains why electrical current is generally better conducted through the ocean than a \r\nfreshwater lake. \r\n \r\nW) Dissolved salt \r\nX) Large waves \r\nY) Eels \r\nZ) Petroleum waste from large ships", 
     "tossupA": "W) COPPER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a8"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,13 +244,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT a fossil \r\nfuel? \r\n \r\nW) Oil \r\nX) Hydrogen gas \r\nY) Natural gas \r\nZ) Coal", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Fossil fuels form through the \r\ndecomposition of organic materials. You\u2019re studying a map that shows ancient environments. If \r\nyou went hunting tomorrow for fossil fuels, which of these ancient habitats would you avoid? \r\n \r\nW) Desert \r\nX) Swamp \r\nY) Forest \r\nZ) Coral reef", 
     "tossupA": "X) HYDROGEN GAS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1a9"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -291,13 +261,15 @@
     "tossupQ": "MATH Short Answer Simplify (read as: one third divided by one sixth)", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the fifth positive integer multiple of 252?", 
     "tossupA": "2", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1aa"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 1, 
@@ -306,28 +278,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Transgenic animals carry the genes from other species in \r\ntheir DNA through a deliberate modification of their genome. Which of the following phrases \r\ndoes NOT reflect why transgenic animals are currently being produced in the United States? \r\n \r\nW) To have animal models for human diseases \r\nX) To test the purity of human proteins (such as human insulin) used as drugs \r\nY) For the production of human food \r\nZ) Improving animal health or productivity", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following issues do humans have the most \r\ncontrol over when contemplating the release of transgenic animals into the wild?  \r\n \r\nW) Competition between transgenic and wild populations \r\nX) Movement of the altered gene into the wild gene pool \r\nY) Different niche requirements with the transgenic versus wild populations \r\nZ) Viability of transgenic fish", 
     "tossupA": "Y) FOR THE PRODUCTION OF HUMAN FOOD", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ab"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "Y) NUMBER OF NEUTRONS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer How many protons does an atom of helium have?", 
-    "packetNum": 7, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice Two isotopes of the same element differ with respect \r\nto which of the following? \r\n \r\nW) Number of protons \r\nX) Number of electrons \r\nY) Number of neutrons \r\nZ) Atomic number", 
-    "tossupA": "2", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1ac"
-    }, 
-    "questionNum": "22"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -336,13 +295,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following statements is true \r\nabout primary producers in the ocean? \r\n \r\nW) They are responsible for bringing energy from the physical world into the biological world \r\nX) They are found primarily in tropical coral reef environments in equatorial waters \r\nY) They are also referred to as primary consumers in an ecosystem model \r\nZ) They include sharks and large bony fishes", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is true about deep \r\nmid-ocean ridge ecosystems? \r\n \r\nW) There are no primary producers, only consumers and decomposers \r\nX) The organisms are highly mobile, ascending daily to the ocean surface to feed \r\nY) The source of energy is chemical energy from hydrothermal vents of the seafloor \r\nZ) The organisms have the most dynamic and complex coloring on their bodies so they can be \r\nvisible at depth", 
     "tossupA": "W) THEY ARE RESPONSIBLE FOR BRINGING ENERGY FROM THE PHYSICAL \r\nWORLD INTO THE BIOLOGICAL WORLD", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ad"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 4, 
@@ -351,13 +312,15 @@
     "tossupQ": "MATH Short Answer The dimensions of a rectangular prism are 12 centimeters by 12 \r\ncentimeters by 10 centimeters. What is its volume in cubic centimeters?", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice What is the measure, in inches, of the hypotenuse of a right triangle \r\nwhen the other two sides measure 6 inches and 5 inches? \r\n \r\nW) 30 \r\nX) \u221a11 \r\n \r\nY) \u221a30 \r\n\t\r \u00a0\r\nZ) \u221a61", 
     "tossupA": "1440", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ae"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 0, 
@@ -366,12 +329,99 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Most of the photons emitted by our sun \r\nfall in which pair of ranges of the electromagnetic spectrum? \r\n \r\nW) Visible light and infrared \r\nX) Radio and X-ray \r\nY) Gamma and infrared \r\nZ) Ultraviolet and visible", 
     "packetNum": 7, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Our sun is expected to last for \r\napproximately how many more years? \r\n \r\nW) 50 million \r\nX) 500 million \r\nY) 5 billion \r\nZ) 50 billion", 
     "tossupA": "W) VISIBLE LIGHT AND INFRARED", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1af"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) NUMBER OF NEUTRONS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer How many protons does an atom of helium have?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Two isotopes of the same element differ with respect \r\nto which of the following? \r\n \r\nW) Number of protons \r\nX) Number of electrons \r\nY) Number of neutrons \r\nZ) Atomic number", 
+    "tossupA": "2", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1ac"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) 1%", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Name the rigid segments into which the Earth\u2019s crust is \r\ndivided.", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The Earth\u2019s crust accounts for about what percentage \r\nof the Earth\u2019s volume? \r\n \r\nW) 1% \r\nX) 5% \r\nY) 10% \r\nZ) 15%", 
+    "tossupA": "PLATES (ACCEPT: TECTONIC PLATES)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd19b"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the name for the vector quantity defined as the \r\nrate of change of position?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer In 12 seconds, a car goes from 0 to 60 miles per hour. \r\nIn miles per hour per second, what is its average rate of acceleration?", 
+    "tossupA": "VELOCITY", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd19d"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) COPEPOD", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Glucose is the main source of energy for most animals. \r\nWhat form of energy is glucose?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms is considered to be a \r\ncrustacean? \r\n \r\nW) Jellyfish \r\nX) Diatom \r\nY) Copepod \r\nZ) Foraminifera", 
+    "tossupA": "CHEMICAL (ACCEPT: FOOD)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1a2"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "IT DOESN'T CHANGE (ACCEPT: IT IS CONSTANT)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Ariah is holding a bowling ball and Robert is holding \r\na tennis ball on the roof of their school. Ariah and Robert drop these objects off the roof at the \r\nsame time. Neglecting air resistance, what will happen? \r\n \r\nW) Ariah's bowling ball will hit the ground first due to its greater mass \r\nX) Robert's tennis ball will hit the ground first due to its faster acceleration \r\nY) The tennis ball and the bowling ball will hit the ground at the same time \r\nZ) The result can't be determined without knowing the ball's density", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What does the law of conservation of energy tell us \r\nabout the total amount of energy in a closed system?", 
+    "tossupA": "Y) THE TENNIS BALL AND THE BOWLING BALL WILL HIT THE GROUND AT \r\nTHE SAME TIME", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1a5"
+    }, 
+    "questionNum": 15
   }
 ]

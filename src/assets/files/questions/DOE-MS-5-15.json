@@ -1,33 +1,20 @@
 [
   {
-    "category": 0, 
-    "bonusA": "TRILOBITE, EURYPTERID, DINOSAUR, BIRD (ACCEPT: 2, 4, 3, 1)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice In 1849, bones of a beluga whale were \r\ndiscovered in Vermont buried nearly 10 feet below the surface and over 150 miles from the \r\nnearest ocean. During which of the following time frames would the whale most likely have \r\ndied? \r\n \r\nW) 6,000 to 7,000 years ago \r\nX) 11,000 to 12,000 years ago \r\nY) 17,000 to 18,000 years ago \r\nZ) 23,000 to 24,000 years ago", 
-    "packetNum": 15, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer By name or number, list the following four \r\nfossils in chronological order from earliest to most recent according to their first occurrence in \r\ngeological history: 1) bird, 2) trilobite, 3) dinosaur, 4) eurypterid (read as: yuh-RIP-the-rid).", 
-    "tossupA": "X) 11,000 TO 12,000 YEARS AGO", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccef4"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 3, 
     "bonusA": "334", 
     "vendorNum": "DOE-MS", 
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following processes could NOT take \r\nplace in the active site of an enzyme? \r\n \r\nW) Phosphorylation (read as: fahs-fohr-i-LAY-shohn) \r\nX) Hydrolysis \r\nY) Dehydration synthesis \r\nZ) Glycolysis", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Providing your answer to the nearest integer, what is \r\nthe heat of fusion, in joules per gram, of water?", 
     "tossupA": "Z) GLYCOLYSIS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccef5"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -36,28 +23,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following seas of the Arctic \r\nOcean has observed the greatest loss of ice since 1990? \r\n \r\nW) Greenland \r\nX) Laptev \r\nY) Labrador \r\nZ) Chukchi (read as: CHOOK-chee)", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following sets of two locations \r\nhave the most similar latitudes? \r\n \r\nW) New York City, New York and London, England \r\nX) Tampa, Florida and Kathmandu, Nepal \r\nY) Death Valley, California and Boston, Massachusetts \r\nZ) Sydney, Australia and Lima, Peru", 
     "tossupA": "Z) CHUKCHI", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccef6"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "TEXAS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Multiple Choice Which of the following is the most efficient type of solar cell? \r\n \r\nW) Multijunction \r\nX) Single-junction \r\nY) Crystalline silicon \r\nZ) Thin-film", 
-    "packetNum": 15, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer In which state is the world\u2019s largest onshore wind farm?", 
-    "tossupA": "W) MULTIJUNCTION", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccef7"
-    }, 
-    "questionNum": "4"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -66,28 +40,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Indicate which of the following is most efficient for water and \r\nmineral transport in plants? \r\n \r\nW) Tracheids (read as: TRAY-keeds) \r\nX) Sclerids \r\nY) Sieve tube elements \r\nZ) Vessel elements", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What term is used to describe a form of reproduction in which \r\ngrowth and development of embryos occurs without fertilization by the male?", 
     "tossupA": "Z) VESSEL ELEMENTS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccef8"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "21", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the sum of the interior angles, in degrees, of a regular \r\noctadecagon?", 
-    "packetNum": 15, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer How many different permutations consisting of 3 letters, each ending in \r\nthe letter T, can be formed from the seven letters of the word MASTERS?", 
-    "tossupA": "2880", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccef9"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 1, 
@@ -96,13 +57,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is responsible for speeding up the \r\ntransmission of action potentials across axons? \r\n \r\nW) Glia \r\nX) Synapse \r\nY) Dendrites \r\nZ) Myelin (read as: MY-eh-lin)", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer A gardener is trying to graft two fruit trees together. Which \r\ntype of hormone should she use to form callus tissue to connect the plants?", 
     "tossupA": "Z) MYELIN", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccefa"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,13 +74,15 @@
     "tossupQ": "ENERGY Short Answer What is the term for a compound that is often used as an odorant to \r\nassist in the detection of natural gas?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer By name or number, identify all of the following four organisms that \r\ncan live near a cold seep: 1) bacteria, 2) Bathymodiolus (read as: bah-TI-moh-dioh-luhs), 3) \r\ntubeworms, 4) corals.", 
     "tossupA": "THIOL (ACCEPT: MERCAPTAN, THIOPHANE)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccefb"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +91,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT an acid-base conjugate \r\npair? \r\n \r\nW) H\r\n3\r\nO\r\n+\r\n and H\r\n2\r\nO \r\nX) NH\r\n4+\r\n and NH\r\n3\r\n \r\nY) H\r\n2\r\nSO\r\n4\r\n and OH\r\n\u2212\r\n \r\nZ) H\r\n2\r\nCO\r\n3\r\n and HCO\r\n3\r\n\u2212", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Using proper chemical nomenclature, indicating the \r\ncharge of each ion, what is the balanced net ionic equation for the reaction between barium \r\nchloride and potassium phosphate?", 
     "tossupA": "Y) H\r\n2\r\nSO\r\n4\r\n AND OH\r\n\u2212", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccefc"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +108,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Hormones released by the posterior pituitary control \r\nnumerous emotions, drives, and autonomic functions. In which of the following locations are \r\nthose hormones actually produced? \r\n \r\nW) Thalamus \r\nX) Hypothalamus \r\nY) Anterior pituitary \r\nZ) Amygdaloid (read as: AH-mig-lohid) body", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the genus name of the leatherback sea turtle?", 
     "tossupA": "X) HYPOTHALAMUS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccefd"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -156,13 +125,15 @@
     "tossupQ": "MATH Short Answer What are the coordinates of the x-intercept of the line: 5y = 4x \u2013 20?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Find the minimum possible value of y in the equation \r\ny = |x \u2013 3| \u2212 |x \u2013 5|, where x is a real number.", 
     "tossupA": "(5, 0)", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccefe"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,13 +142,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following elements is NOT in group 8 of \r\nthe periodic table? \r\n \r\nW) Iron \r\nX) Osmium \r\nY) Meitnerium (read as: myt-NIR-ee-uhm) \r\nZ) Hassium", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer John scores 1.75 standard deviations below the mean \r\non an exam. If the average score is 50, and 42 is exactly one standard deviation below the \r\nmean on a normal distribution, then what was John\u2019s score on this exam?", 
     "tossupA": "Y) MEITNERIUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecceff"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What product of airplane travel cools \r\nEarth\u2019s climate by reflecting incoming solar radiation?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer By name or number, identify all of the \r\nfollowing three clay minerals that are important in brick making: 1) kaolinite (read as: kah-OH-li-\r\nnyt), 2) illite, 3) montmorillonite (read as: mohnt-moh-RI-loh-nyt).", 
     "tossupA": "CONTRAILS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf00"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 6, 
@@ -201,13 +176,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following elements is NOT a \r\nlanthanide? \r\n \r\nW) Europium \r\nX) Terbium \r\nY) Thulium \r\nZ) Curium", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following organisms has the highest \r\nsalinity tolerance? \r\n \r\nW) Water stargrass \r\nX) Horned podweed \r\nY) Hydrilla \r\nZ) Wild celery", 
     "tossupA": "Z) CURIUM", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf01"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +193,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the longest snake alive today? \r\n \r\nW) Burmese python \r\nX) Reticulated python \r\nY) Yellow anaconda \r\nZ) Green anaconda", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Nitrate, carbonate, or sulfate may be used as exogenous \r\nelectron acceptors in which energy-creating process?", 
     "tossupA": "X) RETICULATED PYTHON", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf02"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 6, 
@@ -231,28 +210,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following ocean layers receives the \r\nleast amount of natural light? \r\n \r\nW) Epipelagic (read as: eh-pi-peh-LAH-jik) \r\nX) Bathypelagic (read as: bah-thi-peh-LAH-jik) \r\nY) Hadal Zone \r\nZ) Mesopelagic", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the common name of the only mammal to \r\nhave large keratin scales covering its skin?", 
     "tossupA": "Y) HADAL ZONE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf03"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "6, 8, AND 14", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the largest possible radius, in units, of a circle contained in \r\nthe interior of the ellipse 4x<sup>2</sup> \r\n+ 9y<sup>2</sup> \r\n= 36?", 
-    "packetNum": 15, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer For what positive integers a is it true that a \u2013 7 divides a?", 
-    "tossupA": "2", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccf04"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -261,13 +227,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice A bob of mass m is attached to a string, forming a \r\npendulum. If the bob is replaced with one of mass 4m, what effect does it have on the period of \r\nthe pendulum? \r\n \r\nW) It quarters the period \r\nX) It halves the period \r\nY) There is no effect on the period \r\nZ) It doubles the period", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer How much energy, in joules, is used by a football \r\nplayer if he pushes a blocking sled for two minutes while generating 40 watts of power?", 
     "tossupA": "Y) THERE IS NO EFFECT ON THE PERIOD", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf05"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +244,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Photosynthesis has both light and dark reactions. Which of \r\nthe following occurs without the presence of light? \r\n \r\nW) Water is split to produce oxygen \r\nX) Carbon dioxide is transformed to sugar \r\nY) NADP\r\n+\r\n is converted to NADPH \r\nZ) ADP is converted to ATP", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Cholesterol is responsible for altering membrane fluidity. In \r\nwhich of the following conditions would the presence of cholesterol have the greatest effect on \r\nthe fluidity of the cell membrane? \r\n \r\nW) When cholesterol levels increase and the membrane is at a low temperature \r\nX) When cholesterol levels increase and the membrane is at a moderate temperature \r\nY)\r\n \r\nWhen cholesterol levels decrease and\r\n \r\nthe membrane is at a low temperature\r\n Z) Cholesterol has the same effect, regardless of the temperature", 
     "tossupA": "X) CARBON DIOXIDE IS TRANSFORMED TO SUGAR", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf06"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +261,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice A reaction is currently at equilibrium. Which of the \r\nfollowing will NOT happen when a catalyst is added to the reaction? \r\n \r\nW) The forward reaction will proceed at a faster rate \r\nX) The reverse reaction will proceed at a faster rate \r\nY) The rate constant will change \r\nZ) The equilibrium constant will change", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Based on a typical soil profile, what soil horizon is \r\nprimarily composed of organic matter?", 
     "tossupA": "Z) THE EQUILIBRIUM CONSTANT WILL CHANGE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf07"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -306,13 +278,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Lighter gases diffuse more quickly than heavier \r\ngases. Mathematically, this is expressed by which of the following laws? \r\n \r\nW) Avogadro\u2019s \r\nX) Boyle\u2019s \r\nY) Graham\u2019s \r\nZ) Charles\u2019s", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the name of a high-frequency air core \r\ntransformer that can take the output of a 120-volt AC to several kilovolt transformer and driver \r\ncircuit, and step it up to hundreds of kilovolts?", 
     "tossupA": "Y) GRAHAM\u2019S", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf08"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +295,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice The salinity of ocean water is often \r\ndetermined from its conductivity, measured against the conductivity of which of the following \r\nsubstances dissolved in water? \r\n \r\nW) Potassium chloride \r\nX) Sodium chloride \r\nY) Sodium sulfate \r\nZ) Magnesium sulfate", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What are the three primary ions that \r\ncontribute to seawater\u2019s salinity?", 
     "tossupA": "W) POTASSIUM CHLORIDE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf09"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -336,13 +312,15 @@
     "tossupQ": "MATH Multiple Choice A one-story building has floor dimensions of 400 feet by 100 feet. If \r\na square patio with sides of 28 feet occupies the center of the building, which of the following is \r\nthe area in square feet that remains for offices? \r\n \r\nW) 36,216 \r\nX) 37,216 \r\nY) 38,216 \r\nZ) 39,216", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What are the coordinates of the foci of the hyperbola n(x-3)2<sup>2</sup>/64 - (y + 2)<sup>2</sup>/36 = \u00a01?", 
     "tossupA": "Z) 39,216", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf0a"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 5, 
@@ -351,13 +329,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following processes could be used to control fission \r\nreactions in a nuclear power plant? \r\n \r\nW) Cooling the fuel rods with water \r\nX) Placing gallium control rods between the fuel rods to absorb neutrons \r\nY) Placing cadmium control rods between the fuel rods to absorb neutrons \r\nZ) Placing uranium-235 control rods between the fuel rods to absorb neutrons", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer In the formation of lightning, what is the term for a channel of \r\npositively charged air, originating from ground-connected objects, which responds to a strong \r\nelectric field by reaching out to the clouds?", 
     "tossupA": "Y) PLACING CADMIUM CONTROL RODS BETWEEN THE FUEL RODS TO \r\nABSORB NEUTRONS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf0b"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 4, 
@@ -366,12 +346,82 @@
     "tossupQ": "MATH Short Answer What quadrant is not passed through by the line 5x + 3y = 15?", 
     "packetNum": 15, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer The linear function f(x) contains the points (-1, 7) and (4, 3). What is \r\nf(10) in simplest form?", 
     "tossupA": "III", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccf0c"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "TEXAS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following is the most efficient type of solar cell? \r\n \r\nW) Multijunction \r\nX) Single-junction \r\nY) Crystalline silicon \r\nZ) Thin-film", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer In which state is the world\u2019s largest onshore wind farm?", 
+    "tossupA": "W) MULTIJUNCTION", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccef7"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TRILOBITE, EURYPTERID, DINOSAUR, BIRD (ACCEPT: 2, 4, 3, 1)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice In 1849, bones of a beluga whale were \r\ndiscovered in Vermont buried nearly 10 feet below the surface and over 150 miles from the \r\nnearest ocean. During which of the following time frames would the whale most likely have \r\ndied? \r\n \r\nW) 6,000 to 7,000 years ago \r\nX) 11,000 to 12,000 years ago \r\nY) 17,000 to 18,000 years ago \r\nZ) 23,000 to 24,000 years ago", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer By name or number, list the following four \r\nfossils in chronological order from earliest to most recent according to their first occurrence in \r\ngeological history: 1) bird, 2) trilobite, 3) dinosaur, 4) eurypterid (read as: yuh-RIP-the-rid).", 
+    "tossupA": "X) 11,000 TO 12,000 YEARS AGO", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccef4"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "21", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the sum of the interior angles, in degrees, of a regular \r\noctadecagon?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many different permutations consisting of 3 letters, each ending in \r\nthe letter T, can be formed from the seven letters of the word MASTERS?", 
+    "tossupA": "2880", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccef9"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6, 8, AND 14", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the largest possible radius, in units, of a circle contained in \r\nthe interior of the ellipse 4x<sup>2</sup> \r\n+ 9y<sup>2</sup> \r\n= 36?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer For what positive integers a is it true that a \u2013 7 divides a?", 
+    "tossupA": "2", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf04"
+    }, 
+    "questionNum": 17
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Two or more structures are said to be homologous if they are alike \r\nbecause of shared ancestry. Ovaries and testes share a developmental ancestry, meaning that \r\nthe structures arose from the same tissue in what physical stage of human life?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  All Homo sapiens are thought to share a common matrilineage. \r\nWhat genetic information has been used as key evidence for this shared matrilineage? \r\n \r\nW) Mitochondrial (read as: my-toh-KOHN-dree-ahl) DNA \r\nX) Nuclear DNA \r\nY) Plasma membranes \r\nZ) Cytoplasmic tRNA", 
     "tossupA": "EMBRYO", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb20"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -21,13 +23,15 @@
     "tossupQ": "MATH  Short Answer  Given a standard deck of 52 cards, what is the probability, expressed \r\nas a fraction in lowest terms, that the first card dealt is a heart?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  An ichthyologist wants to know the fish population of a pond. She \r\ncatches 60 fish, tags them, and releases them. Two weeks later, she catches 50 fish and 7 of \r\nthem have tags. Based on the data, what is the best estimate of the fish population of the pond? \r\nRound your answer to the nearest hundred.", 
     "tossupA": "1/4", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb21"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -36,13 +40,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  In which of the following sedimentary environments \r\nwould a dominantly organic sedimentary rock most likely be formed? \r\n \r\nW) Shallow marine \r\nX) Deep ocean \r\nY) Wind-blown desert \r\nZ) Glacial outwash plain", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  A high-energy river environment will most likely create \r\nwhich of the following deposits:   \r\n \r\nW) Laminar silt beds \r\nX) Course-grained, angular cross bedding \r\nY) Poorly sorted beds with no structure  \r\nZ) Well rounded gravels", 
     "tossupA": "W) SHALLOW MARINE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb22"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +57,15 @@
     "tossupQ": "MATH  Short Answer  What do we call a mathematical object that possesses both magnitude \r\nand direction?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Multiple Choice  If b is a negative vector of a given vector a, then how do b and a \r\ncompare? \r\n \r\nW) a has a smaller magnitude than b \r\nX) b has a smaller magnitude than a \r\nY) b has the same magnitude as a, applied in the opposite direction \r\nZ) b has a larger magnitude than a, applied in the opposite direction", 
     "tossupA": "VECTOR", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb23"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 2, 
@@ -66,13 +74,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What letter designates the lowest energy subshell in any shell?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Identify the scientist who proposed the existence of energy \r\nlevels for the electrons in an atom.", 
     "tossupA": "S", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb24"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -81,13 +91,15 @@
     "tossupQ": "PHYSICS  Short Answer  What causes low-pressure weather systems, such as tropical \r\ncyclones, to spin counter-clockwise in the Northern Hemisphere and clockwise in the Southern \r\nHemisphere?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Billions of tiny ice crystals rub together to produce electron \r\nimbalances within storm clouds. What do we see when electrons arc to another cloud or to the \r\nground?", 
     "tossupA": "CORIOLIS EFFECT (ACCEPT: CORIOLIS FORCE, ROTATION OF THE EARTH)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb25"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following minerals could be mined to \r\ncreate electrical wiring? \r\n \r\nW) Chalcopyrite (read as: kahl-koh-PY-ryt) \r\nX) Limestone  \r\nY) Galena (read as: gah-LEE-nah) \r\nZ) Gypsum", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following is the most abundant mineral \r\ngroup found in the Earth's crust?   \r\n \r\nW) Carbonates \r\nX) Oxides \r\nY) Sulfides  \r\nZ) Silicates", 
     "tossupA": "W) CHALCOPYRITE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb26"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,13 +125,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Most shelled organisms in the ocean make their shells out of \r\ncalcium carbonate. What effect would increasing ocean acidity have on the shells of these \r\norganisms?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  In the 1960s, a group of bacteria were discovered with magnetic \r\ncrystals in a specialized organelle. It is believed that these bacteria used the crystals to help \r\nthem align with what natural phenomenon?", 
     "tossupA": "DISSOLVE/CORRODE THEIR SHELLS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb27"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 2, 
@@ -126,43 +142,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is a common ion? \r\n \r\nW) Na\r\n2+ \r\n \r\nX) Al\r\n3+ \r\n \r\nY) B\r\n2+ \r\n \r\nZ) Kr\r\n2+", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following has an electron configuration of 1s\r\n2 \r\n2s\r\n2 2p\r\n6 \r\n3s\r\n2 \r\n3p\r\n6\r\n (read as: 1 s 2, 2 s 2, 2 p 6, 3 s 2, 3 p 6)? \r\n \r\nW) Sodium ion \r\nX) Chlorine \r\nY) Neon \r\nZ) Calcium ion", 
     "tossupA": "X) Al\r\n3+", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb28"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "FAT", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Multiple Choice  In humans, where does the organ responsible for balance \r\nreside? \r\n \r\nW) Inner ear \r\nX) Middle ear \r\nY) Outer ear \r\nZ) Hypothalamus", 
-    "packetNum": 2, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  What is a common name for adipose tissue?", 
-    "tossupA": "W) INNER EAR", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecdb29"
-    }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "Z) VIOLET", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Short Answer  What is the term that describes the separation of visible light into \r\nits component colors by a prism?", 
-    "packetNum": 2, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Multiple Choice  Which of the following colors of light has the most energy? \r\n \r\nW) Yellow \r\nX) Red \r\nY) Green  \r\nZ) Violet", 
-    "tossupA": "DISPERSION", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecdb2a"
-    }, 
-    "questionNum": "11"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -171,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT considered a \r\ncomponent of the modern theory of ice ages? \r\n \r\nW) The Earth wobbles on its axis \r\nX) The tilt of the Earth varies \r\nY) Plate tectonics causes Earth's equator to change location \r\nZ) The Earth's orbit around the Sun varies", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Isostatic rebound following the end of the most \r\nrecent ice age caused which of the following?   \r\n \r\nW) Localized sea level rise \r\nX) Localized sea level drop \r\nY) Mountain formation in the eastern part of the U.S. \r\nZ) Volcanism in Southern Mexico", 
     "tossupA": "Y) PLATE TECTONICS CAUSE EARTH'S EQUATOR TO CHANGE LOCATION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb2b"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,28 +176,15 @@
     "tossupQ": "MATH  Short Answer  The point (1, 2) is reflected across the x axis. What are the \r\ncoordinates of its image?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  A viper had a length of 30 centimeters at 6 months of age and a \r\nlength of 1.3 meters at 15 years old. Assuming that its growth was linear, which of the following \r\nis closest to its length in meters at 10 years old? \r\n \r\nW) 0.6 \r\nX) 0.8 \r\nY) 1 \r\nZ) 1.2", 
     "tossupA": "(1, -2)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb2c"
     }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "W) ANIMALS DISPERSE THE SEEDS", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Multiple Choice  What characteristic has made angiosperms so successful \r\nduring the last 140 million years? \r\n \r\nW) They are very tall, outcompeting other plants for sunlight \r\nX) They have flowers to attract pollinators \r\nY) They are thorny to deter herbivores from consuming them \r\nZ) They are the only plants that can reproduce asexually", 
-    "packetNum": 2, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Multiple Choice  Fruits primarily function in order to entice animals to eat them. \r\nIn what way does this benefit the fruiting plant? \r\n \r\nW) Animals disperse the seeds \r\nX) Animals pollinate while eating the fruits \r\nY) Animals eat the fruit instead of other parts of the plant \r\nZ) There is no benefit to the plant", 
-    "tossupA": "X) THEY HAVE FLOWERS TO ATTRACT POLLINATORS", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecdb2d"
-    }, 
-    "questionNum": "14"
+    "questionNum": 13
   }, 
   {
     "category": 2, 
@@ -216,13 +193,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is true about the alpha particle? \r\n \r\nW) It is a hydrogen atom \r\nX) It was discovered by J.J. Thomson \r\nY) It was used by Ernest Rutherford in experiments relating to the nucleus of the atom \r\nZ) It is purely electromagnetic radiation", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  What term best describes the type of reaction that converts \r\nuranium in the soil to radon? \r\n \r\nW) Acid-base \r\nX) Fusion \r\nY) Electromagnetic radiation  \r\nZ) Radioactive decay", 
     "tossupA": "Y) IT WAS USED BY ERNEST RUTHERFORD IN EXPERIMENTS RELATING TO \r\nTHE NUCLEUS OF THE ATOM", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb2e"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,13 +210,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A child is holding a string with a yo-yo dangling at the bottom of \r\nit. As the child yanks the string up, the tension in the string will: \r\n \r\nW) Decrease \r\nX) Increase \r\nY) Stay the same \r\nZ) Become negative", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  When a girl wearing roller blades throws a ball in front of her, she \r\nslides backwards. Her movement is an illustration of which of Newton\u2019s Laws of Motion?", 
     "tossupA": "X) INCREASE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb2f"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 2, 
@@ -246,28 +227,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  What is the process that best describes the transfer of \r\nelectrons from one atom to another through electrostatic attraction? \r\n \r\nW) Ionic bonding \r\nX) Repulsion \r\nY) Nuclear force \r\nZ) Covalent bonding", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  The force between two electrically charged objects can be \r\nchanged by altering what two quantities?", 
     "tossupA": "W) IONIC BONDING", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb30"
     }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "Y) x = -2 OR 4/3", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  If 8x<sup>3</sup> \u2013 4y = -16x, express y as a function of x in simplest form.", 
-    "packetNum": 2, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Multiple Choice  Solve the quadratic equation 3x<sup>2</sup> + 2x - 8 = 0. W) x = 2 or -4 X) x = 8 or -12 Y) x = -2 or 4/3 Z) x = 8 or -4/3", 
-    "tossupA": "y = 2x<sup>3</sup> + 4x", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecdb31"
-    }, 
-    "questionNum": "18"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -276,13 +244,15 @@
     "tossupQ": "ENERGY  Short Answer  What kind of potential energy is stored in the reservoir behind a \r\ndam?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  Which of the following is NOT a significant limitation to the \r\nfurther development of U.S. hydropower?  \r\n \r\nW) Availability of sites for new large hydro facilities \r\nX) Regulatory requirements \r\nY) Maintenance costs \r\nZ) Environmental concerns", 
     "tossupA": "GRAVITATIONAL", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb32"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,28 +261,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  In what year did astronauts first land on the Moon?", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  NASA\u2019s Lunar Reconnaissance Orbiter, which \r\nreached lunar orbit in June of 2009, has gathered digital information about the moon. Which of \r\nthe following has NOT been observed by LRO? \r\n \r\nW) The far side of the moon is rougher and has more craters than the near side \r\nX) Cliffs in the lunar crust indicate that the moon has expanded in the recent past \r\nY) Astronaut landing sites \r\nZ) Lunar rilles, which look like river channels", 
     "tossupA": "1969", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb33"
     }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "EXPANDS (ACCEPT: RISES)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Short Answer  Providing your answer to the nearest degree, what is absolute \r\nzero in degrees Celsius?", 
-    "packetNum": 2, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Short Answer  When air in a closed system is heated, what does it do?", 
-    "tossupA": "-273 DEGREES CELSIUS (ACCEPT: 273 DEGREES CELSIUS BELOW ZERO)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecdb34"
-    }, 
-    "questionNum": "21"
+    "questionNum": 20
   }, 
   {
     "category": 5, 
@@ -321,13 +278,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Which of the following devices stores electrical energy in \r\nchemical form in order to release it slowly through a circuit? \r\n \r\nW) Inductor \r\nX) Resistor \r\nY) Capacitor \r\nZ) Battery", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice  Which of the following types of battery is most commonly used in \r\nautomobiles? \r\n \r\nW) Lithium-ion (read as: LI-thee-uhm) \r\nX) Nickel Cadmium \r\nY) Lead-acid  \r\nZ) Zinc chloride", 
     "tossupA": "Z) BATTERY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb35"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -336,13 +295,15 @@
     "tossupQ": "MATH  Short Answer  Determine the slope of the line that has the equation:  \r\ny \u2013 14 = 7 (x + 2) - 5.", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Multiple Choice  Line 1 and line 2 are parallel. If line 1 contains the points (6, 13) \r\nand (4, 11) and line 2 contains the point (8, 20), determine which of the following points lies on \r\nline 2.   \r\n \r\nW) (12, 15) \r\nX) (18, 10) \r\nY) (10, -12) \r\nZ) (14, 26)", 
     "tossupA": "7", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb36"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 5, 
@@ -351,13 +312,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Which of the following is a renewable resource? \r\n \r\nW) Diamonds \r\nX) Wood \r\nY) Coal \r\nZ) Propane", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Multiple Choice  Which of the following choices describes one reason why the \r\ngreenhouse effect is important? \r\n \r\nW) It warms the Earth to a temperature necessary for life on Earth \r\nX) It allows solar radiation to escape, preventing extreme radiation \r\nY) It cools the Earth to a temperature necessary for life on Earth \r\nZ) It creates nitrogen for Earth\u2019s atmosphere", 
     "tossupA": "X) WOOD", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb37"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 0, 
@@ -366,12 +329,99 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  Why is the Kepler telescope unique? \r\n \r\nW) It is pointed at one specific target \r\nX) It is focused on a large section of the sky \r\nY) It is scanning the entire sky \r\nZ) It generates a small amount of data", 
     "packetNum": 2, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  What are scientists hoping to discover with the Kepler \r\ntelescope?", 
     "tossupA": "X) IT IS FOCUSED ON A LARGE SECTION OF THE SKY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecdb38"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "FAT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  In humans, where does the organ responsible for balance \r\nreside? \r\n \r\nW) Inner ear \r\nX) Middle ear \r\nY) Outer ear \r\nZ) Hypothalamus", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is a common name for adipose tissue?", 
+    "tossupA": "W) INNER EAR", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdb29"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) VIOLET", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the term that describes the separation of visible light into \r\nits component colors by a prism?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following colors of light has the most energy? \r\n \r\nW) Yellow \r\nX) Red \r\nY) Green  \r\nZ) Violet", 
+    "tossupA": "DISPERSION", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdb2a"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) ANIMALS DISPERSE THE SEEDS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  What characteristic has made angiosperms so successful \r\nduring the last 140 million years? \r\n \r\nW) They are very tall, outcompeting other plants for sunlight \r\nX) They have flowers to attract pollinators \r\nY) They are thorny to deter herbivores from consuming them \r\nZ) They are the only plants that can reproduce asexually", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Fruits primarily function in order to entice animals to eat them. \r\nIn what way does this benefit the fruiting plant? \r\n \r\nW) Animals disperse the seeds \r\nX) Animals pollinate while eating the fruits \r\nY) Animals eat the fruit instead of other parts of the plant \r\nZ) There is no benefit to the plant", 
+    "tossupA": "X) THEY HAVE FLOWERS TO ATTRACT POLLINATORS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdb2d"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) x = -2 OR 4/3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If 8x<sup>3</sup> \u2013 4y = -16x, express y as a function of x in simplest form.", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Multiple Choice  Solve the quadratic equation 3x<sup>2</sup> + 2x - 8 = 0. W) x = 2 or -4 X) x = 8 or -12 Y) x = -2 or 4/3 Z) x = 8 or -4/3", 
+    "tossupA": "y = 2x<sup>3</sup> + 4x", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdb31"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "EXPANDS (ACCEPT: RISES)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Providing your answer to the nearest degree, what is absolute \r\nzero in degrees Celsius?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  When air in a closed system is heated, what does it do?", 
+    "tossupA": "-273 DEGREES CELSIUS (ACCEPT: 273 DEGREES CELSIUS BELOW ZERO)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdb34"
+    }, 
+    "questionNum": 21
   }
 ]

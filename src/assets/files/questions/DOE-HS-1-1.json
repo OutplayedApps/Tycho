@@ -6,13 +6,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the most common term used in genetics to describe the \r\nobservable physical characteristics of an organism caused by the expression of a gene or set of \r\ngenes?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the biological term most often used for the act of a cell \r\nengulfing a particle by extending its pseudopodia (read as: SU-doe-POH-dee-ah) around the \r\nparticle?", 
     "tossupA": "PHENOTYPE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4ae"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 2, 
@@ -21,43 +23,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  An aqueous solution in which the concentration of OH\u2013 ions is \r\ngreater than that of H+ ions is: \r\n \r\nW)  basic \r\nX)  acidic \r\nY)  neutral \r\nZ)  in equilibrium", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Find the mass of 1 mole of cuprous oxide, or Cu<sub>2</sub>O.  Assume the \r\natomic mass of copper is 64 and oxygen is 16.", 
     "tossupA": "W)  BASIC", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4af"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "DIFFRACTION", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Short Answer  What property of a sound wave is most commonly associated with \r\nloudness?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Short Answer  What is the MOST common term for the behavior of light where it \r\nappears to bend around small obstacles or the spreading out of waves as light passes through \r\npinholes or slits?", 
-    "tossupA": "AMPLITUDE", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4b0"
-    }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "4 \u00d7 10<sup>5</sup>", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  What term BEST describes 2 angles with 90\u00ba as the sum of their measurements?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Divide the following and give your answer in scientific notation: (8 &times; 10<sup>7</sup>)/(4 &times; 10<sup>4</sup>)<sup>1/2</sup>", 
-    "tossupA": "COMPLEMENTARY", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4b1"
-    }, 
-    "questionNum": "4"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -66,73 +40,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  The overall charge at the top and bottom, respectively, of a \r\ntowering cumulonimbus cloud during a thunderstorm is: \r\n \r\nW)  positive, positive \r\nX)  positive, negative \r\nY)  negative, positive \r\nZ)  negative, negative", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  A lightning bolt is seen and its accompanying thunder is \r\nheard 15 seconds later.  This means the storm is most likely how many miles away: \r\n \r\nW)  3 \r\nX)  6 \r\nY)  9 \r\nZ)  15", 
     "tossupA": "X)  POSITIVE, NEGATIVE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4b2"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "24.140", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Short Answer  How many significant figures are in the number 0.00750?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Short Answer  Subtract the following 2 numbers and give your answer \r\nwith the proper significant figures:  25.101 \u2013 0.9608", 
-    "tossupA": "3", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4b3"
-    }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "BIG DIPPER", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  What is the proper name of the star that is most commonly noted \r\nto have coordinates closest to the north celestial pole?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Short Answer  What is the most well-known asterism in Ursa Major?", 
-    "tossupA": "NORTH STAR  (ACCEPT:  POLARIS or ALPHA URSA MINORIS)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4b4"
-    }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "T AND B  (ACCEPT:  B AND T CELLS)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Multiple Choice  Human epidermis is mostly composed of which of the following \r\nbasic animal tissues types: \r\n \r\nW)  epithelial \r\nX)  connective \r\nY)  nervous \r\nZ)  muscle", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  What are the 2 basic categories of lymphocyte cells?", 
-    "tossupA": "W)  EPITHELIAL", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4b5"
-    }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "EVAPORATION;  WATER MELTS", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  What general type of bonding is found in molecules in which \r\nelectrons are shared by nuclei?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  Name all of the following 4 processes where latent heat is \r\nabsorbed:  evaporation;  condensation;  water melts;  water freezes", 
-    "tossupA": "COVALENT", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4b6"
-    }, 
-    "questionNum": "9"
+    "questionNum": 5
   }, 
   {
     "category": 3, 
@@ -141,13 +57,15 @@
     "tossupQ": "PHYSICS  Short Answer  Although not known as such at the time, what was the first form of \r\nspectacular electric discharge seen by humans?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  A constant force acting on a body experiencing no change in its \r\nenvironment will give the body:  \r\n \r\nW)  constant acceleration \r\nX)  constant speed \r\nY)  constant velocity \r\nZ)  zero acceleration", 
     "tossupA": "LIGHTNING", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4b7"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -156,13 +74,15 @@
     "tossupQ": "MATH  Short Answer  Simplify the following expression, where a is not equal to zero if b = 0 or if b = 1: (a<sup>b<sup>2</sup></sup>)(a<sup>b</sup>)", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90\u00ba triangle is 10 inches, find the length of the other sides:", 
     "tossupA": "a<sup>b<sup>2</sup>+b</sup>", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4b8"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,28 +91,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is a sedimentary rock: \r\n \r\nW)  slate \r\nX)  marble \r\nY)  basalt \r\nZ)  sandstone", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is LEAST accurate about \r\nminerals: \r\n \r\nW)  calcite has a hardness of 3 on most of its surfaces but a hardness of 4 along the crystal face \r\nperpendicular to its long axis \r\nX)  the Moh\u2019s scale measures the absolute hardness of minerals \r\nY)  a mineral\u2019s chemical composition largely determines its crystal shape and cleavage pattern \r\nZ)  a mineral\u2019s color is the same as its streak", 
     "tossupA": "Z)  SANDSTONE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4b9"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "1", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is closest to the meaning of the \r\nsuffix \u2018lith\u2019: \r\n \r\nW)  outside \r\nX)  stone \r\nY)  side \r\nZ)  surface", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Short Answer   Rounded to the nearest whole number, how many feet \r\ndoes light travel in one-billionth of one second?", 
-    "tossupA": "X)  STONE", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4ba"
-    }, 
-    "questionNum": "13"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -201,13 +108,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  What star has the greatest apparent magnitude?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  What planet is known to be most like Earth in size and density?", 
     "tossupA": "SUN", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4bb"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +125,15 @@
     "tossupQ": "BIOLOGY  Short Answer  How many embryonic seed leaves does a bean seedling have?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Name all of the following 5 plants that are dicots:   \r\nwheat;  geranium;  garlic;  bamboo;  rose", 
     "tossupA": "2", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4bc"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 2, 
@@ -231,13 +142,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is a metallic element, composes about \r\n5% of the Earth\u2019s crust, oxidizes very easily, and when pure is a dark, silver-grey metal: \r\n \r\nW)  cobalt \r\nX)  nickel \r\nY)  iron \r\nZ)  titanium", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  In general, metals are relatively hard except for what group of \r\nmetals in the Periodic Table?", 
     "tossupA": "Y)  IRON", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4bd"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -246,13 +159,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Upon which of the following does the mass of a body MOST \r\ndirectly depend: \r\n \r\nW)  its magnetic properties \r\nX)  how much volume it has \r\nY)  the amount of matter it contains \r\nZ)  its location", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Mary and Joe are on a merry-go-round.  Mary is seated near the \r\ncenter of rotation and Joe is on the outer edge.  Which of the following BEST describes their motion: \r\n \r\nW)  Mary has a greater acceleration than Joe \r\nX)  Joe has a greater acceleration than Mary \r\nY)  neither Mary nor Joe are accelerating \r\nZ)  both Mary and Joe have the same acceleration", 
     "tossupA": "Y)  THE AMOUNT OF MATTER IT CONTAINS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4be"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 4, 
@@ -261,13 +176,15 @@
     "tossupQ": "MATH  Short Answer  Giving your answer in terms of \u03c0 and in inches, what is the arc-length of \r\na semi-circle whose diameter is 18 inches?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  What is the area, in square feet, of a triangle whose perpendicular height \r\nis 20 feet with a base of 12 feet?", 
     "tossupA": "9\u03c0 \r\n \r\n(Solution: C = \u03c0d; \u00bd(18\u03c0) = 9\u03c0)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4bf"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,28 +193,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following terms best describes the albedo of \r\na planet: \r\n \r\nW)  electromagnetic energy  \r\nX)  density \r\nY)  reflectivity  \r\nZ)  absorption", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT true of what occurs during \r\nan equinox: \r\n \r\nW)  equal length of day and night except at the poles \r\nX)  the Earth is not tilted with respect to the ecliptic \r\nY)  the Sun is directly overhead at the equator \r\nZ)  the Moon is directly overhead at the poles", 
     "tossupA": "Y)  REFLECTIVITY", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4c0"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "37", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Short Answer  What gas is most directly responsible for the bends or \r\ndecompression sickness that divers may experience?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Short Answer  In degrees Celsius to the nearest whole number, what is \r\nthe normal core body temperature of a human being?", 
-    "tossupA": "NITROGEN  (ACCEPT:  N<sub>2</sub>)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd4c1"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -306,13 +210,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  What is the declination of the north celestial pole?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  The Sagittarius Arm is part of what galaxy?", 
     "tossupA": "90  (ACCEPT:  +90)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4c2"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +227,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  If a plant had a taproot, it would also most likely have: \r\n \r\nW)  parallel leaf venation \r\nX)  two cotyledons in its seedling stage \r\nY)  diffusely arranged vascular bundles in its stem \r\nZ)  no stomata on the upper surfaces of its leaves", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Using the traditional system of classification, when organisms \r\nbelong to the same class, name all of the following 4 taxonomic categories to which they must also \r\nbelong: order;  family;  phylum;  kingdom", 
     "tossupA": "X)  TWO COTYLEDONS IN ITS SEEDLING STAGE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4c3"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 2, 
@@ -336,13 +244,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  According to standard chemical nomenclature and indicating the \r\nproper charge, what is the formula for hydrogen sulfide?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Of the following group of 4 cations, which are the LARGEST \r\nand SMALLEST ions, respectively:  K+;  Na+;  Rb+;  Li+", 
     "tossupA": "H<sub>2</sub>S", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4c4"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 3, 
@@ -351,13 +261,151 @@
     "tossupQ": "PHYSICS  Multiple Choice  Martin is swinging a yo-yo in a large room with a circular motion \r\nperpendicular to a level floor.  If the yo-yo breaks away from its string at the top of the yo-yo\u2019s \r\ncircular path, in what direction will the yo-yo initially move: \r\n \r\nW)  at an angle between horizontal and vertical \r\nX)  straight up, toward the ceiling \r\nY)  straight down, to the floor \r\nZ)  horizontally, tangent to its original circular path", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What is the BEST term for the tendency of any mass at rest to remain \r\nat rest?", 
     "tossupA": "Z)  HORIZONTALLY, TANGENT TO ITS ORIGINAL CIRCULAR PATH", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4c5"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "DIFFRACTION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What property of a sound wave is most commonly associated with \r\nloudness?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  What is the MOST common term for the behavior of light where it \r\nappears to bend around small obstacles or the spreading out of waves as light passes through \r\npinholes or slits?", 
+    "tossupA": "AMPLITUDE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4b0"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4 \u00d7 10<sup>5</sup>", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What term BEST describes 2 angles with 90\u00ba as the sum of their measurements?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Divide the following and give your answer in scientific notation: (8 &times; 10<sup>7</sup>)/(4 &times; 10<sup>4</sup>)<sup>1/2</sup>", 
+    "tossupA": "COMPLEMENTARY", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4b1"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "24.140", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  How many significant figures are in the number 0.00750?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  Subtract the following 2 numbers and give your answer \r\nwith the proper significant figures:  25.101 \u2013 0.9608", 
+    "tossupA": "3", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4b3"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "BIG DIPPER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What is the proper name of the star that is most commonly noted \r\nto have coordinates closest to the north celestial pole?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the most well-known asterism in Ursa Major?", 
+    "tossupA": "NORTH STAR  (ACCEPT:  POLARIS or ALPHA URSA MINORIS)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4b4"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "T AND B  (ACCEPT:  B AND T CELLS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Human epidermis is mostly composed of which of the following \r\nbasic animal tissues types: \r\n \r\nW)  epithelial \r\nX)  connective \r\nY)  nervous \r\nZ)  muscle", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What are the 2 basic categories of lymphocyte cells?", 
+    "tossupA": "W)  EPITHELIAL", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4b5"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "EVAPORATION;  WATER MELTS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What general type of bonding is found in molecules in which \r\nelectrons are shared by nuclei?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Name all of the following 4 processes where latent heat is \r\nabsorbed:  evaporation;  condensation;  water melts;  water freezes", 
+    "tossupA": "COVALENT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4b6"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is closest to the meaning of the \r\nsuffix \u2018lith\u2019: \r\n \r\nW)  outside \r\nX)  stone \r\nY)  side \r\nZ)  surface", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer   Rounded to the nearest whole number, how many feet \r\ndoes light travel in one-billionth of one second?", 
+    "tossupA": "X)  STONE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ba"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "37", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  What gas is most directly responsible for the bends or \r\ndecompression sickness that divers may experience?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  In degrees Celsius to the nearest whole number, what is \r\nthe normal core body temperature of a human being?", 
+    "tossupA": "NITROGEN  (ACCEPT:  N<sub>2</sub>)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4c1"
+    }, 
+    "questionNum": 20
   }, 
   {
     "category": 1, 
@@ -366,12 +414,14 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the genus name of the most thoroughly studied bacterium?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Name all of the following 3 processes that do NOT occur in E. coli:  \r\nglycolysis;  photosynthesis;  glycogenolysis (read as: GLYKO-jen-oh-LY-sis)", 
     "tossupA": "Escherichia", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd4c6"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

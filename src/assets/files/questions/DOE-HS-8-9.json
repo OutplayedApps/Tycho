@@ -6,13 +6,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice The velocity of particles in the solar wind is closest to \r\nwhich of the following? \r\n \r\nW) 300 meters per second  \r\nX) 3 kilometers per second  \r\nY) 30 kilometers per second  \r\nZ) 300 kilometers per second", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following has a shale protolith? \r\n \r\nW) Quartzite \r\nX) Serpentinite [suhr-pen-TUH-nyt] \r\nY) Gneiss [NYS] \r\nZ) Gabbro", 
     "tossupA": "Z) 300 KILOMETERS PER SECOND", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece02e"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "BIOLOGY Multiple Choice In a particular bird population, individuals that lay too many or too \r\nfew eggs are less likely to survive and reproduce. Which of the following terms best describes \r\nthis pattern of natural selection? \r\n \r\nW) Directional selection \r\nX) Stabilizing selection \r\nY) Disruptive selection  \r\nZ) Negative-frequency-dependent selection", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer Spongiform encephalopathies [en-sef-uh-LOP-uh-thees], such as \r\nscrapie [SKRAY-pee], mad cow disease, and kuru [KOO-roo], are produced after exposure to \r\nwhat general group of infectious agents?", 
     "tossupA": "X) STABILIZING SELECTION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece02f"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,13 +40,15 @@
     "tossupQ": "MATH   Short Answer  How many 4-digit numbers contain the same digits as 2014?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Convert 120 in base 10 to hexadecimal.", 
     "tossupA": "18", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece030"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,13 +57,15 @@
     "tossupQ": "ENERGY Multiple Choice What would be the total kinetic energy of an object rolling down a \r\nramp with no slippage? \r\n  \r\nW) \u00bd MV2 [half M-V squared] \r\nX) \u00bd I omega2 [half I omega squared] \r\nY) \u00bd MV2 + \u00bd I omega2 [half M-V- squared plus half I omega squared] \r\nZ) 0", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What general type of nuclear reactor generates more fissile [FIS-uhl] \r\nmaterial than it consumes?", 
     "tossupA": "Y) \u00bd MV2 + \u00bd I OMEGA2", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece031"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -66,13 +74,15 @@
     "tossupQ": "PHYSICS Short Answer What values in quantum systems are used to describe conserved \r\nquantities that tend to take on integer or half-integer values, examples of which are spin, \r\nazimuthal, and parity?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer A cannonball is shot vertically upward from ground level with an \r\ninitial speed of 100 meters per second. Approximating g as 10 meters per second squared, and \r\nignoring air resistance, what is the maximum height, in meters, that the cannonball reaches?", 
     "tossupA": "QUANTUM NUMBERS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece032"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 2, 
@@ -81,13 +91,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice Which of the following acts as a Lewis acid in the presence of \r\nwater to form carbonic acid? \r\n \r\nW) Carbon dioxide \r\nX) Methane \r\nY) Methanol \r\nZ) Formic acid", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer Identify all of the following four compounds that would function as \r\nsoluble electrolytes when added to water:  1) sodium chloride; 2) decane; 3) acetic acid; 4) \r\nbarium sulfate.", 
     "tossupA": "W) CARBON DIOXIDE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece033"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +108,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Spectroscopic binaries are easiest to detect when \r\n \r\nW) The stars are of the same spectral class \r\nX) The orbit is viewed edge-on \r\nY) The orbit is wide \r\nZ) The orbit is viewed face-on", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice The largest supermassive black holes are found in \r\n \r\nW) Irregular galaxies \r\nX) Spiral galaxies \r\nY) Elliptical galaxies \r\nZ) Lenticular galaxies", 
     "tossupA": "X) THE ORBIT IS VIEWED EDGE-ON", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece034"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,13 +125,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following is an isotope that has attracted recent \r\ninterest in terms of developing a new generation of cleaner, proliferation-resistant nuclear \r\npower? \r\n \r\nW) Uranium-235 \r\nX) Thorium-232 \r\nY) Plutonium-239 \r\nZ) Uranium-238", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What is the efficiency of a Carnot engine transferring heat from a \r\nreservoir at 500 Kelvin to a cold reservoir at 200 Kelvin?", 
     "tossupA": "X) THORIUM-232", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece035"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 4, 
@@ -126,28 +142,15 @@
     "tossupQ": "MATH Short Answer A basketball player makes 6 baskets during a game, each worth 2 or 3 \r\npoints. How many different possible values exist for the total points scored by the player?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer. In a universe with strange and unforeseen geometric relationships, the \r\narea of a circle is given by (1+r)<sup>2</sup>/pi, [open parenthesis 1 plus r close parenthesis squared, \r\ndivided by pi] with pi = 2. In the universe described, what is the radius of a circle with an area \r\nof 200?", 
     "tossupA": "SEVEN", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece036"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "FIVE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS Short Answer Venturi tubes measure the speed of gas flow via application of what \r\nrule or principle of fluid dynamics?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS Short Answer How many total degrees of freedom does a diatomic gas have?", 
-    "tossupA": "BERNOULLI\u2019S PRINCIPLE", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cece037"
-    }, 
-    "questionNum": "10"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -156,13 +159,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Which of the following would be least likely to be a life history trait \r\nof an r-selected organism? \r\n \r\nW) Strong competitive ability \r\nX) Rapid development \r\nY) Early reproductive age \r\nZ) Found in disturbed habitats", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer What is the term for a fluid-filled cavity formed within the mesoderm \r\nin triploblastic animals?", 
     "tossupA": "W) STRONG COMPETITIVE ABILITY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece038"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 2, 
@@ -171,13 +176,15 @@
     "tossupQ": "CHEMISTRY Short Answer Rank, by name or number, the following three ionic compounds \r\nin terms of increasing lattice energy, from the lowest to the highest:  1) Magnesium oxide; 2) \r\nSodium chloride; 3) Sodium fluoride.", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer Of the nonradioactive halides found in natural abundance, \r\nwhich is the strongest reducing agent?", 
     "tossupA": "2, 3, 1 (ACCEPT: SODIUM CHLORIDE, SODIUM FLUORIDE, MAGNESIUM \r\nOXIDE)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece039"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,13 +193,15 @@
     "tossupQ": "MATH Short Answer What is the name of the type of curve that is formed when a piece of \r\nrope is hung between two points?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Provide all of the following three points that lie on the graph of the \r\nfunction y=2sin(x/2) [y equals 2 sine of the quantity x divided by two]:  point 1 is (0, 2),   \r\npoint 2 is (\u03c0, 2),  point 3 is (2\u03c0, 0)", 
     "tossupA": "CATENARY CURVE (ACCEPT: FUNICULAR)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece03a"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -201,13 +210,15 @@
     "tossupQ": "PHYSICS Short Answer A truck moving at 50 meters per second begins to brake, which \r\napplies a constant force of 1000 newtons to the truck. The truck rolls 20 meters before stopping. \r\nIn joules, what is the initial kinetic energy of the truck?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice Which of the following quarks does NOT have an electric charge \r\nof +2/3 [plus two-thirds]? \r\n \r\nW) Up \r\nX) Strange \r\nY) Charm \r\nZ) Top", 
     "tossupA": "20,000", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece03b"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -216,13 +227,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is not a polymorph of silica? \r\n \r\nW) Cristobalite [kri-STOH-buh-lyt] \r\nX) Stishovite [STISH-uh-vyt] \r\nY) Wadsleyite [wahd-ZLEE-ahyt] \r\nZ) Quartz", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Clays such as kaolinite [KAY-uh-luh-nyt] form when \r\nH+ [H plus] ions combine with which of the following? \r\n \r\nW) Sulfur compounds \r\nX) Pre-existing minerals, such as feldspars \r\nY) Carbon dioxide \r\nZ) Primordial water emitted directly from volcanic eruptions", 
     "tossupA": "Y) WADSLEYITE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece03c"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 2, 
@@ -231,13 +244,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice The solubility of a gaseous solute in a liquid solvent is typically \r\nexpressed in units of concentration.  Which of the following factors does NOT affect the \r\nsolubility of a gas in a liquid? \r\n \r\nW) Volume of the liquid \r\nX) Temperature of the liquid \r\nY) Pressure of the gas \r\nZ) Polarity of solvent and solute molecules", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer How many moles of O2 [O two] are required to completely \r\ncombust 1 mole of pentane?", 
     "tossupA": "W) VOLUME OF THE LIQUID", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece03d"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,13 +261,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Which of the following animal respiratory pigments does not \r\ncontain iron? \r\n \r\nW) Hemoglobin [HEE-muh-gloh-bin] \r\nX) Hemoerythrin [hee-muh- ih-RITH-rin] \r\nY) Myoglobin [my-uh-GLOH-bin] \r\nZ) Hemocyanin [hee-muh-SAHY-uh-neen]", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Which of the following functions is least important in the open \r\ncirculatory system of insects?  \r\n \r\nW) Delivery of nutrients \r\nX) Delivery of oxygen \r\nY) Circulation of immune cells \r\nZ) Movement of signaling molecules", 
     "tossupA": "Z) HEMOCYANIN", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece03e"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 5, 
@@ -261,13 +278,15 @@
     "tossupQ": "ENERGY Multiple Choice In general, there are three types of compensation agreements for \r\nelectricity generated using distributed generation, such as solar photovoltaic. All of the following \r\nare examples, except: \r\n \r\nW) Rate allocation \r\nX) Feed-in Tariff (FIT)  \r\nY) Net metering  \r\nZ) Power purchase agreement", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer Quartz clocks use a crystal oscillator that generates regularly timed \r\nelectric pulses to keep track of time. What is the name of the effect through which crystals such \r\nas quartz can accumulate electric charges?", 
     "tossupA": "W) RATE ALLOCATION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece03f"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,13 +295,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT true about geothermal \r\ngradients? \r\n \r\nW) The gradient beneath continent crust is less steep than under oceanic crust \r\nX) They vary with tectonic environments \r\nY) They are largely determined by the way that pressure and temperature vary in the Earth \r\nZ) The \u201cnormal\u201d geothermal gradient in the upper part of Earth is 25 \u030aC/km [twenty-five degrees \r\nCelsius per kilometer]", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer The blue color found in a blue schist [SHIST] rock \r\noccurs due to what mineral?", 
     "tossupA": "W) THE GRADIENT BENEATH CONTINENT CRUST IS LESS STEEP THAN \r\nUNDER OCEANIC CRUST", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece040"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -291,28 +312,15 @@
     "tossupQ": "MATH Short Answer If the equations 2x + 8 = 4 and ax \u2013 30 = -22 [two x plus eight equals \r\nfour and a x minus thirty equals negative twenty-two] have the same solution for x, what is \r\nthe value of a?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What value of\u00a0x satisfies the equation\u00a0276-x = 9x-1 [27 to the power of \r\nquantity six minus x equals nine to the power of quantity x minus one]?", 
     "tossupA": "-4", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece041"
     }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "Z) HIPPOCAMPUS ALLOWS TWO BRAIN HEMISPHERES TO COMMUNICATE \r\nWITH EACH OTHER", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY Multiple Choice What is the name of the enzyme that catalyzes the formation of \r\nbicarbonate and hydronium ions from CO2 and H2O [C-O two and H two O]? \r\n \r\nW) Carbonic anhydrase [an-HY-drays] \r\nX) Carbonic carboxylase [kahr-BOK-suh-layz] \r\nY) Carbonic decarboxylase  \r\nZ) Carbonic dehydrogenase [dee-HY-druh-juh-nays]", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY Multiple Choice Which of the following brain regions is incorrectly matched with \r\nits function?  \r\n \r\nW) Medulla oblongata regulates breathing \r\nX) Pons regulates breath holding \r\nY) Cerebellum integrates sensory systems [ser-uh-BEL-uhm] \r\nZ) Hippocampus [hip-uh-KAM-puhs] allows two brain hemispheres to communicate with each \r\nother", 
-    "tossupA": "W) CARBONIC ANHYDRASE", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cece042"
-    }, 
-    "questionNum": "21"
+    "questionNum": 20
   }, 
   {
     "category": 2, 
@@ -321,13 +329,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice The standard enthalpy and entropy of a hypothetical reaction \r\nare both positive.  Assuming these values are constant with temperature, which of the following \r\nstatements describes the temperature dependence of the spontaneity of the reaction? \r\n \r\nW) Spontaneous at all temperatures \r\nX) Nonspontaneous at all temperatures \r\nY) Spontaneous at high temperatures but nonspontaneous at low temperatures \r\nZ) Spontaneous at low temperatures but nonspontaneous at high temperatures", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer Identify all of the following three reactions that would result in a \r\nprecipitate:  1) Addition of barium nitrate and sodium sulfate; 2) Addition of aluminum nitrate and \r\nzinc sulfate; 3) Addition of sodium hydroxide and ammonium sulfate.", 
     "tossupA": "Y) SPONTANEOUS AT HIGH TEMPERATURES BUT NONSPONTANEOUS AT \r\nLOW TEMPERATURES", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece043"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,12 +346,48 @@
     "tossupQ": "PHYSICS Multiple Choice A gold leaf electroscope is negatively charged by touching it with \r\na negatively charged conductor. You then bring a positively charged glass rod close to, but not \r\ntouching, the top of the electroscope. Which of the following occurs? \r\n \r\nW) The leaves do not move \r\nX) The leaves spread further apart \r\nY) The leaves get closer together \r\nZ) The leaves first spread further apart, then move closer together", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer Indicate, by number, all of the following four particles that are acted \r\nupon by gravity:  1) electron; 2) photon; 3) neutrino; 4) top quark.", 
     "tossupA": "Y) THE LEAVES GET CLOSER TOGETHER", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cece044"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "FIVE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer Venturi tubes measure the speed of gas flow via application of what \r\nrule or principle of fluid dynamics?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer How many total degrees of freedom does a diatomic gas have?", 
+    "tossupA": "BERNOULLI\u2019S PRINCIPLE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece037"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) HIPPOCAMPUS ALLOWS TWO BRAIN HEMISPHERES TO COMMUNICATE \r\nWITH EACH OTHER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice What is the name of the enzyme that catalyzes the formation of \r\nbicarbonate and hydronium ions from CO2 and H2O [C-O two and H two O]? \r\n \r\nW) Carbonic anhydrase [an-HY-drays] \r\nX) Carbonic carboxylase [kahr-BOK-suh-layz] \r\nY) Carbonic decarboxylase  \r\nZ) Carbonic dehydrogenase [dee-HY-druh-juh-nays]", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Which of the following brain regions is incorrectly matched with \r\nits function?  \r\n \r\nW) Medulla oblongata regulates breathing \r\nX) Pons regulates breath holding \r\nY) Cerebellum integrates sensory systems [ser-uh-BEL-uhm] \r\nZ) Hippocampus [hip-uh-KAM-puhs] allows two brain hemispheres to communicate with each \r\nother", 
+    "tossupA": "W) CARBONIC ANHYDRASE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece042"
+    }, 
+    "questionNum": 21
   }
 ]

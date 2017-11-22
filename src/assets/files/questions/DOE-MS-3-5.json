@@ -6,43 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice You are asked to measure the length of an object with a \r\nfoot-ruler and you get the following 3 results: 2.99 inches, 3.00 inches, and 3.01 inches. If the \r\nobject\u2019s actual length is 3.28 inches, then the data is: \r\n \r\nW) precise but not accurate \r\nX) accurate but not precise \r\nY) both accurate and precise \r\nZ) neither accurate nor precise", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Giving your answer in liters and rounded to the first \r\ndecimal place, what volume of fluid results after adding 3,400 milliliters of solution A and 34 \r\ndeciliters of solution B to 5.2 liters of water?", 
     "tossupA": "W) PRECISE BUT NOT ACCURATE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbbb"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "FLEAS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a reptile: \r\n \r\nW) blue poison arrow frog \r\nX) sea lamprey \r\nY) snapping turtle \r\nZ) salamander", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Which one of the following 5 organisms is LEAST related to the \r\nothers: mites; spiders; scorpions; fleas; ticks", 
-    "tossupA": "Y) SNAPPING TURTLE", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbbc"
-    }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "W) DEVONIAN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH SCIENCE Short Answer Eras on the Geological Time Scale are directly subdivided \r\ninto what time units?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a period on the Geological Time \r\nScale that is part of the Paleozoic Era: \r\n \r\nW) Devonian \r\nX) Cretaceous \r\nY) Tertiary \r\nZ) Quaternary", 
-    "tossupA": "PERIODS", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbbe"
-    }, 
-    "questionNum": "4"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -51,28 +23,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the mass, in grams, of 1 cubic centimeter of water \r\nat standard temperature and pressure?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following would MOST likely occur to a \r\nsample of water if it underwent an increase in atmospheric pressure from 1 atmosphere to 5 \r\natmospheres: \r\n \r\nW) its mass would increase and its temperature would rise by about 5\u00baC \r\nX) its mass would increase and its volume would decrease by about 5% \r\nY) its mass would decrease and its volume would decrease by about 25% \r\nZ) its mass would remain the same and its volume would remain the same", 
     "tossupA": "1", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbbd"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "22", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer How many 4 ounce containers can be packed from 1200 pounds of dry tea \r\nleaves?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Evaluate the following expression: 6 + 2(5 + 4 \u2013 1) (read as: 6 + 2, open \r\nparenthesis, 5 plus 4 minus 1, close parenthesis)", 
-    "tossupA": "4,800 \r\n \r\n(Solution: 4 \u00d7 1200 = 4800)", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbbf"
-    }, 
-    "questionNum": "5"
+    "questionNum": 3
   }, 
   {
     "category": 6, 
@@ -81,13 +40,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice At which of the following locations would you find the \r\nintersection of 0\u00ba longitude and 0\u00ba latitude: \r\n \r\nW) where the International Date Line crosses the equator \r\nX) where the prime meridian crosses the equator \r\nY) along the 180\r\nth\r\n meridian \r\nZ) at the North and South Poles", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Giving your answer in grams, add 2,000 milligrams to \r\n0.04 kilograms:", 
     "tossupA": "X) WHERE THE PRIME MERIDIAN CROSSES THE EQUATOR", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbc0"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 1, 
@@ -96,13 +57,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a rasp-like feeding structure found \r\nin many mollusks: \r\n \r\nW) gonad \r\nX) nephridium (read as: nef-RID-ee-um) \r\nY) radula \r\nZ) mantle", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the BEST description for the \r\nlocation in the human body of the esophagus: \r\n \r\nW) behind the trachea connecting the mouth to the lungs \r\nX) behind the trachea connecting the mouth to the stomach \r\nY) in front of the trachea connecting the mouth to the stomach \r\nZ) in front of the trachea connecting the mouth with the lungs", 
     "tossupA": "Y) RADULA", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbc1"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the most common term used to describe why \r\nastronauts orbiting the Earth experience apparent weightlessness?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the most common term for the maximum \r\ndownward speed an object can attain, considering air resistance, when it is in free fall from a few \r\nmiles up in the atmosphere?", 
     "tossupA": "FREE FALL", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbc2"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,13 +91,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true of tornados in the \r\nU.S.: \r\n \r\nW) the funnel cloud typically develops out of a nimbostratus cloud \r\nX) their strength is measured with Fujita Scale \r\nY) supercells are the most dangerous and violent tornadoes in the U.S. \r\nZ) wind speeds can reach an excess of 200 mph", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is closest to average barometric \r\npressure at sea level, in inches: \r\n \r\nW) 1013 \r\nX) 10.13 \r\nY) 29.92 \r\nZ) 27.72", 
     "tossupA": "W) THE FUNNEL CLOUD TYPICALLY DEVELOPS OUT OF A \r\nNIMBOSTRATUS CLOUD", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbc3"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,58 +108,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following numbers is evenly divisible by 4: \r\n \r\nW) 174 \r\nX) 414 \r\nY) 636 \r\nZ) 1,126", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer If it takes a hiker 2 hours to make a descent from 10,500 feet to 7,500 \r\nfeet, what is his average rate of decent, in feet per minute?", 
     "tossupA": "Y) 636 \r\n \r\n(Solution: 36, the last 2 digits, is a multiple of 4)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbc4"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "W) ALWAYS READ THE UPPER EDGES OF A MENISCUS WHEN \r\nDETERMINING VOLUME OF WATER IN A FLASK \r\n \r\n(Solution: always read the bottom of the meniscus for nearly all solutions)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following types of scientists would \r\nMOST likely use agar in their experiments: \r\n \r\nW) biochemist \r\nX) microbiologist \r\nY) geologist \r\nZ) physicist", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT proper laboratory \r\nprocedure: \r\n \r\nW) always read the upper edges of a meniscus when determining volume of water in a flask \r\nX) the abbreviation TD on a pipette means \u2018to deliver\u2019 \r\nY) a borosilicate beaker is a better choice for heating a solution than one made of soda-lime \r\nZ) an analytical balance is more precise than a triple-beam balance", 
-    "tossupA": "X) MICROBIOLOGIST", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbc5"
-    }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "TRANSFER RNA (ACCEPT: tRNA)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What is the general name for the twenty or so different building \r\nblocks from which most proteins are made?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What specific type of nucleic acid carries an amino acid to a \r\ngrowing protein?", 
-    "tossupA": "AMINO ACIDS", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbc6"
-    }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "75", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT an element: \r\n \r\nW) tin \r\nX) lead \r\nY) radon \r\nZ) sulfate", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer If 50 grams of one reactant chemically combines with 25 \r\ngrams of another reactant to form a product, what is the total mass, in grams, of the product?", 
-    "tossupA": "Z) SULFATE", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbc7"
-    }, 
-    "questionNum": "13"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -201,13 +125,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true: \r\n \r\nW) the Milky Way is an elliptical galaxy \r\nX) our Sun will become a red giant in the far distant future \r\nY) constellations are patterns of stars in the night sky \r\nZ) the average sunspot cycle is 11 years", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer What is the name for the highest mountain on any planet in \r\nthe Solar System?", 
     "tossupA": "W) THE MILKY WAY IS AN ELLIPTICAL GALAXY", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbc8"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 4, 
@@ -216,13 +142,15 @@
     "tossupQ": "MATH Short Answer What was the net gain or loss in yardage for a football team that in four \r\nstraight plays gained 12 yards, then lost 9 yards, gained 3 yards, and finally lost 23 yards?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Consider an isosceles triangle whose 2 sides of equal length meet to \r\nform a vertex angle of 96\u00ba. What is the degree measure of each base angle?", 
     "tossupA": "LOSS OF 17", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbc9"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 6, 
@@ -231,43 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice If you were told you were anemic and had to increase \r\nyour dietary iron uptake, which of the following foods would provide the most iron:  \r\n \r\nW) green beans \r\nX) spinach \r\nY) beef spleen \r\nZ) broiled chicken thighs", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Which one of the following 5 grains feeds more people, \r\naccounting for the core food of about one-half of all humans on Earth: corn; barley; wheat; rice; \r\nsorghum", 
     "tossupA": "Y) BEEF SPLEEN", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbca"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "CELLULOSE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What structure is exterior to the plasma membrane of a plant \r\ncell that is absent from an animal cell?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Plant cell walls are made primarily of microfibers of what \r\ncommon polysaccharide?", 
-    "tossupA": "CELL WALL (ACCEPT: WALL)", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbcb"
-    }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "69", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Potential energy is most synonymous with: \r\n \r\nW) kinetic energy \r\nX) mechanical energy \r\nY) work energy \r\nZ) stored energy", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer If sodium has an atomic mass of 23 and an atomic \r\nnumber of 11, what is the mass, in grams, of 3 moles of sodium?", 
-    "tossupA": "Z) STORED ENERGY", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbcc"
-    }, 
-    "questionNum": "18"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -276,28 +176,15 @@
     "tossupQ": "EARTH SCIENCE Short Answer The bulk of the thermal energy at the Earth\u2019s surface is \r\nstored in what major reservoir?", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true about volcanoes: \r\n \r\nW) magma that flows out of a volcano is called lava \r\nX) the Ring of Fire borders the entire edge of the Pacific Ocean Basin \r\nY) shield volcanoes are associated with hot spots \r\nZ) the vast majority of volcanoes are found along the mid-oceanic ridge", 
     "tossupA": "OCEANS (ACCEPT: SEAS) (DO NOT ACCEPT: WATER)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbcd"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "25 \r\n \r\n(Solution: A = \u00bd(b)(h) = \u00bd (10)(5) = 25 m\r\n<sup>2</sup>\r\n)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer If one of 2 complementary angles is 32\u00ba greater than the other, how \r\nmany degrees is the larger angle?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Find the area of a triangle, in meters squared, given a base of 10 meters \r\nand height of 5 meters:", 
-    "tossupA": "61", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbce"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -306,13 +193,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice In which of the following biomes are you MOST \r\nlikely to find permafrost: \r\n \r\nW) taiga \r\nX) deciduous forest \r\nY) tundra \r\nZ) chaparral", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following materials is the STRONGEST \r\nin terms of tensile strength per mass: \r\n \r\nW) steel \r\nX) a spider\u2019s web \r\nY) cotton fibers \r\nZ) nylon fibers", 
     "tossupA": "Y) TUNDRA", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbcf"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,28 +210,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice What structures on the outside of bacteria are MOST \r\ntypically associated with the ability of bacteria to control their movement: \r\n \r\nW) flagella \r\nX) cilia \r\nY) pseudopodia \r\nZ) spirillus", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Order the following 4 human ear structures from the \r\nOUTERMOST to the INNERMOST: anvil; stapes; hammer; oval window", 
     "tossupA": "W) FLAGELLA", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbd0"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "50", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the ideal mechanical advantage of a lever where \r\nthe effort force is one-quarter that needed to lift a resistance force?", 
-    "packetNum": 5, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the frequency of a 50-hertz wave, in cycles per \r\nsecond, if the wave has an amplitude of 2 meters?", 
-    "tossupA": "4", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccbd1"
-    }, 
-    "questionNum": "23"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -351,13 +227,15 @@
     "tossupQ": "EARTH SCIENCE Short Answer Which one of the following 5 choices is a metamorphic rock: \r\ntuff; obsidian; slate; gabbro; peridotite", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true about rocks: \r\n \r\nW) layering is characteristic of sedimentary rock \r\nX) during metamorphosis, limestone becomes marble \r\nY) chalk is primarily made up of microscopic shells \r\nZ) quartz reacts with dilute hydrochloric acid to give off carbon dioxide", 
     "tossupA": "SLATE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbd2"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 4, 
@@ -366,12 +244,184 @@
     "tossupQ": "MATH Multiple Choice Which of the following is NOT true about polygons: \r\n \r\nW) the sum of the exterior angles of any polygon equals 720\u00ba \r\nX) a regular polygon is always equilateral \r\nY) a square is not a regular polygon \r\nZ) a regular pentagon is a polygon with 5 congruent angles and 5 congruent sides", 
     "packetNum": 5, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What three consecutive numbers add up to 192?", 
     "tossupA": "Y) A SQUARE IS NOT A REGULAR POLYGON", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccbd3"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TRANSFER RNA (ACCEPT: tRNA)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the general name for the twenty or so different building \r\nblocks from which most proteins are made?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What specific type of nucleic acid carries an amino acid to a \r\ngrowing protein?", 
+    "tossupA": "AMINO ACIDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbc6"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "FLEAS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a reptile: \r\n \r\nW) blue poison arrow frog \r\nX) sea lamprey \r\nY) snapping turtle \r\nZ) salamander", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Which one of the following 5 organisms is LEAST related to the \r\nothers: mites; spiders; scorpions; fleas; ticks", 
+    "tossupA": "Y) SNAPPING TURTLE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbbc"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) DEVONIAN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer Eras on the Geological Time Scale are directly subdivided \r\ninto what time units?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a period on the Geological Time \r\nScale that is part of the Paleozoic Era: \r\n \r\nW) Devonian \r\nX) Cretaceous \r\nY) Tertiary \r\nZ) Quaternary", 
+    "tossupA": "PERIODS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbbe"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "22", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer How many 4 ounce containers can be packed from 1200 pounds of dry tea \r\nleaves?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate the following expression: 6 + 2(5 + 4 \u2013 1) (read as: 6 + 2, open \r\nparenthesis, 5 plus 4 minus 1, close parenthesis)", 
+    "tossupA": "4,800 \r\n \r\n(Solution: 4 \u00d7 1200 = 4800)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbbf"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) ALWAYS READ THE UPPER EDGES OF A MENISCUS WHEN \r\nDETERMINING VOLUME OF WATER IN A FLASK \r\n \r\n(Solution: always read the bottom of the meniscus for nearly all solutions)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following types of scientists would \r\nMOST likely use agar in their experiments: \r\n \r\nW) biochemist \r\nX) microbiologist \r\nY) geologist \r\nZ) physicist", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT proper laboratory \r\nprocedure: \r\n \r\nW) always read the upper edges of a meniscus when determining volume of water in a flask \r\nX) the abbreviation TD on a pipette means \u2018to deliver\u2019 \r\nY) a borosilicate beaker is a better choice for heating a solution than one made of soda-lime \r\nZ) an analytical balance is more precise than a triple-beam balance", 
+    "tossupA": "X) MICROBIOLOGIST", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbc5"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "75", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT an element: \r\n \r\nW) tin \r\nX) lead \r\nY) radon \r\nZ) sulfate", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If 50 grams of one reactant chemically combines with 25 \r\ngrams of another reactant to form a product, what is the total mass, in grams, of the product?", 
+    "tossupA": "Z) SULFATE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbc7"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CELLULOSE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What structure is exterior to the plasma membrane of a plant \r\ncell that is absent from an animal cell?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Plant cell walls are made primarily of microfibers of what \r\ncommon polysaccharide?", 
+    "tossupA": "CELL WALL (ACCEPT: WALL)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbcb"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "69", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Potential energy is most synonymous with: \r\n \r\nW) kinetic energy \r\nX) mechanical energy \r\nY) work energy \r\nZ) stored energy", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If sodium has an atomic mass of 23 and an atomic \r\nnumber of 11, what is the mass, in grams, of 3 moles of sodium?", 
+    "tossupA": "Z) STORED ENERGY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbcc"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "25 \r\n \r\n(Solution: A = \u00bd(b)(h) = \u00bd (10)(5) = 25 m\r\n<sup>2</sup>\r\n)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If one of 2 complementary angles is 32\u00ba greater than the other, how \r\nmany degrees is the larger angle?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the area of a triangle, in meters squared, given a base of 10 meters \r\nand height of 5 meters:", 
+    "tossupA": "61", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbce"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "50", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the ideal mechanical advantage of a lever where \r\nthe effort force is one-quarter that needed to lift a resistance force?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the frequency of a 50-hertz wave, in cycles per \r\nsecond, if the wave has an amplitude of 2 meters?", 
+    "tossupA": "4", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbd1"
+    }, 
+    "questionNum": 23
   }
 ]

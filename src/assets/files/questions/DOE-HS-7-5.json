@@ -6,28 +6,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice You are given a particular polymer to study, and you notice that \r\nit can endure an extremely high amount of stress, but only a very small amount of strain. Which \r\nof the following types of polymer is it? \r\n \r\nW) Brittle plastic \r\nX) Tough fiber \r\nY) Elastomer \r\nZ) Plastic with yield", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Multiple Choice The measured bond angle in ammonia is 107.3\u00b0, whereas the \r\nbond angles in phosphine [FOS-feen] are 93.7\u00b0. Which of the following facts correctly identifies \r\nthe atomic property that makes the two angles different? \r\n \r\nW) Ammonia and phosphine have different expected VSEPR geometries  \r\nX) Nitrogen is more electronegative than phosphorus  \r\nY) The bonding orbitals of phosphine have more s and less p character than those of ammonia \r\nZ) The phosphorus atom is much larger than the nitrogen atom", 
     "tossupA": "X) TOUGH FIBER", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7b5"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "20", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Short Answer If f(x) = x<sup>2</sup> - 1 and g(x) = x - 1, what is the composite function f(g(x)) [f of \r\ng of x]?", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer Given 2 two by two matrices A = [row one: 1, 3; row 2: 2, 1] \r\nand B = [row 1: 3, 4; row 2: 1, 0]. Find the determinant of the product AB.", 
-    "tossupA": "x<sup>2</sup> - 2x", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd7b6"
-    }, 
-    "questionNum": "2"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -36,13 +23,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following rocks would most likely be \r\ncreated within a fluvial environment?  \r\n \r\nW) Dolostone \r\nX) Granite \r\nY) Conglomerate  \r\nZ) Limestone", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following scenarios could strengthen a \r\nhurricane? \r\n \r\nW) It travels over Hispaniola  \r\nX) It moves into a region with strong upper-level winds \r\nY) It passes over an area of warm surface waters  \r\nZ) It encounters a polar front", 
     "tossupA": "Y) CONGLOMERATE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7b7"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 3, 
@@ -51,43 +40,15 @@
     "tossupQ": "PHYSICS Short Answer Which law of physics explains how a changing magnetic field can \r\nproduce an electric current?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice A wireless router transmits an 802.11a Wi-Fi radio signal at 5 \r\nmegahertz with a speed up to 54 megabits of data per second. What is the wavelength of the \r\nrouter\u2019s signal in meters?  \r\n \r\nW) 10  \r\nX) 15  \r\nY) 60  \r\nZ) 150", 
     "tossupA": "FARADAY\u2019S (ACCEPT: FARADAY\u2019S LAW OF INDUCTION)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7b8"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "W) ADDING CCP TO BIODIESEL", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ENERGY Multiple Choice Which of the following is the least promising method of large-scale \r\noil extraction in the next several decades? \r\n \r\nW) Drilling access to underground oil reservoirs [REZ-er-vwahrs] \r\nX) Acquiring oil from whales \r\nY) Acquiring oil from algae \r\nZ) Acquiring oil produced by genetically re-engineered Escherichia coli [e-schuh-ri-KEE-uh \r\nkoh-LY]", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "ENERGY Multiple Choice Coal combustion products (CCPs) are solid materials produced \r\nwhen coal is burned to generate electricity. Which of the following is NOT a sustainable way to \r\nrecycle CCPs?  \r\n \r\nW) Adding CCP to biodiesel \r\nX) Using CCP as an agricultural fertilizer \r\nY) Adding CCP to concrete \r\nZ) Adding CCP to asphalt", 
-    "tossupA": "X) ACQUIRING OIL FROM WHALES", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd7b9"
-    }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "ALTERNATIVE SPLICING (ACCEPT: ALTERNATIVE RNA PROCESSING OR \r\nSPLICING)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY Multiple Choice The taxonomic class Myxini [MIK-suh-nee] contains which of the \r\nfollowing fish?  \r\n \r\nW) Wolf eels \r\nX) Hagfish \r\nY) Chimaeras [ki-MEER-uhs] \r\nZ) Bowfin", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY Short Answer In fruit flies, one gene called fruitless is responsible for male \r\ncourtship behavior. The gene is transcribed in both males and females, but due to differences in \r\nintron usage, is only translated as a full-length protein in males. A genetic XX female will attempt \r\nto court other females if she expresses the male form of the fruitless gene. What molecular \r\nprocess would have to be accurately executed to assure that the male form of the gene is \r\nexpressed only in males?", 
-    "tossupA": "X) HAGFISH", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd7ba"
-    }, 
-    "questionNum": "6"
+    "questionNum": 4
   }, 
   {
     "category": 2, 
@@ -96,13 +57,15 @@
     "tossupQ": "CHEMISTRY Short Answer What is the irreducible representation for the atomic orbital s for a \r\nmolecule with C<sub>2</sub>v symmetry?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer For 680 milligrams of tannic acid, which has a molar mass of \r\n1700 grams per mole, dissolved in water, it takes 40.00 milliliters of 0.25 molar sodium \r\nhydroxide to titrate the solution to a pH of 13. Based on this data, how many acidic protons does \r\ntannic acid have?", 
     "tossupA": "a1", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7bb"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 4, 
@@ -111,13 +74,15 @@
     "tossupQ": "MATH Short Answer How many subsets are there of a set whose elements are the composite \r\nnumbers less than 9?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice A balloon is being filled with water. Its volume in gallons is given by the \r\nfunction V(r) = r<sup>3</sup>/10 [V of r equals r cubed over 10], where r is the radius of the balloon in \r\ninches. What is the average rate of change in gallons per inch of the volume of the balloon as \r\nthe radius is increased from 1 to 2 inches? \r\n \r\nW) 0.3 \r\nX) 0.7 \r\nY) 0.8 \r\nZ) 1.2", 
     "tossupA": "8", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7bc"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following minerals has four planes of \r\ncleavage?  \r\n \r\nW) Fluorite \r\nX) Calcite \r\nY) Augite [AW-jyt] \r\nZ) Muscovite [MUHS-kuh-vyt]", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What physical law, which ice skaters utilize to increase \r\ntheir rate of spin, is critical in the formation of dust devils, water spouts, and hurricanes?", 
     "tossupA": "W) FLUORITE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7bd"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 3, 
@@ -141,13 +108,15 @@
     "tossupQ": "PHYSICS Multiple Choice A slingshot stretched by a distance x gives a pebble speed v. \r\nWhat is the speed of the same pebble if a slingshot, obeying Hooke\u2019s law, is stretched by a \r\ndistance 2x? \r\n \r\nW) v/2 \r\nX) v \r\nY) 2v \r\nZ) 4v", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice Free neutrons decay to protons, electrons, and antineutrinos. \r\nWhat fundamental force is responsible for this decay?  \r\n \r\nW) Weak nuclear  \r\nX) Strong nuclear  \r\nY) Electromagnetic \r\nZ) Gravitational", 
     "tossupA": "Y) 2v", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7be"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,13 +125,15 @@
     "tossupQ": "BIOLOGY Short Answer What is the name of the process in which the female gametes are \r\nformed in an animal?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Which of the following terms indicates centromere [SEN-truh-\r\nmeer] placement at the end of the chromosome? \r\n \r\nW) Metacentric \r\nX) Acrocentric \r\nY) Telocentric \r\nZ) Submetacentric", 
     "tossupA": "OOGENESIS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7bf"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 2, 
@@ -171,13 +142,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice Which of the following statements about ferrimagnetic solids is \r\ntrue? \r\n \r\nW) Magnetic moments are on different sublattices and are antiparallel \r\nX) Magnetic moments are on different sublattices and are parallel \r\nY) Magnetic moments are on the same sublattices and are parallel \r\nZ) Magnetic moments are on the same sublattices and are antiparallel", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer What is the major product formed at the conclusion of the \r\nfollowing two-step reaction sequence: Step 1) Methylmagnesium bromide, ethylene oxide, and \r\ntetrahydrofuran [te-truh-hy-druh-FYOOR-an]; Step 2) Ethyl iodide.", 
     "tossupA": "W) MAGNETIC MOMENTS ARE ON DIFFERENT SUBLATTICES AND ARE \r\nANTIPARALLEL", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7c0"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 3, 
@@ -186,28 +159,15 @@
     "tossupQ": "PHYSICS Multiple Choice A particle is constrained to move in one dimension according to \r\nthe relation x = 3t3 [x equals 3 t cubed], where x is the position from the origin in meters and t \r\nis time in seconds. What is the acceleration in meters per second squared of the particle at t = 7 \r\nseconds? \r\n \r\nW) 18 \r\nX) 126  \r\nY) 441 \r\nZ) 1029", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice An RLC circuit consists of a 2 henry inductor, a 1000 ohm \r\nresistor, an 8 farad capacitor, and a power supply in series. With what frequency in hertz must \r\nthe power supply operate in order to establish resonance in the circuit? \r\n  \r\nW) 1/8\u03c0 \r\nX) 1/4  \r\nY) 4 \r\nZ) 8\u03c0", 
     "tossupA": "X) 126", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7c1"
     }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "1/3", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Short Answer What is the next number in the arithmetic sequence that has first three \r\nterms of 17, 31, and 45?", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer A card is drawn at random from a standard deck of 52 cards. Given \r\nthat the card drawn is a face card, what is the probability that the drawn card is a Jack?", 
-    "tossupA": "59", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd7c2"
-    }, 
-    "questionNum": "14"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -216,28 +176,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice In which of the following locations is it possible to find \r\nan esker formed during the Pleistocene [PLY-stuh-seen] epoch?  \r\n \r\nW) Maryland \r\nX) West Virginia \r\nY) Tennessee \r\nZ) Iowa", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Why do tornadoes occur with the lowest frequency \r\nnear dawn?  \r\n \r\nW) The ground surface is moist, cooling the ground \r\nX) The differential between land and air temperatures is at its peak \r\nY) Cloud formation in the early morning hours is rare \r\nZ) Air temperature is lowest and radiation deficits are highest", 
     "tossupA": "Z) IOWA", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7c3"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "Z) GORILLAS EAT BOTH BAMBOO AND FRUIT", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ENERGY Short Answer Bond energy measures the strength of a chemical bond. Providing \r\nyour answer in kilojoules per mole, what is the average bond energy of the C-H bonds in \r\nmethane if it takes 1600 kilojoules to break up 1 mole of methane into 1 mole of carbon and 4 \r\nmoles of hydrogen?", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "ENERGY Multiple Choice Organisms are sometimes assigned fractional trophic levels. \r\nWhich of the following factors is least likely to complicate trophic level assignment? \r\n \r\nW) Female black widow spiders cannibalize male black widow spiders after mating \r\nX) Bullfrogs eat crayfish while crayfish eat bullfrog tadpoles \r\nY) Bobcats eat rabbits while mountain lions eat both bobcats and rabbits \r\nZ) Gorillas eat both bamboo and fruit", 
-    "tossupA": "400", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd7c4"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -246,13 +193,15 @@
     "tossupQ": "PHYSICS Multiple Choice A 1 kilogram object is travelling to the left at 3 meters per second \r\nwhen it explodes into 2 equal pieces. One piece is travelling at 7 meters per second to the left \r\nafter the explosion. What is the velocity in meters per second of the other piece after the \r\nexplosion?  \r\n \r\nW) 1 to the right \r\nX) 1 to the left  \r\nY) 4 to the right \r\nZ) 4 to the left", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer What is the root mean square voltage of a power supply that \r\noutputs a sinusoidal voltage with a frequency of 60 hertz and peak voltage of 120 volts?", 
     "tossupA": "W) 1 TO THE RIGHT", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7c5"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +210,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Bacteria are classified as Gram positive or Gram negative based \r\non several characteristics, including which of the following? \r\n \r\nW) Genome size \r\nX) Cell wall structure \r\nY) Degree of virulence \r\nZ) Reproduction rate", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer Which actin-associated motor protein generates the force for \r\nmuscle contraction?", 
     "tossupA": "X) CELL WALL STRUCTURE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7c6"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 2, 
@@ -276,28 +227,15 @@
     "tossupQ": "CHEMISTRY Short Answer Carbon dioxide has a boiling point of -57\u00b0 Celsius, whereas \r\nsulfur dioxide has a boiling point of -10\u00b0 Celsius. This difference is most likely due to the fact \r\nthat sulfur dioxide exhibits which intermolecular force, while carbon dioxide does not?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Short Answer The family of olefin metathesis catalysts developed by Grubbs \r\nemploys which metallic element?", 
     "tossupA": "DIPOLE-DIPOLE (ACCEPT: DIPOLE FORCES)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7c7"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "4", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Short Answer A graph has symmetry with respect to the origin and passes through \r\nthe point (-2, 3). What other point must be on this graph?", 
-    "packetNum": 5, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer A line in parametric mode is given by the equations: x = 1/2 t + 2  \r\nand y = 2t. What is the slope of this line?", 
-    "tossupA": "(2, -3)", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd7c8"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 1, 
@@ -306,13 +244,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Approximately how often is the entire stomach lining in a human \r\nreplaced? \r\n \r\nW) Every three days \r\nX) Every five days \r\nY) Every week \r\nZ) Every month", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer Polymerase [POL-uh-muh-rays] chain reaction (PCR) is a widely \r\nused method to rapidly clone pieces of DNA. Place the following three steps of PCR in order for \r\na single amplification cycle: 1) Annealing, 2) Denaturation, 3) Elongation.", 
     "tossupA": "W) EVERY THREE DAYS", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7c9"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +261,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Thermohaline [thuhr-moh-HAY-lyn] circulation in the \r\nocean is controlled most by which of the following? \r\n \r\nW) Temperature and pressure  \r\nX) Temperature and salinity  \r\nY) Salinity and precipitation  \r\nZ) Salinity and sea ice formation", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Why did Charles Keeling\u2019s carbon dioxide graphs \r\nshow an up and down pattern each year? \r\n \r\nW) More carbon dioxide was generated by heating processes during the winter \r\nX) The air is denser in the winter, causing carbon dioxide to become diluted \r\nY) Carbon dioxide is absorbed during the growth season and released through decay during the \r\nfall and winter  \r\nZ) Warmer summer continents release more carbon dioxide than during colder winters", 
     "tossupA": "X) TEMPERATURE AND SALINITY", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7ca"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +278,15 @@
     "tossupQ": "PHYSICS Multiple Choice An electron is travelling due north when it experiences a \r\nmagnetic field that is pointing vertically upward. In what direction will the electron be deflected \r\nwhen it initially encounters the field?  \r\n \r\nW) North \r\nX) South  \r\nY) East  \r\nZ) West", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer A 35.4 x 10-11 coulomb charge is placed into a spherical Gaussian \r\n[GOUS-ee-uhn] surface with a radius of 5 meters. Given that epsilon naught is 8.85 x 10-12 \r\nfarads per meter, what is the electric flux through this surface in newton meters squared per \r\ncoulomb?", 
     "tossupA": "Z) WEST", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7cb"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 5, 
@@ -351,13 +295,15 @@
     "tossupQ": "ENERGY Short Answer Which type of metabolic pathway uses ATP to build \r\nmacromolecules, such as proteins, out of smaller components?", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Although coal formed throughout many geological periods, coal \r\nfrom the Lower Triassic period is quite rare. Which of the following is the best possible \r\nexplanation? \r\n \r\nW) Terrestrial plants had not yet evolved \r\nX) Large animals had not yet evolved \r\nY) A mass extinction occurred \r\nZ) Soil density was too low", 
     "tossupA": "ANABOLIC METABOLISM", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7cc"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -366,12 +312,116 @@
     "tossupQ": "BIOLOGY Multiple Choice The 2011 Nobel Prize in Physiology or Medicine was awarded to \r\nthree researchers, including Jules Hoffman and Bruce Beutler, for their discoveries leading to \r\nthe characterization of the Toll-like receptor (TLR) family of molecules. This family of molecules \r\nis encoded by genes in a wide variety of eukaryotes [yoo-KAR-ee-ohts], ranging from flies to \r\nhumans, and plays an important role in which of the following processes? \r\n \r\nW) Recognizing pathogens in the immune system \r\nX) Breaking down lipids in the digestive system \r\nY) Regulating neurotransmitters in the nervous system \r\nZ) Enabling meiosis [my-OH-sis] in the reproductive system", 
     "packetNum": 5, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Assume you would like to isolate a specific membrane protein \r\nfrom a cell. How could you best remove the protein from the membrane? \r\n \r\nW) Disrupt the lipid bilayer with detergents \r\nX) Grind the cells using a pestle \r\nY) Stain the target protein with fluorescing antibodies \r\nZ) Centrifuge the cells to separate the lipid bilayer from other cellular components", 
     "tossupA": "W) RECOGNIZING PATHOGENS IN THE IMMUNE SYSTEM", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd7cd"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "20", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer If f(x) = x<sup>2</sup> - 1 and g(x) = x - 1, what is the composite function f(g(x)) [f of \r\ng of x]?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Given 2 two by two matrices A = [row one: 1, 3; row 2: 2, 1] \r\nand B = [row 1: 3, 4; row 2: 1, 0]. Find the determinant of the product AB.", 
+    "tossupA": "x<sup>2</sup> - 2x", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd7b6"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) ADDING CCP TO BIODIESEL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following is the least promising method of large-scale \r\noil extraction in the next several decades? \r\n \r\nW) Drilling access to underground oil reservoirs [REZ-er-vwahrs] \r\nX) Acquiring oil from whales \r\nY) Acquiring oil from algae \r\nZ) Acquiring oil produced by genetically re-engineered Escherichia coli [e-schuh-ri-KEE-uh \r\nkoh-LY]", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Coal combustion products (CCPs) are solid materials produced \r\nwhen coal is burned to generate electricity. Which of the following is NOT a sustainable way to \r\nrecycle CCPs?  \r\n \r\nW) Adding CCP to biodiesel \r\nX) Using CCP as an agricultural fertilizer \r\nY) Adding CCP to concrete \r\nZ) Adding CCP to asphalt", 
+    "tossupA": "X) ACQUIRING OIL FROM WHALES", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd7b9"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ALTERNATIVE SPLICING (ACCEPT: ALTERNATIVE RNA PROCESSING OR \r\nSPLICING)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice The taxonomic class Myxini [MIK-suh-nee] contains which of the \r\nfollowing fish?  \r\n \r\nW) Wolf eels \r\nX) Hagfish \r\nY) Chimaeras [ki-MEER-uhs] \r\nZ) Bowfin", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer In fruit flies, one gene called fruitless is responsible for male \r\ncourtship behavior. The gene is transcribed in both males and females, but due to differences in \r\nintron usage, is only translated as a full-length protein in males. A genetic XX female will attempt \r\nto court other females if she expresses the male form of the fruitless gene. What molecular \r\nprocess would have to be accurately executed to assure that the male form of the gene is \r\nexpressed only in males?", 
+    "tossupA": "X) HAGFISH", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd7ba"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1/3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer What is the next number in the arithmetic sequence that has first three \r\nterms of 17, 31, and 45?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A card is drawn at random from a standard deck of 52 cards. Given \r\nthat the card drawn is a face card, what is the probability that the drawn card is a Jack?", 
+    "tossupA": "59", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd7c2"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) GORILLAS EAT BOTH BAMBOO AND FRUIT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Short Answer Bond energy measures the strength of a chemical bond. Providing \r\nyour answer in kilojoules per mole, what is the average bond energy of the C-H bonds in \r\nmethane if it takes 1600 kilojoules to break up 1 mole of methane into 1 mole of carbon and 4 \r\nmoles of hydrogen?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Organisms are sometimes assigned fractional trophic levels. \r\nWhich of the following factors is least likely to complicate trophic level assignment? \r\n \r\nW) Female black widow spiders cannibalize male black widow spiders after mating \r\nX) Bullfrogs eat crayfish while crayfish eat bullfrog tadpoles \r\nY) Bobcats eat rabbits while mountain lions eat both bobcats and rabbits \r\nZ) Gorillas eat both bamboo and fruit", 
+    "tossupA": "400", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd7c4"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer A graph has symmetry with respect to the origin and passes through \r\nthe point (-2, 3). What other point must be on this graph?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A line in parametric mode is given by the equations: x = 1/2 t + 2  \r\nand y = 2t. What is the slope of this line?", 
+    "tossupA": "(2, -3)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd7c8"
+    }, 
+    "questionNum": 20
   }
 ]

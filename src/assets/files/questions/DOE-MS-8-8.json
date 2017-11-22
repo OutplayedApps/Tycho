@@ -1,33 +1,20 @@
 [
   {
-    "category": 0, 
-    "bonusA": "ANDROMEDA", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE Multiple Choice Compressive forces that result in brittle deformation \r\nyield what formation? \r\n \r\nW) Normal faults \r\nX) Reverse faults \r\nY) Synclines [SIN-klyns] \r\nZ) Grabens [GRAH-buhns]", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE Short Answer In which constellation is the nearest major galaxy, M31?", 
-    "tossupA": "X) REVERSE FAULTS", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd383"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 6, 
     "bonusA": "ORGANELLES", 
     "vendorNum": "DOE-MS", 
     "tossupQ": "GENERAL SCIENCE Multiple Choice Why is coal a non-renewable fuel source? \r\n \r\nW) It is formed from ancient fossilized biomass \r\nX) It is expensive \r\nY) It releases carbon dioxide into the atmosphere \r\nZ) It is used faster than it is formed", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Unlike prokaryotic [proh-KAR-ee-oh-tik] cells, the \r\ncytoplasm [SY-tuh-plaz-uhm] of eukaryotic [yoo-KAR-ee-oh-tik] cells is filled with a variety of \r\nmembrane bound structures that enable the cell to function properly. What is the name for this \r\ngroup of structures?", 
     "tossupA": "Z) IT IS USED FASTER THAN IT IS FORMED", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd384"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +23,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice The combination of two deuterium [doo-TEER-ee-\r\nuhm] atoms to form a single helium atom is known as which of the following? \r\n \r\nW) Alpha decay \r\nX) Beta decay \r\nY) Nuclear fission \r\nZ) Nuclear fusion", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice On the periodic table, potassium is in what family? \r\n \r\nW) Halogen \r\nX) Alkali metal \r\nY) Alkaline earth metal \r\nZ) Chalcogen [KAL-kuh-juhn]", 
     "tossupA": "Z) NUCLEAR FUSION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd385"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +40,15 @@
     "tossupQ": "MATH Short Answer After 3 tests, a student has an average score of 80%. What does the \r\nstudent need to score on a fourth test to increase the average score to exactly 84%?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice If a, b and c are numbers such that a/b = 3 [a over b equals 3] and b/c \r\n= 7 [b over c equals 7] then (a+b)/ (b+c) [the quantity a plus b over the quantity b plus c] is \r\nequal to which of the following? \r\n \r\nW) 7/2 [seven halves] \r\nX) 7/8 [seven-eighths] \r\nY) 3/7 [three-sevenths] \r\nZ) 1/7 [one-seventh]", 
     "tossupA": "96% (ACCEPT: 96)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd386"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,28 +57,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice What is the purpose of the lateral line in fish? \r\n \r\nW) Seeing particular colors \r\nX) Carrying blood to the gills \r\nY) Producing sound waves \r\nZ) Detecting vibration", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following would be an example of a mycorrhizal \r\n[my-kuh-RY-zuhl] symbiosis? \r\n \r\nW) A parasitic wasp laying eggs on a caterpillar \r\nX) The bacterium Rhizobium [ry-ZOH-bee-uhm] infecting the roots of a peanut plant \r\nY) Ants living in Acacia [uh-KAY-shuh] thorns and protecting the host plant \r\nZ) Ants that harvest honeydew from aphids [AY-fids] feeding on plants", 
     "tossupA": "Z) DETECTING VIBRATION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd387"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "K", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following rocks is NOT metamorphic? \r\n \r\nW) Limestone \r\nX) Marble \r\nY) Gneiss [NYS] \r\nZ) Schist [SHIST]", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE Short Answer Not including brown dwarfs, what is the second coolest \r\nclass of star?", 
-    "tossupA": "W) LIMESTONE", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd388"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 5, 
@@ -96,13 +74,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following sources of radiation is most commonly used \r\nto irradiate food? \r\n \r\nW) Uranium-235 \r\nX) Cobalt-60 \r\nY) Radium-226 \r\nZ) Potassium-40", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer Over time, the amplitude of a swing decreases. This is because the \r\nrider\u2019s mechanical energy is converted to what instead?", 
     "tossupA": "X) COBALT-60", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd389"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 6, 
@@ -111,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Name the method by which new genetic material can be \r\nintroduced into a population.", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Lateritic [lat-uh-RIT-ik] soils would be found in which \r\nbiome? \r\n \r\nW) Tropical rain forest \r\nX) Temperate forest \r\nY) Tropical dry forest \r\nZ) Taiga [TY-guh]", 
     "tossupA": "MUTATION (ACCEPT: GENE FLOW; DO NOT ACCEPT: SEXUAL \r\nREPRODUCTION)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd38a"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,28 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Central processing units have evolved heavily over the \r\npast 30 years. They are responsible for a great deal of computational research, and in addition, \r\nhave changed the way many people live their lives. What basic circuit element can be found on \r\nthe order of billions inside many modern CPUs?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following statements about precipitation is \r\nFALSE? \r\n \r\nW) Can occur by converting a soluble substance into an insoluble form \r\nX) Results in a higher purity solid if higher concentration solutions are used \r\nY) Can be used to remove metal ions from aqueous solutions [AK-wee-uhs] \r\nZ) Can occur by changing the composition of a solvent to diminish the solubility of a substance \r\nin it", 
     "tossupA": "TRANSISTORS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd38b"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "8", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Add 8x to 2x and then subtract 5 from the sum. If x is a positive \r\ninteger, the result must be an integer multiple of which of the following? \r\n \r\nW) 2 \r\nX) 5 \r\nY) 8 \r\nZ) 10", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer If x varies directly as the square of y and x equals 0.5 when y is 1, what \r\nis x when y = 4?", 
-    "tossupA": "X) 5", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd38c"
-    }, 
-    "questionNum": "10"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -156,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer In human extremities what term is used to describe the \r\nevidence that veins are weakening and valves do NOT close properly?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which is NOT one of the essential activities that occurs in \r\nthe digestive process? \r\n \r\nW) Ingestion \r\nX) Propulsion \r\nY) Mechanical digestion \r\nZ) Adsorption", 
     "tossupA": "VARICOSE VEINS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd38d"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -171,13 +142,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT considered part of a \r\nbeach\u2019s foreshore environment? \r\n \r\nW) Surf zone \r\nX) Tidal flat \r\nY) Berm \r\nZ) Swash zone", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Around what two points do stars appear to rotate in the \r\nsky over the course of a day?", 
     "tossupA": "Y) BERM", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd38e"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 6, 
@@ -186,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Mendel\u2019s experiments crossing different colored pea \r\nplants demonstrated what genetic concept? \r\n \r\nW) Haploid and diploid variation \r\nX) Recessive and dominant genes \r\nY) Gametophyte reproductive cycles [guh-MEE-tuh-fyt] \r\nZ) Mitotic division [my-TOT-ik]", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What specific chamber of the heart is responsible for \r\npumping blood to the lungs?", 
     "tossupA": "X) RECESSIVE AND DOMINANT GENES", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd38f"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 5, 
@@ -201,13 +176,15 @@
     "tossupQ": "ENERGY Multiple Choice The energy stored in a candle that can be changed into heat and \r\nlight energy in burning is what type of energy? \r\n \r\nW) Potential \r\nX) Heat \r\nY) Light \r\nZ) Chemical", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice What is the amperage in a circuit with a 14 volt power source and \r\nthree 6 ohm light bulbs in parallel? \r\n \r\nW) 3 \r\nX) 5 \r\nY) 7 \r\nZ) 9", 
     "tossupA": "Z) CHEMICAL", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd390"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 3, 
@@ -216,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice The escape velocity from the event horizon of a black \r\nhole is which of the following? \r\n \r\nW) The speed of light \r\nX) Greater than the speed of light \r\nY) Infinity \r\nZ) Negative infinity", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer In what type of current do electrons frequently reverse \r\ntheir direction of travel?", 
     "tossupA": "W) THE SPEED OF LIGHT", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd391"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -231,13 +210,15 @@
     "tossupQ": "MATH Multiple Choice What is the value of (1/2)-2 [one-half raised to the negative two \r\npower]? \r\n \r\nW) -4 \r\nX) -1/4 \r\nY) 1/4 \r\nZ) 4", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Evaluate the following: log2166 [log base two hundred sixteen of 6].", 
     "tossupA": "Z) 4", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd392"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,13 +227,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice In which ocean zone would coral reside? \r\n \r\nW) Pelagic [puh-LAJ-ik] \r\nX) Benthic \r\nY) Neritic [nuh-RIT-ik] \r\nZ) Intertidal", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice What is the correct term for a marine organism whose \r\ninternal salt concentration varies with that of their environment? \r\n \r\nW) Osmoregulator \r\nX) Ion-concentrators \r\nY) Osmoconformers \r\nZ) Urea-concentrators", 
     "tossupA": "Y) NERITIC", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd393"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 0, 
@@ -261,13 +244,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What is the source of the helium-3 found in the lunar \r\nregolith?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is the reason that a lunar \r\neclipse does not occur during every full moon? \r\n \r\nW) The Moon's orbit is inclined relative to the Earth's \r\nX) Lunar eclipses only occur during an equinox \r\nY) Lunar eclipses only occur during a solstice \r\nZ) Lunar eclipses only occur during a new moon", 
     "tossupA": "THE SUN (ACCEPT: SOLAR WIND)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd394"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 6, 
@@ -276,28 +261,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following does NOT contribute to \r\neutrophication [yoo-tro-fi-KAY-shun]? \r\n \r\nW) Excess fertilizer usage \r\nX) Untreated sewage and waste water \r\nY) Increased oxygen inputs \r\nZ) Industrial animal waste", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice What is true about the drifting of North America and \r\nEurope? \r\n \r\nW) It is away from each other at approximately 2.5 centimeters per year \r\nX) It is toward each other at approximately 2.5 centimeters per year \r\nY) It is away from each other at approximately 2.5 millimeters per year \r\nZ) It is toward each other at approximately 2.5 millimeters per year", 
     "tossupA": "Y) INCREASED OXYGEN INPUTS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd395"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "REFRACTIVE INDEX", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Two objects have the same size and shape, but one \r\nis twice as heavy as the other. They are dropped simultaneously from a building. If air \r\nresistance is negligible, which of the following is true? \r\n \r\nW) The heavy one lands on the ground before the light one \r\nX) They land on the ground at the same time but the heavy one has more speed upon impact \r\nY) They land on the ground at the same time and have the same speed upon impact. \r\nZ) The land on the ground at the same time but the heavy object has a lower acceleration", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the term that describes the factor by which the \r\nspeed of light is decreased when traveling through a given material?", 
-    "tossupA": "Y) THEY LAND ON THE GROUND AT THE SAME TIME AND HAVE THE SAME \r\nSPEED UPON IMPACT", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd396"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -306,28 +278,15 @@
     "tossupQ": "MATH Short Answer If an event has a 45% chance of success in any single trial, how many \r\nsuccessful events would one expect to have occurred after 5,000 trials?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice In which quadrants do the solutions to the inequality \r\n2x + 3 < y < -(1/2)x \u2013 5 [two x plus three is less than y is less than negative one half x minus \r\nfive] lie? \r\n \r\nW) I and II \r\nX) II, III and IV \r\nY) II and III \r\nZ) I, II and III", 
     "tossupA": "2,250", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd397"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "SOUTH", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Short Answer Other than a battery, what else will produce a direct current with no \r\nmoving parts?", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer In a northern climate, what should be the orientation of windows in \r\na passively heated solar home?", 
-    "tossupA": "THERMOCOUPLES (ACCEPT: SOLAR CELLS)", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd398"
-    }, 
-    "questionNum": "22"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -336,12 +295,99 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the primary chemical constituent of the cell wall in \r\nplants?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice The process of nitrogen fixation is extremely energy \r\nintensive due to which of the following? \r\n \r\nW) Atoms of free nitrogen are triply bound to other nitrogen atoms \r\nX) Atoms of free nitrogen are highly reactive \r\nY) The nitrogen atom is highly unreactive \r\nZ) Nitrogen atoms are usually found tightly bound to alkaline earth metals", 
     "tossupA": "CELLULOSE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd399"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "SOUTH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer Other than a battery, what else will produce a direct current with no \r\nmoving parts?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer In a northern climate, what should be the orientation of windows in \r\na passively heated solar home?", 
+    "tossupA": "THERMOCOUPLES (ACCEPT: SOLAR CELLS)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd398"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ANDROMEDA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Compressive forces that result in brittle deformation \r\nyield what formation? \r\n \r\nW) Normal faults \r\nX) Reverse faults \r\nY) Synclines [SIN-klyns] \r\nZ) Grabens [GRAH-buhns]", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer In which constellation is the nearest major galaxy, M31?", 
+    "tossupA": "X) REVERSE FAULTS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd383"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "K", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following rocks is NOT metamorphic? \r\n \r\nW) Limestone \r\nX) Marble \r\nY) Gneiss [NYS] \r\nZ) Schist [SHIST]", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Not including brown dwarfs, what is the second coolest \r\nclass of star?", 
+    "tossupA": "W) LIMESTONE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd388"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Add 8x to 2x and then subtract 5 from the sum. If x is a positive \r\ninteger, the result must be an integer multiple of which of the following? \r\n \r\nW) 2 \r\nX) 5 \r\nY) 8 \r\nZ) 10", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If x varies directly as the square of y and x equals 0.5 when y is 1, what \r\nis x when y = 4?", 
+    "tossupA": "X) 5", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd38c"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "REFRACTIVE INDEX", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Two objects have the same size and shape, but one \r\nis twice as heavy as the other. They are dropped simultaneously from a building. If air \r\nresistance is negligible, which of the following is true? \r\n \r\nW) The heavy one lands on the ground before the light one \r\nX) They land on the ground at the same time but the heavy one has more speed upon impact \r\nY) They land on the ground at the same time and have the same speed upon impact. \r\nZ) The land on the ground at the same time but the heavy object has a lower acceleration", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the term that describes the factor by which the \r\nspeed of light is decreased when traveling through a given material?", 
+    "tossupA": "Y) THEY LAND ON THE GROUND AT THE SAME TIME AND HAVE THE SAME \r\nSPEED UPON IMPACT", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd396"
+    }, 
+    "questionNum": 20
   }
 ]

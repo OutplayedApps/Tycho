@@ -6,13 +6,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  In which of the following wavelengths does DNA absorb the best: \r\n \r\nW)  3,900 angstroms \r\nX)  260 nanometers \r\nY)  340 nanometers \r\nZ)  540 nanometers", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is closest to the diameter of a \r\nplasmodesmata (read as: PLAS-mo-dez-MAH-tah): \r\n \r\nW)  2 angstroms \r\nX)  60 nanometers \r\nY)  80 microns \r\nZ)  180 microns", 
     "tossupA": "X)  260 NANOMETERS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc65"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 2, 
@@ -21,13 +23,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  Name the 2 different bond angles present in a molecule with \r\noctahedral geometry, such as in SF<sub>6</sub>:", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  In a titration experiment, it takes 20.0 milliliters of a 0.05 molar \r\nbarium hydroxide, Ba(OH)2, solution to neutralize 40 milliliters of a nitric acid, or HNO<sub>3</sub>, solution to \r\nthe equivalence point.  Calculate the molarity of HNO<sub>3</sub>, rounded to the second decimal place:", 
     "tossupA": "90;  180", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc66"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +40,15 @@
     "tossupQ": "PHYSICS  Short Answer  By words or numbers, identify all of the following 4 choices that \r\nMUST be true for 2 objects in thermal equilibrium: \r\n 1) they both must radiate no energy in any direction \r\n 2) they must be at the same temperature \r\n 3) they both must have the same thermal expansion coefficients \r\n 4) they must have the same internal energy", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  How many kilojoules of thermal energy, rounded to the first decimal \r\nplace, must be lost from a 250-gram block of Teflon with a specific heat of 1 kilojoule per kilogram \r\nkelvin, to lower the block\u2019s temperature from 125\u00ba C to 75\u00ba C?", 
     "tossupA": "2", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc67"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +57,15 @@
     "tossupQ": "MATH  Short Answer  If a point has polar coordinates (3, \u03c0), what are the rectangular \r\ncoordinates?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  The graph of the polar equation, r = 5 \u2013 5 cosine \u03b8, is a cardioid.  In \r\nwhich two quadrants is most of the area of this cardioid?", 
     "tossupA": "(\u20133, 0) \r\n \r\n(Solution: x = 3 cos \u03c0 = \u20133 and y = 3 sin \u03c0 = 0)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc68"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -66,13 +74,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is a coarse-grained igneous rock \r\nprimarily containing plagioclase feldspar, amphibole and biotite: \r\n \r\nW)  gabbro \r\nX)  basalt \r\nY)  diorite \r\nZ)  granite", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Short Answer  Of the 3 basic types of magma on Earth, which one generally \r\nhas the LOWEST eruptive temperature?", 
     "tossupA": "Y)  DIORITE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc69"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -81,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is the source of alpha radiation \r\nmost often used in household ionization smoke detectors: \r\n \r\nW)  americium-241 \r\nX)  uranium-238 \r\nY)  radium-226 \r\nZ)  iron-59", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Short Answer  Calculate the heating degree day in the U.S. if the day\u2019s \r\nhigh temperature is 70\u00baF and the low is 30\u00baF:", 
     "tossupA": "W)  AMERICIUM-241", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc6a"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +108,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  Order the following 3 stages from the EARLIEST to the \r\nLATEST in the evolution of a G-type star of 2 solar masses:  red giant;  T-tauri;  white dwarf", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  If a star has a surface temperature of 3,000 degrees kelvin, a core \r\ntemperature of 100 million Kelvin, and a luminosity of 2,000-times our Sun, choosing from upper \r\nright, upper left, lower left, and lower right, where on an H-R diagram would it most likely be \r\nfound?", 
     "tossupA": "T-TAURI;  RED GIANT;  WHITE DWARF", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc6b"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,13 +125,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What reduced coenzyme donates its electrons to complex-one in the \r\nelectron transport system?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  In a double reciprocal plot of Michaelis-Menton kinetics, what is \r\nthe effect of a competitive inhibitor: \r\n \r\nW)  change in the vertical axis intercept \r\nX)  change in the slope only \r\nY)  change in the horizontal axis intercept only \r\nZ)  change in both vertical and horizontal axes intercepts", 
     "tossupA": "NADH", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc6c"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 2, 
@@ -126,28 +142,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What is the bond order for each oxygen-oxygen bond in the ozone \r\nor O<sub>3</sub> molecule?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Hydrogen gas effuses through a pinhole opening from one \r\ncompartment to another about how many times as fast as nitrogen gas: \r\n \r\nW)  2.4-times \r\nX)  3.7-times \r\nY)  5.3-times \r\nZ)  8.2-times", 
     "tossupA": "2\r\n3  (ACCEPT:  1.5)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc6d"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "Z)  A TIME-VARYING B-FIELD PRODUCES AN E-FIELD", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS  Multiple Choice  Which of the following best describes why the optical spectrum of \r\nan atom exists as discrete lines and not as a continuous spectrum: \r\n \r\nW)  atoms have electrons with unit charge \r\nX)  all atoms when excited emit light \r\nY)  all energy levels of atoms are quantized \r\nZ)  all electrons have spin", 
-    "packetNum": 16, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS  Multiple Choice  Which of the following BEST describes one of Maxwell\u2019s \r\nequations that is a mathematical conceptualization of Faraday\u2019s law: \r\n \r\nW)  a magnetic B-field is a solenoid vector field \r\nX)  an EMF induced in a conductor opposes that motion \r\nY)  induced currents are caused by the magnetic field and in opposition to the opposed flux \r\nZ)  a time-varying B-field produces an E-field", 
-    "tossupA": "Y)  ALL ENERGY LEVELS OF ATOMS ARE QUANTIZED", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdc6e"
-    }, 
-    "questionNum": "10"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -156,13 +159,15 @@
     "tossupQ": "MATH  Multiple Choice  At  x = -1/2, the graph of  y = x<sup>3</sup> is: \r\n  \r\nW)  increasing and concave up \r\nX)  increasing and concave down   \r\nY)  decreasing and concave up   \r\nZ)  decreasing and concave down", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  The point (3, 2) is reflected across the graph of y = 6 and the resulting \r\npoint is then reflected across the graph of y = x.  What are the coordinates of the final point?", 
     "tossupA": "X)  INCREASING AND CONCAVE DOWN   \r\n \r\n(Solution: at the indicated value the 1st derivative is positive (implying increasing) and the 2nd  \r\nderivative is negative (implying concave down))", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc6f"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,13 +176,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  According to EPA nationwide emission trends for \r\ncommon air pollutants and excluding fires and dust, which of the following  accounted for the least \r\namount of emissions in the past 5 years: \r\n \r\nW)  volatile organic compounds \r\nX)  carbon monoxide \r\nY)  sulfur dioxide \r\nZ)  particulate matter", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Short Answer   Without leap days every 4 years, the winter solstice \r\nwould start on what month and day after 70 years?", 
     "tossupA": "Z)  PARTICULATE MATTER \r\n \r\n(Solution: VOC ~ 15;  CO ~ 81 mT/yr;  SO<sub>2</sub> ~ 13;  particulates ~ 3)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc70"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +193,15 @@
     "tossupQ": "EARTH SCIENCE  Short Answer  In what layer of Earth\u2019s atmosphere do most meteors \r\nexperience the most heating?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Short Answer   Name all of the following 4 layers of the atmosphere where \r\ntemperature typically increases as altitude increases:  troposphere;  stratosphere;  mesosphere;  \r\nthermosphere", 
     "tossupA": "MESOSPHERE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc71"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +210,15 @@
     "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is LEAST likely to occur when \r\nviewed from mid-northern latitudes in the month of August: \r\n \r\nW)  Venus passing within 2\u00ba of Saturn \r\nX)  Neptune at opposition \r\nY)  the Moon at apogee on the 1st of the month and perigee at the 29th of the month \r\nZ)  the Moon passing within 5\u00ba of Uranus", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following was seen from mid-northern latitudes \r\nby casual stargazers as a bright light in August of 2008 at midnight, about 1/2 way up the southern \r\nhorizon: \r\n \r\nW)  Venus \r\nX)  Vega \r\nY)  Jupiter \r\nZ)  Uranus", 
     "tossupA": "Y)  THE MOON AT APOGEE ON THE 1ST OF THE MONTH AND PERIGEE AT \r\nTHE 29TH OF THE MONTH \r\n \r\n(Solution: apogee and perigee are separated by about 14-15 days)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc72"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,28 +227,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is the primary calcium-binding protein in eukaryotic cells, that \r\nis about 148 amino acids long, and has a wide variety of functions often through kinases and \r\nphosphatases (read as: foss-fah-TAY-sis)?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is the RNA complementary sequence of \r\nthe following sequence:  5\u2019CCGCGA 3\u2019  (read as: 5-prime, CCGCGS, 3-prime) \r\n \r\nW)  5\u2019 UCGCGG 3\u2019  (read as:  5-prime, UCGCGG, 3-prime) \r\nX)  5\u2019 GGCGCU 3\u2019 \r\nY)  5\u2019 GGCGCT 3\u2019 \r\nZ)  5\u2019 TCGCGG 3\u2019", 
     "tossupA": "CALMODULIN", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc73"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "8 \u00d7 10\u20133  (ACCEPT:  0.008) \r\n \r\n(Solution: Kc = [PCl<sub>3</sub>][Cl<sub>2</sub>]/[PCl<sub>5</sub>] = (0.02)(0.02)/(0.05) = 0.008 moles)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  For the following 3 processes, predict whether the change in \r\nenthalpy, or \u2206S\u00ba (read as: delta S naught), is positive or negative, respectively: \r\n 1) decomposition of ammonium nitrate \r\n 2) sublimation of dry ice \r\n 3) condensation of gaseous iodine to liquid iodine", 
-    "packetNum": 16, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  Consider the following equilibrium reaction,  \r\nPCl<sub>5</sub>(gas) \u2194 PCl<sub>3</sub>(gas) + Cl<sub>2</sub>(gas).  If a 1-liter flask contains 0.02 moles of PCl<sub>3</sub> and 0.02 moles of Cl<sub>2</sub> at \r\nequilibrium, how many moles of PCl<sub>5</sub> are in the flask.  Assume the equilibrium constant is 5 \u00d7 10\u20132.", 
-    "tossupA": "1) +;  2) +;  3) \u2013", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110dec6fd1dd235cecdc74"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -246,13 +244,15 @@
     "tossupQ": "PHYSICS  Short Answer  During beta minus decay, what nucleon type is reduced by one?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Which of the following is NOT true of the Hall effect: \r\n \r\nW)  it can be used to measure the strength of a magnetic field \r\nX)  it is a consequence of a current carrying wire in a magnetic field \r\nY)  it was one of the first direct indications that negative charges are what move in conductors \r\nZ)  it cannot distinguish between positive and negative particles", 
     "tossupA": "NEUTRON", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc75"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 6, 
@@ -261,13 +261,15 @@
     "tossupQ": "GENERAL SCIENCE  Short Answer  What are the Ice Cube observatory under construction at \r\nthe South Pole and the ANTARES telescope off the coast of France primarily designed to detect?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  During the winter solstice in the northern hemisphere, \r\nwhich of the following northern latitude positions will have a day length of 10.1 hours: \r\n \r\nW)  30\u00ba \r\nX)  40\u00ba \r\nY)  50\u00ba \r\nZ)  60\u00ba", 
     "tossupA": "NEUTRINOS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc76"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,13 +278,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  During the past 500,000 years, there have been how many \r\nperiods of major glaciation on Earth: \r\n \r\nW)  2 \r\nX)  3 \r\nY)  4 \r\nZ)  5", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  A rising parcel of air reaches the lifting condensation \r\nlevel at 2,000 meters at a dew point temperature of 15\u00baC.  At 3,000 meters, the temperature of this \r\nparcel of air will on average be: \r\n \r\nW)  15\u00baC \r\nX)  10\u00baC \r\nY)  6\u00baC \r\nZ)  3\u00baC", 
     "tossupA": "Z)  5", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc77"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 4, 
@@ -291,13 +295,15 @@
     "tossupQ": "MATH  Short Answer  Of the following 5 functions identify all that are NOT differentiable for \r\nall real numbers:  | x | (read as: absolute value of x);  cosine(x);  tangent(x);   e<sup>x</sup>;   the greatest integer \r\nfunction", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  The curve defined by the equation, Ax<sup>2</sup> + Bx + Cy<sup>2</sup> + Dy + E =0, can be \r\nan ellipse if which of the constants are positive?", 
     "tossupA": "| x |;  TAN(x);  THE GREATEST INTEGER FUNCTION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc78"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 0, 
@@ -306,13 +312,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  What 3 elements are most prominent in the carbon fusion cycle?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  If the surface of a star is 15,000 kelvin, at what wavelength, in \r\nnanometers rounded to the nearest whole number, does it emit its maximum energy?", 
     "tossupA": "CARBON;  NITROGEN;  OXYGEN", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc79"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +329,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What cell type is MOST directly responsible for secreting the bone \r\nmatrix in developing humans?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What specific human bone cell is antagonistic to osteoblasts and is \r\nknown to cause apoptosis (read as: A-pop-TOE-sis) of osetoblasts in vitro?", 
     "tossupA": "OSTEOBLASTS  (DO NOT ACCEPT:  OSTEOCYTE)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc7a"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 2, 
@@ -336,13 +346,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  Of the following 5 alkanes, which one has the LEAST combined \r\nstrain energy from angle strain and torsional strain:  [read slowly] cyclopropane;  cyclobutane;  \r\ncyclopentane;  cyclohexane;  cyclo-octane", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  What is the most common name for the conformation that the \r\nring structure of cyclohexane adopts to reach a strain-free value?", 
     "tossupA": "CYCLOHEXANE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc7b"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 3, 
@@ -351,13 +363,49 @@
     "tossupQ": "PHYSICS  Short Answer  What is the name of the universal constant that relates atomic spectra \r\nof elements to that of hydrogen?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Assuming the universal gravitational constant is 6.67 \u00d7 10\u201311  \r\nnewton-meters squared per kilogram squared, what is the gravitational attraction, in newtons, \r\nbetween two, 10-kilogram perfectly uniform spheres separated by a center-to-center distance of 10 \r\nmeters?", 
     "tossupA": "RYDBERG CONSTANT  (ACCEPT:  RYDBERG)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc7c"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z)  A TIME-VARYING B-FIELD PRODUCES AN E-FIELD", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following best describes why the optical spectrum of \r\nan atom exists as discrete lines and not as a continuous spectrum: \r\n \r\nW)  atoms have electrons with unit charge \r\nX)  all atoms when excited emit light \r\nY)  all energy levels of atoms are quantized \r\nZ)  all electrons have spin", 
+    "packetNum": 16, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following BEST describes one of Maxwell\u2019s \r\nequations that is a mathematical conceptualization of Faraday\u2019s law: \r\n \r\nW)  a magnetic B-field is a solenoid vector field \r\nX)  an EMF induced in a conductor opposes that motion \r\nY)  induced currents are caused by the magnetic field and in opposition to the opposed flux \r\nZ)  a time-varying B-field produces an E-field", 
+    "tossupA": "Y)  ALL ENERGY LEVELS OF ATOMS ARE QUANTIZED", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdc6e"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "8 \u00d7 10\u20133  (ACCEPT:  0.008) \r\n \r\n(Solution: Kc = [PCl<sub>3</sub>][Cl<sub>2</sub>]/[PCl<sub>5</sub>] = (0.02)(0.02)/(0.05) = 0.008 moles)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  For the following 3 processes, predict whether the change in \r\nenthalpy, or \u2206S\u00ba (read as: delta S naught), is positive or negative, respectively: \r\n 1) decomposition of ammonium nitrate \r\n 2) sublimation of dry ice \r\n 3) condensation of gaseous iodine to liquid iodine", 
+    "packetNum": 16, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Consider the following equilibrium reaction,  \r\nPCl<sub>5</sub>(gas) \u2194 PCl<sub>3</sub>(gas) + Cl<sub>2</sub>(gas).  If a 1-liter flask contains 0.02 moles of PCl<sub>3</sub> and 0.02 moles of Cl<sub>2</sub> at \r\nequilibrium, how many moles of PCl<sub>5</sub> are in the flask.  Assume the equilibrium constant is 5 \u00d7 10\u20132.", 
+    "tossupA": "1) +;  2) +;  3) \u2013", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdc74"
+    }, 
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -366,12 +414,14 @@
     "tossupQ": "BIOLOGY  Short Answer  Intestinal absorption of what vitamin is most directly dependent on \r\nintrinsic factor?", 
     "packetNum": 16, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What plant hormone is primarily responsible for apical dominance in \r\nangiosperms?", 
     "tossupA": "B12", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110dec6fd1dd235cecdc7d"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

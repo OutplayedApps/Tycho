@@ -6,13 +6,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following molecules has an electron pair geometry \r\nthat matches its molecular geometry: \r\n \r\nW)  H\r\n2\r\nO \r\nX)  NH\r\n3\r\n \r\nY)  SO\r\n2\r\n \r\nZ)  PCl\r\n5", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is NOT a constitutional isomer of the \r\norganic compound whose molecular formula is C\r\n4\r\nH\r\n8\r\n: \r\n \r\nW)  1-butene \r\nX)  2-butene \r\nY)  2-methyl-1-butene \r\nZ)  2-methyl-1-propene", 
     "tossupA": "Z)  PCl\r\n5", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c1"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,13 +23,15 @@
     "tossupQ": "PHYSICS  Short Answer  Within the Standard Model of Particle Physics what particle is \r\nresponsible for carrying the strong nuclear force?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What is the principle or law that fundamentally limits the accuracy of \r\nspecifying at the same time the momentum and position of a particle?", 
     "tossupA": "GLUON", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c2"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 1, 
@@ -36,28 +40,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following occurs during synapsis of meiosis: \r\n \r\nW)  non-sister chromatids of homologous chromosomes cross over \r\nX)  sister chromatids of homologous chromosomes cross over \r\nY)  non-sister chromatids of non-homologous chromosomes cross over \r\nZ)  sister chromatids of non-homologous chromosomes cross over", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  If 2n is the number of chromosomes and 2s is the DNA content of a \r\ndiploid human cell in G1 of the cell cycle, what are the n and s values, respectively, of a human \r\nspermatogonia at the end of telophase one of meiosis?", 
     "tossupA": "W)  NON-SISTER CHROMATIDS OF HOMOLOGOUS CHROMOSOMES CROSS \r\nOVER", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c3"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "1 \r\n \r\n(Solution:  b<sup>2</sup> - 4ac = 0;  100 \u2013 4(k)(25) = 0;  k = 1)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  In simplest radical form, give the cosecant of a 135\u00ba angle:", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Find the value of k that will result in a unique, real solution for the \r\nfollowing equation:  kx<sup>2</sup> + 10x + 25 = 0", 
-    "tossupA": "&radic;2", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd5c4"
-    }, 
-    "questionNum": "4"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -66,13 +57,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Groundwater flows according to what law that, in its \r\nsimplest form, is given by the equation Q = kIA: \r\n \r\nW)  Darcy\u2019s Law \r\nX)  Law of Superposition \r\nY)  Law of Original Horizontality \r\nZ)  Ekman\u2019s Law", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice   Which of the following is a type of inland fog that occurs \r\nmore often in spring when warm, moist air is cooled below its dew point as it moves over a cooler \r\nsurface: \r\n \r\nW)  advection fog \r\nX)  radiation fog \r\nY)  reflection fog \r\nZ)  steam fog", 
     "tossupA": "W)  DARCY\u2019S LAW", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c5"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -81,13 +74,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  A primary consequence of acid rain in the northeast \r\nU.S. has been: \r\n \r\nW)  salt-water intrusion in coastal wells  \r\nX)  the leaching out of toxic heavy metals in lakes and streams \r\nY)  increase in radioactive decay of parent bedrock \r\nZ)  increased algal growth to cause eutrophication in lakes", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Short Answer  About two-thirds of the cause of acid precipitation is the \r\nproduction of sulfuric acid in the atmosphere.  The production of what acid accounts for about the \r\nother one-third of acid rain?", 
     "tossupA": "X)  THE LEACHING OUT OF TOXIC HEAVY METALS IN LAKES AND \r\nSTREAMS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c6"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +91,15 @@
     "tossupQ": "ASTRONOMY  Multiple Choice  If an astronomer photographed a massive cloud of ionized \r\nhydrogen in space that was emitting all of the Balmer wavelengths, what color would it typically \r\nappear to us: \r\n \r\nW)  white \r\nX)  green \r\nY)  pink \r\nZ)  blue", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following was discovered in the 1600\u2019s about \r\nVenus that was strong evidence that the planets orbited the Sun: \r\n \r\nW)  Venus\u2019s cloud cover reverses its direction in the sky at certain times of the year \r\nX)  Venus has phases varying from crescent to full \r\nY)  Venus has an axial motion opposite to that of the Earth \r\nZ)  Venus is the brightest planet in the sky only part of the year", 
     "tossupA": "Y)  PINK", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c7"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 2, 
@@ -111,13 +108,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  For a given chemical reaction at constant temperature and \r\npressure, if the value for Gibbs free-energy change is a negative, the reaction is always:   \r\n \r\nW)  endothermic \r\nX)  exothermic \r\nY)  spontaneous \r\nZ)  nonspontaneous", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  In a phase diagram, the solid-liquid line has a negative slope for \r\nwhich of the following pure substances: \r\n \r\nW)  carbon dioxide \r\nX)  water \r\nY)  ammonia \r\nZ)  argon", 
     "tossupA": "Y)  SPONTANEOUS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c8"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +125,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following was the big surprise in the classic gold foil \r\nexperiments of Rutherford, Geiger and Marsden: \r\n \r\nW)  alpha particles sometimes disappeared \r\nX)  electrons would not penetrate the nucleus \r\nY)  the atom was mostly space as supported by the finding that most alpha particles continued on a \r\nstraight path and hit the rear of the detection screen \r\nZ)  some alpha particles left evidence of having returned almost straight back to hit the front part of \r\nthe detection screen", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Most of the early classical experiments with alpha particles were done \r\nby Rutherford and co-workers using a simple scintillation detector, which was a screen most \r\ncommonly coated with what substance?", 
     "tossupA": "Z)  SOME ALPHA PARTICLES LEFT EVIDENCE OF HAVING RETURNED \r\nALMOST STRAIGHT BACK TO HIT THE FRONT PART OF THE DETECTION SCREEN", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5c9"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,28 +142,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is NOT true of chloroplasts: \r\n \r\nW)  they are relatively large organelles and can exceed 3 microns long \r\nX)  thay have smaller ribosomes than are found in the plant cytosol \r\nY)  they contain thylakoid (read as: THY-la-koid) stacks \r\nZ)  their numbers are controlled primarily by the cell\u2019s nuclear genes that control division", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  By number or name, identify all of the following 4 areas of plants \r\nwhere you would be MOST likely to see meristematic tissue: \r\n 1)  longitudinal section of a terminal bud \r\n 2)  cross-section of the pith of a sunflower stem \r\n 3)  transverse section of a lateral root tip \r\n 4)  cross-section of central parenchymal cells of a corn stem", 
     "tossupA": "Z)  THEIR NUMBERS ARE CONTROLLED PRIMARILY BY THE CELL\u2019S \r\nNUCLEAR GENES THAT CONTROL DIVISION", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5ca"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "1/x", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH  Short Answer  Giving your answer as one, two, three, or four, in what quadrant will \r\ntheta terminate if sine \u03b8 and secant \u03b8 are both negative?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "MATH  Short Answer  Differentiate and simplify the following with respect to x:  y = ln | x |  \r\n(read as: y = natural log of absolute value of x)", 
-    "tossupA": "3", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd5cb"
-    }, 
-    "questionNum": "11"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -171,13 +159,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is the global wind system that \r\nmost influences weather in the West Indies and Central America: \r\n \r\nW)  northeast trade winds \r\nX)  prevailing westerlies \r\nY)  southeast trade winds \r\nZ)  polar westerlies", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is the soil horizon that contains a \r\nmixture of organic matter and highly altered mineral matter and is dark in color:  \r\n \r\nW)  O-horizon \r\nX)  A-horizon \r\nY)  C-horizon \r\nZ)  R-horizon", 
     "tossupA": "W)  NORTHEAST TRADE WINDS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5cc"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 6, 
@@ -186,13 +176,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following statements is LEAST accurate: \r\n \r\nW)  the molecular formula for dimethyl sulfoxide is C\r\n2\r\nH\r\n6\r\nSO \r\nX)  black smokers are a type of hydrothermal vent found on the ocean floor \r\nY)  Io is the most volcanically active body in our Solar System \r\nZ)  on a weather map, an adjacent series of closed half-circles along a line represents a cold front", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT generally true \r\nregarding the hydrologic cycle world-wide: \r\n \r\nW)  glaciers are shrinking \r\nX)  river discharge is decreasing \r\nY)  precipitation at high altitudes is increasing \r\nZ)  the thickness of sea ice over the Arctic Ocean is decreasing", 
     "tossupA": "Z)  ON A WEATHER MAP, AN ADJACENT SERIES OF CLOSED HALF-CIRCLES \r\nALONG A LINE REPRESENTS A COLD FRONT", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5cd"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -201,13 +193,15 @@
     "tossupQ": "ASTRONOMY  Multiple choice  According to the location in the H-R diagram, which of the \r\nfollowing stars has the highest absolute visual magnitude and is also the hottest: \r\n  \r\nW)  one located in the upper left of the diagram \r\nX)  one located in the upper right of the diagram \r\nY)  one located in the lower left of the diagram \r\nZ)  one located in the lower right of the diagram", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Short Answer  What is the MOST common scientific term for the specific \r\nspectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a \r\nmagnetic field?", 
     "tossupA": "W)  ONE LOCATED IN THE UPPER LEFT OF THE DIAGRAM", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5ce"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 2, 
@@ -216,13 +210,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  In order to find the heat of reaction, or delta H naught, for a \r\nreaction using standard enthalpies of formation, the working formula is: \r\n \r\nW)  delta H products minus delta H reactants \r\nX)  delta H reactants minus delta H products \r\nY)  delta H reactants plus delta H products \r\nZ)  delta H products plus delta H reactants", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short answer  In crystallography, what is the coordination number, or number of \r\nnearest neighbors, of an atom in the simple cubic unit cell structure?", 
     "tossupA": "W)  DELTA H PRODUCTS MINUS DELTA H REACTANTS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5cf"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,13 +227,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following is NOT true: \r\n \r\nW)  the hydrogen nucleus has a lower binding energy per nucleon than the helium nucleus \r\nX)  the tritium nucleus contains 3 nucleons \r\nY)  it is typically easier to fission U-238 than U-235 with slow neutrons \r\nZ)  fission fragments of a nucleus are more often about 60% and 40% of the original mass of the \r\natom than 50% and 50%", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  In the Standard Model of particle physics, all forces arise because of \r\nthe exchange of what fundamental class of particles?", 
     "tossupA": "Y)  IT IS TYPICALLY EASIER TO FISSION U-238 THAN U-235 WITH SLOW \r\nNEUTRONS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d0"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 1, 
@@ -246,13 +244,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  If the human SRY gene is inactivated in the first week of \r\ngestation, which of the following will occur: \r\n \r\nW)  the embryo will die \r\nX)  the embryo will remain female  \r\nY)  the embryo will continue as a male \r\nZ)  the embryo will remain in a quiescent state", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  Which of the following functions primarily by cutting RNA \r\nstrands at specific sites:  \r\n \r\nW)  micro RNA \r\nX)  episome \r\nY)  ribozyme \r\nZ)  ligase", 
     "tossupA": "X)  THE EMBRYO WILL REMAIN FEMALE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d1"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 4, 
@@ -261,13 +261,15 @@
     "tossupQ": "MATH  Short Answer  Simplify the following trigonometric expression completely:  cos \u03b8 tan \u03b8 \r\n(read as: cosine theta tangent theta)", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  In how many ways can 4 green, 2 yellow, and 2 red tee-shirts be given to \r\n8 soccer players standing in a row if each player receives only one tee-shirt?", 
     "tossupA": "sin \u03b8", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d2"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,13 +278,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is a glacial feature that is NOT \r\ncaused by the deposition of sediments: \r\n \r\nW)  kame \r\nX)  kettle \r\nY)  drumlin \r\nZ)  bergshrund", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Analysis of which of the following isotopes is most \r\ncommonly used because it gives the BEST indication of historical temperatures at different latitudes \r\nworldwide: \r\n \r\nW)  oxygen \r\nX)  carbon \r\nY)  nitrogen \r\nZ)  potassium", 
     "tossupA": "Z)  BERGSHRUND", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d3"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,28 +295,15 @@
     "tossupQ": "GENERAL SCIENCE  Short Answer  What is the SI unit for absorbed dose of ionizing \r\nradiation?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  Nisin is an antibiotic currently being studied because it \r\nhas not yet induced widespread biological resistance.  Which of the following is its mode of action: \r\n \r\nW)  directly inhibits the electron transport system in bacteria \r\nX)  inhibits in vivo endotoxin formation \r\nY)  binds to a bacterial cell wall precursor to form damaging pores in the plasma membrane \r\nZ)  binds to 30-S ribosomal subunit", 
     "tossupA": "GRAY", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d4"
     }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "65 DEGREES \r\n \r\n(Solution:  15 degrees per hour)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  What is the most common astronomical term for the geometrical \r\nconfiguration where Venus is between the Earth and the Sun?", 
-    "packetNum": 14, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Short Answer  How many degrees of arc are in 4 hours and 20 minutes of right \r\nascension?", 
-    "tossupA": "INFERIOR CONJUNCTION", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd5d5"
-    }, 
-    "questionNum": "21"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -321,13 +312,15 @@
     "tossupQ": "PHYSICS  Short Answer  What is the focal length, in centimeters and giving the proper sign, of \r\na convex mirror that has a radius of curvature of 12 centimeters?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  Rutherford and coworkers in the early 20\r\nth\r\n century found that when \r\nalpha particles strike nitrogen-14 nuclei, they most commonly produce what element?", 
     "tossupA": "\u20136  \r\n \r\n(Solution: radius of curvature = 2 \u00d7 focal length)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d6"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 2, 
@@ -336,13 +329,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  Predict the bond angles, in degrees, for atoms in a molecule of \r\nboron trichloride:", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Consider a flexible balloon filled with 3.0 moles of helium at a \r\ntemperature of 27\u00baC and at a pressure of 101.3 kilopascals.  What is the volume in the balloon, in \r\nliters to the nearest whole number?", 
     "tossupA": "120\u00ba  (ACCEPT:  THREE 120\u00ba)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d7"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -351,13 +346,15 @@
     "tossupQ": "BIOLOGY  Short Answer  In which of the following 4 phases of cell cycle would a chemical \r\nthat causes mispairing of bases during replication do the most damage:  G-1;  G-2;  S;  M", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  For a dihybrid cross between parent plants that are each \r\nheterozygous for both traits, if there is complete dominance and independent assortment, what is the \r\ntotal fraction of the offspring that will have a recessive phenotype for either trait and the dominant \r\nfor the other?", 
     "tossupA": "S", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d8"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 3, 
@@ -366,12 +363,65 @@
     "tossupQ": "PHYSICS  Short Answer  What is the angular velocity, in radians per second, of a wagon wheel \r\nwith a diameter of 2 meters and a surface velocity of 3 meters per second?", 
     "packetNum": 14, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  The dread pirate Roberts orders his crew into a 100 kilogram rowboat \r\nto sail to an island to look for buried treasure.  If the rowboat has a capacity of 1.10 cubic meters and \r\nis in freshwater, how many 50 kilogram pirates can board the rowboat before it would sink?", 
     "tossupA": "3  \r\n \r\n(Solution:  \u03a4 = v/r = 3/1 = 3 rad/sec)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd5d9"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1 \r\n \r\n(Solution:  b<sup>2</sup> - 4ac = 0;  100 \u2013 4(k)(25) = 0;  k = 1)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  In simplest radical form, give the cosecant of a 135\u00ba angle:", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the value of k that will result in a unique, real solution for the \r\nfollowing equation:  kx<sup>2</sup> + 10x + 25 = 0", 
+    "tossupA": "&radic;2", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5c4"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1/x", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Giving your answer as one, two, three, or four, in what quadrant will \r\ntheta terminate if sine \u03b8 and secant \u03b8 are both negative?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Differentiate and simplify the following with respect to x:  y = ln | x |  \r\n(read as: y = natural log of absolute value of x)", 
+    "tossupA": "3", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5cb"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "65 DEGREES \r\n \r\n(Solution:  15 degrees per hour)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What is the most common astronomical term for the geometrical \r\nconfiguration where Venus is between the Earth and the Sun?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  How many degrees of arc are in 4 hours and 20 minutes of right \r\nascension?", 
+    "tossupA": "INFERIOR CONJUNCTION", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5d5"
+    }, 
+    "questionNum": 21
   }
 ]

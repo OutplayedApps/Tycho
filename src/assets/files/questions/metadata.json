@@ -1,4 +1,80 @@
 {
+  "SAMPLE-DE-HS": {
+    "1": {
+      "1": {
+        "numQuestions": 25, 
+        "metadata": {
+          "label": "Hard Round 2017.docx", 
+          "year": 2017
+        }, 
+        "fileName": "SAMPLE-DE-HS-1-1"
+      }, 
+      "2": {
+        "numQuestions": 24, 
+        "metadata": {
+          "label": "Assorted Questions Mid-LateDE.docx"
+        }, 
+        "fileName": "SAMPLE-DE-HS-1-2"
+      }, 
+      "metadata": {
+        "label": "First Batch of Questions imported 11/22/17"
+      }
+    }, 
+    "metadata": {
+      "displayLabel": "Sample DE (difficult)", 
+      "label": "Sample DE (difficult)"
+    }
+  }, 
+  "SAMPLE-RR-HS": {
+    "1": {
+      "1": {
+        "numQuestions": 25, 
+        "metadata": {
+          "label": "Assorted Questions 3.docx"
+        }, 
+        "fileName": "SAMPLE-RR-HS-1-1"
+      }, 
+      "2": {
+        "numQuestions": 25, 
+        "metadata": {
+          "label": "Easy Round 2017.docx", 
+          "year": 2017
+        }, 
+        "fileName": "SAMPLE-RR-HS-1-2"
+      }, 
+      "3": {
+        "numQuestions": 25, 
+        "metadata": {
+          "label": "Medium Round 2012.docx", 
+          "year": 2012
+        }, 
+        "fileName": "SAMPLE-RR-HS-1-3"
+      }, 
+      "4": {
+        "numQuestions": 25, 
+        "metadata": {
+          "label": "Easy-Medium Round 2017.docx", 
+          "year": 2017
+        }, 
+        "fileName": "SAMPLE-RR-HS-1-4"
+      }, 
+      "5": {
+        "numQuestions": 25, 
+        "metadata": {
+          "label": "Medium Round 2017.docx", 
+          "year": 2017
+        }, 
+        "fileName": "SAMPLE-RR-HS-1-5"
+      }, 
+      "metadata": {
+        "label": "First Batch of Questions imported 11/22/17"
+      }
+    }, 
+    "metadata": {
+      "displayLabel": "Sample RR (easy and medium)", 
+      "label": "Sample RR (easy and medium)"
+    }
+  }, 
   "DOE-HS": {
     "1": {
       "1": {
@@ -584,7 +660,7 @@
         "fileName": "DOE-MS-1-9"
       }, 
       "10": {
-        "numQuestions": 25, 
+        "numQuestions": 21, 
         "fileName": "DOE-MS-1-10"
       }, 
       "11": {
@@ -608,7 +684,7 @@
         "fileName": "DOE-MS-1-15"
       }, 
       "16": {
-        "numQuestions": 25, 
+        "numQuestions": 24, 
         "fileName": "DOE-MS-1-16"
       }, 
       "17": {
@@ -618,6 +694,14 @@
       "18": {
         "numQuestions": 25, 
         "fileName": "DOE-MS-1-18"
+      }, 
+      "16": {
+        "numQuestions": 1, 
+        "fileName": "DOE-MS-1-16"
+      }, 
+      "10": {
+        "numQuestions": 8, 
+        "fileName": "DOE-MS-1-10"
       }
     }, 
     "2": {

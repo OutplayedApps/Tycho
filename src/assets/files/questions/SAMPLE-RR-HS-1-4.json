@@ -1,0 +1,402 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "1 AND 2", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following statements concerning cranial nerves is NOT TRUE?\n\n\n\nW)  CN VIII is responsible for transmitting information originating at receptors in the ear\n\nX)  CN XII innervates skeletal muscles of the neck\n\nY)  CN IX innervates the parotid salivary gland\n\nZ)  CN V has three main branches", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following three statements about muscles and other connective tissue that are TRUE:\n\n\n\n1.  Golgi tendon organs are activated under conditions of higher tension\n\n2.  Thick filaments are composed almost entirely of myosin\n\n3.  ATP is required for the bonding of myosin to actin", 
+    "tossupA": "X) CN XII INNERVATES SKELETAL MUSCLES OF THE NECK", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea61"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2 AND 3", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three organic compounds that are miscible with water at room temperature:\n\n\n\n1.  Dipropyl ether\n\n2.  Ethanol\n\n3.  Butane", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following three scenarios that result in the formation of a coordination complex: \n\n\n\n1.  The addition of excess sodium hydroxide to silver(I) ions \n\n2.  The addition of excess sodium thiosulfate to silver(I) ions\n\n3.  The addition of excess ammonia to cobalt(III) ions", 
+    "tossupA": "2 ONLY", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea62"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "32", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Suppose that a projectile is thrown with an angle of 60 degrees to the horizontal, with a velocity equal to 10 meters per second. Then, what is the amount of time it takes for the particle to reach the top of its trajectory, to the nearest tenth of a second?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Consider a projectile that is thrown off a 200 meter tall building with a horizontal velocity of 5 meters per second. What is the horizontal range, to the nearest meter, of this projectile?", 
+    "tossupA": "0.9", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea63"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "8/3", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Suppose that a pyramid has 39 faces. How many edges does it have?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "A ladder that is 5 meters long is leaning against a wall vertically at time t = 0 seconds. If the bottom end of the ladder is moved away from the wall horizontally at a constant rate of 2 meters per second, what is the rate at which the top end is sliding down the wall in meters per second, at time t = 2 seconds?", 
+    "tossupA": "76", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea64"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "3.5", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Jupiter's Galilean moons are thought to have all formed at the same time as Jupiter from a sub-nebula surrounding the planet. Indicate all of the following three statements concerning the Galilean moons that are TRUE: \n\n\n\n1.  They all orbit in Jupiter's equatorial plane\n\n2.  Their density decreases with increasing semi-major axis\n\n3.  They all have the same composition", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Assuming that the Hubble constant is 70 kilometers per second per megaparsec, what is the recessional velocity of a galaxy at the cosmic horizon of 15 gigaparsecs, divided by the speed of light, given to one decimal place?", 
+    "tossupA": "1 AND 2", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea65"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "2 ONLY  (2 IS AN ONCOGENE, 1 AND 3 ARE TUMOR SUPPRESSORS)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Scientists at the DOE's Fermilab are continuing to analyze data from the Tevatron to look for evidence of new physics at or beyond the electroweak unification scale. The rest mass-energy of what particle defines this energy scale?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "DOE researchers working at the Joint Genome Institute are sequencing cancer genomics looking for new drivers of cancer. In particular, they are looking for somatic genes coding for signaling proteins that are turned constitutively on in the cancer. Indicate all of the following three genes that would be such a driver:\n\n\n\n1.  p53\n\n2.  KRAS\n\n3.  APC", 
+    "tossupA": "HIGGS BOSON  (ACCEPT: HIGGS)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea66"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3 ONLY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Mannose is formed by inverting the stereochemistry on carbon-2 of glucose, but retaining stereochemistry on other chiral carbon atoms. Which of the following relationships best describes mannose and glucose? \n\n\n\nW) Enantiomers\n\nX) Structural isomers\n\nY) Diastereomers\n\nZ) Conformational isomers", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following three statements that characterize SN1 reactions: \n\n\n\n1.  They have single-step mechanisms\n\n2.  Their rate is strongly dependent on nucleophile strength\n\n3.  They are faster in polar, protic solvents like water or ethanol", 
+    "tossupA": "Y) DIASTEREOMERS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea67"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "NONE OF THEM", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three hormones whose action would increase the concentration of glucose in the blood:\n\n\n\n1.  Epinephrine\n\n2.  Glucagon\n\n3.  Insulin", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following three changes that increase the affinity of hemoglobin for oxygen:\n\n\n\n1.  Moving it from central blood to peripheral blood\n\n2.  Moving it from a buffer at pH 7.3 to a buffer at pH 7.1\n\n3.  Adding 2,3-bisphosphoglycerate", 
+    "tossupA": "1 AND 2", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea68"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1, 3, 2, 4", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following best describes the B-field magnitude in the following magnetostatic configuration: two infinite concentric solenoids with different radii, the same number of windings per unit length and the same current running in opposite directions?  \n\n\n\nW) Zero magnetic field inside the smaller solenoid, but a magnetic field exists between the solenoids\n\nX) Zero magnetic field between the solenoids, but a magnetic field exists inside the smaller solenoid\n\nY) Small magnetic field inside the smaller solenoid, and larger field inside between the solenoids\n\nZ) Small magnetic field between the solenoids, and larger field inside the smaller solenoid", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Rank the following four objects with the same mass and radii in terms of increasing amount of time taken to roll down an incline: \n\n\n\n1.  Solid ball\n\n2.  Hollow sphere\n\n3.  Solid disk\n\n4.  Solid hoop", 
+    "tossupA": "W) ZERO MAGNETIC FIELD INSIDE THE SMALLER SOLENOID, BUT A MAGNETIC FIELD EXISTS BETWEEN THE SOLENOIDS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea69"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "\u03c0/6", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "What is the sum of the numbers of faces, vertices, and edges of an 3d polytope that has 20 faces and 20 vertices?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "The region bounded by the curves y = x and y = x2 in the first quadrant of the xy-plane is rotated about the y-axis. What is the volume of the resulting solid of revolution, in terms of \u03c0?", 
+    "tossupA": "78", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea6a"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "3 ONLY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following volcanoes was created by the thinning of continental crust through rifting?\n\n\n\nW)  Kilauea, Hawaii\n\nX)  Colima, Mexico \n\nY)  Hekla, Iceland\n\nZ)  Kilimanjaro, Tanzania", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following three earthquakes that occurred on a strike-slip fault:\n\n\n\n1.  2010 Chile earthquake\n\n2.  2004 Sumatra earthquake\n\n3.  2010 Haiti earthquake", 
+    "tossupA": "Z) KILIMANJARO, TANZANIA", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea6b"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "30", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three statements concerning solar thermal energy that are TRUE:\n\n\n\n1.  Solar thermal energy currently has a higher cost per kWh than PV\n\n2.  Solar thermal is fundamentally limited by the Shockley-Quiesser efficiency limit\n\n3.  Solar thermal would be a more effective base load power supply than geothermal", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Consider a wind turbine that is operating at the Betz-efficiency. If the incoming wind velocity is 10 meters per second, the blade size is 100 square meters, and the density of air can be approximated as 1 gram per liter, what is the power output, to the nearest kW?", 
+    "tossupA": "1 ONLY", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea6c"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3, 1, 2", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following statements best describes the pattern of reactivity of carboxylic acid derivatives, such as acyl chlorides, to nucleophiles?\n\n\n\nW) The nucleophile attacks the carbonyl, displacing the leaving group in a concerted mechanism\n\nX) The carbonyl oxygen pushes down first to form a positive acylium ion, which captures the nucleophile\n\nY) The nucleophile attacks the carbonyl carbon first to form a tetrahedral intermediate, which releases the leaving group\n\nZ) The nucleophile attacks the carbonyl oxygen first to form a carbanion intermediate, which releases the leaving group", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Rank the following three carboxylic acid derivatives from the least resonance stabilized to the most resonance stabilized: \n\n\n\n1.  Esters\n\n2.  Amides\n\n3.  Acyl chlorides", 
+    "tossupA": "Y) THE NUCLEOPHILE ATTACKS THE CARBONYL CARBON FIRST TO FORM A TETRAHEDRAL INTERMEDIATE, WHICH RELEASES THE LEAVING GROUP", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea6d"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1 ONLY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "What is the equivalent capacitance, to the nearest microfarad, of a 3 microfarad capacitor in series with a parallel configuration of three 2 microfarad capacitors?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following three statements that are TRUE of the beta decay of a neutron: \n\n\n\n1.  A W- particle mediates the decay \n\n2.  A neutrino is formed\n\n3.  Lepton number is NOT conserved", 
+    "tossupA": "2", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea6e"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "3 ONLY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following sugars does NOT contain six carbon atoms?\n\n\n\nW)  Fructose\n\nX)  Xylose\n\nY)  Talose\n\nZ)  Galactose", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following four events that would be likely to occur if the vagus nerve was stimulated:\n\n\n\n1.  Heart rate increases\n\n2.  Heart contractility increases\n\n3.  Activity of smooth muscle in the stomach wall increases\n\n4.  Average alveolar cross-sectional area increases", 
+    "tossupA": "X)  XYLOSE", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea6f"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3SQRT(14)/14", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Consider the piecewise function f(x) = a + bx for x less than or equal to 3, and equal to x2 \u2013 1 for x greater than 3. What assignment of a and b makes f(x) both continuous and differentiable everywhere? \n\n\n\nW)  a = 3 and b = 3\n\nX)  a = 3 and b = 6\n\nY)  a = -10 and b = 3\n\nZ)  a = -10 and b = 6", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "What is the minimum distance between the plane 2x + y + 3z = 3 and the origin?", 
+    "tossupA": "Z) A = -10 AND B = 6", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea70"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1 AND 2", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "What is the term for the distance from a planetesimal at which the orbital period around the planetesimal is equal to the orbital period of the planetesimal around the Sun?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "Indicate all of the following three quantities relevant to a star that an astronomer would need to know to calculate the average temperature of the star's surface:\n\n \n\n1.  Luminosity\n\n2.  Radius\n\n3.  Mass", 
+    "tossupA": "HILL RADIUS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea71"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "CRYO-ELECTRON MICROSCOPY  (ACCEPT: CRYO-EM)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "DOE researchers, collaborating with leading European colleagues at CERN, are working to detect and measure the properties of quark gluon plasma using data from what LHC experiment?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "What technique, which is currently being pioneered at LBNL by leading DOE crystallographers, allows us to better understand the conformational analysis of proteins by being able to visualize a larger array of proteins than X-ray crystallography, observe varied protein conformations, and with almost equal resolution?", 
+    "tossupA": "ALICE  (ACCEPT: A LARGE ION COLLIDER EXPERIMENT)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea72"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "C2H4O3", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following statements concerning alcohols is NOT TRUE?\n\n\n\nW)  They can be formed by oxymercuration-demercuration \n\nX)   They have pKas usually between 16 and 20\n\nY)   Primary alkoxides are better nucleophiles than tertiary alkoxides\n\nZ)  The dehydration of an alcohol using sulfuric acid proceeds by E2", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "A student preforms combustion analysis on a compound X containing carbon, hydrogen, and oxygen to determine its molecular formula. Given the molar mass is 76, if he combusts 1 mole of X in excess oxygen and observes 2 moles of CO2 gas and 2 moles of H2O gas as products, what is the molecular formula?", 
+    "tossupA": "Z) THE DEHYDRATION OF AN ALCOHOL USING SULFURIC ACID PROCEEDS BY E2", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea73"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "36", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Consider an ideal gas undergoing an adiabatic expansion starting at 300 K and ending at 200 K. If the initial volume of the gas is 6 liters, which of the following statements is TRUE?\n\n\n\nW) Final volume is equal to 6 liters\n\nX)  Final volume is between 6 and 9 liters \n\nY)  Final volume is equal to 9 liters\n\nZ)  Final volume is greater than 9 liters", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "A wire has a linear mass density of 0.250 kilograms per meter. What tension, to the nearest Newton, would you have to apply to observe a wave speed of 12.0 meters per second in this wire?", 
+    "tossupA": "X) FINAL VOLUME IS BETWEEN 6 AND 9 LITERS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea74"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "INTERLEUKIN-2 (ACCEPT: IL-2)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three statements that are TRUE of the adaptive immune response:\n\n\n\n1.  DCs present antigens on MHC class I to CD8+ T-cells\n\n2.  Toll-like receptors are present on the surface of macrophages\n\n3.  Macrophages can present using MHC class II", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "What cytokine, which is the principal signal required for the clonal expansion of T-cells, is usually an autocrine signal that is secreted by helper T cells themselves upon activation by macrophages or DCs?", 
+    "tossupA": "ALL OF THEM", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea75"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-18", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Suppose f and g are both functions that map real numbers to real numbers, and the function g(f(x)) is injective. Which of the following statements is necessarily TRUE?\n\n\n\nW)  f is injective\n\nX)  f is surjective\n\nY)  g is injective\n\nZ)  g is surjective", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "What is the determinant of the matrix with first row 3, 5, 3; second row 1, 7, 3; and third row 1, 2, 0 ?", 
+    "tossupA": "W) F IS INJECTIVE", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea76"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "KOMATIITE", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Why is it impossible for white dwarfs to have a mass greater than about 1.44 solar masses?\n\n\n\nW)  Above 1.4 solar masses, pair-pair production leads to the combination of protons and electrons\u2028\n\nX)  Above 1.4 solar masses temperatures become so hot that the outward pressure of gas slowly blows the star apart \n\nY)  White dwarfs cannot achieve hot enough temperatures for electron degeneracy pressure to counteract gravitational contraction above 1.44 solar masses\u2028\n\nZ)  Relativistic effects prevent electron degeneracy pressure from counteracting arbitrarily strong gravitational forces", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "What type of ultramafic rock is believed to be no longer formed on Earth because the mantle is no longer hot enough?", 
+    "tossupA": "Z)  RELATIVISTIC EFFECTS PREVENT ELECTRON DEGENERACY PRESSURES FROM COUNTERACTING ARBITRARILY STRONG GRAVITATIONAL FORCES", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea77"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "SMALL MODULAR REACTORS", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "What sector of natural gas production is projected to have the largest increase over the next decades?", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "What flexible, cost effective alternative to large nuclear power plants are defined by the IAEA as those plants with an electricity output of less than 300 Megawatts?", 
+    "tossupA": "SHALE GAS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea78"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "RAMAN SPECTROSCOPY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Rank the following three molecules from the shortest bond length to the longest bond length, as predicted by MO theory:\n\n\n\nB2+\n\nB2\n\nB2-", 
+    "packetNum": 4, 
+    "date_modified": "2017-11-22T15:13:18.399000", 
+    "bonusQ": "What type of spectroscopy, based on inelastic scattering where photons are shifted in frequency upon atomic collision, excites normal modes that transform with the same symmetry as quadratic forms and are hence accompanied by a change in polarizability?", 
+    "tossupA": "3, 2, 1", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:13:18.399000", 
+    "_id": {
+      "$oid": "5a16048e6fd1dd08b0f7ea79"
+    }, 
+    "questionNum": 25
+  }
+]

@@ -6,13 +6,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT a present-\r\nday lithospheric plate? \r\n \r\nW) Philippine \r\nX) Scotia \r\nY) Arabian \r\nZ) Arctic", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice During the month of January, the Earth \r\nmoves along its orbit at a rate that is which of the following? \r\n \r\nW) Faster than during July \r\nX) The same rate as any other month of the year \r\nY) Slower than during March or September \r\nZ) The same rate as it is in June", 
     "tossupA": "Z) ARCTIC", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e2"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,13 +23,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice In which of the following pairs are both properties \r\ncolligative? \r\n \r\nW) Freezing point depression and lowering of vapor pressure \r\nX) Freezing point depression and density \r\nY) Boiling point elevation and color \r\nZ) Boiling point elevation and ionic strength", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the noble gas electron configuration for gold?", 
     "tossupA": "W) FREEZING POINT DEPRESSION AND LOWERING OF VAPOR PRESSURE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e3"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -36,13 +40,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is associated with \r\nKarst topography? \r\n \r\nW) Fossiliferous sandstones \r\nX) Hydrothermal activity \r\nY) Large granitic boulders \r\nZ) Sinkholes", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What is the gradient, in feet per mile, of a \r\nstream slope whose highest elevation is 1600 feet to a point with an elevation of 400 feet over a \r\ndistance of 5 miles?", 
     "tossupA": "Z) SINKHOLES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e4"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,13 +57,15 @@
     "tossupQ": "ENERGY Multiple Choice Identify which of the following forces has the weakest relative \r\nstrength. \r\n \r\nW) Electromagnetic \r\nX) Gravity \r\nY) Weak nuclear \r\nZ) Strong nuclear", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer By name or number, rank the following four states from least to \r\ngreatest in terms of average daily solar radiation intensity: 1) Indiana, 2) South Dakota, 3) \r\nArizona, 4) California.", 
     "tossupA": "X) GRAVITY", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e5"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 1, 
@@ -66,28 +74,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following will NOT alter a somatic cell\u2019s \r\ngenome during an organism\u2019s lifetime? \r\n \r\nW) Gene amplification \r\nX) Selective gene loss \r\nY) Transposons \r\nZ) Meiosis (read as: my-\u014cE-sis)", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following reptiles is known as a living fossil? \r\n \r\nW) Komodo dragon \r\nX) Sea turtle \r\nY) Anaconda \r\nZ) Tuatara (read as: tuh-ah-TAHR-ah)", 
     "tossupA": "Z) MEIOSIS", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e6"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "SARAH = 12; JIM = 6; TOM = 2", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer How many subsets does the set consisting of the numbers 1, 2, and 3 \r\nhave?", 
-    "packetNum": 10, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Sarah is 10 years older than Tom. Tom is 4 years younger than Jim. \r\nSarah is twice as old as Jim. Give the ages, in years, of Sarah, Jim, and Tom, respectively.", 
-    "tossupA": "8", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1e7"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -96,13 +91,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the term for fractures that result in \r\nsmooth curved surfaces, such as broken glass?", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Give the name of the soft, porous, calcium \r\ncarbonate spires found in places like Mono Lake in eastern California that formed long ago \r\nwhen calcium-bearing fresh water bubbled up into the alkaline lake rich in carbonates.", 
     "tossupA": "CONCHOIDAL", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e8"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,13 +108,15 @@
     "tossupQ": "ENERGY Multiple Choice The mass of a brick is measured on Earth, then transported to the \r\nMoon and measured again. Compared to its mass on Earth, the brick\u2019s mass on the Moon will \r\nbe which of the following? \r\n \r\nW) Smaller \r\nX) The same \r\nY) Larger \r\nZ) Impossible to determine without further information", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer By name or number, rank the following four choices from least to \r\ngreatest annual methane emissions: 1) wastewater treatment, 2) landfills, 3) ruminant digestion, \r\n4) manure management.", 
     "tossupA": "X) THE SAME", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1e9"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,28 +125,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Atoms of the most active nonmetals have which of \r\nthe following characteristics? \r\n \r\nW) Small atomic radii and high ionization energies \r\nX) Small atomic radii and low ionization energies \r\nY) Large atomic radii and high ionization energies \r\nZ) Large atomic radii and low ionization energies", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Suppose you tie a rock to the end of a 1 meter long \r\nstring and spin it in a vertical circle. Given 10 meters per second squared as g, what is the \r\nminimum integer speed needed to \u201cjust\u201d get around the top?", 
     "tossupA": "W) SMALL ATOMIC RADII AND HIGH IONIZATION ENERGIES", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ea"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "X) FERNS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer By mass, what element is the most abundant in the human \r\nbody?", 
-    "packetNum": 10, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following are NOT bryophytes (read as: BRY-\r\noh-fyts):? \r\n \r\nW) Liverworts \r\nX) Ferns \r\nY) Hornworts \r\nZ) Mosses", 
-    "tossupA": "OXYGEN", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1eb"
-    }, 
-    "questionNum": "10"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -156,13 +142,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following inequalities has a finite solution set over the \r\nintegers? \r\n \r\nW) x<sup>2</sup> + 5x + 6 > 0 \r\nX) |x + 2| > 4 (read as: the absolute value of the quantity x plus 2 is greater than 4) \r\nY) 9x \u2013 7 < 3x + 14 \r\nZ) x<sup>2</sup> \u2013 4x + 3 < 0", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Alice stands 30 feet away from a building and looks up to the top of it. \r\nThe angle of elevation is 45 degrees. If she is 5 feet tall, how tall is the building in feet?", 
     "tossupA": "Z) x<sup>2</sup> \u2013 4x + 3 < 0", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ec"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Monotremes (read as: MOH-noh-treems) are often \r\nconsidered ancestral mammals. Which of the following characteristics are present for every \r\nspecies of mammal except monotremes (read as: MOH-noh-treems)? \r\n \r\nW) Mammary glands \r\nX) Live birth \r\nY) Fur or hair \r\nZ) Warm-blooded", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following temperatures is the warmest? \r\n \r\nW) 31\r\no \r\nCelsius \r\nX) 74\r\no \r\nFahrenheit \r\nY) 84\r\no \r\nFahrenheit \r\nZ) 303 Kelvin", 
     "tossupA": "X) LIVE BIRTH", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ed"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +176,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following represents the rate \r\nat which atmospheric gases and particles are moved across a surface? \r\n \r\nW) Vertical dispersion \r\nX) Turbulence \r\nY) Flux \r\nZ) Stratospheric transport", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer By name or number, what is the order, from \r\nthinnest to thickest, of the Earth's: 1) crust, 2) mantle, 3) outer core, and 4) inner core?", 
     "tossupA": "Y) FLUX", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ee"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 4, 
@@ -201,13 +193,15 @@
     "tossupQ": "MATH Short Answer What is the largest subset of the real numbers that can be the domain \r\nof the function f(x) = 1/x?", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer  Find the area in square centimeters of an irregular dodecagon that \r\nlooks like a plus sign formed from 12 equal segments with lengths of 7 centimeters each.", 
     "tossupA": "THE REAL NUMBERS EXCEPT FOR 0", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1ef"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,28 +210,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following do chloroplasts have in common \r\nwith mitochondria (read as: my-toh-KOHN-dree-ah)? \r\n \r\nW) They do not contain ribosomes (read as: RY-boh-s\u014dems) \r\nX) They have a single membrane \r\nY) They replicate themselves and their own DNA \r\nZ) They contain thylakoids (read as: THY-lah-kohids)", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the phrase for the maximum number of individuals \r\nof a given species that an area\u2019s resources can sustain indefinitely without significantly \r\ndepleting or degrading those resources?", 
     "tossupA": "Y) THEY REPLICATE THEMSELVES AND THEIR OWN DNA", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1f0"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "Y) SUBSTANCE B IS THE LIMITING REAGENT", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following animals does NOT belong to \r\nthe scientific suborder Ruminata? \r\n \r\nW) Cow \r\nX) Llama \r\nY) Moose \r\nZ) Wildebeest", 
-    "packetNum": 10, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice In a given reaction, three moles of Substance A \r\nreact completely with two moles of Substance B to create Substances C and D. The reaction \r\ncontinues to completion and feels cold to the touch, but neither Substance A nor B was cold to \r\nthe touch prior to the reaction. Which of the following is TRUE regarding the reaction? \r\n \r\nW) There was a total of 5 moles of products created \r\nX) The overall reaction was exothermic \r\nY) Substance B is the limiting reagent \r\nZ) The activation energy of the reaction is less than the activation energy of the reverse reaction", 
-    "tossupA": "X) LLAMA", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1f1"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 4, 
@@ -246,43 +227,15 @@
     "tossupQ": "MATH Short Answer In simplest radical form, what is the magnitude of the complex \r\nnumber 2 + 3i ?", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Which of the following features would indicate that a dataset is not \r\nfrom a normal distribution? \r\n \r\nW) The range is equal to 6 standard deviations \r\nX) There are outliers \r\nY) The range is much larger than the interquartile range \r\nZ) The mean is much larger than the median", 
     "tossupA": "13", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1f2"
     }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "0.2", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the charge of the ammonium ion?", 
-    "packetNum": 10, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer Providing your answer as a decimal to the nearest \r\ntenth and given that the speed of sound in air is 350 meters per second, what is the length, in \r\nmeters, of a closed organ pipe that can produce a tone of 440 hertz?", 
-    "tossupA": "+1", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1f3"
-    }, 
-    "questionNum": "18"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "Y) PEAS, BECAUSE THEY WILL MAXIMIZE THE NITROGEN IN THE SOIL FOR \r\nTHE CORN", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What is the general term for an enzyme that unwinds the \r\nDNA double-helix during DNA replication?", 
-    "packetNum": 10, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice A farmer has planted corn in a field for the last 5 years, \r\nand has been disappointed with his crop yield for the last 2 years. Which of the following crops \r\nshould he plant next year to maximize the corn yield for the following year? \r\n \r\nW) Nothing, it will let the soil recover completely from being planted \r\nX) Potatoes, because they have the deepest roots and will aerate the soil \r\nY) Peas, because they will maximize the nitrogen in the soil for the corn \r\nZ) Wheat, because they use different nutrients than the corn", 
-    "tossupA": "HELICASE", 
-    "setNum": 5, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd1f4"
-    }, 
-    "questionNum": "19"
+    "questionNum": 17
   }, 
   {
     "category": 6, 
@@ -291,13 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the name of the process in which nitrogen \r\nfrom dead and decomposing animals is converted to inorganic forms such as ammonium salts?", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Of the 5 nitrogenous bases commonly found in either \r\nDNA or RNA, name all of the pyrimidines found in RNA.", 
     "tossupA": "MINERALIZATION", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1f5"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -306,13 +261,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer The generator of a utility company produces 100 \r\namperes of current at 10,000 volts. The voltage is then stepped up by a transformer to 100,000 \r\nvolts for transmission. What will be the current, in amperes, in the transmission lines?", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the term for the process by which a gas under \r\npressure escapes through an opening that is much smaller than the distance between gas \r\nmolecules?", 
     "tossupA": "10", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1f6"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +278,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following parts of a fish can be used to \r\nestimate its age? \r\n \r\nW) Scale \r\nX) Fin \r\nY) Gill \r\nZ) Mouth", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the principle difference between \r\nthe two types of active transport? \r\n \r\nW) Primary active transport involves an electrochemical gradient, while secondary active \r\ntransport involves chemical energy \r\nX) Primary active transport involves chemical energy, while secondary active transport involves \r\nan electrochemical gradient \r\nY) Primary active transport involves moving ions into a cell, while secondary active transport \r\ninvolves moving ions out of a cell \r\nZ) Primary active transport involves moving ions out of a cell, while secondary active transport \r\ninvolves moving ions into a cell", 
     "tossupA": "W) SCALE* \r\n \r\n*[See http://www.fw.delaware.gov/Fisheries/Documents/agegrowth.pdf to learn how this is done.]", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1f7"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +295,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Atoms with one or more unpaired electrons are \r\nwhich of the following? \r\n \r\nW) Diamagnetic \r\nX) Paramagnetic \r\nY) Polar \r\nZ) Radioactive", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the current, in amperes, produced by a \r\nlightning strike that lasts 0.5 seconds and transfers 100 coulombs?", 
     "tossupA": "X) PARAMAGNETIC", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1f8"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 5, 
@@ -351,13 +312,15 @@
     "tossupQ": "ENERGY Multiple Choice In the mid-nineteenth century, the English physicist James Joule \r\ncreated a device in which falling weights rotated paddles immersed in a barrel of water. Which \r\nof the following results did he observe? \r\n \r\nW) The potential energy of the weights transferred entirely into kinetic energy to drive the \r\npaddles \r\nX) The potential energy of the weights transferred entirely into elastic energy to drive the \r\npaddles \r\nY) The water in the barrel warmed slightly \r\nZ) The water in the barrel cooled slightly", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What is the term for the accumulated partially decayed vegetation \r\nor histosol that forms in wetland bogs, moors, and pocosins?", 
     "tossupA": "Y) THE WATER IN THE BARREL WARMED SLIGHTLY", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1f9"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 6, 
@@ -366,12 +329,99 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following minerals might you use in \r\ninsulation? \r\n \r\nW) Talc \r\nX) Albite \r\nY) Pyrope (read as: PY-r\u014dep) \r\nZ) Quartz", 
     "packetNum": 10, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice An ice cube dyed with red food coloring is placed \r\ninto a cup of fresh water at room temperature. An identical cube is placed into salt water. Where \r\nwill the color go as the ice cubes melt?  \r\n \r\nW) Bottom of the cup in fresh water and top of the cup in salt water \r\nX) Top of the cup in fresh water and bottom of the cup in salt water \r\nY) Mixed into the water in both cups \r\nZ) Bottom of the cup in both cups", 
     "tossupA": "X) ALBITE", 
     "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd1fa"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "SARAH = 12; JIM = 6; TOM = 2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer How many subsets does the set consisting of the numbers 1, 2, and 3 \r\nhave?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Sarah is 10 years older than Tom. Tom is 4 years younger than Jim. \r\nSarah is twice as old as Jim. Give the ages, in years, of Sarah, Jim, and Tom, respectively.", 
+    "tossupA": "8", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1e7"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0.2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the charge of the ammonium ion?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Providing your answer as a decimal to the nearest \r\ntenth and given that the speed of sound in air is 350 meters per second, what is the length, in \r\nmeters, of a closed organ pipe that can produce a tone of 440 hertz?", 
+    "tossupA": "+1", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1f3"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) FERNS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer By mass, what element is the most abundant in the human \r\nbody?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following are NOT bryophytes (read as: BRY-\r\noh-fyts):? \r\n \r\nW) Liverworts \r\nX) Ferns \r\nY) Hornworts \r\nZ) Mosses", 
+    "tossupA": "OXYGEN", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1eb"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) SUBSTANCE B IS THE LIMITING REAGENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following animals does NOT belong to \r\nthe scientific suborder Ruminata? \r\n \r\nW) Cow \r\nX) Llama \r\nY) Moose \r\nZ) Wildebeest", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice In a given reaction, three moles of Substance A \r\nreact completely with two moles of Substance B to create Substances C and D. The reaction \r\ncontinues to completion and feels cold to the touch, but neither Substance A nor B was cold to \r\nthe touch prior to the reaction. Which of the following is TRUE regarding the reaction? \r\n \r\nW) There was a total of 5 moles of products created \r\nX) The overall reaction was exothermic \r\nY) Substance B is the limiting reagent \r\nZ) The activation energy of the reaction is less than the activation energy of the reverse reaction", 
+    "tossupA": "X) LLAMA", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1f1"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) PEAS, BECAUSE THEY WILL MAXIMIZE THE NITROGEN IN THE SOIL FOR \r\nTHE CORN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the general term for an enzyme that unwinds the \r\nDNA double-helix during DNA replication?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice A farmer has planted corn in a field for the last 5 years, \r\nand has been disappointed with his crop yield for the last 2 years. Which of the following crops \r\nshould he plant next year to maximize the corn yield for the following year? \r\n \r\nW) Nothing, it will let the soil recover completely from being planted \r\nX) Potatoes, because they have the deepest roots and will aerate the soil \r\nY) Peas, because they will maximize the nitrogen in the soil for the corn \r\nZ) Wheat, because they use different nutrients than the corn", 
+    "tossupA": "HELICASE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1f4"
+    }, 
+    "questionNum": 19
   }
 ]

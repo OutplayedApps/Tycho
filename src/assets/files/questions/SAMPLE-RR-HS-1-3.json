@@ -1,0 +1,402 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "X) performing SPR with the protein deposited on a gold surface", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which specific tissue of the brain is responsible for producing cerebrospinal fluid?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Which of the following techniques would be most useful for determining the binding constant of a protein to its ligand?\n\n\n\nW)  performing NMR on the protein-ligand complex\n\nX)  performing SPR with the protein deposited on a gold surface\n\nY)  performing X-ray crystallography on the protein and comparing the structure to the structure of the ligand\n\nZ)  performing UV/vis spectroscopy on a solution of the ligand and the protein", 
+    "tossupA": "CHOROID PLEXUS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aa5"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2. METHYL CHLORIDE; 1. ISOPROPYL CHLORIDE; 3. tert-BUTYL CHLORIDE (ACCEPT: 2, 1, 3)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following best describes the addition of a molecule of bromine to the carbon-carbon double bond of an alkene?\n\n\n\nW)  Both bromine atoms add to the same carbon atom\n\nX)  The bromine atoms add in a syn-configuration to adjacent carbon atoms\n\nY) The bromine atoms add in an anti-configuration to adjacent carbon atoms\n\nZ)  Only one bromine atom adds to the carbon skeleton", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Rank the following alkyl chlorides in order of increasing reactivity in an SN1 reaction, from the least reactive to the most:\n\n\n\nIsopropyl Chloride\n\nMethyl Chloride\n\ntert-Butyl Chloride", 
+    "tossupA": "Y) THE BROMINE ATOMS ADD IN AN ANTI-CONFIGURATION TO ADJACENT CARBON ATOMS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aa6"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "3f/5", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "The midday color of the sky and its reddish hues at sunset are caused by Rayleigh scattering of sunlight in the atmosphere. Assume that the rate of scattering of light is C. If the wavelength of light is doubled, what is the new rate?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Suppose that the photon emitted by a particle in a box transitioning from the n=3 to n=2 quantum level has frequency f. In terms of f, what is the frequency of a photon transitioning from the n=2 to n=1 quantum level in this box?", 
+    "tossupA": "C/16", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aa7"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y)  ANOVAs ARE LESS LIKELY TO PRODUCE A TYPE I ERROR THAN T-TESTS", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "For a curve parametrized by the equations x(t) = 2cos(t) + 1 and y(t) = sin(t), what is the value of t on the closed interval [0 , \u03c0] that gives a horizontal tangent?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Which of the following is true of ANOVA methods?\n\n\n\nW) The random effect ANOVA model is most useful for analyzing data from natural populations\n\nX)  ANOVA assumes that cases are not independent\n\nY) ANOVAs are less likely to produce a type I error than t-tests\n\nZ)  ANOVAs are not useful for randomization-based analysis", 
+    "tossupA": "T= \u03c0/2 (READ: T EQUALS PI OVER 2)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aa8"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SPHERICAL ABERRATION", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three statements concerning streams and rivers that are TRUE:\n\n\n\n1.  A stream that existed before the present topography was created is called an antecedent stream.\n\n2.  Foreset beds are generally composed of sand and silt.\n\n3.  The east coast of North America generally lacks deltas because of weak waves and tides.", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Which type of optical aberration involves light from a distant point source not being focused on the same point due to the increased refraction of light rays when they strike a mirror near its edge?", 
+    "tossupA": "1 AND 2", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aa9"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "2 ONLY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three statements concerning the hydrogen economy that are TRUE:\n\n\n\n1.  Some noble metals, like palladium, are being investigated in potential storage mechanisms for Hydrogen.\n\n2.  Some byproducts of hydrogen combustion must be contained and released in special deposit areas.\n\n3.  Currently, hydrogen is largely produced by the heterolysis of ammonia from the Haber process.", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Indicate all of the following three statements concerning solar energy that are TRUE:\n\n\n\n1.  Solar insolation averages about 140 watts per square meter on the Earth\n\n2.  The current theoretical efficiency for a silicon PV cell is about 30-35%\n\n3.  Solar thermal energy is generally less efficient than PV at using photons to drive a heat engine", 
+    "tossupA": "1 ONLY", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aaa"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2 ONLY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "For both the cation and anion respectively, what is the coordination number of the type of lattice that is most stable when cations and anions are of roughly equal size, as typified by cesium chloride?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Indicate all of the following three statements concerning coordination compounds that are TRUE:\n\n\n\n1.  Tetrahedral splitting is greater than octahedral splitting for the same ligands and metal\n\n2.  Strong-field ligands produce complexes with large splitting\n\n3.  Square planar and octahedral coordination complexes cannot be chiral", 
+    "tossupA": "8 AND 8", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aab"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "3 ONLY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following four changes that would increase hemoglobin's affinity for oxygen gas:\n\n\n\n1.  Increasing blood pH\n\n2.  Increasing 2,3-bisphosphoglycerate's intracellular levels\n\n3.  Increasing serum concentration of CO2\n\n4.  Increasing temperature", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Indicate all of the following three statements that are TRUE of Bicoid and the morphogen gradient hypothesis:\n\n\n\n1.  Bicoid increases in concentration anterior to posterior\n\n2.  Bicoid undergoes active transport from cell to cell\n\n3.  Bicoid mRNA is transferred to egg cells via cytoplasmic bridges", 
+    "tossupA": "1 AND 4", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aac"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "3, 1, 2", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following four particles which have half-integer spin:\n\n\n\nTop quark\n\n\u03c00 meson\n\nW+ boson\n\nMuon", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Consider an electrostatic configuration where the electric potential V = xyz (READ: V equals x times y times z). Rank the following three points in terms of increasing value for the electric field in the y-hat direction: 1. The origin; 2. The point (1,2,-3); 3. The point (1,-2,3).", 
+    "tossupA": "1 AND 4", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aad"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "32/125", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Consider a line that passes through the point (5,5) and has a positive x-intercept and a negative y-intercept. Which of the following points could also be on this line?\n\n\n\nW) (5,7)\n\nX)  (1,-1)\n\nY) (7,6)\n\nZ)  (6,7)", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "A right circular cone with a base radius of 4 is inscribed in a sphere with a radius of 5. What is the ratio of the volume of the cone to that of the sphere?", 
+    "tossupA": "Z) (6,7)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aae"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1, 2, AND 4", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following is TRUE of type 1A supernovas?\n\n\n\nW)  The primary peak in their light curves is due to the formation and decay of nickel\n\nX)  Most type 1A supernovas result in the formation of white dwarves and neutron stars\n\nY)  Type 1A supernovas occur almost always in elliptical galaxies\n\nZ)  Type 1A supernovas lack silicon spectral lines", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Indicate all of the following four stars that are in the constellation Orion:\n\n\n\n1. Bellatrix\n\n2. Rigel\n\n3. Capella\n\n4. Betelgeuse", 
+    "tossupA": "W) THE PRIMARY PEAK IN THEIR LIGHT CURVES IS DUE TO THE FORMATION AND DECAY OF NICKEL", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aaf"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "PROTONS AND ANTIPROTONS", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Over the past decade, oil extraction at the Canadian oil sands has exceeded the world average amount of carbon released into the atmosphere per barrel of oil extracted by 20%. The release of what gas is responsible for this discrepancy?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "DOE researchers at Fermilab's Tevatron accelerate and then collide what two particles?", 
+    "tossupA": "METHANE", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab0"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "HYBRIDIZATION IS dsp3 (ACCEPT: sp3d) AND MOLECULAR GEOMETRY IS T-SHAPED", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following correctly gives the molecular orbital description for the molecule C2?\n\n\n\nW)  C2 is paramagnetic and has unpaired electrons filling valence antibonding \u03c0* orbitals\n\nX)  C2 is diamagnetic and has only paired electrons filling valence antibonding \u03c0* orbitals\n\nY)  C2 is paramagnetic and has unpaired electrons filling valence bonding orbitals\n\nZ)  C2 is diamagnetic and has only paired electrons filling valence bonding orbitals", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "What is the VSEPR-predicted hybridization of the central atom and molecular geometry of the molecule BrF3?", 
+    "tossupA": "Z) C2 is diamagnetic and has only paired electrons filling valence bonding orbitals", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab1"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Unpolarized light is passed through a vertical polarizer, and then passed again through a polarizer titled 30 degrees from the vertical. Assuming both polarizers are ideal, what fraction of the initial intensity passes through?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "At 50 degrees Celsius, water has a surface tension of approximately 10 millinewtons per meter. When the flow rate through a pipe is kept sufficiently low and turbulent, a stream of water is observed to separate into drops. To the nearest millimeter, what is the minimum diameter of these drops?", 
+    "tossupA": "3/8", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab2"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TETRODOTOXIN", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three proteases that are serine proteases:\n\n\n\n1.  Pepsin\n\n2.  Trypsin\n\n3.  Chymotrypsin", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Both ocean sunfish and pufferfish contain which powerful neurotoxin which acts as a sodium channel blocker?", 
+    "tossupA": "2 AND 3", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab3"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X=1 IS A MAXIMUM, X=3 IS A MINIMUM", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "What is the limit as x approaches 1 of the fraction with numerator (x-1) and denominator (x6-1) ?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "For the function f(x) = x3 \u2013 6x2 + 9x, find all the critical values for x and classify them as either maxima, minima, or neither:", 
+    "tossupA": "1/6", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab4"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "750", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "What type of unconformity results when in which the upper beds overlie metamorphic or igneous rock?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Radiation from a hypothetical blue dwarf is peaked at a wavelength of 250 nanometers. A spaceship travelling away from the star at 0.8c observes a spectrum peaked at what wavelength, in nanometers?", 
+    "tossupA": "NONCONFORMITY", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab5"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "MAGNETOTACTIC BACTERIA (ACCEPT: MTB)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following statements is TRUE regarding the Haber process?\n\n\n\nW)  The catalyst used is a mixture of platinum and rhodium\n\nX)  The reaction is run at a low temperature of 25 C to increase the equilibrium constant\n\nY)  Ammonia produced is used to produce nitric acid in the Ostwald process\n\nZ)  Most of the nitrogen used is isolated from soil", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Recently, DOE researchers at the Advanced Light Source studied the magnetic nanocrystal chains produced by some genera of bacteria using X-ray magnetic circular dichroism. What is the name for bacteria that produce and use these nanocrystals to find their optimum environments?", 
+    "tossupA": "Y) AMMONIA PRODUCED IS USED TO PRODUCE NITRIC ACID IN THE OSTWALD PROCESS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab6"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "1, 2, AND 3 (ACCEPT: ALL OF THEM)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following statements about reaction kinetics is false, given that C represents the concentration of a reactant A?\n\n\n\nW)  Zero order reactions have a linear relationship between C and time\n\nX)  First order reactions have a linear relationship between the logarithm of C and time\n\nY) Second order reactions have a linear relationship between the reciprocal of C and time\n\nZ)  Third order reactions have a linear relationship between the square root of C squared and time", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Indicate all of the following three thermodynamic quantities which would have a positive value in the vaporization of liquid water into steam at 95 \u02daC.\n\n\n\n\u2206H\n\n\u2206S\n\n\u2206G", 
+    "tossupA": "Z) THIRD order reactions have a linear relationship between the square root of C and time", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab7"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "T = 1/3 (READ: T EQUALS ONE-THIRD)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "A hollow conducting sphere encloses a charge of +q and has a net charge of -2q. What are the charges on the inner surface and the outer surface of the sphere, respectively?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "A particle is moving with a displacement s in meters as a function of time t in seconds as s(t) = 2t3 + 2t2 - 2t \u2013 1, for t greater than zero. At what positive times in seconds is the velocity of the particle zero?", 
+    "tossupA": "-Q AND -Q", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab8"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CHOLECYSTOKININ (ACCEPT: CCK)", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Indicate all of the following three statements that are TRUE of neurotransmitters:\n\n\n\n1.  Acetylcholine only has excitatory function\n\n2.  Glycine has only excitatory function\n\n3.  Serotonin has only excitatory function", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "What peptide acts on GPCRs in the GI tract and CNS to cause satiety by reducing the rate of gastric emptying?", 
+    "tossupA": "NONE OF THEM", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250ab9"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "29", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "If g(x) = 2 \u2013 f(x), and the integral from 0 to 3 of f(x) dx is equal to 12, what is the average value of g(x) on the interval from 0 to 3?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Consider the probability of rolling two primes on two 20-sided dice. When this probability is expressed as p over q for p and q co-prime integers, what is p + q?", 
+    "tossupA": "-2", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250aba"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "RAYLEIGH-TAYLOR INSTABILITY", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "Which of the following statements is FALSE of Bowen's reaction series?\n\n\n\nW)  In the continuous series, calcium-rich plagioclaise crystallizes before sodium-rich\n\nX)  Potassium-rich muscovite mica crystallizes before magnesium-rich biotite mica\n\nY)  Out of the common minerals, olivine crystallizes first and quartz crystallizes last\n\nZ)  Felsic rocks will generally crystallize after mafic rocks", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "What type of atmospheric instability, which is clearly visible in the Crab nebula, results from an interface of two fluids with two different densities?", 
+    "tossupA": "X)  POTASSIUM-RICH MUSCOVITE MICA CRYSTALLIZES BEFORE MAGNESIUM-RICH BIOTITE MICA", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250abb"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z)  FERMIONS HAVE ANTISYMMETRIC WAVE FUNCTIONS UNDER PARTICLE EXCHANGE AND OBEY THE PAULI EXCLUSION PRINCIPLE", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "What near-IR telescope, which is aimed to orbit at the Earth-Sun L2 point and is planned for launch in late 2018, is the successor to Hubble and contains hexagonal gold-plated beryllium mirrors?", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "DOE scientists working with European counterparts at CERN are colliding fermions at the LHC to generate and study the Higgs boson. Which of the following statements concerning fermions and bosons is TRUE?\n\n\n\nW)  Bosons have symmetric wave functions under particle exchange and obey the Pauli exclusion principle\n\nX)  Bosons have antisymmetric wave functions under particle exchange and violate the Pauli exclusion principle\n\nY)  Fermions have symmetric wave functions under particle exchange and violate the Pauli exclusion principle\n\nZ)  Fermions have antisymmetric wave functions under particle exchange and obey the Pauli exclusion principle", 
+    "tossupA": "JAMES WEBB SPACE TELESCOPE (ACCEPT: JWST)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250abc"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3, 1, 2", 
+    "vendorNum": "SAMPLE-RR-HS", 
+    "tossupQ": "The reaction of carbon monoxide gas with oxygen gas to produce carbon dioxide gas is exothermic. Indicate all of the following three actions that will shift the equilibrium of this reaction to the right.\n\n\n\nIncreasing the volume of the container\n\nIncreasing the temperature of the container\n\nAdding nitrogen gas to the container", 
+    "packetNum": 3, 
+    "date_modified": "2017-11-22T15:12:22.030000", 
+    "bonusQ": "Rank the following three compounds in terms of increasing oxidation state of carbon:\n\n\n\nMethylamine\n\nFormaldehyde\n\nMethane", 
+    "tossupA": "NONE OF THEM", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:12:22.030000", 
+    "_id": {
+      "$oid": "5a1604566fd1dd207c250abd"
+    }, 
+    "questionNum": 25
+  }
+]

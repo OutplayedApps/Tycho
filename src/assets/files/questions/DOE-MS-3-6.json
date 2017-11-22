@@ -6,13 +6,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the MOST common manner for \r\ntransmission of beef tapeworms to humans: \r\n \r\nW) drinking contaminated water \r\nX) swimming in contaminated water \r\nY) eating uncooked beef \r\nZ) stepping in cow manure", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is a segmented worm: \r\n \r\nW) hook worm \r\nX) earthworm \r\nY) round worm \r\nZ) nematode", 
     "tossupA": "Y) EATING UNCOOKED BEEF", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb70"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 3, 
@@ -21,13 +23,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Specific gravity compares the density of various \r\nsubstances to that of what reference substance?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the BEST example of a \r\nchemical reaction: \r\n \r\nW) an acid is added to a clear solution in a test tube and a white substance appears and falls to the \r\nbottom of the test tube \r\nX) milk is added to water and the water turns a milky color \r\nY) molten metal hardens upon cooling \r\nZ) salt is dissolved in water", 
     "tossupA": "WATER", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb71"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 0, 
@@ -36,13 +40,15 @@
     "tossupQ": "EARTH SCIENCE Short Answer What is the name for the internal ring within a hurricane \r\nwhere the most intense squalls occur?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice As the eyewall of hurricane Katrina approached Louisiana, \r\non which of the following sides of the hurricane were the highest speeds clocked: \r\n \r\nW) north \r\nX) south \r\nY) east \r\nZ) west", 
     "tossupA": "EYEWALL", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb72"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,13 +57,15 @@
     "tossupQ": "MATH Short Answer Evaluate the following radical: \u2013\r\n000,160", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Arrange the following 4 fractions from the LARGEST to the \r\nSMALLEST: \r\n12\r\n2;\r\n4\r\n10;\r\n12\r\n7;\r\n18\r\n13", 
     "tossupA": "\u2013400", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb73"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 6, 
@@ -66,13 +74,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is closest to average barometric \r\npressure at sea level, in millibars: \r\n \r\nW) 1013 \r\nX) 760 \r\nY) 10 \r\nZ) 1", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 units of the international \r\nsystem of units that are considered base units and NOT considered derived: Newton, kilogram, \r\nsecond, hertz", 
     "tossupA": "W) 1013", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb74"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 1, 
@@ -81,13 +91,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Arachnids have how many pairs of appendages?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Arachnids have 4 pairs of walking legs and a single pair of \r\npedipalps. What is the name of the last pair of appendages?", 
     "tossupA": "6", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb75"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 3, 
@@ -96,13 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Doing a given amount of work at different rates always \r\ninvolves a different amount of: \r\n \r\nW) mass \r\nX) efficiency \r\nY) potential energy \r\nZ) power", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer If a force of 200 newtons is required to accelerate an \r\nobject at 25 meters per second squared on a horizontal frictionless surface, what is the mass of the \r\nobject, in grams?", 
     "tossupA": "Z) POWER", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb76"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 0, 
@@ -111,13 +125,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is the actual location where \r\nslippage of rock masses first occurs in an earthquake: \r\n \r\nW) seismic front \r\nX) focus \r\nY) Richter point \r\nZ) foreshock", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer What is the name for the location on the Earth\u2019s surface \r\ndirectly above an earthquake focus?", 
     "tossupA": "X) FOCUS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb77"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 4, 
@@ -126,13 +142,15 @@
     "tossupQ": "MATH Short Answer What is the percentage decrease when a stock price drops from $55.00 per \r\nshare to $44.00 per share?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A cell phone company charges 25 cents per minute for the first 10 \r\nminutes of usage and 10 cents per minute for usage greater than 10 minutes. If you talked for 1\u00bd \r\nhours, what is your total airtime charge?", 
     "tossupA": "20%", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb78"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 6, 
@@ -141,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is closest to the height of the \r\ntypical standard 12-ounce soda can: \r\n \r\nW) 6 centimeters \r\nX) 12 centimeters \r\nY) 18 centimeters \r\nZ) 24 centimeters", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following BEST describes the \r\ncomposition of the Proton Exchange Membrane in fuel cells used to power automobiles: \r\n \r\nW) polymer plastic \r\nX) metal foil \r\nY) organic fiber \r\nZ) biofilm", 
     "tossupA": "X) 12 CENTIMETERS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb79"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,13 +176,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is closest to the length of time it \r\ntakes for a typical human cell to complete mitosis: \r\n \r\nW) 1 second \r\nX) 1 minute \r\nY) 1 hour \r\nZ) 1 day", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Order the following 4 stages of mitosis from the EARLIEST to \r\nthat LATEST: metaphase; prophase; telophase; anaphase", 
     "tossupA": "Z) 1 DAY", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb7a"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 3, 
@@ -171,13 +193,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is an example of laboratory \r\nequipment that is specifically designed to mix fluids without spilling: \r\n \r\nW) pipette \r\nX) centrifuge \r\nY) Erlenmeyer flask \r\nZ) graduated cylinder", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements is NOT a gas in its \r\nstandard state: \r\n \r\nW) fluorine \r\nX) nitrogen \r\nY) bromine \r\nZ) neon", 
     "tossupA": "Y) ERLENMEYER FLASK", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb7b"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +210,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following fossils is the oldest: \r\n \r\nW) fossil of the earliest flowering plant \r\nX) fossilized frog\u2019s egg \r\nY) trilobite \r\nZ) mastodon", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a layer of the Earth that is \r\nprimarily characterized as rock with the properties of being hot, weak and plastic: \r\n \r\nW) lithosphere \r\nX) asthenosphere \r\nY) inner core \r\nZ) outer core", 
     "tossupA": "Y) TRILOBITE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb7c"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 4, 
@@ -201,13 +227,15 @@
     "tossupQ": "MATH Short Answer What is the degree measure of the vertex angle in an isosceles triangle if \r\neach base angle measures 48\u00ba?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the surface area of a cube, in square feet, if one edge measures 5 \r\nfeet?", 
     "tossupA": "84", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb7d"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 6, 
@@ -216,13 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice You wake up in the morning and your eyelids are \r\nstuck together with a thin or thick discharge caused by inflammation of the clear membrane that \r\ncovers the white part of your eyes. Which of the following is MOST likely your problem: \r\n \r\nW) sinusitis \r\nX) cellulitis \r\nY) osteomyelitis \r\nZ) conjunctivitis", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true about nicotine: \r\n \r\nW) chewing or smokeless tobaccos are safe when used properly because nicotine cannot be \r\nabsorbed through the mucous membrane \r\nX) nicotine and cyanide have been found in cigarettes \r\nY) during pregnancy, nicotine concentrates in breast milk and fetal blood \r\nZ) nicotine is a plant alkaloid that is poisonous to most animals", 
     "tossupA": "Z) CONJUNCTIVITIS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb7e"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 1, 
@@ -231,13 +261,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What are the scientific terms for the two general types of tissues \r\nthat conduct fluids in higher plants?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the scientific name for the basic cell type in higher \r\nplants that is relatively unspecialized, has a thin cell wall, and carries out most of the metabolism of \r\nthe plant?", 
     "tossupA": "XYLEM AND PHLOEM", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb7f"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 3, 
@@ -246,28 +278,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Of the 4 states of matter, which one is the most common \r\nin the universe?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the scientific term for the \r\nenergy needed to transform a given quantity of a substance from a liquid to a gas at standard \r\npressure: \r\n \r\nW) heat of boiling \r\nX) heat of fusion \r\nY) heat of transition \r\nZ) heat of vaporization", 
     "tossupA": "PLASMA", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb80"
     }, 
-    "questionNum": "17"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "NEW MOON", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH SCIENCE Multiple Choice Calcite belongs to which of the following mineral groups: \r\n \r\nW) oxide \r\nX) carbonate \r\nY) sulfate \r\nZ) silicate", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "EARTH SCIENCE Short Answer During what phase of the Moon can a solar eclipse occur?", 
-    "tossupA": "X) CARBONATE", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccb81"
-    }, 
-    "questionNum": "18"
+    "questionNum": 17
   }, 
   {
     "category": 4, 
@@ -276,13 +295,15 @@
     "tossupQ": "MATH Short Answer If two sides of a parallelogram are 8 and 9 centimeters, respectively, find \r\nthe perimeter, in centimeters:", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Rounded to the nearest meter, if side A of a right triangle measures 6 \r\nmeters and side B measures 9 meters, what is the length of the hypotenuse?", 
     "tossupA": "34", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb82"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +312,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Earth\u2019s seasons are primarily caused by: \r\n \r\nW) Earth\u2019s distance from the Sun \r\nX) the tilt of Earth\u2019s axis with respect to the Sun \r\nY) Earth\u2019s elliptical orbit around the Sun \r\nZ) Earth\u2019s rotational period", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the name for the muscle that contracts when you \r\ninhale and causes your chest cavity to expand?", 
     "tossupA": "X) THE TILT OF EARTH\u2019S AXIS WITH RESPECT TO THE SUN", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb83"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 1, 
@@ -306,13 +329,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the common name for the vector of Eastern Equine \r\nEncephalitis and malaria?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice What biome is dominant in sub-Saharan Africa and \r\ncharacterized by the dominant plants being fire resistant: \r\n \r\nW) chaparral \r\nX) tundra \r\nY) savanna \r\nZ) temperate", 
     "tossupA": "MOSQUITO", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb84"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 3, 
@@ -321,13 +346,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the BEST example of a \r\nsuspension: \r\n \r\nW) water with 10% ethanol added to it \r\nX) olive oil in water \r\nY) table sugar completely dissolved in water \r\nZ) orange juice with pulp", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice According to thermodynamics, whenever energy is \r\nconverted from one form to another then: \r\n \r\nW) the net useful energy remains the same \r\nX) the net useful energy must decrease \r\nY) the total energy of the system increases \r\nZ) the total energy of the system decreases", 
     "tossupA": "Z) ORANGE JUICE WITH PULP", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb85"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,13 +363,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice A caldera is: \r\n \r\nW) a huge depression formed after a magma chamber collapses  \r\nX) a long tube where magma pours out onto the surface \r\nY) a lateral vent that spews only gases \r\nZ) another name for a fumarole", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer What most commonly happens to the speed of ocean and \r\nlake waves as they approach the shallow waters of a shore?", 
     "tossupA": "W) A HUGE DEPRESSION FORMED AFTER A MAGMA CHAMBER \r\nCOLLAPSES", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb86"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 4, 
@@ -351,13 +380,32 @@
     "tossupQ": "MATH Multiple Choice Which of the following is a quadrilateral with only one pair of parallel \r\nlines: \r\n \r\nW) trapezoid \r\nX) rhombus \r\nY) rectangle \r\nZ) hexagon", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What are the median, mean and mode, respectively, of the following set \r\nof 5 numbers, respectively: 35, 25, 10, 25, 45", 
     "tossupA": "W) TRAPEZOID", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb87"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "NEW MOON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Calcite belongs to which of the following mineral groups: \r\n \r\nW) oxide \r\nX) carbonate \r\nY) sulfate \r\nZ) silicate", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer During what phase of the Moon can a solar eclipse occur?", 
+    "tossupA": "X) CARBONATE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb81"
+    }, 
+    "questionNum": 18
   }, 
   {
     "category": 6, 
@@ -366,12 +414,14 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following elements acts as a catalyst for \r\ndestroying ozone in the upper atmosphere: \r\n \r\nW) sulfur \r\nX) chlorine \r\nY) nitrogen \r\nZ) helium", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Today, most semiconductors and transistors are made \r\nmostly with what element?", 
     "tossupA": "X) CHLORINE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccb88"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
   }
 ]

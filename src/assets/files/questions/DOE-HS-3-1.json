@@ -1,33 +1,20 @@
 [
   {
-    "category": 1, 
-    "bonusA": "VALVES", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "BIOLOGY  Short Answer  Rough endoplasmic reticulum is named rough because it possesses \r\nwhat cellular structures?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "BIOLOGY  Short Answer  In humans, backflow of blood from ventricles into atria during \r\ncontraction is prevented primarily by what structures?", 
-    "tossupA": "RIBOSOMES", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6d4"
-    }, 
-    "questionNum": "1"
-  }, 
-  {
     "category": 2, 
     "bonusA": "HUMAN GASTRIC JUICE;  ORANGE JUICE;  BLOOD;  AQUEOUS AMMONIA", 
     "vendorNum": "DOE-HS", 
     "tossupQ": "CHEMISTRY  Short Answer  What are the names for positive and negative ions, respectively?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Short Answer  Arrange the following 4 substances in order of increasing pH:  \r\norange juice;  human gastric juice;  blood;  aqueous ammonia", 
     "tossupA": "POSITIVE = CATIONS;  NEGATIVE = ANIONS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6d5"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,13 +23,15 @@
     "tossupQ": "PHYSICS  Short Answer  What is the scientific term for a change in velocity per unit time?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What is the most common term in physics for the product of mass \r\ntimes velocity?", 
     "tossupA": "ACCELERATION", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6d6"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 4, 
@@ -51,28 +40,15 @@
     "tossupQ": "MATH  Short Answer  What is the 5th term in the geometric progression whose first three terms \r\nare:  64, 16, 4", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  Giving your answer in centimeters to the first decimal place, if one leg of \r\nan isosceles right triangle is 100 centimeters long, how long is the hypotenuse?", 
     "tossupA": "1/4  (ACCEPT:  0.25)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6d7"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "CONTINENTAL", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "EARTH SCIENCE  Short Answer  As a percentage by volume in Earth\u2019s atmosphere, what are \r\nthe two most abundant gases in Earth\u2019s atmosphere?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "EARTH SCIENCE  Short Answer  What type of glacier flows outward from a center as opposed \r\nto down a mountain valley?", 
-    "tossupA": "NITROGEN AND OXYGEN  (in any order)", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6d8"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 6, 
@@ -81,13 +57,15 @@
     "tossupQ": "GENERAL SCIENCE  Multiple Choice  One kilogram is nearly equivalent to how many pounds: \r\n \r\nW)  454 \r\nX)  4.54 \r\nY)  220 \r\nZ)  2.2", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following reagents would be labeled as \r\nhighly flammable because of its low flash point: \r\n \r\nW)  glycerol  \r\nX)  methanol \r\nY)  carbon tetrachloride \r\nZ)  sulfuric acid", 
     "tossupA": "Z)  2.2", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6d9"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 0, 
@@ -96,13 +74,15 @@
     "tossupQ": "ASTRONOMY  Short Answer  What is the most common term for the celestial phenomenon that \r\ncauses a comet's tail in our solar system to point away from the Sun?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following is the BEST description of our Sun: \r\n \r\nW)  a cool large star similar to Proxima Centauri \r\nX)  a small-sized star about 6 billion years old \r\nY)  a mid-sized yellow dwarf star \r\nZ)  a large-sized red giant about 4.7 billion years old", 
     "tossupA": "THE SOLAR WIND", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6da"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,28 +91,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following occurs in meiosis but NOT in mitosis: \r\n \r\nW)  spindle apparatus attaches to kinetochores \r\nX)  nuclear membrane is not visible  \r\nY)  crossing over  \r\nZ)  chromosomes line up at central area of cell", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the anatomical term for the specific section of the small \r\nintestine into which the pancreatic duct delivers its digestive enzymes?", 
     "tossupA": "Y)  CROSSING OVER", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6db"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "21", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  In the combustion of methane, if the supply of oxygen is somewhat \r\ninsufficient, what colorless, odorless and poisonous gas is produced?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  Element number 19 has an isotope named potassium-40.  How \r\nmany neutrons does this isotope contain?", 
-    "tossupA": "CARBON MONOXIDE  (ACCEPT:  CO)", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6dc"
-    }, 
-    "questionNum": "9"
+    "questionNum": 8
   }, 
   {
     "bonusA": "FREQUENCY", 
@@ -141,12 +108,14 @@
     "tossupQ": "Y)  LOUDNESS", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BONUS  PHYSICS Short Answer  What property of a sound wave most directly determines the pitch of a \r\nviolin\u2019s note? ", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6dd"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 4, 
@@ -155,13 +124,15 @@
     "tossupQ": "MATH  Short Answer  Solve the following equation for x:  \u2013 3|x| = \u201315 (read as: minus 3 times \r\nthe absolute value of x equals minus 15)", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  One-half of a number added to one third of the same number is 68 less \r\nthan the number.  What is the number?", 
     "tossupA": "5 AND \u20135", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6de"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -170,43 +141,15 @@
     "tossupQ": "EARTH SCIENCE  Short Answer  Giving your answer as north, south, east, or west, from what \r\ngeneral direction does the jet stream flow?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  In which of the following locations would you typically \r\nexpect the average salinity of surface sea water to be the HIGHEST: \r\n \r\nW)  at the mouth of the Mississippi River  \r\nX)  in the waters above the Arctic Circle  \r\nY)  in the Black Sea \r\nZ)  in the Dead Sea", 
     "tossupA": "WEST", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6df"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "1 \u00d7 10<sup>7</sup>  (DO NOT ACCEPT: 10<sup>7</sup>)", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer  In the mks system, what are the 3 fundamental units?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Short Answer  Giving your answer in scientific notation, convert 10 \r\nsquare meters into square millimeters:", 
-    "tossupA": "METERS;  KILOGRAMS;  SECONDS", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6e0"
-    }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "Z)  THE POINT ON THE CELESTIAL SPHERE DIRECTLY OVERHEAD OF AN \r\nOBSERVER", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is NOT true:  \r\n \r\nW)  most of the meteorites that have been found have a high iron content \r\nX)  a bolometer is used to measure the energy output of the Sun \r\nY)  the celestial coordinate analogous to latitude is called ascension \r\nZ)  sunlight reflecting off the Earth is called Earthshine", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following BEST describes the zenith: \r\n \r\nW)  the point in the sky that is at 180 degrees of inclination to the horizon \r\nX)  90 degrees opposite to the nadir \r\nY)  the opposite position on the ecliptic to an observer \r\nZ)  the point on the celestial sphere directly overhead of an observer", 
-    "tossupA": "Y)  THE CELESTIAL COORDINATE ANALOGOUS TO LATITUDE IS CALLED \r\nASCENSION", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6e1"
-    }, 
-    "questionNum": "14"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -215,28 +158,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following MOST closely represents the location of \r\nthe temporal bone in humans: \r\n \r\nW)  above the eye \r\nX)  cheek or lateral border of the eye \r\nY)  back of skull \r\nZ)  top of skull", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the common name for the joint that is formed by the \r\narticulation of the tibia, the fibula, and the femur?", 
     "tossupA": "X)  CHEEK OR LATERAL BORDER OF THE EYE", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6e2"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "W)  VISCOSITY", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  How many unpaired electrons are in a neutral bromine atom?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is the term used to describe the \r\nresistance to flow of a liquid: \r\n \r\nW)  viscosity \r\nX)  surface tension \r\nY)  maleability \r\nZ)  vapor pressure", 
-    "tossupA": "1", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6e3"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -245,13 +175,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following is the most common term for the general \r\ntype of wave that results from the vibration of a physical medium: \r\n \r\nW)  mechanical \r\nX)  electromagnetic \r\nY)  perfect \r\nZ)  pulsed", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Which of the following is LEAST accurate: \r\n \r\nW)  alpha particles are the same as helium nuclei \r\nX)  polarization of light supports the particle behavior of light \r\nY)  a photon is a particle of light \r\nZ)  light slows down when it moves from a vacuum into glass", 
     "tossupA": "W)  MECHANICAL", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6e4"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 4, 
@@ -260,13 +192,15 @@
     "tossupQ": "MATH  Short Answer  Evaluate the expression, x(y + z)<sup>2</sup>, when x = 2, y = -8; and z = 3:", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  If Emily can paint a fence in 4 hours but Kathy takes 6 hours, how many \r\nhours will it take them to paint the fence if they work together?", 
     "tossupA": "50", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6e5"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -275,43 +209,15 @@
     "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is considered the principal \r\nvolcanic gas: \r\n \r\nW)  carbon dioxide  \r\nX)  water vapor \r\nY)  sulfur dioxide \r\nZ)  methane", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE  Multiple Choice  Calcite belongs to which of the following mineral groups: \r\n \r\nW)  oxide \r\nX)  sulfate \r\nY)  carbonate \r\nZ)  calcium silicate", 
     "tossupA": "X)  WATER VAPOR", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6e6"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "1,000", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT a fermentation product \r\nof yogurt: \r\n \r\nW)  acetaldehyde \r\nX)  formaldehyde \r\nY)  acetic acid \r\nZ)  lactic acid", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "GENERAL SCIENCE  Short Answer  Convert 1 cubic decimeter into cubic centimeters:", 
-    "tossupA": "X)  FORMALDEHYDE", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6e7"
-    }, 
-    "questionNum": "20"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "MERCURY", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "ASTRONOMY  Short Answer  What is the Latin-derived term for the relatively smooth lunar \r\nplains that are areas of the Moon that appear dark as viewed from Earth?", 
-    "packetNum": 1, 
-    "grade": "HS", 
-    "bonusQ": "ASTRONOMY  Short Answer  What planet has the greatest variation in temperature over a \r\nsingle one of its planetary days?", 
-    "tossupA": "MARE  (ACCEPT:  MARIA)", 
-    "setNum": 3, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd6e8"
-    }, 
-    "questionNum": "21"
+    "questionNum": 19
   }, 
   {
     "category": 1, 
@@ -320,13 +226,15 @@
     "tossupQ": "BIOLOGY  Short Answer  What is typically the largest organelle of a mature plant cell and can \r\ncomprise up to 80% of the cell\u2019s volume?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What eukaryotic cell organelle primarily functions to modify, sort, \r\nand package products for exocytosis?", 
     "tossupA": "CENTRAL VACUOLE  (ACCEPT:  VACUOLE)", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6e9"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 2, 
@@ -335,13 +243,15 @@
     "tossupQ": "CHEMISTRY  Short Answer  What scientific principle BEST describes why fresh pickles \r\nsoaked in brine shrivel up after a period of time?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  If two solutions that are separated by a semipermeable \r\nmembrane have the same osmotic pressure, they are said to be: \r\n \r\nW)  isotonic \r\nX)  hypotonic \r\nY)  hypertonic \r\nZ)  hyperosmotic", 
     "tossupA": "OSMOSIS", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6ea"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 3, 
@@ -350,13 +260,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A circuit with 2 different resistors wired in series will have a total \r\nresistance that is: \r\n \r\nW)  equal to the sum of the two resistances \r\nX)  less than either resistance \r\nY)  equal to that of the greater resistance \r\nZ)  equal to that of the lesser resistance", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Short Answer  What is the most common isotope of carbon?", 
     "tossupA": "W)  EQUAL TO THE SUM OF THE TWO RESISTANCES", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6eb"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -365,12 +277,150 @@
     "tossupQ": "BIOLOGY  Short Answer  How many walking legs are found in arachnids?", 
     "packetNum": 1, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  What is the MOST common term for the general type of \r\nnourishment characteristic of mushrooms where the organism derives its nutrients by absorbing the \r\nbiological products of another organism?", 
     "tossupA": "8", 
     "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6ec"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "VALVES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Rough endoplasmic reticulum is named rough because it possesses \r\nwhat cellular structures?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  In humans, backflow of blood from ventricles into atria during \r\ncontraction is prevented primarily by what structures?", 
+    "tossupA": "RIBOSOMES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6d4"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CONTINENTAL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Short Answer  As a percentage by volume in Earth\u2019s atmosphere, what are \r\nthe two most abundant gases in Earth\u2019s atmosphere?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  What type of glacier flows outward from a center as opposed \r\nto down a mountain valley?", 
+    "tossupA": "NITROGEN AND OXYGEN  (in any order)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6d8"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "21", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  In the combustion of methane, if the supply of oxygen is somewhat \r\ninsufficient, what colorless, odorless and poisonous gas is produced?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Element number 19 has an isotope named potassium-40.  How \r\nmany neutrons does this isotope contain?", 
+    "tossupA": "CARBON MONOXIDE  (ACCEPT:  CO)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6dc"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "1 \u00d7 10<sup>7</sup>  (DO NOT ACCEPT: 10<sup>7</sup>)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer  In the mks system, what are the 3 fundamental units?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  Giving your answer in scientific notation, convert 10 \r\nsquare meters into square millimeters:", 
+    "tossupA": "METERS;  KILOGRAMS;  SECONDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6e0"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  THE POINT ON THE CELESTIAL SPHERE DIRECTLY OVERHEAD OF AN \r\nOBSERVER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is NOT true:  \r\n \r\nW)  most of the meteorites that have been found have a high iron content \r\nX)  a bolometer is used to measure the energy output of the Sun \r\nY)  the celestial coordinate analogous to latitude is called ascension \r\nZ)  sunlight reflecting off the Earth is called Earthshine", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following BEST describes the zenith: \r\n \r\nW)  the point in the sky that is at 180 degrees of inclination to the horizon \r\nX)  90 degrees opposite to the nadir \r\nY)  the opposite position on the ecliptic to an observer \r\nZ)  the point on the celestial sphere directly overhead of an observer", 
+    "tossupA": "Y)  THE CELESTIAL COORDINATE ANALOGOUS TO LATITUDE IS CALLED \r\nASCENSION", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6e1"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  VISCOSITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  How many unpaired electrons are in a neutral bromine atom?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is the term used to describe the \r\nresistance to flow of a liquid: \r\n \r\nW)  viscosity \r\nX)  surface tension \r\nY)  maleability \r\nZ)  vapor pressure", 
+    "tossupA": "1", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6e3"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "1,000", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT a fermentation product \r\nof yogurt: \r\n \r\nW)  acetaldehyde \r\nX)  formaldehyde \r\nY)  acetic acid \r\nZ)  lactic acid", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  Convert 1 cubic decimeter into cubic centimeters:", 
+    "tossupA": "X)  FORMALDEHYDE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6e7"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MERCURY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What is the Latin-derived term for the relatively smooth lunar \r\nplains that are areas of the Moon that appear dark as viewed from Earth?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What planet has the greatest variation in temperature over a \r\nsingle one of its planetary days?", 
+    "tossupA": "MARE  (ACCEPT:  MARIA)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6e8"
+    }, 
+    "questionNum": 21
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice J. J. Thomson primarily used what instrument to \r\ndiscover electrons: \r\n \r\nW) cathode ray tube \r\nX) torsion balance \r\nY) interferometer \r\nZ) mass spectrometer", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice In the early 20th century, physicists were unknowingly \r\nfissioning uranium by which of the following methods: \r\n \r\nW) bombardment with neutrons \r\nX) combining heavy isotopes of plutonium \r\nY) exposing uranium to high temperatures \r\nZ) exposing heavy elements to immense pressure using explosive devices in heavy-walled \r\ncontainment vessels", 
     "tossupA": "W) CATHODE RAY TUBE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc932"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 0, 
@@ -21,13 +23,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice It is the fate of all lakes and ponds on Earth to eventually \r\nbecome dry lands, bogs, marshes, or fens, through a process called: \r\n \r\nW) fossilization \r\nX) eutrophication \r\nY) mineralization \r\nZ) oligotrophy", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer Which one of the following 4 terms does not belong with the \r\nothers: zone of accumulation; zone of wastage; snow line; frontal wedging", 
     "tossupA": "X) EUTROPHICATION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc933"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,13 +40,15 @@
     "tossupQ": "MATH Multiple Choice The formula, SA = s<sup>2</sup> + 2sl, where s is one side of the base and l is the \r\nslant height, is used to calculate the surface area of which of the following: \r\n \r\nW) right circular cone \r\nX) right pentagonal prism \r\nY) rectangular solid \r\nZ) right square pyramid", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Giving your answer rounded to the 1st decimal place, find the 9th term in \r\nthe geometric sequence with first three terms: 0.1, 0.2, 0.4...", 
     "tossupA": "Z) RIGHT SQUARE PYRAMID", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc934"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 6, 
@@ -51,28 +57,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following was determined in 2007 to be \r\nthe cause of hundreds of pet deaths because of pet food contamination: \r\n \r\nW) aspartame \r\nX) stevia \r\nY) melamine \r\nZ) carrageenan", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Melamine is sometimes illegally added to food products \r\nin order to increase the apparent content of: \r\n \r\nW) protein \r\nX) carbohydrate \r\nY) enzymes \r\nZ) B vitamins", 
     "tossupA": "Y) MELAMINE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc935"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "HEMOGLOBIN; INSULIN; DNA POLYMERASE  \r\n(ACCEPT: ALL BUT COLLAGEN) \r\n \r\n(Solution: structural proteins are generally insoluble. Globular proteins, which include enzymes, are \r\nsoluble...any protein with an \u201case\u201d suffix is typically an enzyme)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following techniques was used by Meselson and \r\nStahl to separate samples of DNA that contained different amounts of DNA labeled with a heavy \r\nisotope and a light isotope of nitrogen in their experiments on DNA replication: \r\n \r\nW) reverse osmosis \r\nX) dialysis \r\nY) centrifugation \r\nZ) liquid chromatography", 
-    "packetNum": 17, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 proteins that are soluble in water: \r\ncollagen; hemoglobin; insulin; DNA polymerase", 
-    "tossupA": "Y) CENTRIFUGATION", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc936"
-    }, 
-    "questionNum": "5"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -81,43 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the maximum number of covalent bonds between \r\nany 2 carbon atoms?", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer The density of an organic solvent is 600 grams per \r\nmilliliter. What is the mass, in kilograms, of the solvent if it fills a container that measures 3 \r\ncentimeters by 4 centimeters by 10 centimeters?", 
     "tossupA": "3", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc937"
     }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "X) AIR SPIRALING OUT FROM THE CENTER IN A CLOCKWISE DIRECTION", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is a semi-permanent high pressure \r\nsystem that sits over the Atlantic Ocean during summer: \r\n \r\nW) South Atlantic High \r\nX) Floridian High \r\nY) North American High \r\nZ) Bermuda High", 
-    "packetNum": 17, 
-    "grade": "MS", 
-    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following BEST describes the air circulation \r\npattern above the Bermuda or Azores high in the northern hemisphere in August: \r\n \r\nW) air spiraling into the center in a clockwise direction \r\nX) air spiraling out from the center in a clockwise direction \r\nY) air spiraling into the center in a counter-clockwise direction \r\nZ) air spiraling out from the center in a counter-clockwise direction", 
-    "tossupA": "Z) BERMUDA HIGH", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc938"
-    }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "(4x \u2013 5y<sup>2</sup>)(4x + 5y<sup>2</sup>)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer What is the second term in the binomial expansion of (a+ b)<sup>5</sup>?", 
-    "packetNum": 17, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Provide the prime factors over the integers for the following expression: \r\n16x<sup>2</sup> \u2013 25y<sup>4</sup>", 
-    "tossupA": "5a<sup>4</sup>b", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc939"
-    }, 
-    "questionNum": "8"
+    "questionNum": 6
   }, 
   {
     "category": 6, 
@@ -126,13 +91,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Giving your answer as A, B, C, or D, what is a fat-soluble \r\nvitamin that is a central component for healthy vision and is important in the transduction of light to \r\nthe retina, sometimes referred to as \u201cnight-vision\u201d?", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice The glycemic index is an index that is used to directly \r\npredict the rate at which ingested food in the human diet will increase which of the following levels \r\nin the blood: \r\n \r\nW) sugar \r\nX) lipid \r\nY) oxygen \r\nZ) carbon dioxide", 
     "tossupA": "A", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc93a"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +108,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice In which of the following stages in the life of an average \r\ndividing cell would it spend most of its time: \r\n \r\nW) mitosis \r\nX) interphase \r\nY) cytokinesis \r\nZ) karyokinesis", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following BEST describes the chemical \r\nmakeup of a human chromosome: \r\n \r\nW) 100% DNA \r\nX) about 99% DNA and 1% protein \r\nY) about 50% DNA and 50% protein \r\nZ) about 1% DNA and 99% protein", 
     "tossupA": "X) INTERPHASE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc93b"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,13 +125,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is most accurate regarding the \r\nforce of gravity: \r\n \r\nW) it is caused by the weight of an object \r\nX) it is cannot travel through a vacuum \r\nY) it theoretically acts over unlimited distances \r\nZ) it is caused by the strong nuclear force within atoms", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following BEST explains whether a U.S. \r\nquarter will accelerate down an inclined plane faster than a silver ring of the same diameter, \r\nassuming both roll without slipping: \r\n \r\nW) the ring accelerates faster because it has less inertia \r\nX) the ring will accelerate slower because all its mass in the outer rim \r\nY) the quarter will accelerate faster because it has more mass \r\nZ) the quarter will accelerate at the same rate as the ring since both have the same diameter", 
     "tossupA": "Y) IT THEORETICALLY ACTS OVER UNLIMITED DISTANCES", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc93c"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,13 +142,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Rounded to the nearest whole number, how many \r\ndegrees is the Moon inclined with respect to the orbit of the Earth about the Sun?", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice In the Hertzsprung-Russell diagram, where would \r\nBlue Giants be found: \r\n \r\nW) upper left \r\nX) upper right \r\nY) lower left \r\nZ) lower right", 
     "tossupA": "5", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc93d"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +159,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following are the first clearly identifiable \r\nfossils from the Precambrian Era which can still be found living along beaches of Shark Bay in \r\nwestern Australia: \r\n \r\nW) echinoderms \r\nX) trilobites \r\nY) sharks \r\nZ) stromatolites", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice The law of superposition is used by geologists to predict \r\nwhich of the following properties of a rock: \r\n \r\nW) its relative age \r\nX) its absolute age \r\nY) its radiometric age \r\nZ) its chemical composition", 
     "tossupA": "Z) STROMATOLITES", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc93e"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 4, 
@@ -201,13 +176,15 @@
     "tossupQ": "MATH Multiple Choice The graph of which of the following equations passes through \r\nquadrants one and two: \r\n \r\nW) x \u2013 2 = 0 \r\nX) y = x<sup>2</sup> \r\nY) x = 5y \r\nZ) y + 3 = 0", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Paul is getting dressed for graduation. He has 2 choices of pants, 3 \r\nchoices of shirts, and 4 choices of shoes. How many different wardrobes consisting of pants, shirts \r\nand shoes are possible?", 
     "tossupA": "X) y = x<sup>2</sup>", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc93f"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +193,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following will most likely occur for a bacteria \r\nthat is an obligate or strict anaerobe (read as: an-AYE-robe) when grown in a test tube of nutrient \r\nagar that remains undisturbed : \r\n \r\nW) all the bacteria immediately die \r\nX) the bacteria only grow against the walls of the test tube \r\nY) the bacteria only grow at the top of the test tube \r\nZ) the bacteria only grow at the bottom of the test tube", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following molecules primarily functions to \r\ncarry electrons from one place to another inside a cell: \r\n \r\nW) NAD+ \r\nX) ATP \r\nY) UTP \r\nZ) pyruvic acid", 
     "tossupA": "Z) THE BACTERIA ONLY GROW AT THE BOTTOM OF THE TEST TUBE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc940"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,28 +210,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a strong acid since it ionizes \r\nalmost completely in water: \r\n \r\nW) NaCl \r\nX) LiOH \r\nY) H<sub>2</sub>CO<sub>3</sub> \r\nZ) H<sub>2</sub>SO<sub>4</sub>", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer By words or numbers, name all of the following 3 \r\nchoices that obey an inverse square law: \r\n 1) gravitational force and distance \r\n 2) the size of an object and its density \r\n 3) the intensity of a light source and the distance between the source and detector", 
     "tossupA": "Z) H<sub>2</sub>SO<sub>4</sub>", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc941"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "Z) 31,557,600", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer What astronomical unit for distance is derived from the \r\nparallax of one second of arc?", 
-    "packetNum": 17, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice How many light-seconds are in a light-year: \r\n \r\nW) 300,000 \r\nX) 360,000 \r\nY) 1,314,000 \r\nZ) 31,557,600", 
-    "tossupA": "PARSEC", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc942"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 0, 
@@ -261,13 +227,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice The greenhouse effect is produced primarily by the \r\nre-emission of which of the following by the atmosphere: \r\n \r\nW) visible light \r\nX) UV light \r\nY) infrared radiation \r\nZ) sensible heat", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a human-made gas that, if \r\nreleased into the atmosphere, can directly act to destroy ozone in the stratosphere: \r\n \r\nW) chlorofluorocarbon \r\nX) carbon dioxide \r\nY) methane \r\nZ) hydrogen cyanide", 
     "tossupA": "Y) INFRARED RADIATION", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc943"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -276,28 +244,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is the best example of a graph of ordered pairs \r\nthat directly shows how much one variable is directly affected by another: \r\n \r\nW) box-and-whiskers plot \r\nX) scatter plot \r\nY) histogram \r\nZ) pie chart", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A balanced coin is flipped 4 times. What is the probability, as a fraction \r\nin lowest terms, of obtaining the exact order of tail, tail, head, head?", 
     "tossupA": "X) SCATTER PLOT", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc944"
     }, 
-    "questionNum": "19"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "ECTODERM; MESODERM; ENDODERM", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer From what embryonic germ layer are skeletal bones primarily \r\nderived?", 
-    "packetNum": 17, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer Progressing from the outside to the inside, what are the 3 basic \r\nembryonic germ layers in vertebrates?", 
-    "tossupA": "MESODERM", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc945"
-    }, 
-    "questionNum": "20"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -306,13 +261,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Leona swims directly across a river at 4 kilometers per \r\nhour and the river has a current of 5 kilometers per hour. To the nearest whole number, what is \r\nLeona\u2019s total velocity, in kilometers per hour?", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Which 2 of the following 4 atomic properties primarily \r\naccount for the magnetic behavior of an iron magnet: electron spin; neutron number; atomic \r\ncharge; electron orbit", 
     "tossupA": "6", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc946"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,28 +278,15 @@
     "tossupQ": "EARTH SCIENCE Short Answer Giving your answer as north, south, east, or west, surface \r\nwinds normally blow FROM what direction at 70\u00ba to 80\u00ba north latitude?", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Short Answer Arrange the following 4 choices in order of INCREASING \r\nspecific gravity: quartz; hematite; gypsum; silver", 
     "tossupA": "EAST  \r\n \r\n(Solution: polar easterlies)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc947"
     }, 
-    "questionNum": "22"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "COPPER", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer What stellar cataclysm resulted in the formation of the \r\nCrab nebula?", 
-    "packetNum": 17, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 elements that are produced in \r\nsupernova and NOT by stars with masses similar to the Sun: helium; carbon; oxygen; copper", 
-    "tossupA": "SUPERNOVA", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc948"
-    }, 
-    "questionNum": "23"
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -351,13 +295,15 @@
     "tossupQ": "MATH Short Answer In a right triangle, the ratio of the length of the side opposite an angle to \r\nthe length of the hypotenuse describes what trigonometric function?", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer If the volume of a sphere is 36\u03c0 centimeters, find its radius, in \r\ncentimeters:", 
     "tossupA": "SINE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc949"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 1, 
@@ -366,12 +312,116 @@
     "tossupQ": "LIFE SCIENCE Short Answer Name all of the following 4 elements that are found in DNA \r\nand NOT proteins: sulfur; nitrogen; oxygen; phosphorus", 
     "packetNum": 17, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What radioactive isotope did Hershey and Chase use to label \r\nthe capsid protein of bacteriophage in the pivotal experiment supporting the theory that genetic \r\ninformation was carried in the DNA?", 
     "tossupA": "PHOSPHORUS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecc94a"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(4x \u2013 5y<sup>2</sup>)(4x + 5y<sup>2</sup>)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the second term in the binomial expansion of (a+ b)<sup>5</sup>?", 
+    "packetNum": 17, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Provide the prime factors over the integers for the following expression: \r\n16x<sup>2</sup> \u2013 25y<sup>4</sup>", 
+    "tossupA": "5a<sup>4</sup>b", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc939"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) 31,557,600", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What astronomical unit for distance is derived from the \r\nparallax of one second of arc?", 
+    "packetNum": 17, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice How many light-seconds are in a light-year: \r\n \r\nW) 300,000 \r\nX) 360,000 \r\nY) 1,314,000 \r\nZ) 31,557,600", 
+    "tossupA": "PARSEC", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc942"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HEMOGLOBIN; INSULIN; DNA POLYMERASE  \r\n(ACCEPT: ALL BUT COLLAGEN) \r\n \r\n(Solution: structural proteins are generally insoluble. Globular proteins, which include enzymes, are \r\nsoluble...any protein with an \u201case\u201d suffix is typically an enzyme)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following techniques was used by Meselson and \r\nStahl to separate samples of DNA that contained different amounts of DNA labeled with a heavy \r\nisotope and a light isotope of nitrogen in their experiments on DNA replication: \r\n \r\nW) reverse osmosis \r\nX) dialysis \r\nY) centrifugation \r\nZ) liquid chromatography", 
+    "packetNum": 17, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 proteins that are soluble in water: \r\ncollagen; hemoglobin; insulin; DNA polymerase", 
+    "tossupA": "Y) CENTRIFUGATION", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc936"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) AIR SPIRALING OUT FROM THE CENTER IN A CLOCKWISE DIRECTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is a semi-permanent high pressure \r\nsystem that sits over the Atlantic Ocean during summer: \r\n \r\nW) South Atlantic High \r\nX) Floridian High \r\nY) North American High \r\nZ) Bermuda High", 
+    "packetNum": 17, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following BEST describes the air circulation \r\npattern above the Bermuda or Azores high in the northern hemisphere in August: \r\n \r\nW) air spiraling into the center in a clockwise direction \r\nX) air spiraling out from the center in a clockwise direction \r\nY) air spiraling into the center in a counter-clockwise direction \r\nZ) air spiraling out from the center in a counter-clockwise direction", 
+    "tossupA": "Z) BERMUDA HIGH", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc938"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ECTODERM; MESODERM; ENDODERM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer From what embryonic germ layer are skeletal bones primarily \r\nderived?", 
+    "packetNum": 17, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Progressing from the outside to the inside, what are the 3 basic \r\nembryonic germ layers in vertebrates?", 
+    "tossupA": "MESODERM", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc945"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "COPPER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What stellar cataclysm resulted in the formation of the \r\nCrab nebula?", 
+    "packetNum": 17, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 elements that are produced in \r\nsupernova and NOT by stars with masses similar to the Sun: helium; carbon; oxygen; copper", 
+    "tossupA": "SUPERNOVA", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc948"
+    }, 
+    "questionNum": 23
   }
 ]

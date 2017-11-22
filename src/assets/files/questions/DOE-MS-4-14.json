@@ -6,13 +6,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice At sea level, what is the approximate atmospheric \r\npressure at the ground in psi? \r\n \r\nW) 0.15 \r\nX) 1.5 \r\nY) 15 \r\nZ) 150", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer To calculate the escape velocity for an object when it is \r\nmuch smaller than the larger body, name all of the of the following that can be neglected:     \r\n1) drag force, 2) atmospheric pressure, and/or 3) relative angle at which the smaller object \r\ntravels?", 
     "tossupA": "Y) 15", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce45"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,13 +23,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the spongy, glandular organ that secretes digestive \r\nenzymes and hormones, including insulin?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements about pancreatic cancer \r\nis NOT true? \r\n \r\nW) Early pancreatic cancer usually does not cause symptoms \r\nX) Pancreatic cancer often remains contained within the pancreas \r\nY) Smoking is a risk factor for pancreatic cancer \r\nZ) Pancreatic cancer is difficult to cure", 
     "tossupA": "PANCREAS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce46"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,13 +40,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following can be equal to positive 4? \r\n \r\nW) |-3| &times; |1| \r\nX) 2<sup>3</sup> \r\nY) &radic;(-16) \r\nZ) &radic;(4<sup>2</sup>)", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A triangle has an area of 9y<sup>2</sup> - 9y -10. The base of the triangle is 3y - 5. \r\nIn terms of y, what is the height of the triangle?", 
     "tossupA": "Z) &radic;(4<sup>2</sup>)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce47"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,13 +57,15 @@
     "tossupQ": "ENERGY Multiple Choice Fuel cells produce electric currents by means of: \r\n \r\nW) Nuclear reactions \r\nX) Electro chemical reactions \r\nY) Electrical reactions \r\nZ) Mechanical reactions", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice What is the current approximate maximum percent efficiency fuel \r\ncells can obtain when provided with pure hydrogen? \r\n \r\nW) 13% \r\nX) 50% \r\nY) 64% \r\nZ) 80%", 
     "tossupA": "X) ELECTRO CHEMICAL REACTIONS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce48"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -66,13 +74,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice When an object slides across a horizontal surface, \r\nkinetic friction is proportional to which of the following quantities? \r\n \r\nW) Mass of the object \r\nX) Volume of the object \r\nY) The object\u2019s surface area \r\nZ) The object\u2019s potential energy", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the name for the amount of energy it takes to \r\nchange a unit mass of a solid into the same mass of liquid?", 
     "tossupA": "W) MASS OF THE OBJECT", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce49"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 4, 
@@ -81,28 +91,15 @@
     "tossupQ": "MATH Short Answer What inequality would be represented by a number line with an open \r\ncircle at -3, a closed circle at 10, and shading in between?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer On a coordinate grid, a dashed line passes through the points (-5, 0) \r\nand (0, 5), and everything is shaded beneath that line. What inequality is represented by this \r\nimage?", 
     "tossupA": "-3 < x \u2264 10 (NOTE: ANY VARIABLE IS FINE. x COULD BE REPLACED WITH ANY \r\nLETTER)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce4a"
     }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "SMALLPOX", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What do we call the injection of a weakened form of a \r\npathogen, or a similar but less dangerous pathogen, to produce immunity?", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What disease was the first vaccination intended to prevent?", 
-    "tossupA": "VACCINATION", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecce4b"
-    }, 
-    "questionNum": "7"
+    "questionNum": 6
   }, 
   {
     "category": 5, 
@@ -111,13 +108,15 @@
     "tossupQ": "ENERGY Multiple Choice The Moon orbits the Earth due to which of the following \r\ncharacteristics of the Earth? \r\n \r\nW) More volume \r\nX) More density \r\nY) Older age \r\nZ) Greater mass", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Imagine you are playing a game on your Nintendo Wii and all of a \r\nsudden the TV and Wii turn off unexpectedly, then turn back on 5 seconds later. This indicates a \r\npower quality problem; there was a voltage: \r\n \r\nW) Swell \r\nX) Sag \r\nY) Flicker \r\nZ) Brilliance", 
     "tossupA": "Z) GREATER MASS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce4c"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 0, 
@@ -126,13 +125,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following sedimentary rocks is \r\noften formed in a tropical ocean? \r\n \r\nW) Sandstone \r\nX) Limestone \r\nY) Breccia (read as: BREH-ch(ee)ah) \r\nZ) Shale", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following types of physical \r\nweathering is referred to as onion skin weathering, where concentric shells of weathered \r\nmaterial form around a rock? \r\n \r\nW) Freeze/thaw \r\nX) Exfoliation \r\nY) Unloading \r\nZ) Thermal expansion", 
     "tossupA": "X) LIMESTONE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce4d"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 4, 
@@ -141,28 +142,15 @@
     "tossupQ": "MATH Short Answer What is the degree of the polynomial function f(x) = 7 (read as: f of x \r\nequals 7)?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice A 10-foot ladder leaned against a wall reaches a window. If the \r\nbase of the ladder is 3 feet from the wall, how high up is the window?  \r\n \r\nW) Between 6 and 7 feet \r\nX) Between 7 and 8 feet \r\nY) Between 8 and 9 feet \r\nZ) Between 9 and 10 feet", 
     "tossupA": "0", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce4e"
     }, 
-    "questionNum": "10"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "W) RENAL CORPUSCLE", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What is the most abundant molecule in a human cell?", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice In which of the following parts of the kidney does filtration \r\noccur? \r\n \r\nW) Renal corpuscle \r\nX) Tubule \r\nY) Collecting duct \r\nZ) Dendrites", 
-    "tossupA": "WATER", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecce4f"
-    }, 
-    "questionNum": "11"
+    "questionNum": 10
   }, 
   {
     "category": 6, 
@@ -171,13 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Alpha decay occurs when an atom emits an alpha \r\nparticle. What is an alpha particle?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following types of radiation in order from \r\nlowest to highest frequency: visible light, ultraviolet radiation, radio waves, and infrared \r\nradiation.", 
     "tossupA": "2 PROTONS AND 2 NEUTRONS (ACCEPT: HELIUM NUCLEUS)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce50"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +176,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following statements about \r\nheating air is true? \r\n \r\nW) Air over land is heated faster than air over water at the same location \r\nX) Air over a light colored sandy beach is heated to a higher temperature than air over the black \r\nasphalted parking lot \r\nY) Air over water is heated faster than air over land at the same location \r\nZ) Air over ice is heated faster than air over water at the same location", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice You experience an ocean breeze when \r\nyou stand on the beach on a summer afternoon because: \r\n \r\nW) Wind always comes into land off the water because air moves more over the ocean \r\nX) Air currents are stronger over land \r\nY) Air over land is heated more, causing it to rise and make room for the cooler ocean air \r\nZ) Air over water is heated during the day, rises, and then flows inland to the land, where the air \r\nis cooler", 
     "tossupA": "W) AIR OVER LAND IS HEATED FASTER THAN AIR OVER WATER AT THE \r\nSAME LOCATION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce51"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 4, 
@@ -201,13 +193,15 @@
     "tossupQ": "MATH Short Answer \r\nWhat\t\r \u00a0is\t\r \u00a0 \u00a0the\t\r \u00a0fourth\t\r \u00a0root\t\r \u00a0of\t\r \u00a03\t\r \u00a0to\t\r \u00a0the\t\r \u00a0fourth?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer If n is positive, write the following in standard polynomial form:    \r\n(5n<sup>2</sup> \u2013 500) \u00f7 (n + 10) (read as: the quantity 5 n squared minus 500 divided by the quantity n \r\nplus 10)?", 
     "tossupA": "3 (DO NOT ACCEPT: \u2013 3)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce52"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -216,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Glaciers can have quite an effect on \r\nEarth\u2019s surface. They can: \r\n \r\nW) Stop volcanoes from erupting \r\nX) Carve away rock from mountains \r\nY) Sink to the bottom of the ocean then grow until they reach the surface \r\nZ) Create new mountain ranges", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following statements is true \r\nabout glaciers? \r\n \r\nW) Glaciers are generally full of rocks and sediments and can move these objects far from their \r\nsources \r\nX) When a glacier retreats, it moves backwards \r\nY) Humans did not exist when glaciers were covering much of North America \r\nZ) There is more glacial ice today than there has been in the past 100 years", 
     "tossupA": "X) CARVE AWAY ROCK FROM MOUNTAINS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce53"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,13 +227,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Amy is pulling a heavy cart. It is harder to start \r\npulling the cart than to keep the cart in motion, because kinetic friction:  \r\n \r\nW) Has decreased \r\nX) Is zero once the cart is moving \r\nY) Is only present when the cart is first pulled \r\nZ) Is less than static friction", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following forms of electromagnetic \r\nradiation has the highest energy?  \r\n \r\nW) Infrared \r\nX) Long UV \r\nY) Gamma rays  \r\nZ) Short UV", 
     "tossupA": "Z) IS LESS THAN STATIC FRICTION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce54"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -246,13 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the name of our current geologic epoch?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following relative dating principles \r\nrelies on fossils for dating? \r\n \r\nW) Original horizontality \r\nX) Lateral continuity \r\nY) Faunal succession \r\nZ) Cross-cutting relationships", 
     "tossupA": "HOLOCENE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce55"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +261,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice All of the following cells undergo mitosis EXCEPT: \r\n \r\nW) Epidermal cells \r\nX) Red blood cells \r\nY) Kidney cells \r\nZ) Pancreatic cells", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following cell types undergo meiosis? \r\n \r\nW) Primary spermatocyte \r\nX) Epidermal cells \r\nY) Kidney cells \r\nZ) Liver cells", 
     "tossupA": "X) RED BLOOD CELLS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce56"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,13 +278,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer Two planets of the same mass are orbiting \r\naround the same star. Planet A is three times as far away from the star as Planet B. How does \r\nthe star\u2019s gravitational force on Planet A compare to the gravitational force on Planet B?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice The radius of Planet C is close to half that \r\nof Earth, and both have the same average density. Compared to Earth\u2019s gravitational \r\nacceleration at the surface, approximately what will Planet C\u2019s gravity be at its surface? \r\n \r\nW) 4 g \r\nX) g/4 \r\nY) g \r\nZ) g/2", 
     "tossupA": "1/9 (DO NOT ACCEPT: 9 TIMES LESS)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce57"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +295,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following animals do not belong to the \r\nphylum of animals called echinoderms (read as: i-KY-neh-dehrms)? \r\n \r\nW) Jellyfish \r\nX) Sea cucumbers \r\nY) Sea lilies \r\nZ) Sea stars", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer To which phylum do jellyfish currently belong?", 
     "tossupA": "W) JELLYFISH", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce58"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 5, 
@@ -306,13 +312,15 @@
     "tossupQ": "ENERGY Multiple Choice A resonant circuit has a combination of resistors, capacitors and \r\ninductors. It is possible to have the inductor and capacitor continuously charge and discharge \r\nand create a:  \r\n \r\nW) Regulator \r\nX) Alternator \r\nY) Rectifier \r\nZ) Oscillator", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following is true of a step-down transformer? \r\n \r\nW) The number of turns in the primary coil is less than the number of turns in the secondary coil \r\nX) The number of turns in the primary and secondary coils are the same \r\nY) The number of turns in the primary coil is greater than the number of turns in the secondary \r\ncoil \r\nZ) The action of a step-down transformer does not depend on the number of turns in the primary \r\nand secondary coils", 
     "tossupA": "Z) OSCILLATOR", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce59"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 6, 
@@ -321,13 +329,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the outer part of the Sun\u2019s atmosphere called?", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following statements is NOT true about \r\nthe solar wind?  \r\n \r\nW) It escapes the Sun primarily though sun spots \r\nX) It is comprised of high-speed charged particles constantly blowing off of the Sun \r\nY) It blows at a speed of about one million miles per hour \r\nZ) It can produce storms in the Earth\u2019s magnetosphere", 
     "tossupA": "CORONA", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce5a"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,28 +346,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements exists as a diatomic \r\nmolecule in its lowest energy state? \r\n \r\nW) Beryllium \r\nX) Boron \r\nY) Carbon \r\nZ) Nitrogen", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a metalloid? \r\n \r\nW) Beryllium \r\nX) Nitrogen \r\nY) Carbon \r\nZ) Silicon", 
     "tossupA": "Z) NITROGEN", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce5b"
     }, 
-    "questionNum": "23"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "X) ENERGY FROM THE FORMING ICE IS GIVEN OFF TO THE SURROUNDING \r\nWATER", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice As water freezes it often supercools, \r\nwhich means that it: \r\n \r\nW) Remains liquid below the freezing point \r\nX) Cools very quickly \r\nY) Rapidly cools the surrounding environment \r\nZ) Becomes a solid above the freezing point", 
-    "packetNum": 14, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice As water begins changing phase from \r\nliquid to solid, what is happening with the energy of the system, including the ice and the \r\nsurrounding water? \r\n \r\nW) No energy is being exchanged \r\nX) Energy from the forming ice is given off to the surrounding water \r\nY) Energy from the surrounding water is given off to the forming ice \r\nZ) The whole system loses energy rapidly, becoming supercooled", 
-    "tossupA": "W) REMAINS LIQUID BELOW THE FREEZING POINT", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecce5c"
-    }, 
-    "questionNum": "24"
+    "questionNum": 23
   }, 
   {
     "category": 4, 
@@ -366,12 +363,65 @@
     "tossupQ": "MATH Multiple Choice Which of the following is a polynomial? \r\n \r\nW) a<sup>2</sup> - 4/(a + 3) (read as: a squared minus 4 over a plus 3) \r\n \r\nX) 3a<sup>2</sup> - a<sup>-2</sup> + 1 (read as: 3 a squared minus a to the minus 2 plus one)\r\n \r\n \r\nY) 15a<sup>2</sup> \r\n- a<sup>1.5</sup> - 3 (read as: 15 a squared minus a to the 1.5 minus three) \r\nZ) a<sup>3</sup>", 
     "packetNum": 14, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the equation of the line, in slope intercept form, which passes \r\nthrough the points (-3, 2) and (-5, 6)?", 
     "tossupA": "Z) a<sup>3</sup>", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecce5d"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SMALLPOX", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What do we call the injection of a weakened form of a \r\npathogen, or a similar but less dangerous pathogen, to produce immunity?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What disease was the first vaccination intended to prevent?", 
+    "tossupA": "VACCINATION", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce4b"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) RENAL CORPUSCLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the most abundant molecule in a human cell?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice In which of the following parts of the kidney does filtration \r\noccur? \r\n \r\nW) Renal corpuscle \r\nX) Tubule \r\nY) Collecting duct \r\nZ) Dendrites", 
+    "tossupA": "WATER", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce4f"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) ENERGY FROM THE FORMING ICE IS GIVEN OFF TO THE SURROUNDING \r\nWATER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice As water freezes it often supercools, \r\nwhich means that it: \r\n \r\nW) Remains liquid below the freezing point \r\nX) Cools very quickly \r\nY) Rapidly cools the surrounding environment \r\nZ) Becomes a solid above the freezing point", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice As water begins changing phase from \r\nliquid to solid, what is happening with the energy of the system, including the ice and the \r\nsurrounding water? \r\n \r\nW) No energy is being exchanged \r\nX) Energy from the forming ice is given off to the surrounding water \r\nY) Energy from the surrounding water is given off to the forming ice \r\nZ) The whole system loses energy rapidly, becoming supercooled", 
+    "tossupA": "W) REMAINS LIQUID BELOW THE FREEZING POINT", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce5c"
+    }, 
+    "questionNum": 24
   }
 ]

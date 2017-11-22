@@ -6,28 +6,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT generally characteristic of \r\noceanic-continental plate boundaries: \r\n \r\nW) high mountain systems \r\nX) wide continental shelves \r\nY) ocean trenches \r\nZ) earthquake prone areas", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is an example of an island arc \r\ncollision zone: \r\n \r\nW) Japan \r\nX) Oregon \r\nY) Maine \r\nZ) Chile and Peru", 
     "tossupA": "X) WIDE CONTINENTAL SHELVES", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca13"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "$2.80", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer In what quadrant of the coordinate system are both x and y negative?", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Bottled water is selling for 60-cents per bottle. If you buy a dozen bottles \r\nand hand the cashier a ten-dollar bill, how much change are your owed, in dollars and cents?", 
-    "tossupA": "3 (ACCEPT: III or THIRD)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca14"
-    }, 
-    "questionNum": "2"
+    "questionNum": 1
   }, 
   {
     "category": 6, 
@@ -36,13 +23,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is CLOSEST to the volume of 4 \r\nliters in quarts: \r\n \r\nW) 3.8 \r\nX) 4.0 \r\nY) 4.2 \r\nZ) 4.4", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 3 choices in order of INCREASING \r\nmass: largest moon of Saturn; Brown dwarf star; Earth", 
     "tossupA": "Y) 4.2 \r\n \r\n(Solution: 1 L = 1.06 q; 4 L = 4.24 q)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca15"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 1, 
@@ -51,13 +40,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following terms do biologists most often use to \r\ndescribe animals that do not move by their own design or effort: \r\n \r\nW) saprophytic \r\nX) instar \r\nY) motile \r\nZ) sessile", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the base nucleotide to which adenine binds on its \r\nopposing strand in DNA?", 
     "tossupA": "Z) SESSILE", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca16"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -66,13 +57,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Light typically travels in waves that are oriented in all \r\nplanes traveling in a given direction. What is the term for light waves that are traveling in one \r\nplane?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 4 choices that are \r\nelectromagnetic radiation: radio waves; x-rays; cathode rays; visible light", 
     "tossupA": "POLARIZED (ACCEPT: LINEAR POLARIZED)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca17"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 0, 
@@ -81,13 +74,15 @@
     "tossupQ": "EARTH SCIENCE Short Answer Name all the planets that appear to have phases like our Moon \r\nto Earthbound observers?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice The greatest annual variation in the intensity of solar \r\nradiation on Earth throughout the year is in which of the following locations: \r\n \r\nW) tropics \r\nX) north of the Arctic Circle \r\nY) south of the Antarctic Circle \r\nZ) temperate, middle latitude zone", 
     "tossupA": "MERCURY; VENUS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca18"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 4, 
@@ -96,28 +91,15 @@
     "tossupQ": "MATH Multiple Choice Pick any arbitrary point in the interior of a circle 12-inches in diameter \r\nand cut the circle into 8 slices by cutting at 45\u00ba angles through that arbitrary point. If you color \r\nalternate pieces blue and yellow, then the total area of the blue slices will:  \r\n \r\nW) equal the area of the yellow slices \r\nX) be twice the area of the yellow slices \r\nY) be one-half the area of the yellow slices \r\nZ) be one-third the area of the yellow slices", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Consider the four angles formed by two intersecting lines. If one angle \r\nmeasures 50\u00ba, find the measure of the remaining three angles, in degrees:", 
     "tossupA": "W) EQUAL THE AREA OF THE YELLOW SLICES", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca19"
     }, 
-    "questionNum": "7"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "MMIX (DO NOT ACCEPT: MMVIIII)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT a property of diamonds: \r\n \r\nW) extremely hard \r\nX) transparent \r\nY) poor thermal conductor \r\nZ) good electrical insulator", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Short Answer Give the Roman numeral equivalent of 2009:", 
-    "tossupA": "Y) POOR THERMAL CONDUCTOR", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca1a"
-    }, 
-    "questionNum": "8"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -126,28 +108,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What anatomical structure in boney fish allows them to adjust \r\ntheir buoyancy and stay afloat without swimming?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the most common name for the fluid in a spider that \r\nserves a similar function to blood in vertebrates?", 
     "tossupA": "SWIMBLADDER (ACCEPT: AIR BLADDER or GAS BLADDER)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca1b"
     }, 
-    "questionNum": "9"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "ALL", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice In which of the following units would capacitance \r\nmost likely be given: \r\n \r\nW) webers \r\nX) farads \r\nY) teslas \r\nZ) ohms", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 3 choices that are DC voltage \r\nsources: 9-volt battery; lightning; static electricity", 
-    "tossupA": "X) FARADS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca1c"
-    }, 
-    "questionNum": "10"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -156,13 +125,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following best describes how volcanic glass \r\nor obsidian is formed: \r\n \r\nW) magma cools rapidly and crystals do not form \r\nX) magma cools slowly and 1 large crystal is formed \r\nY) magma cools in direct contact with water \r\nZ) magma is heated, cooled, then reheated", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice The dominant component of most magma is: \r\n \r\nW) carbon \r\nX) sulfur dioxide \r\nY) silicon dioxide \r\nZ) nitrogen", 
     "tossupA": "W) MAGMA COOLS RAPIDLY AND CRYSTALS DO NOT FORM", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca1d"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -171,28 +142,15 @@
     "tossupQ": "MATH Short Answer Any number, except zero, to the zero power equals what?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Give the numerical value of 20 factorial divided by 18 factorial:", 
     "tossupA": "1", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca1e"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "Y) 90", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer From what element are most semiconductors primarily \r\ncomposed?", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is CLOSEST to 56 miles per \r\nhour in kilometers per hour: \r\n \r\nW) 20 \r\nX) 50 \r\nY) 90 \r\nZ) 120", 
-    "tossupA": "SILICON", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca1f"
-    }, 
-    "questionNum": "13"
+    "questionNum": 12
   }, 
   {
     "category": 1, 
@@ -201,13 +159,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What organelle with attached ribosomes is most directly \r\nresponsible for the translation of proteins destined to be transported out of the cell?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 functional groups that are found in \r\nall amino acids: carboxyl; ketone; amino; phosphate", 
     "tossupA": "ENDOPLASMIC RETICULUM  \r\n(ACCEPT: ER or RER or ROUGH ER or ROUGH ENDOPLASMIC RETICULUM)  \r\n(DO NOT ACCEPT: SER or SMOOTH ER or SMOOTH ENDOPLASMIC RETICULUM)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca20"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 3, 
@@ -216,13 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the resultant force when a force of 50 newtons is \r\nopposed in an opposite direction by a 10-newton force?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer A dog-sled team runs at 15 kilometers per hour for 6 \r\nhours and gets stuck in a partially melted lake for 3 hours, where it make no progress. It then runs at \r\n10 kilometers per hour for another 5 hours and crosses the finish line. What is the dog sled team\u2019s \r\naverage speed for the entire race, in kilometers per hour?", 
     "tossupA": "40", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca21"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 0, 
@@ -231,13 +193,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Banded iron formations that are present in mountain \r\nranges around the world formed during the Achaean Era as a direct result of the presence of: \r\n \r\nW) nitrogen \r\nX) oxygen \r\nY) hydrogen \r\nZ) methane", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a carbonate mineral: \r\n \r\nW) halite \r\nX) fluorite \r\nY) feldspar \r\nZ) dolomite", 
     "tossupA": "X) OXYGEN", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca22"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 4, 
@@ -246,13 +210,15 @@
     "tossupQ": "MATH Short Answer How many terms are in the following variable expression and what is \r\nthe coefficient of the second term: 5x<sup>2</sup> \u2013 x \u2013 12yz<sup>2</sup> + 9", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Sue and Sierra are making necklaces. If Sue makes an average of 3 \r\nevery 30 minutes and Sierra averages 6 every hour, how many necklaces do they average every hour \r\nif they work together?", 
     "tossupA": "TERMS = 4; COEFFICIENT = \u20131", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca23"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 6, 
@@ -261,28 +227,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What specific cell in your body becomes sickle-shaped if \r\nyou are afflicted with sickle cell anemia?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 laboratory tools that would \r\nrequire a user to read a meniscus: graduated pipet; pH paper; watch glass; Buchner funnel", 
     "tossupA": "RED BLOOD CELL (ACCEPT: RBC or ERYTHROCYTE or RED CORPUSCLE)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca24"
     }, 
-    "questionNum": "18"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "W) MOSS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What is the most common name of the plant pigments that give \r\nfruits and many plant parts their orange color?", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms has an archegonium: \r\n \r\nW) moss \r\nX) bird \r\nY) frog \r\nZ) oak tree", 
-    "tossupA": "CAROTENOIDS", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca25"
-    }, 
-    "questionNum": "19"
+    "questionNum": 18
   }, 
   {
     "category": 3, 
@@ -291,13 +244,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer What is the most commonly used scientific name for the \r\ncompound with the chemical formula C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, which is a product of photosynthesis?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Arrange the following 4 substances in order of \r\nDECREASING pH: normal human saliva; black coffee; bleach; stomach acid", 
     "tossupA": "GLUCOSE (ACCEPT: D-GLUCOSE or DEXTROSE)", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca26"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 0, 
@@ -306,28 +261,15 @@
     "tossupQ": "EARTH SCIENCE Multiple Choice Stratovolcanoes are typically found in which of the \r\nfollowing locations: \r\n \r\nW) continents and volcanic arcs \r\nX) the abyssal plain \r\nY) along basaltic plateaus \r\nZ) above hot spots in Earth\u2019s crust", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true of the troposphere: \r\n \r\nW) the air is much dryer above the troposphere \r\nX) the troposphere is 78% nitrogen gas and 21% oxygen gas \r\nY) the troposphere extends from the Earth\u2019s surface up to an average of 27 miles \r\nZ) the troposphere ends where temperature no longer varies with height", 
     "tossupA": "W) CONTINENTS AND VOLCANIC ARCS", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca27"
     }, 
-    "questionNum": "21"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "3 \r\n \r\n(Solution: 10x \u2013 3 = 4x + 15)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer For the equation y = mx + b, b represents what value?", 
-    "packetNum": 8, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Find a number such that 10-times the number reduced by 3 equals 4-\r\ntimes the number increased by 15:", 
-    "tossupA": "Y-INTERCEPT (ACCEPT: WHERE THE LINE CROSSES THE Y OR ORDINATE \r\nAXIS)", 
-    "setNum": 1, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecca28"
-    }, 
-    "questionNum": "22"
+    "questionNum": 21
   }, 
   {
     "category": 6, 
@@ -336,13 +278,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer From what constellation do the Geminids meteor shower \r\nappear to originate?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following astronomers devised a system \r\nof the orbits for the planets that is considered heliocentric and published in his book \u201cOn the \r\nRevolutions of the Heavenly Spheres\u201d: \r\n \r\nW) Galileo \r\nX) Copernicus \r\nY) Newton \r\nZ) Kepler", 
     "tossupA": "GEMINI", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca29"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -351,13 +295,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer How many pairs of wings do beetles typically have?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer How many cervical vertebrae are found in most mammals?", 
     "tossupA": "2", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca2a"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 3, 
@@ -366,12 +312,116 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer How many wavelengths per second are equal to 5 \r\nkilohertz?", 
     "packetNum": 8, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer What is the percent efficiency for a lever that has a work \r\ninput of 2,000 joules and a work output of 1,600 joules?", 
     "tossupA": "5,000", 
     "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecca2b"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$2.80", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer In what quadrant of the coordinate system are both x and y negative?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Bottled water is selling for 60-cents per bottle. If you buy a dozen bottles \r\nand hand the cashier a ten-dollar bill, how much change are your owed, in dollars and cents?", 
+    "tossupA": "3 (ACCEPT: III or THIRD)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca14"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "MMIX (DO NOT ACCEPT: MMVIIII)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT a property of diamonds: \r\n \r\nW) extremely hard \r\nX) transparent \r\nY) poor thermal conductor \r\nZ) good electrical insulator", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Give the Roman numeral equivalent of 2009:", 
+    "tossupA": "Y) POOR THERMAL CONDUCTOR", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca1a"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "ALL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice In which of the following units would capacitance \r\nmost likely be given: \r\n \r\nW) webers \r\nX) farads \r\nY) teslas \r\nZ) ohms", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 3 choices that are DC voltage \r\nsources: 9-volt battery; lightning; static electricity", 
+    "tossupA": "X) FARADS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca1c"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) 90", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer From what element are most semiconductors primarily \r\ncomposed?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is CLOSEST to 56 miles per \r\nhour in kilometers per hour: \r\n \r\nW) 20 \r\nX) 50 \r\nY) 90 \r\nZ) 120", 
+    "tossupA": "SILICON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca1f"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) MOSS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the most common name of the plant pigments that give \r\nfruits and many plant parts their orange color?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms has an archegonium: \r\n \r\nW) moss \r\nX) bird \r\nY) frog \r\nZ) oak tree", 
+    "tossupA": "CAROTENOIDS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca25"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3 \r\n \r\n(Solution: 10x \u2013 3 = 4x + 15)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer For the equation y = mx + b, b represents what value?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find a number such that 10-times the number reduced by 3 equals 4-\r\ntimes the number increased by 15:", 
+    "tossupA": "Y-INTERCEPT (ACCEPT: WHERE THE LINE CROSSES THE Y OR ORDINATE \r\nAXIS)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca28"
+    }, 
+    "questionNum": 22
   }
 ]

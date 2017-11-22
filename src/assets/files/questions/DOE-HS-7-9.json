@@ -6,13 +6,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What is the spectral type of the Sun?", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice When a strong south wind occurs along the west coast \r\nof North America, Ekman transport causes water to move to which of the following? \r\n \r\nW) Onshore  \r\nX) Offshore \r\nY) Alongshore to the south  \r\nZ) Alongshore to the north", 
     "tossupA": "G (ACCEPT: G2, G2V)", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd76a"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 1, 
@@ -21,28 +23,15 @@
     "tossupQ": "BIOLOGY Multiple Choice Which of the following marine microbe groups has a cell \r\nmembrane mainly comprised of lipids? \r\n \r\nW) Foraminiferans [for-uh-MIN-uh-fer-uhns] \r\nX) Radiolarians [ray-dee-oh-LAIR-ee-uhns] \r\nY) Ciliates [SIL-ee-ayts] \r\nZ) Tritaxis", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Which of the following habitat and life history combinations would \r\nselect for the production of a large brood size? \r\n \r\nW) Arctic, precocial young [pri-KOH-shuhl] \r\nX) Arctic, altricial young [al-TRISH-uhl] \r\nY) Tropics, precocial young \r\nZ) Tropics, altricial young", 
     "tossupA": "Y) CILIATES", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd76b"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "1 - 3i", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Short Answer If f(x) = 3<sup>x</sup> [f of x equals 3 to the power of x], find the value of f(log<sub>3</sub>7) \r\n[f of log base 3 of 7].", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer Find the product of complex numbers (1 - i) \u00d7 (2 - i) [open parenthesis \r\n1 minus i close parenthesis times the quantity 2 minus i].", 
-    "tossupA": "7", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd76c"
-    }, 
-    "questionNum": "3"
+    "questionNum": 2
   }, 
   {
     "category": 5, 
@@ -51,43 +40,15 @@
     "tossupQ": "ENERGY Multiple Choice What percentage of the world\u2019s production of rare earth metals is \r\nproduced by China? \r\n \r\nW) 57% \r\nX) 68% \r\nY) 83% \r\nZ) 95%", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following is NOT a benefit of distributed generation? \r\n \r\nW) Decreased transmission investment \r\nX) Greater grid resiliency \r\nY) Elimination of distribution system investment  \r\nZ) Reduction in line losses", 
     "tossupA": "Z) 95%", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd76d"
     }, 
-    "questionNum": "4"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "X) POTASSIUM OXIDE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY Multiple Choice In atomic orbital overlap, which of the following is true of \r\ndestructive interference? \r\n \r\nW) It gives a bonding orbital and no nodes \r\nX) It gives an antibonding orbital and a node parallel to the internuclear axis \r\nY) It gives an antibonding orbital and a node perpendicular to the internuclear axis \r\nZ) It gives an antibonding orbital and no nodes", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY Multiple Choice In order to enhance the activity of the catalyst, a textural or \r\nchemical promoter may be used in ammonia synthesis. Which of the following is an example of \r\na chemical promoter? \r\n \r\nW) Calcium oxide \r\nX) Potassium oxide \r\nY) Aluminum oxide \r\nZ) Silicon dioxide", 
-    "tossupA": "Y) IT GIVES AN ANTIBONDING ORBITAL AND A NODE PERPENDICULAR TO \r\nTHE INTERNUCLEAR AXIS", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd76e"
-    }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "Z) 9 TRILLION", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS Multiple Choice How many types of quarks are there in nature? \r\n \r\nW) 3 \r\nX) 5 \r\nY) 6 \r\nZ) 10", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS Multiple Choice Which of the following is the approximate distance in kilometers \r\ncovered by a photon in one year?  \r\n \r\nW) 9 thousand  \r\nX) 9 million \r\nY) 9 billion  \r\nZ) 9 trillion", 
-    "tossupA": "Y) 6", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd76f"
-    }, 
-    "questionNum": "6"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -96,13 +57,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice On July 4, under modern conditions, the planet is at \r\nwhich of the following in relation to the Sun? \r\n \r\nW) Perihelion [per-uh-HEE-lee-uhn] \r\nX) Aphelion [a-FEE-lee-uhn] \r\nY) Perigee [PER-i-jee] \r\nZ) Apogee [A-puh-jee]", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice During La Ni\u00f1a events, which of the following is most \r\nlikely? \r\n \r\nW) Drought in northeast Brazil  \r\nX) Drought in most of Australia  \r\nY) Drought in the southwestern U.S. \r\nZ) Wetter than normal in Oregon and Washington", 
     "tossupA": "X) APHELION", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd770"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 1, 
@@ -111,28 +74,15 @@
     "tossupQ": "BIOLOGY Multiple Choice During meiosis [my-OH-sis], when a cell has lost both members \r\nof a homologous [huh-MOL-uh-guhs] pair of chromosomes, which of the following types of \r\naneuploidy [an-yoo-PLOI-dee] would apply to the cell? \r\n \r\nW) Tetrasomy \r\nX) Nullisomy \r\nY) Monosomy \r\nZ) Trisomy", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer By number, place the following steps necessary for cloning a gene \r\ninto bacteria from genomic DNA in order from first to last: 1) Cut the target gene and the cloning \r\nvector with restriction enzymes; 2) Transform bacteria with the plasmid; 3) Ligate the target \r\ngene and the cloning vector with DNA ligase; 4) Amplify the target gene using PCR.", 
     "tossupA": "X) NULLISOMY", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd771"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "100", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Multiple Choice In how many ways can a committee of 7 be seated along one side of a \r\ntable if the chair of the committee must sit in the middle? \r\n \r\nW) 49 \r\nX) 120 \r\nY) 720 \r\nZ) 5040", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer How many three-digit numbers can be made using digits 0 through 4, \r\nprovided the first digit is not zero?", 
-    "tossupA": "Y) 720", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd772"
-    }, 
-    "questionNum": "9"
+    "questionNum": 8
   }, 
   {
     "category": 5, 
@@ -141,13 +91,15 @@
     "tossupQ": "ENERGY Multiple Choice From 2001 to 2011, the installed wind power in the U.S. in \r\nmegawatts has increased by approximately what factor? \r\n \r\nW) 3 \r\nX) 6 \r\nY) 10 \r\nZ) 15", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer The characteristics of heating oil and diesel fuel are similar, except \r\nfor which of the following? \r\n \r\nW) Evaporation \r\nX) Sulfur composition \r\nY) Volatility \r\nZ) BTU", 
     "tossupA": "Y) 10", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd773"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 2, 
@@ -156,28 +108,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice Which of the following statements is true of the compression \r\nof a system? \r\n \r\nW) Work is done on the system, and dV and dw are greater than 0 \r\nX) Work is done on the system, dV is less than 0, and dw is greater than 0 \r\nY) Work is done by the system, dV is greater than 0, and dw is less than 0 \r\nZ) Work is done by the system, and dV and dw are less than 0", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Multiple Choice Polycatenane [pol-ee-KAT-n-ayn] and polyrotaxane [pol-ee-\r\nro-TUH-ksayn] are examples of what type of unconventional polymer? \r\n \r\nW) Supramolecular \r\nX) Branched \r\nY) Network \r\nZ) Dendrimer [DEN-druh-mer]", 
     "tossupA": "X) WORK IS DONE ON THE SYSTEM, dV IS LESS THAN 0, AND dw IS GREATER \r\nTHAN 0", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd774"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "W) [1 over the square root of the quantity epsilon naught mu naught]", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "PHYSICS Short Answer You are traveling down a level highway in your car with mass 1000 \r\nkilograms at 30 meters per second when you see a deer and hit the brakes. How much time, in \r\nseconds, would it take to stop fully if the applied braking force is 5000 newtons?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "PHYSICS Multiple Choice Epsilon naught, \u03b5o, and mu naught, \u03bco, are permittivity and \r\npermeability constants of free space, respectively. The speed of light is found in terms of these \r\nconstants as which of the following? \r\n \r\nW) [1 over the square root of the quantity epsilon naught mu naught] \r\nX) [the square root of the quantity epsilon naught mu naught] \r\nY) [the fraction with numerator mu naught and denominator 4 pi epsilon naught] \r\nZ) [epsilon naught over mu naught]", 
-    "tossupA": "6", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd775"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 0, 
@@ -186,13 +125,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following rocks is most effective at \r\nneutralizing acid rain?  \r\n \r\nW) Limestone \r\nX) Shale \r\nY) Granite \r\nZ) Sandstone", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice As a hurricane approaches the east coast of Florida \r\nfrom the east, the storm surge waves would be greatest at which of the following? \r\n \r\nW) Northeast of the eye  \r\nX) Southeast of the eye  \r\nY) Southwest of the eye  \r\nZ) Northwest of the eye", 
     "tossupA": "W) LIMESTONE", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd776"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 1, 
@@ -201,13 +142,15 @@
     "tossupQ": "BIOLOGY Multiple Choice If you have a white horse mate with a white horse that has many \r\nspots called leopard spots and half of their offspring have a little bit of leopard spotting, which of \r\nthe following is your likely conclusion about the leopard-spotting allele? \r\n \r\nW) Co-dominant \r\nX) Low penetrance \r\nY) Incompletely dominant  \r\nZ) Low expressivity", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Short Answer DNA replication requires that the DNA that has been pulled apart \r\nstays single-stranded until the polymerase [POL-uh-muh-rays] is able to use it as a template. \r\nWhat is the name of the protein that keeps the DNA single-stranded during replication?", 
     "tossupA": "Y) INCOMPLETELY DOMINANT", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd777"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 3, 
@@ -216,28 +159,15 @@
     "tossupQ": "PHYSICS Multiple Choice The power input in a perfectly efficient step-up transformer is \r\nwhich of the following? \r\n \r\nW) Larger than the power output \r\nX) Equal to the power output \r\nY) Smaller than the power output  \r\nZ) Not related to the power output", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Multiple Choice A high energy photon near a nucleus can produce an electron-\r\npositron pair. What is the minimum energy a photon must have for this to happen? \r\n \r\nW) Half of the proper energy of the electron  \r\nX) The proper energy of the electron \r\nY) Two times the proper energy of the electron \r\nZ) Ten times the proper energy of the electron", 
     "tossupA": "X) EQUAL TO THE POWER OUTPUT", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd778"
     }, 
-    "questionNum": "15"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "2k<sup>2</sup>", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "MATH Multiple Choice What is the coefficient of the xy<sup>2</sup> term in the expansion of (x + 2y)<sup>3</sup> \r\n[open parenthesis x plus 2y close parenthesis to the power of 3]? \r\n \r\nW) 3 \r\nX) 8 \r\nY) 12 \r\nZ) 18", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "MATH Short Answer What is the area of a square inscribed in a circle of radius k?", 
-    "tossupA": "Y) 12", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd779"
-    }, 
-    "questionNum": "16"
+    "questionNum": 15
   }, 
   {
     "category": 2, 
@@ -246,13 +176,15 @@
     "tossupQ": "CHEMISTRY Multiple Choice Which of the following is an example of an A+1 isotope? \r\n \r\nW) Nitrogen \r\nX) Oxygen \r\nY) Sulfur \r\nZ) Fluorine", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY Multiple Choice Which of the following techniques in the field of \r\nnanotechnology is considered to be non-destructive, non-volatile, and easy to integrate?  \r\n \r\nW) Molecular electronic switch \r\nX) Room temperature single electron transistor \r\nY) Ovonics unified memory \r\nZ) Spin resonance transistor", 
     "tossupA": "W) NITROGEN", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd77a"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 3, 
@@ -261,13 +193,15 @@
     "tossupQ": "PHYSICS Multiple Choice The Fahrenheit and Kelvin scales give the same reading at \r\napproximately which of the following temperatures? \r\n \r\nW) 0 \r\nX) 212 \r\nY) 273 \r\nZ) 575", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer In neutron decay, a neutron decays into a proton, an electron, and \r\nwhat else?", 
     "tossupA": "Z) 575", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd77b"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 1, 
@@ -276,13 +210,15 @@
     "tossupQ": "BIOLOGY Multiple Choice The absence of which of the following transcript components \r\nwould decrease eukaryotic [yoo-KAR-ee-oh-tik] translational initiation?  \r\n \r\nW) Poly(A) tail  \r\nX) Intron \r\nY) Stop codon \r\nZ) Internal exon", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Leghemoglobin [leg-HEE-muh-gloh-bin] functions as an oxygen \r\nbinding protein in which of the following? \r\n \r\nW) Plant roots  \r\nX) Bacteria \r\nY) Human legs \r\nZ) Lactating mothers", 
     "tossupA": "W) POLY(A) TAIL", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd77c"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 0, 
@@ -291,13 +227,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following stream types best describes the \r\nColumbia River along the Columbia River Gorge? \r\n \r\nW) Meandering \r\nX) Braided \r\nY) Ephemeral \r\nZ) Antecedent", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice The Columbia River Gorge primarily cuts through what \r\ntype of rock? \r\n \r\nW) Granite \r\nY) Sandstone \r\nX) Basalt \r\nZ) Schist [SHIST]", 
     "tossupA": "Z) ANTECEDENT", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd77d"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +244,15 @@
     "tossupQ": "MATH Multiple Choice Find the radius of a circle in which a 30\u00b0 arc is 2pi units long. \r\n \r\nW) 12 \r\nX) 15 \r\nY) 15 \ud70b \r\nZ) 60 \ud70b", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice What is the exact value of tan(120&deg;) + cot(30&deg;) [tangent of 120 \r\ndegrees plus cotangent of 30 degrees]? \r\n \r\nW) \u22122\u221a3 \r\nX) 0 \r\nY) 2\u221a3/3 [2 times the square root of 3 over 3] \r\nZ) 2\u221a3", 
     "tossupA": "W) 12", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd77e"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 5, 
@@ -321,13 +261,15 @@
     "tossupQ": "ENERGY Multiple Choice If my current annual heating bill of natural gas is $800 with a \r\nfurnace that is 70% efficient, approximately what will be my new bill if I install a 95% efficient \r\nfurnace? \r\n \r\nW) $500 \r\nX) $600 \r\nY) $700 \r\nZ) $800", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What is the term for the point at which solar photovoltaic technology \r\nproduces power at a cost that is equal to the price of purchasing power from the grid?", 
     "tossupA": "X) $600", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd77f"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 1, 
@@ -336,28 +278,15 @@
     "tossupQ": "BIOLOGY Multiple Choice A child who excretes black urine is born to two normal parents. \r\nThe child has a recessive homozygous genotype. What is the most likely explanation for the \r\ngenotype? \r\n  \r\nW) Spontaneous mutations \r\nX) Consanguinity [kon-sang-GWIN-i-tee] \r\nY) Anticipation \r\nZ) Environmental exposure", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY Multiple Choice Which of the following situations might cause disruptive selection \r\nto occur in a population of seed-eating finches on an island? \r\n \r\nW) A hurricane that wipes out plants that produce medium-sized seeds \r\nX) A hurricane that wipes out plants that produce small and large seeds \r\nY) A hurricane that wipes out plants that produce small seeds \r\nZ) A hurricane that reduces equally plants that produce all sizes of seeds", 
     "tossupA": "X) CONSANGUINITY", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd780"
     }, 
-    "questionNum": "23"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "Y) THE REACTION IS FAVORED BY HIGH PRESSURE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY Short Answer According to valence bond theory, we assume that in methane, \r\neach pair of electrons is confined to the region between the carbon and hydrogen nuclei, where \r\nthe bond is strongest. What is the term used to describe this regional confinement?", 
-    "packetNum": 9, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY Multiple Choice Steam cracking is one process used in the manufacture of \r\nlighter olefins. Which of the following is NOT true of steam cracking? \r\n \r\nW) Increasing temperature shifts cracking to the ends of molecules \r\nX) Short residence times cause more olefin formation \r\nY) The reaction is favored by high pressure \r\nZ )  To minimize coke formation, steam may be added", 
-    "tossupA": "LOCALIZED (ACCEPT: LOCALIZED BOND AND LOCALIZED BONDING)", 
-    "setNum": 7, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd781"
-    }, 
-    "questionNum": "24"
+    "questionNum": 23
   }, 
   {
     "category": 3, 
@@ -366,12 +295,133 @@
     "tossupQ": "PHYSICS Multiple Choice Which of the following is true when light enters a denser medium \r\nand is refracted?  \r\n \r\nW) Wavelength remains unchanged \r\nX) Wave speed increases \r\nY) Wavelength increases \r\nZ) Frequency remains unchanged", 
     "packetNum": 9, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS Short Answer A one-dimensional electrical potential has the form V(x) = 4x<sup>2</sup> - x. \r\nWhat is the electrical field associated with this potential in terms of x?", 
     "tossupA": "Z) FREQUENCY REMAINS UNCHANGED", 
     "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd782"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1 - 3i", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer If f(x) = 3<sup>x</sup> [f of x equals 3 to the power of x], find the value of f(log<sub>3</sub>7) \r\n[f of log base 3 of 7].", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the product of complex numbers (1 - i) \u00d7 (2 - i) [open parenthesis \r\n1 minus i close parenthesis times the quantity 2 minus i].", 
+    "tossupA": "7", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd76c"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X) POTASSIUM OXIDE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice In atomic orbital overlap, which of the following is true of \r\ndestructive interference? \r\n \r\nW) It gives a bonding orbital and no nodes \r\nX) It gives an antibonding orbital and a node parallel to the internuclear axis \r\nY) It gives an antibonding orbital and a node perpendicular to the internuclear axis \r\nZ) It gives an antibonding orbital and no nodes", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice In order to enhance the activity of the catalyst, a textural or \r\nchemical promoter may be used in ammonia synthesis. Which of the following is an example of \r\na chemical promoter? \r\n \r\nW) Calcium oxide \r\nX) Potassium oxide \r\nY) Aluminum oxide \r\nZ) Silicon dioxide", 
+    "tossupA": "Y) IT GIVES AN ANTIBONDING ORBITAL AND A NODE PERPENDICULAR TO \r\nTHE INTERNUCLEAR AXIS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd76e"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) 9 TRILLION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice How many types of quarks are there in nature? \r\n \r\nW) 3 \r\nX) 5 \r\nY) 6 \r\nZ) 10", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice Which of the following is the approximate distance in kilometers \r\ncovered by a photon in one year?  \r\n \r\nW) 9 thousand  \r\nX) 9 million \r\nY) 9 billion  \r\nZ) 9 trillion", 
+    "tossupA": "Y) 6", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd76f"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "100", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice In how many ways can a committee of 7 be seated along one side of a \r\ntable if the chair of the committee must sit in the middle? \r\n \r\nW) 49 \r\nX) 120 \r\nY) 720 \r\nZ) 5040", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many three-digit numbers can be made using digits 0 through 4, \r\nprovided the first digit is not zero?", 
+    "tossupA": "Y) 720", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd772"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) [1 over the square root of the quantity epsilon naught mu naught]", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer You are traveling down a level highway in your car with mass 1000 \r\nkilograms at 30 meters per second when you see a deer and hit the brakes. How much time, in \r\nseconds, would it take to stop fully if the applied braking force is 5000 newtons?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice Epsilon naught, \u03b5o, and mu naught, \u03bco, are permittivity and \r\npermeability constants of free space, respectively. The speed of light is found in terms of these \r\nconstants as which of the following? \r\n \r\nW) [1 over the square root of the quantity epsilon naught mu naught] \r\nX) [the square root of the quantity epsilon naught mu naught] \r\nY) [the fraction with numerator mu naught and denominator 4 pi epsilon naught] \r\nZ) [epsilon naught over mu naught]", 
+    "tossupA": "6", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd775"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2k<sup>2</sup>", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice What is the coefficient of the xy<sup>2</sup> term in the expansion of (x + 2y)<sup>3</sup> \r\n[open parenthesis x plus 2y close parenthesis to the power of 3]? \r\n \r\nW) 3 \r\nX) 8 \r\nY) 12 \r\nZ) 18", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the area of a square inscribed in a circle of radius k?", 
+    "tossupA": "Y) 12", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd779"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Y) THE REACTION IS FAVORED BY HIGH PRESSURE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer According to valence bond theory, we assume that in methane, \r\neach pair of electrons is confined to the region between the carbon and hydrogen nuclei, where \r\nthe bond is strongest. What is the term used to describe this regional confinement?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice Steam cracking is one process used in the manufacture of \r\nlighter olefins. Which of the following is NOT true of steam cracking? \r\n \r\nW) Increasing temperature shifts cracking to the ends of molecules \r\nX) Short residence times cause more olefin formation \r\nY) The reaction is favored by high pressure \r\nZ )  To minimize coke formation, steam may be added", 
+    "tossupA": "LOCALIZED (ACCEPT: LOCALIZED BOND AND LOCALIZED BONDING)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd781"
+    }, 
+    "questionNum": 24
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "ENERGY  Short Answer  When a 10 kilogram object is lifted 10 meters, in a gravitational field \r\nof 9.8 meters per second squared, what is the change in potential energy of the object in joules?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  Taking g as 10 meters per second squared and assuming there is \r\nno friction, at about what height in meters must a 100 kilogram roller coaster start from rest in \r\norder to achieve a speed of 100 meters per second at the bottom?", 
     "tossupA": "980", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd689"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 2, 
@@ -21,13 +23,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is the name of the compound HClO\r\n4\r\n? \r\n \r\nW) Hydrogen perchlorite \r\nX) Chloric acid \r\nY) Perchloric acid \r\nZ) Hypochloric acid", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is NOT a state function? \r\n \r\nW) Volume \r\nX) Energy \r\nY) Pressure \r\nZ) Heat", 
     "tossupA": "Y) PERCHLORIC ACID", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd68a"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 4, 
@@ -36,13 +40,15 @@
     "tossupQ": "MATH  Short Answer  Express the summation of x equals 1 to n of log of x, with a factorial.", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  How many different letter arrangements can be formed using the six \r\nletters in the word \u201cenergy\u201d?", 
     "tossupA": "log n!", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd68b"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 3, 
@@ -51,13 +57,15 @@
     "tossupQ": "PHYSICS  Short Answer  If Tajon applies 100 newtons of force on a 2-meter wrench at a \r\nright angle to the wrench and parallel to the plane of rotation, how much torque, in newton \r\nmeters, is he applying to the bolt?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  What makes arches and domes more stable than flat roofed \r\nstructures? \r\n \r\nW) They transmit compressive forces along their length to the ground, uniformly bearing the \r\nload of gravity \r\nX) Each section is under great tension, using the stronger dimension of the components \r\nY) Torsional resistance to sideways swaying ensures that such structures are stable, even in \r\nhigh winds \r\nZ) The surface tension of the arched shape allows the building components to be hollowed out, \r\nsaving weight.", 
     "tossupA": "200", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd68c"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -66,13 +74,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice   Which of the following is a common mineral that is \r\ncomposed entirely of silicon and oxygen? \r\n \r\nW) Pyrite \r\nX) Quartz \r\nY) Bauxite (read as: BOHK-syt) \r\nZ) Feldspar", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following minerals is a mafic silicate?   \r\n \r\nW) Fluorite \r\nX) Diamond  \r\nY) Muscovite \r\nZ) Pyroxene (read as: py-ROHK-seen)", 
     "tossupA": "X) QUARTZ", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd68d"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 4, 
@@ -81,13 +91,15 @@
     "tossupQ": "MATH  Multiple Choice  Which of the following functions is one-to-one?  \r\n \r\nW) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3) \r\nX) f(x) = x<sup>2</sup> \u2013 6x + 11 (read as: f of x equals x squared minus 6 x plus 11) \r\nY) f(x) = 5x<sup>3</sup> + 9 (read as: f of x equals 5 x cubed plus 9) \r\nZ) f(x) = 1/x<sup>2</sup> (read as: f of x equals 1 over x squared)", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  A triangle has sides of length 5, 7, and 8 meters.  In simplest form and \r\nin meters squared, what is the area of the triangle?", 
     "tossupA": "Y) f(x) = 5x<sup>3</sup> + 9", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd68e"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 5, 
@@ -96,13 +108,15 @@
     "tossupQ": "ENERGY  Multiple Choice  Why is riding a bicycle on a well-maintained road more energy \r\nefficient than walking or running?   \r\n \r\nW) Bipedal motion is highly inefficient \r\nX) The coefficient of sliding friction between tires and the ground is less than that between \r\nshoes and the ground \r\nY) Gravity does very little work on a bicyclist relative to a walker or runner \r\nZ) Bicycling requires more calories than walking", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  When a ball of mass m is launched vertically to a height h and \r\nreturns to its original starting point of launch, what is the value of its change in gravitational \r\npotential energy?", 
     "tossupA": "Y) GRAVITY DOES VERY LITTLE WORK ON A BICYCLIST RELATIVE TO A \r\nWALKER OR RUNNER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd68f"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 3, 
@@ -111,13 +125,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  Which of the following has NOT been proposed as a way to test \r\nstring theory? \r\n \r\nW) Cosmic ray experiments \r\nX) High energy particle collisions \r\nY) Electron mapping \r\nZ) Precision tests of short-range gravitational forces", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  A jet engine gets its thrust by taking in air, heating and \r\ncompressing it and then ejecting it at a high speed. If a particular engine takes in 20 kilograms \r\nof air per second at 100 meters per second, and ejects it at 500 meters per second, what is the \r\nthrust of the engine in newtons? \r\n \r\nW) 760 \r\nX) 8000 \r\nY) 9100 \r\nZ) 10,500", 
     "tossupA": "Y) ELECTRON MAPPING", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd690"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 5, 
@@ -126,13 +142,15 @@
     "tossupQ": "ENERGY  Short Answer  On a football team, there is a defensive lineman who weighs 350 \r\npounds and can run at 10 miles per hour. On the same team, the wide receiver weighs 175 \r\npounds and can run 20 miles per hour. At top speed, which player has more kinetic energy?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY  Short Answer  A race car initially moving with a velocity of 50 meters per second \r\nproduces a skid mark on the road while braking. Using g as 10 meters per second squared, and \r\nproviding your answer to the nearest integer, how long is the skid mark in meters if the \r\ncoefficient of kinetic friction is 1.0?", 
     "tossupA": "WIDE RECEIVER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd691"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 0, 
@@ -141,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  Transpolar drift is responsible for the net transport of \r\nwater and ice in what direction in the Arctic Basin?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  Most sea ice exiting the Arctic Basin passes through \r\nwhat large strait between Greenland and Svalbard (read as: SVAHL-bahr)?", 
     "tossupA": "WEST TO EAST", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd692"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 3, 
@@ -156,13 +176,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  A car of mass 700 kilograms travels at 20 meters per second \r\nand collides with a stationary truck of mass 1400 kilograms. The two vehicles interlock as a \r\nresult of the collision and slide along an icy road. Which of the following is the approximate \r\nvelocity in meters per second of the combined system? \r\n \r\nW) 5.6 \r\nX) 6.6  \r\nY) 7.6  \r\nZ) 8.6", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  Given that the specific heat of iron is 0.12 calories per gram  \r\ndegree Celsius, what will be the final temperature in degrees Celsius of 100 grams of 20 degree \r\nCelsius water when 100 grams of 40 degree Celsius iron nails are submerged in it? Provide \r\nyour answer to the nearest whole number.", 
     "tossupA": "X) 6.6", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd693"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -171,13 +193,15 @@
     "tossupQ": "MATH  Short Answer  Find the derivative of 12x<sup>3</sup> - 6x<sup>2</sup> + 3/x<sup>5</sup> \u2013 25 (read as: 12 x cubed minus \r\n6 x squared plus 3 over x to the fifth minus 25)", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  A particle\u2019s displacement in meters can be described by the function \r\nf(x) = 2x<sup>w</sup> + 3x<sup>2</sup> - 10x + 30. At x = 5 seconds, what is the acceleration in meters per second \r\nsquared? Provide your answer to the nearest integer.", 
     "tossupA": "36x<sup>2</sup> - 12x - 15/x<sup>6</sup>", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd694"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 0, 
@@ -186,13 +210,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  Besides Earth, what is the only other planet in our \r\nsolar system known to have water ice on its surface?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following are carbon compounds in \r\nnatural water that have diameters of less than 0.45 micrometers? \r\n \r\nW) Particulate organic matter \r\nX) Nondissolved solids \r\nY) Particulate colloids \r\nZ) Dissolved organic carbon", 
     "tossupA": "MARS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd695"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 4, 
@@ -201,28 +227,15 @@
     "tossupQ": "MATH  Short Answer  What is tan 5pi/4 + sin pi/6?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  What is the contrapositive of the statement p implies q?", 
     "tossupA": "3/2", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd696"
     }, 
-    "questionNum": "14"
-  }, 
-  {
-    "category": 2, 
-    "bonusA": "RESONANCE", 
-    "vendorNum": "DOE-HS", 
-    "tossupQ": "CHEMISTRY  Short Answer  What is the pH of 1.0 mole of sodium hydroxide dissolved in \r\n10 liters of water?", 
-    "packetNum": 15, 
-    "grade": "HS", 
-    "bonusQ": "CHEMISTRY  Short Answer  Two Lewis structures depict the ozone molecule equally well \r\nand there is no way to distinguish between the two structures. What is the term that describes \r\nthis phenomenon?", 
-    "tossupA": "13", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd697"
-    }, 
-    "questionNum": "15"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -231,13 +244,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Which of the following best describes the way in which the \r\nsummation of action potentials from a motor neuron can bring a muscle fiber to the maximal \r\nlevel of contraction? \r\n \r\nW) Summation of contractions \r\nX) Suprastimulus \r\nY) Maximal twitch rate \r\nZ) Tetany (read as: TEHT-nee)", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Order the following from smallest to largest: myofibril; muscle, \r\nactin; myosin; sarcomere (read as: SAHR-koh-mir ); muscle fiber.", 
     "tossupA": "Z) TETANY", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd698"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 2, 
@@ -246,13 +261,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  The ability of geckos to climb smooth surfaces is due to \r\nwhich of the following? \r\n \r\nW) Hydrogen bonding \r\nX) Van der Waals forces \r\nY) Ion-dipole forces \r\nZ) Intramolecular forces", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Nanotechnologists are creating butterfly scale patterns on \r\npaper money to foil counterfeiters using which of the following substances? \r\n \r\nW) Calcium oxide \r\nX) Zinc oxide \r\nY) Magnesium oxide \r\nZ) Aluminum oxide", 
     "tossupA": "X) VAN DER WAALS FORCES", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd699"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +278,15 @@
     "tossupQ": "BIOLOGY  Short Answer  Tay Sachs is a fatal genetic disease. Individuals with Tay Sachs \r\nare homozygous for the recessive disease allele. If a husband and wife are both heterozygous \r\nfor the gene, what is the percent chance that they will have a child with the disease?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Multiple Choice  A diploid cell has 32 chromatids in the G2 phase of the cell \r\ncycle. If you examine the cell in Prophase II you would find 2 cells each containing which of the \r\nfollowing? \r\n \r\nW) 16 molecules of DNA  \r\nX) 16 chromosomes made of DNA  \r\nY) 32 molecules of DNA \r\nZ) 32 chromosomes made of DNA", 
     "tossupA": "25%", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd69a"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 2, 
@@ -276,13 +295,15 @@
     "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following bonds should have the longest \r\nlength? \r\n \r\nW) C-C (read as: C single bond C) \r\nX) C=C (read as: C double bond C) \r\nY) C-H (read as: C single bond H) \r\nZ) C\u2261C (read as: C triple bond C)", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following contains polar covalent bonds? \r\n \r\nW) F\r\n2\r\n \r\nX) HF \r\nY) NaH \r\nZ) O\r\n2", 
     "tossupA": "W) C-C", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd69b"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 1, 
@@ -291,13 +312,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  Darwin's theory of evolution stated all of the following except: \r\n \r\nW) Those organisms best fit for their environment survive and reproduce most successfully \r\nX) Acquired characteristics can be inherited \r\nY) Species change over time through the process of natural selection \r\nZ) More organisms are produced than can survive, so living things compete for resources", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Name all of the following in which the embryonic blastopore \r\nbecomes the anus, and the mouth originates after the anus: 1) leopard frog, 2) cockroach, 3) \r\nbull shark, 4) earthworm, and/or 5) human.", 
     "tossupA": "X) ACQUIRED CHARACTERISTICS CAN BE INHERITED", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd69c"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 3, 
@@ -306,13 +329,15 @@
     "tossupQ": "PHYSICS  Multiple Choice  What is one way in which power can be calculated? \r\n \r\nW) Subtracting the relative vectors F and v \r\nX) The time derivative of work performed \r\nY) The strength of the force times g \r\nZ) The second derivative of acceleration", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICS  Multiple Choice  In a wild shot, Guido flings a pool ball of mass m off a 0.68 \r\nmeter high pool table with downward spin, and the ball hits the floor with a vertical speed of 6.0 \r\nmeters per second. How fast was the ball moving vertically in meters per second when it left the \r\npool table?  \r\n \r\nW) 6.7 \r\nX) 5.7 \r\nY) 4.7 \r\nZ) 3.7", 
     "tossupA": "X) THE TIME DERIVATIVE OF WORK PERFORMED", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd69d"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 0, 
@@ -321,13 +346,15 @@
     "tossupQ": "EARTH AND SPACE  Short Answer  If the moon is in a crescent phase and appears in the \r\neastern sky at sunrise, what phase will be next?", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following are the chemical reactants \r\nassociated with the formation of Karst topography? \r\n \r\nW) HCl and PbS  \r\nX) H\r\n2\r\nSO\r\n4 \r\nand SiO\r\n2\r\n \r\nY) H\r\n2\r\nO and MgSiO\r\n3\r\n \r\nZ) H\r\n2\r\nCO\r\n3 \r\nand CaCO\r\n3", 
     "tossupA": "NEW MOON", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd69e"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 4, 
@@ -336,13 +363,15 @@
     "tossupQ": "MATH  Short Answer  If someone has 1 red shirt, 2 blue shirts, 4 red pants, and 3 green \r\npants from which to choose, what is the probability that a randomly selected shirt and pant \r\ncombination has at least one red item? Provide your answer as a fraction in simplest form.", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH  Short Answer  If the mean of a certain sample is 8 and the standard deviation is \r\n0.25, what value has a z-score of 12?", 
     "tossupA": "5/7", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd69f"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 1, 
@@ -351,13 +380,15 @@
     "tossupQ": "BIOLOGY  Multiple Choice  An apple flower is hermaphroditic, it has both a pistil and a \r\nstamen, which means it is a type of: \r\n \r\nW) Monoecious plant \r\nX) Dioecious plant (read as: dy-EE-shehs) \r\nY) Diatomaceous plant (read as: dy-ah-toh-MAY-shehs) \r\nZ) Monostomate plant", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BIOLOGY  Short Answer  Many monoecious plant species avoid self pollination, reducing  \r\ntheir likelihood of expressing deleterious recessive alleles in future generations. One strategy \r\nused by monoecious plants is to produce pollen long after the carpel of the same flower \r\nbecomes able to receive it. Give the name for this strategy.", 
     "tossupA": "W) MONOECIOUS PLANT", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6a0"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 0, 
@@ -366,12 +397,31 @@
     "tossupQ": "EARTH AND SPACE  Multiple Choice  During which of the following two days is the \r\nmaximum solar altitude less than 90\u00b0 at the equator? \r\n \r\nW) Winter solstice and vernal equinox \r\nX) Vernal and autumnal equinoxes \r\nY) Winter and summer solstices \r\nZ) Summer solstice and autumnal equinox", 
     "packetNum": 15, 
     "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE  Short Answer  Put the formation of the following in chronological \r\norder from oldest to youngest: Rocky Mountains, Great Lakes, Colorado River, Appalachian \r\nMountains.", 
     "tossupA": "Y) WINTER AND SUMMER SOLSTICES", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd6a1"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "RESONANCE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the pH of 1.0 mole of sodium hydroxide dissolved in \r\n10 liters of water?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Two Lewis structures depict the ozone molecule equally well \r\nand there is no way to distinguish between the two structures. What is the term that describes \r\nthis phenomenon?", 
+    "tossupA": "13", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd697"
+    }, 
+    "questionNum": 15
   }
 ]

@@ -6,13 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer In plants and animals, what class of nucleic acid polymer \r\nis the primary form of genetic material that is heritable from one generation to the next?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice What part of the pistil forms a closed receptacle for the \r\novules? \r\n \r\nW) Carpel \r\nX) Petal \r\nY) Sepal \r\nZ) Peduncle", 
     "tossupA": "DEOXYRIBOSE NUCLEIC ACIDS (ACCEPT: DNA)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd327"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -21,13 +23,15 @@
     "tossupQ": "MATH Multiple Choice Identify the 21st term of the arithmetic sequence with first three terms \r\n5, 10, 15. \r\n \r\nW) 100 \r\nX) 105 \r\nY) 110 \r\nZ) 125", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer There are 5 different paths through a maze designated as Path 1, Path \r\n2, Path 3, Path 4, and Path 5. Each path is equally likely to be chosen. What is the percent \r\nprobability of NOT choosing Path 1?", 
     "tossupA": "X) 105", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd328"
     }, 
-    "questionNum": "2"
+    "questionNum": 2
   }, 
   {
     "category": 3, 
@@ -36,28 +40,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following does NOT represent a chemical \r\nreaction? \r\n \r\nW) Water falling from a tap \r\nX) Grape juice turning into wine \r\nY) Milk turning to cheese \r\nZ) Rust forming on a nail", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Thomas Edison championed the use of direct current for \r\nhomes and industry. Who favored the use of alternating current because of its ability to be \r\ntransmitted great distances?", 
     "tossupA": "W) WATER FALLING FROM A TAP", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd329"
     }, 
-    "questionNum": "3"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "Y) BACTERIA", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer What is the common name of the members of the class Aves?", 
-    "packetNum": 1, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms were the earliest life forms \r\nto evolve in the ocean? \r\n \r\nW) Protozoa [proh-tuh-ZOH-uh] \r\nX) Algae \r\nY) Bacteria \r\nZ) Fungi", 
-    "tossupA": "BIRDS", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd32a"
-    }, 
-    "questionNum": "4"
+    "questionNum": 3
   }, 
   {
     "category": 0, 
@@ -66,13 +57,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Ocean waves are created by which of the following? \r\n \r\nW) Wind \r\nX) Shape of the ocean floor \r\nY) Water depth \r\nZ) Currents", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What type of earthquakes occurring on the island of \r\nHawaii are a result of magma movement underneath Kilauea [kee-lou-AY-ah]?", 
     "tossupA": "W) WIND", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd32b"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -81,28 +74,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Sand dollars, sea stars, sea cucumbers, and sea urchins \r\nall belong to what phylum [FY-luhm]?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following are NOT found in both \r\nprokaryotes [proh-KAR-ee-ohts] and eukaryotes [yoo-KAR-ee-ohts]? \r\n \r\nW) Flagella \r\nX) Ribosomes [RY-buh-sohms] \r\nY) Mitochondria [my-tuh-KON-dree-uh] \r\nZ) Plasma membrane", 
     "tossupA": "ECHINODERMATA", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd32c"
     }, 
-    "questionNum": "6"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "8", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice Assuming that the Earth is a sphere of radius r, what is the surface \r\narea of the Northern hemisphere? \r\n \r\nW) 2/3\u03c0r<sup>3</sup> \r\nX) 2\u03c0r<sup>2</sup> \r\nY) 3\u03c0r<sup>2</sup> \r\nZ) 4\u03c0r<sup>2</sup>", 
-    "packetNum": 1, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer How many positive integers are between \u221a3 and\u221a82?", 
-    "tossupA": "X) 2\u03c0r<sup>2</sup>", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd32d"
-    }, 
-    "questionNum": "7"
+    "questionNum": 6
   }, 
   {
     "category": 5, 
@@ -111,13 +91,15 @@
     "tossupQ": "ENERGY Short Answer Coal and natural gas are the leading sources of fuel for electricity \r\nproduction in the U.S. What is the third leading source?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice In most geothermal applications, what substance is used to rotate \r\nthe generation turbines? \r\n \r\nW) Liquid water \r\nX) Natural gas \r\nY) Brine \r\nZ) Steam", 
     "tossupA": "NUCLEAR", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd32e"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +108,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following materials best prevents the flow \r\nof electricity? \r\n \r\nW) Copper \r\nX) Silicon \r\nY) Gold \r\nZ) Distilled water", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice In the periodic table, elements are arranged by which \r\nof the following? \r\n \r\nW) Atomic number \r\nX) Binding energy \r\nY) Mass number \r\nZ) Number of isotopes", 
     "tossupA": "Z) DISTILLED WATER", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd32f"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +125,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following has the function of modifying, sorting, \r\nand preparing substances for use within the eukaryotic [yoo-KAR-ee-oh-tik] cell or for transport \r\noutside of the cell? \r\n \r\nW) Ribosome [RY-buh-sohm] \r\nX) Endoplasmic reticulum [EN-duh-plaz-mik ri-TIK-yuh-luhm] \r\nY) Golgi apparatus \r\nZ) Mitochondria [my-tuh-KON-dree-uh]", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following marine organisms would be \r\nconsidered ectothermic? \r\n \r\nW) Gull \r\nX) Penguin \r\nY) Sea turtle \r\nZ) Manatee", 
     "tossupA": "Y) GOLGI APPARATUS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd330"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -156,13 +142,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice In the deep ocean, the continuous shower of mostly \r\norganic detritus falling from the upper layers of the water column is called which of the \r\nfollowing? \r\n \r\nW) Marine snow \r\nX) Fecal snow \r\nY) Organic snow \r\nZ) Carbon snow", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT considered a rift valley? \r\n \r\nW) Mid-ocean ridges \r\nX) Rhine River Valley \r\nY) Red Sea \r\nZ) Mississippi River Valley", 
     "tossupA": "W) MARINE SNOW", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd331"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,28 +159,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer You are setting up an experiment looking at the effects \r\nof increased phosphorus concentrations on the growth of Glycine [GLY-seen] max. In this \r\nexperiment, the concentration of phosphorus is what kind of variable?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following BEST describes a hypothesis? \r\n \r\nW) The process of investigating a question \r\nX) A possible explanation based on prior evidence \r\nY) A widely accepted explanation \r\nZ) An observation", 
     "tossupA": "INDEPENDENT", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd332"
     }, 
-    "questionNum": "12"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "4", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Multiple Choice What is the standard form of the following equation: 2x = 3y \u2013 5? \r\n \r\nW) 2x \u2013 3y = 5 \r\nX) 2x \u2013 5 = 3y \r\nY) 2x + 3y = 5 \r\nZ) 2x \u2013 3y = \u20135", 
-    "packetNum": 1, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer How many parallel pairs of faces does a right regular hexagonal prism \r\nhave?", 
-    "tossupA": "Z) 2x \u2013 3y = \u20135", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd333"
-    }, 
-    "questionNum": "13"
+    "questionNum": 12
   }, 
   {
     "category": 3, 
@@ -201,28 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice An atom\u2019s ability to react with other atoms is \r\ndetermined by what type of subatomic particle? \r\n \r\nW) Protons \r\nX) Neutrinos \r\nY) Neutrons \r\nZ) Electrons", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice The atomic weight (in amu) of an element most \r\nnearly reflects the atom's total number of which of the following? \r\n \r\nW) Protons and neutrons \r\nX) Protons and electrons \r\nY) Neutrons only \r\nZ) Protons only", 
     "tossupA": "Z) ELECTRONS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd334"
     }, 
-    "questionNum": "14"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "MOSQUITO (ACCEPT: ANOPHELES)", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Multiple Choice In which part of the plant would you expect to find the \r\nlargest concentration of photosynthetic pigments? \r\n \r\nW) Roots \r\nX) Shoots \r\nY) Leaves \r\nZ) Fruit", 
-    "packetNum": 1, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Short Answer What is the vector for the organism that causes malaria?", 
-    "tossupA": "Y) LEAVES", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd335"
-    }, 
-    "questionNum": "15"
+    "questionNum": 14
   }, 
   {
     "category": 0, 
@@ -231,13 +193,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice The hardness of a mineral determines how resistant it \r\nis to which of the following? \r\n \r\nW) Mass loading \r\nX) Fracture \r\nY) Scratching \r\nZ) Temperature flux", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice The early atmosphere of the Earth probably was rich in all \r\nEXCEPT which of the following gases? \r\n \r\nW) Oxygen \r\nX) Carbon monoxide \r\nY) Carbon dioxide \r\nZ) Nitrogen", 
     "tossupA": "Y) SCRATCHING", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd336"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 5, 
@@ -246,13 +210,15 @@
     "tossupQ": "ENERGY Multiple Choice DC/DC converters operate on the principle of volt-second \r\nbalance. Based on this assumption, which of the following average values is zero? \r\n \r\nW) Voltage across the inductor(s) \r\nX) Voltage across the capacitor(s) \r\nY) Voltage across the load(s) \r\nZ) Voltage across the transistor(s)", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer What is thought to be driving the rapid (and accelerating) expansion \r\nof the universe, while accounting for nearly three-quarters of the mass and energy that exists in \r\nthe universe?", 
     "tossupA": "W) VOLTAGE ACROSS THE INDUCTOR(S)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd337"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 6, 
@@ -261,13 +227,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer Which group of plants enclose their seeds within a fruit?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Atopic dermatitis is a medical condition predominantly \r\naffecting which organ system? \r\n \r\nW) Hepatobiliary [hep-uht-oh-BIL-er-ee] \r\nX) Integumentary [in-teg-yuh-MEN-tuh-ree] \r\nY) Skeletal \r\nZ) Circulatory", 
     "tossupA": "ANGIOSPERMS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd338"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -276,13 +244,15 @@
     "tossupQ": "MATH Short Answer Mike buys hot dogs that come in packages of 10. If hot dog buns come \r\nin packages of 8, what is the fewest number of hot dog packages he can buy in order have the \r\nsame number of hot dogs as buns?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Which of the following conditions is NOT used for similarity of two \r\ntriangles? \r\n \r\nW) SSS [side, side, side] \r\nX) AAA [angle, angle, angle] \r\nY) SSA [side, side, angle] \r\nZ) SAS [side, angle, side]", 
     "tossupA": "4", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd339"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -291,13 +261,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice According to the Richter scale, which of the following \r\nis closest to the ratio of the energy released in a magnitude 10 earthquake to that released in a \r\nmagnitude 8 earthquake? \r\n \r\nW) 10 \r\nX) 20 \r\nY) 100 \r\nZ) 1000", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Atoms of which of these elements tend to form three \r\ncovalent bonds? \r\n \r\nW) Carbon \r\nX) Nitrogen \r\nY) Oxygen \r\nZ) Chlorine", 
     "tossupA": "Z) 1000", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd33a"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 5, 
@@ -306,13 +278,15 @@
     "tossupQ": "ENERGY Short Answer Ozone is an important gas in the stratosphere. What is the chemical \r\nformula of ozone?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice Which of the following rates, referring to costs for peak hour cost \r\nversus off-peak hour cost, respectively, would most incentivize a homeowner for running their \r\nlarge appliances during off-peak hours rather than peak hours? \r\n \r\nW) $2 per kilowatt and $0.10 per kilowatt hour \r\nX) $1 per kilowatt and $0.10 per kilowatt hour \r\nY) $1 per kilowatt and $0.12 per kilowatt hour \r\nZ) $3 per kilowatt and $0.10 per kilowatt hour", 
     "tossupA": "O3", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd33b"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +295,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer In what organelle of a plant cell does photosynthesis occur?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice In addition to being birds, what do the Great Auk, moa, \r\npassenger pigeon, and Carolina parakeet have in common? \r\n \r\nW) They are all listed as invasive species in North America \r\nX) They are all extinct \r\nY) They are all listed as threatened species in their native habitats \r\nZ) They are all being raised in captive breeding programs for later release into the wild", 
     "tossupA": "CHLOROPLAST", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd33c"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,12 +312,82 @@
     "tossupQ": "EARTH AND SPACE Short Answer What must a glacier meet in order to form an ice shelf?", 
     "packetNum": 1, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice What major geologic forces operate at the shoreline? \r\n \r\nW) Surface water and wind \r\nX) Waves and tides \r\nY) Wind and tides \r\nZ) Chemical and physical weathering", 
     "tossupA": "AN OCEAN (ACCEPT: BODY OF WATER; SEA; OR BAY)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd33d"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) BACTERIA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the common name of the members of the class Aves?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms were the earliest life forms \r\nto evolve in the ocean? \r\n \r\nW) Protozoa [proh-tuh-ZOH-uh] \r\nX) Algae \r\nY) Bacteria \r\nZ) Fungi", 
+    "tossupA": "BIRDS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd32a"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Assuming that the Earth is a sphere of radius r, what is the surface \r\narea of the Northern hemisphere? \r\n \r\nW) 2/3\u03c0r<sup>3</sup> \r\nX) 2\u03c0r<sup>2</sup> \r\nY) 3\u03c0r<sup>2</sup> \r\nZ) 4\u03c0r<sup>2</sup>", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many positive integers are between \u221a3 and\u221a82?", 
+    "tossupA": "X) 2\u03c0r<sup>2</sup>", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd32d"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice What is the standard form of the following equation: 2x = 3y \u2013 5? \r\n \r\nW) 2x \u2013 3y = 5 \r\nX) 2x \u2013 5 = 3y \r\nY) 2x + 3y = 5 \r\nZ) 2x \u2013 3y = \u20135", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many parallel pairs of faces does a right regular hexagonal prism \r\nhave?", 
+    "tossupA": "Z) 2x \u2013 3y = \u20135", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd333"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MOSQUITO (ACCEPT: ANOPHELES)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice In which part of the plant would you expect to find the \r\nlargest concentration of photosynthetic pigments? \r\n \r\nW) Roots \r\nX) Shoots \r\nY) Leaves \r\nZ) Fruit", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the vector for the organism that causes malaria?", 
+    "tossupA": "Y) LEAVES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd335"
+    }, 
+    "questionNum": 15
   }
 ]

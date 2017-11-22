@@ -6,28 +6,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Using two vertically-aligned pulleys to move a load will \r\ndouble the amount of rope you must pull to move the load a given distance, but what will it do to \r\nthe amount of force you must exert?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Name three types of friction.", 
     "tossupA": "HALVE IT", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd00"
     }, 
-    "questionNum": "1"
-  }, 
-  {
-    "category": 1, 
-    "bonusA": "X) TISSUES", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "LIFE SCIENCE Short Answer Hinge and ball-and-socket are two examples of which kind of \r\nbody part?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "LIFE SCIENCE Multiple Choice Muscle, connective, nerve, and epithelial are four basic \r\ntypes of animal: \r\n \r\nW) Cells \r\nX) Tissues \r\nY) Organs \r\nZ) Organ systems", 
-    "tossupA": "JOINT", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccd01"
-    }, 
-    "questionNum": "2"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -36,13 +23,15 @@
     "tossupQ": "MATH Short Answer What is the measure in degrees of an interior angle of a regular \r\npentagon?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the sum of the measures of all interior angles of a regular \r\nhexagon and a regular octagon?", 
     "tossupA": "108", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd02"
     }, 
-    "questionNum": "3"
+    "questionNum": 3
   }, 
   {
     "category": 5, 
@@ -51,13 +40,15 @@
     "tossupQ": "ENERGY Multiple Choice Utility companies have adopted a net metering approach with \r\nconsumers who have renewable sources connected to the electric network. What is net \r\nmetering? \r\n \r\nW) A program in which people pay for total energy consumption rather than per unit \r\nconsumption \r\nX) A program in which people donate a certain amount of funds to those who have trouble \r\npaying for their electricity bill \r\nY) The power company\u2019s method to reduce consumption during peak periods \r\nZ) An incentive program that credits or pays customers who wish to supplement the utility's \r\nelectricity with their own sources", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice A perfectly efficient engine would transform the chemical energy \r\nin gasoline into: \r\n \r\nW) Heat \r\nX) Work \r\nY) Motion \r\nZ) Electricity", 
     "tossupA": "Z) AN INCENTIVE PROGRAM THAT CREDITS OR PAYS CUSTOMERS WHO \r\nWISH TO SUPPLEMENT THE UTILITY'S ELECTRICITY WITH THEIR OWN SOURCES", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd03"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 3, 
@@ -66,28 +57,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Why do most rocks sink in water?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice At a given temperature, the velocity of gases is: \r\n \r\nW) Directly proportional to molecular size \r\nX) Indirectly proportional to molecular size \r\nY) Inversely proportional to molecular mass \r\nZ) Directly proportional to molecular mass", 
     "tossupA": "THEY ARE DENSER THAN THE WATER (ACCEPT: THEY WEIGH MORE THAN \r\nTHE WATER THEY DISPLACE)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd04"
     }, 
-    "questionNum": "5"
-  }, 
-  {
-    "category": 4, 
-    "bonusA": "33", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "MATH Short Answer Evaluate: 3 - |6 - 15| (read as: 3 minus the absolute value of the \r\nquantity 6 minus 15).", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "MATH Short Answer Evaluate: |(-7)(-5)| - 2 (read as: the absolute value of the product of \r\nnegative 7 and negative 5 minus 2).", 
-    "tossupA": "-6", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccd05"
-    }, 
-    "questionNum": "6"
+    "questionNum": 5
   }, 
   {
     "category": 1, 
@@ -96,13 +74,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following organisms is not a eukaryote (read \r\nas: yuh-KEHR-ee-\u014dt)? \r\n \r\nW) Protist \r\nX) Bacteria \r\nY) Fungi \r\nZ) Plant", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What are the two most defining features of a eukaryotic (read \r\nas: yuh-KEHR-ee-\u014detik) cell?", 
     "tossupA": "X) BACTERIA", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd06"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,28 +91,15 @@
     "tossupQ": "ENERGY Multiple Choice Which of the following items, commonly found in most American \r\nhouseholds, represents significant energy input if made from its common ore; however, \r\nrecycling this item saves enough energy to run a TV for 3 hours. \r\n \r\nW) Aluminum can \r\nX) Glass bottle \r\nY) Plastic jug \r\nZ) Tin can", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Short Answer If the average TV consumes 120 watts, and a kilowatt hour costs 10 \r\ncents, then how much does it cost in cents to run the TV for 3 hours?", 
     "tossupA": "W) ALUMINUM CAN", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd07"
     }, 
-    "questionNum": "8"
-  }, 
-  {
-    "category": 0, 
-    "bonusA": "STRIKE-SLIP", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the name of the tide that has the \r\nlowest high tide and highest low tide?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer The San Andreas Fault, which runs along \r\nmost of the coast of California, is an example of what type of fault: normal, thrust, or strike-slip?", 
-    "tossupA": "NEAP TIDE", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccd08"
-    }, 
-    "questionNum": "9"
+    "questionNum": 8
   }, 
   {
     "category": 4, 
@@ -141,13 +108,15 @@
     "tossupQ": "MATH Short Answer Which of the following values is greater: 42/45, 2/3, or 8/9?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer Giving your answer as a fraction in simplest form, what is the \r\ndifference between 13/15 and 19/21?", 
     "tossupA": "42/45", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd09"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 1, 
@@ -156,28 +125,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Most scientists believe that protists evolved from which of \r\nthe following? \r\n \r\nW) Prokaryotes (read as: pr\u014de-KAHR-ee-\u014dets) \r\nX) Fungi \r\nY) Plants \r\nZ) Euglenoids (read as: yuh-GLEE-nohids)", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Protist habitats are often characterized by the presence of \r\nwhich of the following? \r\n \r\nW) Soil \r\nX) Moisture \r\nY) Algae \r\nZ) High altitude", 
     "tossupA": "W) PROKARYOTES", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd0a"
     }, 
-    "questionNum": "11"
-  }, 
-  {
-    "category": 6, 
-    "bonusA": "Z) ORGANIC MATTER", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer If an atom of neutral nitrogen has 7 neutrons, what is \r\nits weight in atomic mass units?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "GENERAL SCIENCE Multiple Choice What substance most commonly makes soil black? \r\n \r\nW) Minerals \r\nX) Burned wood \r\nY) Clay \r\nZ) Organic matter", 
-    "tossupA": "14 ATOMIC MASS UNITS", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccd0b"
-    }, 
-    "questionNum": "12"
+    "questionNum": 11
   }, 
   {
     "category": 4, 
@@ -186,28 +142,15 @@
     "tossupQ": "MATH Multiple Choice On a number line, the coordinate of S is -6 and the coordinate of R \r\nis 3. Which statement is true? \r\n \r\nW) S divided by R is greater than 0 \r\nX) R minus S is less than 0 \r\nY) S times R is less than 0 \r\nZ) S plus R is greater than 0", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer On a coordinate grid, a line segment has endpoints ( -1, 2) and    \r\n(3, -4). What are the coordinates of the midpoint of the segment?", 
     "tossupA": "Y) S TIMES R IS LESS THAN 0", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd0c"
     }, 
-    "questionNum": "13"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "FOURTH", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Short Answer What is the term for a type of organism that recycles dead matter \r\nback into nutrients primary producers can use?", 
-    "packetNum": 9, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer If a food chain has four trophic levels, apex predators would \r\nbelong to which trophic level?", 
-    "tossupA": "DECOMPOSER (ACCEPT: DETRITIVORE)", 
-    "setNum": 4, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235ceccd0d"
-    }, 
-    "questionNum": "14"
+    "questionNum": 13
   }, 
   {
     "category": 0, 
@@ -216,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Most of the mass of Earth\u2019s atmosphere is \r\nlocated in which of the following layers? \r\n \r\nW) Troposphere \r\nX) Mesosphere \r\nY) Thermosphere \r\nZ) Stratosphere", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is true about air \r\nover the north and south poles? \r\n \r\nW) It evaporates at a much faster rate than air found elsewhere \r\nX) It rises, creating a region of high snowfall \r\nY) It freezes and falls to earth as ice, forming the ice sheets \r\nZ) It sinks, creating a high pressure system near the surface", 
     "tossupA": "W) TROPOSPHERE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd0e"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 3, 
@@ -231,13 +176,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following explains why white light \r\nentering a prism exits and projects a rainbow? \r\n \r\nW) The prism's crystal lattice colors the white light, like stained glass \r\nX) Different parts of the prism absorb different colors of light \r\nY) The prism separates the white light into its component parts \r\nZ) The prism acts as a polarizing filter", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer By name or number, identify the following materials \r\nwhich are NOT associated with the ceramics industry: 1) brick, 2) uranium oxide, 3) porcelain, \r\nor 4) foam?", 
     "tossupA": "Y) THE PRISM SEPARATES THE WHITE LIGHT INTO ITS COMPONENT PARTS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd0f"
     }, 
-    "questionNum": "16"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -246,13 +193,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What inorganic nutrient, often found in detergent, is \r\nimplicated in algal blooms?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following substances does not react \r\nwith either vinegar or iodine? \r\n \r\nW) Baking soda \r\nX) Baking powder \r\nY) Cornstarch \r\nZ) Powdered sugar", 
     "tossupA": "PHOSPHORUS (ACCEPT: PHOSPHATES)", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd10"
     }, 
-    "questionNum": "17"
+    "questionNum": 17
   }, 
   {
     "category": 1, 
@@ -261,13 +210,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following processes is NOT classified as \r\npassive transport? \r\n \r\nW) Endocytosis (read as: EHN-doh-sy-T\u014cE-sis) \r\nX) Facilitated diffusion \r\nY) Filtration \r\nZ) Osmosis", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Which element is needed by ocean animals to build protein, \r\nis found in about half of the dissolved oceanic gases, and is quite harmful to humans who \r\nascend too quickly while diving?", 
     "tossupA": "W) ENDOCYTOSIS", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd11"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 0, 
@@ -276,13 +227,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer Limestone is largely composed of which two \r\nminerals?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Diamonds are formed when carbon-based \r\nmaterial is exposed to high pressures and comparatively low temperatures. Where are these \r\ntwo types of environments found on Earth?", 
     "tossupA": "CALCITE AND ARAGONITE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd12"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 6, 
@@ -291,13 +244,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following sets of equipment could be \r\nused to measure the boiling point of a liquid? \r\n \r\nW) Beaker, hot plate, and thermometer \r\nX) Balance, thermometer, and test tube \r\nY) Stopwatch, test tube, and microscope \r\nZ) Test tube, hot plate, and balance", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following processes releases energy? \r\n \r\nW) Evaporation \r\nX) Melting \r\nY) Boiling \r\nZ) Condensation", 
     "tossupA": "W) BEAKER, HOT PLATE, AND THERMOMETER", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd13"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 4, 
@@ -306,13 +261,15 @@
     "tossupQ": "MATH Multiple Choice Considering a number set {1,2,4,7,50}, which of the following \r\nvalues is the largest? \r\n \r\nW) Mean \r\nX) Median \r\nY) Range \r\nZ) Third quartile", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer A bag of lawn fertilizer covers 2500 square feet. How many bags of \r\nfertilizer would you need to share with your neighbor if your lawn was 175 feet by 200 feet and \r\nyour neighbor\u2019s yard was 150 feet by 150 feet?", 
     "tossupA": "Y) RANGE", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd14"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 6, 
@@ -321,13 +278,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice In which of the following locations would you expect \r\na scientist who was studying tundra to collect his or her samples? \r\n \r\nW) The Pacific Ocean \r\nX) Coastal Greenland \r\nY) The tropics \r\nZ) The Sahara", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer Name the two living monotremes.", 
     "tossupA": "X) COASTAL GREENLAND", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd15"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 3, 
@@ -336,13 +295,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice When you bombard uranium-235 with a slow-\r\nmoving neutron, the resulting atomic change is called: \r\n \r\nW) Nuclear fusion \r\nX) Nuclear fission \r\nY) Electron addition \r\nZ) Nuclear degradation", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice In nuclear chemistry, a mass defect exists due to: \r\n \r\nW) The high energy of electrons \r\nX) Unsymmetrical configurations \r\nY) Nuclear binding energy \r\nZ) Weak nuclear forces", 
     "tossupA": "X) NUCLEAR FISSION", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd16"
     }, 
-    "questionNum": "23"
+    "questionNum": 23
   }, 
   {
     "category": 0, 
@@ -351,13 +312,15 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the name for the two times of year \r\nwhen the nighttime and daylight portions of a day are of approximately equal lengths?", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice What is the approximate air pressure at \r\nthe surface of the Earth in pascals? \r\n \r\nW) 5,000 \r\nX) 10,000 \r\nY) 100,000 \r\nZ) 500,000", 
     "tossupA": "EQUINOX", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd17"
     }, 
-    "questionNum": "24"
+    "questionNum": 24
   }, 
   {
     "category": 0, 
@@ -366,12 +329,99 @@
     "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following depicts an accurate \r\nrelationship between river water and groundwater within one watershed area? \r\n \r\nW) River water may be polluted but groundwater lacks pollutants \r\nX) They are the same, though the water may pick up slightly different chemicals and minerals as \r\nit moves through the ground \r\nY) Groundwater can be contaminated by septic tanks but rivers cannot \r\nZ) Rivers flow into the ocean but groundwater cannot", 
     "packetNum": 9, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is a major concern \r\nfor oceanfront homes using well water and septic tanks? \r\n \r\nW) Using too much well water in a short time can over-pump the fresh groundwater, drawing \r\nseawater into the well \r\nX) Water systems of coastal homes are particularly susceptible to pollution due to excessive \r\ntoilet flushing \r\nY) Washing food into the sink drain will attract crabs and fish into the septic tank and lead to \r\ninfestations \r\nZ) Dishwashers must only be run with the incoming tide so the food from the plates can be \r\nwashed out with the outgoing tide", 
     "tossupA": "X) THEY ARE THE SAME, THOUGH THE WATER MAY PICK UP SLIGHTLY \r\nDIFFERENT CHEMICALS AND MINERALS AS IT MOVES THROUGH THE GROUND", 
     "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235ceccd18"
     }, 
-    "questionNum": "27"
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) TISSUES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Hinge and ball-and-socket are two examples of which kind of \r\nbody part?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Muscle, connective, nerve, and epithelial are four basic \r\ntypes of animal: \r\n \r\nW) Cells \r\nX) Tissues \r\nY) Organs \r\nZ) Organ systems", 
+    "tossupA": "JOINT", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd01"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "33", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate: 3 - |6 - 15| (read as: 3 minus the absolute value of the \r\nquantity 6 minus 15).", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate: |(-7)(-5)| - 2 (read as: the absolute value of the product of \r\nnegative 7 and negative 5 minus 2).", 
+    "tossupA": "-6", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd05"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "STRIKE-SLIP", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the name of the tide that has the \r\nlowest high tide and highest low tide?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer The San Andreas Fault, which runs along \r\nmost of the coast of California, is an example of what type of fault: normal, thrust, or strike-slip?", 
+    "tossupA": "NEAP TIDE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd08"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) ORGANIC MATTER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer If an atom of neutral nitrogen has 7 neutrons, what is \r\nits weight in atomic mass units?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice What substance most commonly makes soil black? \r\n \r\nW) Minerals \r\nX) Burned wood \r\nY) Clay \r\nZ) Organic matter", 
+    "tossupA": "14 ATOMIC MASS UNITS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd0b"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "FOURTH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer What is the term for a type of organism that recycles dead matter \r\nback into nutrients primary producers can use?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer If a food chain has four trophic levels, apex predators would \r\nbelong to which trophic level?", 
+    "tossupA": "DECOMPOSER (ACCEPT: DETRITIVORE)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd0d"
+    }, 
+    "questionNum": 14
   }
 ]

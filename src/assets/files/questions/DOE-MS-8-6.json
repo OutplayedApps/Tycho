@@ -6,13 +6,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is true? \r\n \r\nW) Meiosis [my-OH-sis] results in two daughter cells \r\nX) Meiosis results in identical daughter cells \r\nY) Mitosis [my-TOH-sis] results in four daughter cells \r\nZ) Mitosis results in identical daughter cells", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Short Answer What is the smallest of the world\u2019s five oceans?", 
     "tossupA": "Z) MITOSIS RESULTS IN IDENTICAL DAUGHTER CELLS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd424"
     }, 
-    "questionNum": "1"
+    "questionNum": 1
   }, 
   {
     "category": 4, 
@@ -21,28 +23,15 @@
     "tossupQ": "MATH Multiple Choice What type of quadrilateral has only one set of parallel sides with \r\ncongruent non-parallel sides and congruent diagonals? \r\n \r\nW) Rhombus \r\nX) Kite \r\nY) Isosceles trapezoid \r\nZ) Right trapezoid", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer What is the probability that an integer chosen at random from the set of \r\nall positive integers less than 100 is a multiple of 5?", 
     "tossupA": "Y) ISOSCELES TRAPEZOID", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd425"
     }, 
-    "questionNum": "2"
-  }, 
-  {
-    "category": 3, 
-    "bonusA": "625", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following wave types has the longest \r\nwavelength? \r\n \r\nW) Radio \r\nX) Gamma \r\nY) Ultraviolet \r\nZ) Microwave", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the momentum, in newton seconds, of an object \r\nwith a mass of 25 kilograms moving at a velocity of 25 meters per second?", 
-    "tossupA": "W) RADIO", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd426"
-    }, 
-    "questionNum": "3"
+    "questionNum": 2
   }, 
   {
     "category": 1, 
@@ -51,13 +40,15 @@
     "tossupQ": "LIFE SCIENCE Multiple Choice Which of these organisms get energy directly from the Sun? \r\n \r\nW) Methanogens [me-THAN-uh-jens] \r\nX) Thermophiles \r\nY) Cyanobacteria [sy-uh-noh-bak-TEER-ee-uh] \r\nZ) Lithotrophs", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Which division of the nervous system contains axons of \r\nsensory and motor neurons bundled together as nerves?", 
     "tossupA": "Y) CYANOBACTERIA", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd427"
     }, 
-    "questionNum": "4"
+    "questionNum": 4
   }, 
   {
     "category": 0, 
@@ -66,13 +57,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer The Cascade Mountains and the Andes Mountains are \r\npart of what is called the Ring of Fire. All of the volcanoes in the Ring of Fire are formed by \r\nmagmatic processes at what kind of plate boundary?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice The ocean crust is composed mostly of which of the \r\nfollowing rock types? \r\n \r\nW) Basalt \r\nX) Granite \r\nY) Tonalite \r\nZ) Gneiss [NYS]", 
     "tossupA": "SUBDUCTION ZONE (ACCEPT: CONVERGENT BOUNDARY)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd428"
     }, 
-    "questionNum": "5"
+    "questionNum": 5
   }, 
   {
     "category": 6, 
@@ -81,13 +74,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer What is the layer just below the canopy in the vertical \r\nstratification of a forest?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following gives the primary components of \r\nthe Earth\u2019s mass in order from largest percentage to smallest? \r\n \r\nW) Crust, mantle, core \r\nX) Core, mantle, crust \r\nY) Mantle, core, crust \r\nZ) Core, crust, mantle", 
     "tossupA": "UNDERSTORY (ACCEPT: UNDERBRUSH)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd429"
     }, 
-    "questionNum": "6"
+    "questionNum": 6
   }, 
   {
     "category": 4, 
@@ -96,13 +91,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is an example of a linear equation? \r\n \r\nW) 7x-5/y = 0 [7 x minus 5 over y equals 0] \r\nX) 3x<sup>2</sup> + 4y<sup>3</sup> = 9 \r\nY) 7x + 11y \u2013 4 = 9x + 22y \r\nZ) 3xy = 12 ", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Short Answer You earn two extra credit points on a test that is graded on a 25 point \r\nscale. If you had an 88% before the extra credit, what is your final score, expressed as a \r\npercentage?", 
     "tossupA": "Y) 7x + 11y \u2013 4 = 9x + 22y", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd42a"
     }, 
-    "questionNum": "7"
+    "questionNum": 7
   }, 
   {
     "category": 5, 
@@ -111,13 +108,15 @@
     "tossupQ": "ENERGY Multiple Choice As the spring constant (k) of a spring increases, what happens to \r\nits energy storage potential? \r\n \r\nW) It increases exponentially \r\nX) It increases linearly \r\nY) It stays the same \r\nZ) It decreases", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice To prevent lithium ion batteries from catching fire and exploding, \r\nwhich of the following devices is utilized? \r\n \r\nW) Fuse disconnecting device \r\nX) Monitoring circuit \r\nY) Charge controller \r\nZ) Voltage charger", 
     "tossupA": "X) IT INCREASES LINEARLY", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd42b"
     }, 
-    "questionNum": "8"
+    "questionNum": 8
   }, 
   {
     "category": 3, 
@@ -126,13 +125,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice A sound wave hits a wall, causing a reflection. Which \r\nof the following statements about this reflection is NOT correct? \r\n \r\nW) The wave will bounce off the wall \r\nX) The speed of the wave may change \r\nY) The frequency of the wave will not change \r\nZ) The amplitude of the wave may change", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following scientists did NOT study \r\nelectricity and its properties? \r\n \r\nW) Andr\u00e9-Marie Amp\u00e8re \r\nX) Alessandro Volta \r\nY) Benjamin Franklin \r\nZ) John Dalton", 
     "tossupA": "X) THE SPEED OF THE WAVE MAY CHANGE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd42c"
     }, 
-    "questionNum": "9"
+    "questionNum": 9
   }, 
   {
     "category": 1, 
@@ -141,13 +142,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the name of the barrier that surrounds all cells and \r\nregulates what may enter and exit the cell?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice When two species compete for the same resources and \r\none species is eliminated, the outcome is referred to as which of the following? \r\n \r\nW) Resource partitioning \r\nX) Intraspecific competition \r\nY) Commensalism \r\nZ) Competitive exclusion", 
     "tossupA": "PLASMA MEMBRANE (ACCEPT: CELL MEMBRANE; DO NOT ACCEPT: \r\nMEMBRANE)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd42d"
     }, 
-    "questionNum": "10"
+    "questionNum": 10
   }, 
   {
     "category": 0, 
@@ -156,13 +159,15 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is a characteristic mound-like \r\nstructure that represents trace fossils of photosynthesizing microbes? Living relatives of these \r\norganisms can be found in Shark Bay, Australia. \r\n \r\nW) Stromatolite [stroh-MAT-l-yt] \r\nX) Oncolite \r\nY) Oncoid \r\nZ) Dendrite", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer Water ice is a significant constituent of the outer planets \r\nand moons of the solar system and can manifest itself in at least 15 different crystalline forms. \r\nOther than crystal structure, what is the physical difference between these various types of \r\nwater ice?", 
     "tossupA": "W) STROMATOLITE", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd42e"
     }, 
-    "questionNum": "11"
+    "questionNum": 11
   }, 
   {
     "category": 6, 
@@ -171,13 +176,15 @@
     "tossupQ": "GENERAL SCIENCE Short Answer The base represented by the letter \u201cT\u201d in DNA is \r\nreplaced by which base in RNA?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "GENERAL SCIENCE Multiple Choice What digestive organ has parts including the fundus, \r\ncardiac region, body, and pyloric region? \r\n \r\nW) Small intestine \r\nX) Liver \r\nY) Pancreas \r\nZ) Stomach", 
     "tossupA": "URACIL (ACCEPT: U)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd42f"
     }, 
-    "questionNum": "12"
+    "questionNum": 12
   }, 
   {
     "category": 4, 
@@ -186,13 +193,15 @@
     "tossupQ": "MATH Multiple Choice Which of the following is a rational number? \r\n \r\nW) \u03c0 [pi] \r\nX) The base of a right isosceles triangle with hypotenuse 7 \r\nY) The radius of a circle with circumference 2\u03c0 \r\nZ) e<sup>2</sup>", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice The graph of a line passes through the points with coordinates (a, b) \r\nand (c, -b). The slope of the line is \u00bd. What is a \u2013 c in terms of b? \r\n \r\nW) 4b \r\nX) b \r\nY) -b \r\nZ) -4b", 
     "tossupA": "Y) THE RADIUS OF A CIRCLE WITH CIRCUMFERENCE 2\u03c0", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd430"
     }, 
-    "questionNum": "13"
+    "questionNum": 13
   }, 
   {
     "category": 3, 
@@ -201,13 +210,15 @@
     "tossupQ": "PHYSICAL SCIENCE Short Answer Providing your answer to two significant figures, what is \r\nthe density, in grams per milliliter, of a 0.60 kilogram sample that has a volume of 300 cubic \r\ncentimeters?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Multiple Choice An object traveling from Earth to Venus experiences \r\nequal gravitational pull by Earth and Venus when which of the following occurs? \r\n \r\nW) It is closer to Earth\u2019s surface \r\nX) It is closer to Venus\u2019s surface \r\nY) It is exactly halfway between Earth and Venus \r\nZ) Earth always pulls more strongly", 
     "tossupA": "2.0", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd431"
     }, 
-    "questionNum": "14"
+    "questionNum": 14
   }, 
   {
     "category": 1, 
@@ -216,13 +227,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer What is the term for the rapid, automatic response to stimuli in \r\nwhich a particular stimulus always causes the same motor response?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following traits would you expect an ornithopod \r\n[AWR-nuh-thuh-pod] dinosaur to have? \r\n \r\nW) Feathers \r\nX) Bird-like feet \r\nY) Webbed feet \r\nZ) Fused pelvis", 
     "tossupA": "REFLEX", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd432"
     }, 
-    "questionNum": "15"
+    "questionNum": 15
   }, 
   {
     "category": 0, 
@@ -231,28 +244,15 @@
     "tossupQ": "EARTH AND SPACE Short Answer What are the three most common cementing agents of \r\nsedimentary rocks?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Multiple Choice Radiometric dating is a method of obtaining the age \r\nfor a rock. This method utilizes which of the following? \r\n \r\nW) The presence of fossils \r\nX) Cross-cutting relationships \r\nY) Spontaneous decay of radioactive elements \r\nZ) Superposition of strata", 
     "tossupA": "CALCITE, SILICA (ACCEPT: QUARTZ), IRON OXIDE (ACCEPT: HEMATITE)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd433"
     }, 
-    "questionNum": "16"
-  }, 
-  {
-    "category": 5, 
-    "bonusA": "TEXAS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "ENERGY Short Answer What is the lowest point of land in the United States, where pure \r\nwater does not boil until temperatures exceed 100oC?", 
-    "packetNum": 6, 
-    "grade": "MS", 
-    "bonusQ": "ENERGY Short Answer To date, most of the shale gas production has taken place in which \r\nU.S. state?", 
-    "tossupA": "DEATH VALLEY", 
-    "setNum": 8, 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecd434"
-    }, 
-    "questionNum": "17"
+    "questionNum": 16
   }, 
   {
     "category": 6, 
@@ -261,13 +261,15 @@
     "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following types of cloud are associated \r\nwith supercell thunderstorms? \r\n \r\nW) Cumulonimbus [kyoo-myuh-loh-NIM-buhs] \r\nX) Cumulus \r\nY) Stratus \r\nZ) Cirrus", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "BONUS \r\n \r\n18)\u00a0GENERAL SCIENCE\u00a0Short Answer What marsupial is native to the United States and \r\nCanada?", 
     "tossupA": "W) CUMULONIMBUS", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd435"
     }, 
-    "questionNum": "18"
+    "questionNum": 18
   }, 
   {
     "category": 4, 
@@ -276,13 +278,15 @@
     "tossupQ": "MATH Short Answer The diameters of two circular gears of Ben\u2019s bicycle are in the ratio of 3 \r\nto 1. If the larger gear has a diameter of 24 inches, what is the circumference, in inches, of the \r\nsmaller gear, in terms of pi?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "MATH Multiple Choice Which of the following values of c provides an integer value for the \r\nexpression 0.3c + 4.2? \r\n \r\nW) 2 \r\nX) 3 \r\nY) 5 \r\nZ) 6", 
     "tossupA": "8\u03c0", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd436"
     }, 
-    "questionNum": "19"
+    "questionNum": 19
   }, 
   {
     "category": 3, 
@@ -291,13 +295,15 @@
     "tossupQ": "PHYSICAL SCIENCE Multiple Choice The acceleration of a stone thrown upwards is which \r\nof the following? \r\n \r\nW) Greater than that of a stone thrown downward \r\nX) The same as that of a stone thrown downward \r\nY) Less than that of a stone thrown downward \r\nZ) Zero until it reaches the highest point", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "PHYSICAL SCIENCE Short Answer Identify all of the following four materials that are good \r\ninsulators: 1) copper, 2) glass, 3) mica [MY-kuh], 4) quartz.", 
     "tossupA": "X) THE SAME AS THAT OF A STONE THROWN DOWNWARD", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd437"
     }, 
-    "questionNum": "20"
+    "questionNum": 20
   }, 
   {
     "category": 5, 
@@ -306,13 +312,15 @@
     "tossupQ": "ENERGY Short Answer Carbon Capture and Sequestration (CCS) in deep ocean is no \r\nlonger considered a promising alternative to releasing large quantities of carbon dioxide into the \r\natmosphere. This is due to what chemical change that is believed to result from excess CO2 in \r\nthe ocean?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "ENERGY Multiple Choice With regard to water heaters, which of the following options \r\npresents energy savings of up to 30%? \r\n \r\nW) Replacing the tank water heater by an on-demand water heater \r\nX) Insulating pipe lines up to 6ft away from the heater \r\nY) Using heat pump water heaters \r\nZ) Insulating the surroundings of the water heater", 
     "tossupA": "ACIDIFICATION", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd438"
     }, 
-    "questionNum": "21"
+    "questionNum": 21
   }, 
   {
     "category": 1, 
@@ -321,13 +329,15 @@
     "tossupQ": "LIFE SCIENCE Short Answer Mixotrophic organisms, such as dinoflagellates [din-uh-\r\nFLAJ-uh-layts], are able to live by phototrophy and what other process?", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer What is the ancient type of Archaean [ahr-KEE-uhn] \r\nmetabolism that uses molecular hydrogen as an energy source and produces methane?", 
     "tossupA": "HETEROTROPHY (ACCEPT: INGESTING NUTRIENTS; EATING OTHER \r\nORGANISMS)", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd439"
     }, 
-    "questionNum": "22"
+    "questionNum": 22
   }, 
   {
     "category": 0, 
@@ -336,12 +346,48 @@
     "tossupQ": "EARTH AND SPACE Multiple Choice Many cities on the U.S. east coast are at greater risk \r\nfrom rising sea levels than cities on the west coast of the U.S. What is the most plausible \r\nexplanation for this occurrence? \r\n \r\nW) Cities on the west coast are typically built higher \r\nX) The sea level will rise more on the east coast than on the west coast \r\nY) West coast cities are newer and, therefore, stronger \r\nZ) East coast cities are on unstable ground and are sinking slightly", 
     "packetNum": 6, 
     "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "EARTH AND SPACE Short Answer What is the term for the underwater equivalent of \r\nhypsometry [hip-SOM-i-tree]?", 
     "tossupA": "X) THE SEA LEVEL WILL RISE MORE ON THE EAST COAST THAN ON THE \r\nWEST COAST", 
     "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
       "$oid": "5a110deb6fd1dd235cecd43a"
     }, 
-    "questionNum": "25"
+    "questionNum": 25
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "625", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following wave types has the longest \r\nwavelength? \r\n \r\nW) Radio \r\nX) Gamma \r\nY) Ultraviolet \r\nZ) Microwave", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the momentum, in newton seconds, of an object \r\nwith a mass of 25 kilograms moving at a velocity of 25 meters per second?", 
+    "tossupA": "W) RADIO", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd426"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "TEXAS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer What is the lowest point of land in the United States, where pure \r\nwater does not boil until temperatures exceed 100oC?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer To date, most of the shale gas production has taken place in which \r\nU.S. state?", 
+    "tossupA": "DEATH VALLEY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd434"
+    }, 
+    "questionNum": 17
   }
 ]
