@@ -81,7 +81,7 @@ export class NsbmenuPage {
     }
     // Set default vendorNum
     if (!~vendors.indexOf(this.options.vendorNum)) {
-      this.options.vendorNum = vendors[0];
+      this.options.vendorNum = this.options.difficulty == "MS" ? "DOE-MS": "DOE-HS";
     }
 
     return vendors;
