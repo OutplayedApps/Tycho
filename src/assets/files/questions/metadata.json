@@ -21,7 +21,7 @@
       }
     }, 
     "metadata": {
-      "displayLabel": "Sample DE (difficult)", 
+      "displayLabel": true, 
       "label": "Sample DE (difficult)"
     }
   }, 
@@ -71,7 +71,7 @@
       }
     }, 
     "metadata": {
-      "displayLabel": "Sample RR (easy and medium)", 
+      "displayLabel": true, 
       "label": "Sample RR (easy and medium)"
     }
   }, 
@@ -621,6 +621,7 @@
       }
     }, 
     "metadata": {
+      "displayLabel": true, 
       "label": "Official DOE Sample Questions"
     }
   }, 
@@ -1150,6 +1151,7 @@
       }
     }, 
     "metadata": {
+      "displayLabel": true, 
       "label": "Official DOE Sample Questions"
     }
   }

@@ -65,9 +65,9 @@ export class NsbmenuPage {
       if (typeof currentMetadata["displayLabel"] === 'string') {
         displayName = currentMetadata["displayLabel"];
       }
-      else if (currentMetadata[name]["displayLabel"] === true &&
-            typeof currentMetadata[name]["label"] === 'string') {
-        displayName = currentMetadata[name]["label"];
+      else if (currentMetadata["displayLabel"] === true &&
+            typeof currentMetadata["label"] === 'string') {
+        displayName = currentMetadata["label"];
       }
     }
     return displayName;
