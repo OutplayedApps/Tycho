@@ -36,11 +36,12 @@ export class NsbappPage {
   currentQ: String;
   currentA: String;
   currentQuestionDisplayed: CurrentQuestionDisplayed;
-  buzzBtnText: String; // Text shown on "buzz" button in game mode.
+  buzzBtnText: String; // Text shown on NsbappPage.BUZZ_BTN_DEFAULT_TXT button in game mode.
   static readonly PROGRESS_READ_TOSSUP_Q = 0;
   static readonly PROGRESS_READ_TOSSUP_Q_AND_A = 1;
   static readonly PROGRESS_READ_BONUS_Q = 2;
   static readonly PROGRESS_READ_BONUS_Q_AND_A = 3;
+  static readonly BUZZ_BTN_DEFAULT_TXT = "BUZZ";
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
@@ -53,7 +54,7 @@ export class NsbappPage {
     this.timers.tossup.origText = this.timers.tossup.text;
     this.timers.bonus.origText = this.timers.bonus.text;
     this.currentQuestionDisplayed = {"question": "", "answer": ""};
-    this.buzzBtnText = "BUZZ";
+    this.buzzBtnText = NsbappPage.BUZZ_BTN_DEFAULT_TXT;
   }
 
   ionViewWillEnter() {
@@ -88,7 +89,7 @@ export class NsbappPage {
     // In game mode, all timers should be reset on "next question"
     if (this.options.mode == "GAME") {
       this.resetAllTimers();
-      this.buzzBtnText = "BUZZ";
+      this.buzzBtnText = NsbappPage.BUZZ_BTN_DEFAULT_TXT;
     }
 
     this.progress = (++this.progress % 4);
@@ -186,6 +187,10 @@ export class NsbappPage {
   }
 
   buzz() {
+    if (this.buzzBtnText != NsbappPage.BUZZ_BTN_DEFAULT_TXT) {
+      // Don't allow for buzzing in the middle of a buzzing countdown.
+      return;
+    }
     this.nsbService.stopSpeaking();
 
     var timer;
