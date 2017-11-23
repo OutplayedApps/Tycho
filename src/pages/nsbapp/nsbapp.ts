@@ -8,7 +8,8 @@ declare var window: any;
 
 export interface CurrentQuestionDisplayed {
   question: String,
-  answer: String
+  answer: String,
+  questionArray: String[]
 }
 export interface CurrentQuestion {
   "tossupQ": String,
@@ -49,11 +50,12 @@ export class NsbappPage {
               public nsbService: NSBService ) {
     this.timers = {
         "tossup": {"object": null, "subscription": null, "duration": 5, "text": "5"},
-        "bonus": {"object": null, "subscription": null, "duration": 20, "text": "20"}
+        "bonus": {"object": null, "subscription": null, "duration": 20, "text": "20"},
+        "questionReading": {"object": null, "subscription": null}
     }
     this.timers.tossup.origText = this.timers.tossup.text;
     this.timers.bonus.origText = this.timers.bonus.text;
-    this.currentQuestionDisplayed = {"question": "", "answer": ""};
+    this.currentQuestionDisplayed = {"question": "", "answer": "", "questionArray": []};
     this.buzzBtnText = NsbappPage.BUZZ_BTN_DEFAULT_TXT;
   }
 
@@ -120,7 +122,6 @@ export class NsbappPage {
     this.currentQuestion = this.questions[this.currentQuestionNumber];
     
     this.displayCurrentQuestion();
-    //this.setCurrentQuestionText();
 
   }
 
@@ -160,11 +161,14 @@ export class NsbappPage {
         textToSpeak = this.currentQuestionDisplayed.answer;
         break;
     }
-    if (this.nsbService.options.audio == "TRUE") {
+    if (this.options.audio == "TRUE") {
       this.nsbService.speakText(textToSpeak);
     }
-    else {
-      //alert(this.nsbService.options.audio);
+    if ((this.progress == NsbappPage.PROGRESS_READ_TOSSUP_Q || this.progress == NsbappPage.PROGRESS_READ_BONUS_Q ) &&
+        this.options.mode == "GAME" && this.options.audio == "FALSE") {
+      this.currentQuestionDisplayed.questionArray = this.currentQuestionDisplayed.question.split(" ");
+      this.currentQuestionDisplayed.question = "";
+      this.startQuestionReadingTimer();
     }
   }
 
@@ -193,6 +197,7 @@ export class NsbappPage {
     }
     this.nsbService.stopSpeaking();
 
+    this.resetAllTimers();
     var timer;
     if (this.progress == NsbappPage.PROGRESS_READ_TOSSUP_Q) {
       timer = this.clickTimer(this.timers.tossup);
@@ -206,6 +211,8 @@ export class NsbappPage {
   }
 
   clickTimer(timer) {
+    /* Start tossup or bonus timers, which tick every second.
+     */
     if (timer.object) {
       this.timeUp(timer, false);
       return;
@@ -224,6 +231,27 @@ export class NsbappPage {
             this.buzzBtnText = String(timer.duration - t); // counts 5, 4, 3, 2, 1, time up.
           }
         }
+    });
+    return timer;
+  }
+
+  startQuestionReadingTimer() {
+    /* Start question reading timer, which ticks every 200 ms.
+    */
+    var timer = this.timers.questionReading;
+    if (timer.object) {
+      this.timeUp(timer, false);
+      return this.startQuestionReadingTimer();
+    }
+    timer.object = Observable.timer(0, 200);
+    timer.subscription = timer.object.subscribe(t=> {
+      //if (this.progress == NsbappPage.PROGRESS_READ_TOSSUP_Q || this.progress == NsbappPage.PROGRESS_READ_BONUS_Q ) {
+      //  console.log(this.progress);
+        this.currentQuestionDisplayed.question += this.currentQuestionDisplayed.questionArray.shift() + " ";
+        if (this.currentQuestionDisplayed.questionArray.length == 0) {
+          this.timeUp(timer);
+        }
+      //}
     });
     return timer;
   }
