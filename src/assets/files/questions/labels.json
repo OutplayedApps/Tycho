@@ -48,6 +48,11 @@
                     "label": "Medium Round 2017.docx",
                     "year": 2017
                 }
+            },
+            "6": {
+                "metadata": {
+                    "label": "Easier_Round_2017.docx"
+                }
             }
         }
         
@@ -70,6 +75,16 @@
             "2": {
                 "metadata": {
                     "label": "Assorted Questions Mid-LateDE.docx"
+                }
+            },
+            "3": {
+                "metadata": {
+                    "label": "Assorted-Questions-RR-EarlyDE.docx"
+                }
+            },
+            "4": {
+                "metadata": {
+                    "label": "Difficult_Round_2014.docx.txt"
                 }
             }
         }

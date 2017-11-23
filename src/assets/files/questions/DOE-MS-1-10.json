@@ -1,44 +1,10 @@
 [
   {
-    "category": "5", 
-    "bonusA": "1 DECILITER; 2 LITERS; 128 OUNCES; 1.5 GALLONS", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "GENERAL SCIENCE Short Answer One degree of latitude at the Earth\u2019s surface is equal to \nhow many nautical miles?", 
-    "packetNum": "10", 
-    "grade": "MS", 
-    "date_modified": "2017-11-22T11:43:52.764000", 
-    "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 4 liquid measures from the one with \nthe SMALLEST volume to the LARGEST: 1.5 gallons; 128 ounces; 1 deciliter; 2 liters", 
-    "tossupA": "60", 
-    "setNum": 1, 
-    "date_created": "2017-11-20T11:04:14.747000", 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc89c"
-    }, 
-    "questionNum": 1
-  }, 
-  {
-    "category": "3", 
-    "bonusA": "RED; ORANGE; YELLOW; VIOLET", 
-    "vendorNum": "DOE-MS", 
-    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following MUST change if constructive \ninterference occurs between two light waves: \n \nW) compression \nX) frequency \nY) amplitude \nZ) speed", 
-    "packetNum": "10", 
-    "grade": "MS", 
-    "date_modified": "2017-11-22T18:49:20.580412", 
-    "bonusQ": "PHYSICAL SCIENCE Short Answer Order the following 4 colors of light from the one with the \nLONGEST wavelength to the SHORTEST wavelength: orange; violet; red; yellow", 
-    "tossupA": "Y) AMPLITUDE", 
-    "setNum": 1, 
-    "date_created": "2017-11-20T11:04:14.747000", 
-    "_id": {
-      "$oid": "5a110deb6fd1dd235cecc89e"
-    }, 
-    "questionNum": 3
-  }, 
-  {
     "category": "0", 
     "bonusA": "Z) HOLES IN THE OZONE LAYER ARE PRODUCED BY GLOBAL WARMING", 
     "vendorNum": "DOE-MS", 
     "tossupQ": "EARTH SCIENCE Multiple Choice In which of the following climates are the WIDEST \nANNUAL temperature variations or temperature ranges most likely to occur: \n \nW) continental polar \nX) moist tropical \nY) tropical savanna \nZ) mid-latitude moist continental", 
-    "packetNum": "10", 
+    "packetNum": 10, 
     "grade": "MS", 
     "date_modified": "2017-11-22T14:21:15.412000", 
     "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true of the ozone layer: \n \nW) beneficial stratospheric ozone is produced naturally and harmful tropospheric ozone is human-made \nX) the ozone molecule has 3 oxygen atoms \nY) in addition to chlorine, bromine is also responsible for combining with and breaking down the ozone molecule \nZ) holes in the ozone layer are produced by global warming", 
@@ -51,8 +17,263 @@
     "questionNum": 4
   }, 
   {
+    "category": 1, 
+    "bonusA": "CARBOXYL AND AMINO (in any order)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What base nucleotide is replaced by uracil in RNA?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What two functional groups of amino acids join to form a \r\npeptide bond in a protein?", 
+    "tossupA": "THYMINE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8a7"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "ELECTRIC CHARGE; AVERAGE SPEED", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is an electronic device that \r\namplifies electronic signals and was used as a switching device in the first electronic computers: \r\n \r\nW) vacuum tubes \r\nX) crystals \r\nY) potentiometers \r\nZ) rheostats", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 3 choices that are typically \r\nconsidered scalar quantities: electric charge; acceleration; average speed", 
+    "tossupA": "W) VACUUM TUBES", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8a3"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "\u20131", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer By words or number, name all of the following 3 statements which are \r\nALWAYS TRUE: \r\n 1) a trapezoid has a pair of parallel sides \r\n 2) two triangles with the same area have the same perimeter \r\n 3) if 2 straight lines intersect, vertical angles have the same measure", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The following daily Fahrenheit temperatures were recorded over a 5-day \r\nperiod: \u201315\u00ba, 2\u00ba, 0\u00ba, 13\u00ba, and \u20135\u00ba. Find the average daily temperature for this period, in degrees \r\nFahrenheit:", 
+    "tossupA": "1 AND 3", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8a5"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is LEAST accurate regarding \r\nacid rain: \r\n \r\nW) forests are not negatively impacted because they are naturally resistant to acidic pH\u2019s \r\nX) lakes with limestone bedrock have some natural protection against acidification \r\nY) lakes with pH\u2019s of less than 5 are largely devoid of fish \r\nZ) more than half the acid deposition in eastern Canada originates from U.S. emissions", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer During the proton-proton chain that occurs during the \r\nfusion process of a main sequence star, how many hydrogen atoms are typically needed to produce a \r\nhelium atom?", 
+    "tossupA": "W) FORESTS ARE NOT NEGATIVELY IMPACTED BECAUSE THEY ARE \r\nNATURALLY RESISTANT TO ACIDIC pH\u2019S", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8a6"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) LIQUID WATER CHANGING TO WATER ICE AT 25\u00baC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true for a substance: \r\n \r\nW) pure substances always contain the same ratio of elements \r\nX) water and steam are 2 different forms of the same substance \r\nY) all compounds are substances and all substances are compounds \r\nZ) a pure substance cannot be separated by physical means", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a spontaneous \r\nreaction under normal atmospheric pressure: \r\n \r\nW) rusting of a ship\u2019s hull at sea \r\nX) liquid water changing to water ice at 25\u00baC \r\nY) the combustion of propane in air \r\nZ) evaporation of water above 212\u00baF", 
+    "tossupA": "Y) ALL COMPOUNDS ARE SUBSTANCES AND ALL SUBSTANCES ARE \r\nCOMPOUNDS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8a8"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "800 \r\n \r\n(Solution: (100 cm \u00d7 100 cm \u00d7 80 cm)(1 L/1000 cm3) = 800 L)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a water-purification process \r\nthat uses pressure across a semi-permeable membrane: \r\n \r\nW) filtering with activated charcoal \r\nX) ultraviolet treatments \r\nY) reverse osmosis \r\nZ) ozonation", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer How many liters of water will completely fill a container \r\nmeasuring 100 centimeters by 1 meter by 80 centimeters?", 
+    "tossupA": "Y) REVERSE OSMOSIS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8a9"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) FISSURE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice During which of the following months will the Sun rise \r\nexactly in the east to an observer at mid-northern latitudes: \r\n \r\nW) December \r\nX) March \r\nY) June \r\nZ) September", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a type of volcanic eruption that \r\ndoes not build up into the typical cone shape normally associated with volcanoes, even though it \r\nerupts huge volumes of fluid lava: \r\n \r\nW) composite \r\nX) fissure \r\nY) Krakatoan \r\nZ) Strombolian", 
+    "tossupA": "X) MARCH", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8aa"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "JELLYFISH; CORALS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the botanical term for the haploid \r\ngeneration in moss plants: \r\n \r\nW) gametophyte \r\nX) archegonia \r\nY) style \r\nZ) ovule", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 3 organisms that belong to the \r\nphylum Cnidaria (read as: nid-AIR-ee-ah): jellyfish; sea anemones; corals", 
+    "tossupA": "W) GAMETOPHYTE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ac"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) COPPER AND CHLORINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a substance that does NOT \r\nconduct electricity when it is a solid but does conduct electricity when it is melted or in a molten \r\nstate: \r\n \r\nW) lead \r\nX) copper \r\nY) water \r\nZ) sodium chloride", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Chemical bonding between which of the following \r\npairs of atoms would MOST likely be ionic: \r\n \r\nW) copper and chlorine \r\nX) carbon and carbon \r\nY) hydrogen and carbon \r\nZ) sulfur and oxygen", 
+    "tossupA": "Z) SODIUM CHLORIDE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ad"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) TYPE OF PRECIPITATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is a phenomenon associated with \r\nextensive warming of the ocean in the tropical regions of the eastern Pacific: \r\n \r\nW) El Nino \r\nX) a Chinook \r\nY) La Nina \r\nZ) the Ekman spiral", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is LEAST indicated by closely \r\nspaced isobars on a weather map: \r\n \r\nW) strong winds \r\nX) a steep gradient between high and low pressure areas \r\nY) a frontal boundary \r\nZ) type of precipitation", 
+    "tossupA": "W) EL NINO", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ae"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "800", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Solve the following equation for x: \r\n8\r\n5x = 200", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A certain ore contains 2% of a precious metal. How many tons of ore \r\nmust theoretically be mined to obtain 16 tons of the metal?", 
+    "tossupA": "320", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8af"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "PRECESSION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What precious metal is the catalyst in most automobile \r\ncatalytic converters?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What is the most common name for the apparent circular \r\nmovement of the celestial poles against the background of fixed stars that will eventually result in \r\nPolaris drifting away from the north celestial pole?", 
+    "tossupA": "PLATINUM", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8b0"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "18 OHMS (must give units) \r\n \r\n(Solution: R = V/I = 9/0.5 = 18 ohms)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer How many covalent bonds are in a molecule of \r\nmethane?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Giving your answer in the SI units for resistance, what is \r\nthe resistance of an electric flashlight operating on a 9-volt battery that requires 0.5 amps to run?", 
+    "tossupA": "4", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8b2"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) THE INTERTROPICAL CONVERGENCE ZONE IS MOSTLY LOCATED \r\nNEAR THE EQUATOR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT an example of typical \r\nJurassic vegetation: \r\n \r\nW) flowering plants \r\nX) ferns \r\nY) conifers \r\nZ) ginkgoes", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is TRUE: \r\n \r\nW) all tropical depressions form into tropical storms \r\nX) the Intertropical Convergence Zone is mostly located near the equator \r\nY) most hurricanes originate along the equator \r\nZ) all hurricanes have a counterclockwise motion", 
+    "tossupA": "W) FLOWERING PLANTS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8b3"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "0.6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Find the product of (x<sup>3</sup>y) (x<sup>2</sup>y)", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the following product and give your answer to the first decimal \r\nplace:  (5/3)(3/5)<sup>2</sup>", 
+    "tossupA": "x<sup>5</sup>y", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8b4"
+    }, 
+    "questionNum": 27
+  }, 
+  {
     "category": "6", 
-    "packetNum": "10", 
+    "packetNum": 10, 
     "vendorNum": "DOE-MS", 
     "tossupQ": "test", 
     "date_modified": "2017-11-20T11:04:14.747000", 
@@ -71,7 +292,7 @@
     "bonusA": "ADENINE", 
     "vendorNum": "DOE-MS", 
     "tossupQ": "LIFE SCIENCE Multiple Choice Cartilage belongs to which of the following animal tissues \ntypes: \n \nW) epithelial \nX) connective \nY) nervous \nZ) muscle", 
-    "packetNum": "10", 
+    "packetNum": 10, 
     "grade": "MS", 
     "date_modified": "2017-11-20T11:04:14.747000", 
     "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 3 chemicals that are NOT amino acids: \nglycine; methionine; adenine", 
@@ -84,51 +305,54 @@
     "questionNum": 2
   }, 
   {
-    "category": "6", 
-    "packetNum": "10", 
+    "category": 1, 
+    "bonusA": "W) CROSSING OVER", 
     "vendorNum": "DOE-MS", 
-    "tossupQ": "abc", 
-    "date_modified": "2017-11-20T11:06:09.214000", 
-    "bonusQ": "ghi", 
-    "tossupA": "def", 
+    "tossupQ": "LIFE SCIENCE Short Answer How many chromosomes does a normal human gamete have?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is most directly responsible for the \r\nexchange of genes during meiosis: \r\n \r\nW) crossing over \r\nX) kinetochores division \r\nY) cytokinesis \r\nZ) alleles", 
+    "tossupA": "23", 
     "setNum": 1, 
-    "date_created": "2017-11-20T11:06:09.214000", 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
-      "$oid": "5a1327a16fd1dd2bf4783ddf"
+      "$oid": "5a110deb6fd1dd235cecc8a2"
     }, 
-    "bonusA": "jkl", 
-    "questionNum": 1
+    "questionNum": 7
   }, 
   {
-    "category": "6", 
-    "packetNum": "10", 
+    "category": 4, 
+    "bonusA": "10", 
     "vendorNum": "DOE-MS", 
-    "tossupQ": "abc", 
-    "date_modified": "2017-11-20T11:09:02.349000", 
-    "bonusQ": "ghi", 
-    "tossupA": "def", 
+    "tossupQ": "MATH Short Answer Simplify the following completely: (\u20132x<sup>2</sup>y<sup>3</sup>)3", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The outdoor temperature at 6:00 AM is \u20138\u00baC. If it rises at a rate of 3\u00baC \r\nper hour, what is the temperature, in degrees Celsius, at noon?", 
+    "tossupA": "\u20138x<sup>6</sup>y<sup>9</sup>", 
     "setNum": 1, 
-    "date_created": "2017-11-20T11:09:02.349000", 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
-      "$oid": "5a13284e6fd1dd15d86ec4bf"
+      "$oid": "5a110deb6fd1dd235cecc8ab"
     }, 
-    "bonusA": "jkl", 
-    "questionNum": 1
+    "questionNum": 16
   }, 
   {
-    "category": "5", 
-    "packetNum": "10", 
+    "category": 1, 
+    "bonusA": "MITOCHONDRIA; CHLOROPLASTS", 
     "vendorNum": "DOE-MS", 
-    "tossupQ": "abc", 
-    "date_modified": "2017-11-20T11:10:20.486000", 
-    "bonusQ": "ghi", 
-    "tossupA": "def", 
+    "tossupQ": "LIFE SCIENCE Short Answer What staining method is used to generally divide bacteria into \r\ntwo groups?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 cellular structures that are found in \r\nplant cells and NOT bacteria: mitochondria; chloroplasts; cell membranes; ribosomes", 
+    "tossupA": "GRAM STAIN", 
     "setNum": 1, 
-    "date_created": "2017-11-20T11:10:20.486000", 
+    "date_created": "2017-11-20T11:04:14.747000", 
     "_id": {
-      "$oid": "5a13289c6fd1dd00e466ae77"
+      "$oid": "5a110deb6fd1dd235cecc8b1"
     }, 
-    "bonusA": "jkl", 
-    "questionNum": 1
+    "questionNum": 22
   }
 ]
