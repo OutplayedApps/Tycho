@@ -36,6 +36,11 @@ export class NsbappPage {
   currentQ: String;
   currentA: String;
   currentQuestionDisplayed: CurrentQuestionDisplayed;
+  buzzBtnText: String; // Text shown on "buzz" button in game mode.
+  static readonly PROGRESS_READ_TOSSUP_Q = 0;
+  static readonly PROGRESS_READ_TOSSUP_Q_AND_A = 1;
+  static readonly PROGRESS_READ_BONUS_Q = 2;
+  static readonly PROGRESS_READ_BONUS_Q_AND_A = 3;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
@@ -48,6 +53,7 @@ export class NsbappPage {
     this.timers.tossup.origText = this.timers.tossup.text;
     this.timers.bonus.origText = this.timers.bonus.text;
     this.currentQuestionDisplayed = {"question": "", "answer": ""};
+    this.buzzBtnText = "BUZZ";
   }
 
   ionViewWillEnter() {
@@ -70,9 +76,21 @@ export class NsbappPage {
 
   ionViewWillLeave() {
     this.nsbService.stopSpeaking();
+    // Clears timers.
+    this.resetAllTimers();
   }
 
   nextQuestion() {
+    /* This method is used to change the progress by 1. 
+     * Doesn't necessarily go to the next question per se; but next stage.
+     */
+
+    // In game mode, all timers should be reset on "next question"
+    if (this.options.mode == "GAME") {
+      this.resetAllTimers();
+      this.buzzBtnText = "BUZZ";
+    }
+
     this.progress = (++this.progress % 4);
     if (this.progress == 0) {
       this.advanceQuestion(1);
@@ -114,7 +132,7 @@ export class NsbappPage {
      */
     var textToSpeak : String = "";
     switch (this.progress) {
-      case 0:
+      case NsbappPage.PROGRESS_READ_TOSSUP_Q:
         this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + this.currentQuestion.tossupQ;
         this.currentQuestionDisplayed.answer = "";
         textToSpeak = this.currentQuestionDisplayed.question;
@@ -122,12 +140,12 @@ export class NsbappPage {
           this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + "<br>Reading tossup...";
         }
         break;
-      case 1:
+      case NsbappPage.PROGRESS_READ_TOSSUP_Q_AND_A:
         this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + this.currentQuestion.tossupQ;
         this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.tossupA;
         textToSpeak = this.currentQuestionDisplayed.answer;
         break;
-      case 2:
+      case NsbappPage.PROGRESS_READ_BONUS_Q:
         this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
         this.currentQuestionDisplayed.answer = "";
         textToSpeak = this.currentQuestionDisplayed.question;
@@ -135,7 +153,7 @@ export class NsbappPage {
           this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + "<br>Reading bonus...";
         }
         break;
-      case 3:
+      case NsbappPage.PROGRESS_READ_BONUS_Q_AND_A:
         this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
         this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.bonusA;
         textToSpeak = this.currentQuestionDisplayed.answer;
@@ -149,10 +167,23 @@ export class NsbappPage {
     }
   }
 
+  shouldShowBuzzButton() {
+    return (this.options && (this.options.mode == "GAME") && (this.progress == NsbappPage.PROGRESS_READ_TOSSUP_Q || this.progress == NsbappPage.PROGRESS_READ_BONUS_Q));
+  }
+
   buzz() {
     this.nsbService.stopSpeaking();
-    // stop timer to show question.
-    this.nextQuestion();
+
+    var timer;
+    if (this.progress == NsbappPage.PROGRESS_READ_TOSSUP_Q) {
+      timer = this.clickTimer(this.timers.tossup);
+    }
+    else if (this.progress == NsbappPage.PROGRESS_READ_BONUS_Q) {
+      timer = this.clickTimer(this.timers.bonus);
+    }
+    else {
+      return;
+    }
   }
 
   clickTimer(timer) {
@@ -167,9 +198,15 @@ export class NsbappPage {
           this.timeUp(timer);
         }
         else {
-          timer.text = (timeRemaining - 1); //counts 4, 3, 2, 1, ...
+          if (this.options.mode == "READER") {
+            timer.text = (timeRemaining - 1); //counts 4, 3, 2, 1, 0, time up.
+          }
+          else if (this.options.mode == "GAME") {
+            this.buzzBtnText = String(timer.duration - t); // counts 5, 4, 3, 2, 1, time up.
+          }
         }
     });
+    return timer;
   }
 
   timeUp(timer, showDialog = true) {
@@ -177,7 +214,11 @@ export class NsbappPage {
     timer.text = timer.origText;
     timer.subscription = null;
     timer.object = null;
-    if (showDialog == true) {
+    if (showDialog === true && this.options.mode == 'GAME') {
+      // Don't show time up dialog in the game. todo: show some text instead.
+      this.nextQuestion();
+    }
+    else if (showDialog === true) {
       this.nsbService.timeUp();
     }
   }

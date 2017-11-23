@@ -28,28 +28,6 @@
 >
   <div class="currentQuestion" *ngIf="currentQuestion">
     Set {{options.setNum}} | Round {{options.packetNum}} | {{ currentQuestionNumber + 1}} out of {{questions.length}}<br><br>
-    <!--
-      <div *ngIf="false">
-        <span *ngIf="(progress == 0 || progress == 1)">
-          <b>TOSSUP:</b>
-          <span [innerHTML]="currentQuestion.tossupQ"></span>
-        </span>
-
-        <span *ngIf="(progress == 2 || progress == 3)">
-          <b>BONUS:</b>
-          <span [innerHTML]="currentQuestion.bonusQ"></span>
-        </span>
-      </div>
-      <div *ngIf="false">
-          <span *ngIf="(progress == 1)">
-            <b>ANSWER: </b>{{currentQuestion.tossupA}}
-          </span>
-          
-          <span *ngIf="(progress == 3)">
-            <b>ANSWER: </b>{{currentQuestion.bonusA}}
-          </span>        
-      </div>
-    -->
     <div [innerHTML]="currentQuestionDisplayed.question">
 
     </div>
@@ -60,8 +38,8 @@
 
   </div>
 </ion-scroll>
-<button *ngIf="(nsbService.options.mode == 'GAME')" (click)="buzz()"
-  color="danger" ion-button class="noSkew buzzBtn">BUZZ</button>
+<button *ngIf="shouldShowBuzzButton()"
+  (click)="buzz()" color="danger" ion-button class="noSkew buzzBtn">{{buzzBtnText}}</button>
 
   <ion-footer>
     <ion-grid>
@@ -72,12 +50,12 @@
         <ion-col col-6 col-sm-3>
             <button (click)="nextQuestion()" ion-button btn-lg>Next question</button>
         </ion-col>
-        <ion-col col-6 col-sm-3>
+        <ion-col col-6 col-sm-3 [class.hidden]="nsbService.options.mode == 'GAME'">
           <button color="timerButtonColor" (click)="clickTimer(timers.tossup)" ion-button btn-lg>
             <ion-icon name="timer"></ion-icon> <b>{{timers.tossup.text}} s</b>
           </button>
         </ion-col>
-        <ion-col col-6 col-sm-3>
+        <ion-col col-6 col-sm-3 [class.hidden]="nsbService.options.mode == 'GAME'">
           <button color="timerButtonColor" (click)="clickTimer(timers.bonus)" ion-button btn-lg>
             <ion-icon name="timer"></ion-icon> <b>{{timers.bonus.text}} s</b>
           </button>
