@@ -91,7 +91,16 @@ export class NSBService {
     speakText(text) {
         /* Speaks given text (question or answer) by first converting it to HTML.
          */
-        this.tts.speak(this.htmlToPlaintext(text))
+        var speed = 1;
+        if(window.cordova)
+        if(window.device.platform == 'iOS')
+            if(window.device.version.charAt(0) == '1' && window.device.version.charAt(1) == '1')
+                speed = 1.5; // ios 11 fix.
+
+        this.tts.speak({
+            text: this.htmlToPlaintext(text),
+            rate: speed
+        })
         .then(() => console.log('Success'))
         .catch((reason: any) => console.log(reason));
     }
