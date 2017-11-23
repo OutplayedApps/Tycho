@@ -3,7 +3,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ApiService } from '../../app/services/ApiService';
 import { TextToSpeech } from '@ionic-native/text-to-speech';
 import {NSBService} from '../../app/services/NSBService';
-import {Observable} from 'rxjs/Rx';
+import { Observable } from 'rxjs/Observable';
 declare var window: any;
 
 export interface CurrentQuestionDisplayed {

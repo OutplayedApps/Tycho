@@ -2,6 +2,13 @@
 ## What is Tycho?
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
 
+v 2.0.0
+Science Bowl is now Tycho! Many improvements include:
+- Offline access for questions
+- Expanded sets of questions
+- Audio mode in which it reads the questions to you
+- Much faster framework; the app has been completely rewritten in Ionic 2
+
 <img src="https://user-images.githubusercontent.com/1689183/30305693-20e4cf9a-9729-11e7-874f-79abdb039712.png" width="200">
 
 <img src="https://user-images.githubusercontent.com/1689183/30305697-2610e382-9729-11e7-93c5-91de7aac0245.png" width="200">
@@ -68,6 +75,9 @@ appcenter codepush deployment list
 appcenter codepush deployment add Production
 appcenter codepush release-cordova
 
+appcenter codepush deployment history Production
+appcenter codepush deployment clear Production
+
 Release:
 ```
 ionic build
@@ -89,4 +99,15 @@ http://ryanjsalva.com/2016/05/01/publish-without-resubmitting-to-the-app-store.h
 Logging:
 ```
 adb logcat *:W
+```
+
+Release:
+```
+keytool -list -keystore nsbapp.keystore
+
+ionic cordova build --release android
+
+jarsigner -tsa http://timestamp.digicert.com -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore nsbapp.keystore platforms\android\build\outputs\apk\android-release-unsigned.apk nsbapp
+
+C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.0.apk
 ```

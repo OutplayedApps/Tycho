@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { CodePush } from '@ionic-native/code-push';
 import { Platform } from 'ionic-angular';
 
 import {ListPage} from '../list/list';
@@ -17,13 +16,8 @@ export class HelloIonicPage {
   aboutPage = AboutPage;
   NsbmenuPage = NsbmenuPage;
 
-  constructor(public plt: Platform, private codePush: CodePush) {
-    if (this.plt.is('cordova')) {
-      // Don't run codepush in browser.
-      this.plt.ready().then((readySource) => {
-        this.codePush.sync().subscribe((syncStatus) => console.log(syncStatus));
-      });
-    }
+  constructor(public plt: Platform) {
+    
   }
   
 }

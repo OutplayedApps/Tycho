@@ -34,3 +34,6 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 
 theme.mp3
+
+*.keystore
+*.apk
