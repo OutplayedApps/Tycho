@@ -171,6 +171,20 @@ export class NsbappPage {
     return (this.options && (this.options.mode == "GAME") && (this.progress == NsbappPage.PROGRESS_READ_TOSSUP_Q || this.progress == NsbappPage.PROGRESS_READ_BONUS_Q));
   }
 
+  getNextQuestionButtonText() {
+    switch (this.progress) {
+      case NsbappPage.PROGRESS_READ_TOSSUP_Q_AND_A:
+        return "Next Bonus";
+      case NsbappPage.PROGRESS_READ_TOSSUP_Q:
+      case NsbappPage.PROGRESS_READ_BONUS_Q:
+        return "Show Answer";
+      case NsbappPage.PROGRESS_READ_BONUS_Q_AND_A:
+        return "Next Tossup";
+      default: // never called
+        return "Next Question";
+    }
+  }
+
   buzz() {
     this.nsbService.stopSpeaking();
 
