@@ -6,12 +6,6 @@ import {NSBService} from '../../app/services/NSBService';
 import {Observable} from 'rxjs/Rx';
 declare var window: any;
 
-/**
- * Generated class for the NsbappPage page.
- *
- * See http://ionicframework.com/docs/components/#navigation for more info
- * on Ionic pages and navigation.
- */
 export interface CurrentQuestionDisplayed {
   question: String,
   answer: String
@@ -112,6 +106,12 @@ export class NsbappPage {
   }
 
   displayCurrentQuestion() {
+    /* Progress:
+     * 0 - Read tossup Q
+     * 1 - Show entire tossup Q + tossup A
+     * 2 - Read bonus Q
+     * 3 - Show entire bonus A + bonus Q
+     */
     var textToSpeak : String = "";
     switch (this.progress) {
       case 0:
@@ -120,7 +120,7 @@ export class NsbappPage {
         textToSpeak = this.currentQuestionDisplayed.question;
         break;
       case 1:
-        //this.currentQuestionDisplayed.question = this.currentQuestion.tossupQ;
+        this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + this.currentQuestion.tossupQ;
         this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.tossupA;
         textToSpeak = this.currentQuestionDisplayed.answer;
         break;
@@ -130,8 +130,8 @@ export class NsbappPage {
         textToSpeak = this.currentQuestionDisplayed.question;
         break;
       case 3:
-        //this.currentQuestionDisplayed.question = this.currentQuestion.tossupQ;
-        this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.tossupA;
+        this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
+        this.currentQuestionDisplayed.answer = "<b>ANSWER: </b>" + this.currentQuestion.bonusA;
         textToSpeak = this.currentQuestionDisplayed.answer;
         break;
     }
