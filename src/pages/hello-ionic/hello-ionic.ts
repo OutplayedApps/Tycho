@@ -21,8 +21,7 @@ export class HelloIonicPage {
     if (this.plt.is('cordova')) {
       // Don't run codepush in browser.
       this.plt.ready().then((readySource) => {
-        const downloadProgress = (progress) => { console.log(`Downloaded ${progress.receivedBytes} of ${progress.totalBytes}`); }
-        this.codePush.sync({}, downloadProgress).subscribe((syncStatus) => console.log(syncStatus));
+        this.codePush.sync().subscribe((syncStatus) => console.log(syncStatus));
       });
     }
   }

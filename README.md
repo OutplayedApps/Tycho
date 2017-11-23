@@ -70,9 +70,9 @@ appcenter codepush release-cordova
 
 Release:
 ```
-ionic bulid
+ionic build
 appcenter codepush release-cordova -a aramaswamis-84dc/TychoiOS
-appcenter codepush release-cordova -a aramaswamis-84dc/TychoAndroid -d Production
+ionic build && appcenter codepush release-cordova -a aramaswamis-84dc/TychoAndroid -d Production
 ```
 Android:
 Staging key: h0vcBzFs4qWOH9KMuaDa6hm_WgYpSy2FzRXlz
