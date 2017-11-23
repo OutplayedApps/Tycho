@@ -33,7 +33,6 @@
     "code-push": "^2.0.1-beta",
     "com-sarriaroman-photoviewer": "^1.1.10",
     "cordova-android": "^6.3.0",
-    "cordova-ios": "^4.4.0",
     "cordova-plugin-code-push": "^1.10.0-beta",
     "cordova-plugin-console": "^1.0.5",
     "cordova-plugin-device": "^1.1.4",
@@ -86,7 +85,10 @@
       "ionic-plugin-keyboard": {},
       "cordova-plugin-tts": {},
       "cordova-plugin-file": {},
-      "cordova-plugin-code-push": {}
+      "cordova-plugin-code-push": {},
+      "cordova-plugin-file-transfer": {},
+      "cordova-plugin-zip": {},
+      "cordova-plugin-dialogs": {}
     },
     "platforms": [
       "android"

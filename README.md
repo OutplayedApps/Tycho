@@ -72,7 +72,7 @@ Release:
 ```
 ionic build
 appcenter codepush release-cordova -a aramaswamis-84dc/TychoiOS
-ionic build && appcenter codepush release-cordova -a aramaswamis-84dc/TychoAndroid -d Production
+ionic build && appcenter codepush release-cordova -d Production -a aramaswamis-84dc/TychoAndroid
 ```
 Android:
 Staging key: h0vcBzFs4qWOH9KMuaDa6hm_WgYpSy2FzRXlz
@@ -83,3 +83,10 @@ Staging key: SYx-kYYL7TFFGfaULIeEBWEk8BvhryZ0MAmlz
 Production key: bbdTmRFS0Me7_em4DsbexpR4gvaQSk5TfRmgM
 
 Release-cordova cli info: https://github.com/Microsoft/code-push/tree/master/cli#releasing-updates-cordova
+
+http://ryanjsalva.com/2016/05/01/publish-without-resubmitting-to-the-app-store.html
+
+Logging:
+```
+adb logcat *:W
+```
