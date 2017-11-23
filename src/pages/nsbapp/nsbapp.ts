@@ -4,6 +4,7 @@ import { ApiService } from '../../app/services/ApiService';
 import { TextToSpeech } from '@ionic-native/text-to-speech';
 import {NSBService} from '../../app/services/NSBService';
 import { Observable } from 'rxjs/Observable';
+import 'rxjs/add/observable/timer';
 declare var window: any;
 
 export interface CurrentQuestionDisplayed {

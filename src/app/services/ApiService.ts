@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
 import {LoadingController, AlertController} from 'ionic-angular';
+import 'rxjs/add/operator/mergeMap';
 
 @Injectable()
 export class ApiService {
@@ -34,6 +35,18 @@ export class ApiService {
     return this.http.get("assets/packets/filestructure.json")
         .map((res:Response) => res.json());
   };
+
+  syncQuestionsAndMetadata() {
+    return this.getNSBMetadata().mergeMap(metadata => {
+      var date_modified = metadata["date_modified"];
+      if (!date_modified) {
+        date_modified = (new Date()).toISOString();
+      }
+      return this.http.get("https://tychoadmin.herokuapp.com/mobile_api/?time="+date_modified).map((res:Response) => res.json());
+    }).subscribe(response => {
+      console.log(response);
+    });
+  }
 
   presentLoadingCustom() {
     let loading = this.loadingCtrl.create({

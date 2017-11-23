@@ -5,6 +5,7 @@ import {ListPage} from '../list/list';
 import {PacketListPage} from "../packet-list/packet-list";
 import {AboutPage} from "../about-page/about-page";
 import {NsbmenuPage} from "../nsbmenu/nsbmenu";
+import { ApiService } from '../../app/services/ApiService';
 
 @Component({
   selector: 'page-hello-ionic',
@@ -16,8 +17,10 @@ export class HelloIonicPage {
   aboutPage = AboutPage;
   NsbmenuPage = NsbmenuPage;
 
-  constructor(public plt: Platform) {
-    
+  constructor(private plt: Platform, private apiService: ApiService) {
+    this.plt.ready().then((readySource) => {
+      return this.apiService.syncQuestionsAndMetadata();
+    });
   }
   
 }

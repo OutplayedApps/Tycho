@@ -12,6 +12,7 @@ import {AboutPage} from "../pages/about-page/about-page";
 import {NsbappPage} from "../pages/nsbapp/nsbapp";
 import {NsbmenuPage} from "../pages/nsbmenu/nsbmenu";
 import {SplashPage} from "../pages/splash/splash";
+import { ApiService } from './services/ApiService';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -58,6 +59,7 @@ import { TextToSpeech } from '@ionic-native/text-to-speech';
     FileOpener,
     InAppBrowser,
     TextToSpeech,
+    ApiService,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
