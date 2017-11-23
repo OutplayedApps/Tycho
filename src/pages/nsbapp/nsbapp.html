@@ -60,7 +60,9 @@
 
   </div>
 </ion-scroll>
-<button *ngIf="(nsbService.options.mode == 'GAME')" (click)="nextQuestion()" color="danger" ion-button class="noSkew buzzBtn">BUZZ</button>
+<button *ngIf="(nsbService.options.mode == 'GAME')" (click)="buzz()"
+  color="danger" ion-button class="noSkew buzzBtn">BUZZ</button>
+
   <ion-footer>
     <ion-grid>
       <ion-row>

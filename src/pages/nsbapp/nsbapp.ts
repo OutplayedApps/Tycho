@@ -118,6 +118,9 @@ export class NsbappPage {
         this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + this.currentQuestion.tossupQ;
         this.currentQuestionDisplayed.answer = "";
         textToSpeak = this.currentQuestionDisplayed.question;
+        if (this.options.mode == "GAME" && this.options.audio == "TRUE") {
+          this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + "<br>Reading tossup...";
+        }
         break;
       case 1:
         this.currentQuestionDisplayed.question = "<b>TOSSUP: </b>" + this.currentQuestion.tossupQ;
@@ -128,6 +131,9 @@ export class NsbappPage {
         this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
         this.currentQuestionDisplayed.answer = "";
         textToSpeak = this.currentQuestionDisplayed.question;
+        if (this.options.mode == "GAME" && this.options.audio == "TRUE") {
+          this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + "<br>Reading bonus...";
+        }
         break;
       case 3:
         this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
@@ -136,7 +142,6 @@ export class NsbappPage {
         break;
     }
     if (this.nsbService.options.audio == "TRUE") {
-      //this.speakCurrentQuestion();
       this.nsbService.speakText(textToSpeak);
     }
     else {
@@ -144,8 +149,10 @@ export class NsbappPage {
     }
   }
 
-  speakCurrentQuestion() {
-    //this.nsbService.speakText(this.currentQuestion.tossupQ);
+  buzz() {
+    this.nsbService.stopSpeaking();
+    // stop timer to show question.
+    this.nextQuestion();
   }
 
   clickTimer(timer) {
