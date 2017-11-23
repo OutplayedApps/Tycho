@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { CodePush } from '@ionic-native/code-push';
+import { Platform } from 'ionic-angular';
 
 import {ListPage} from '../list/list';
 import {PacketListPage} from "../packet-list/packet-list";
@@ -15,7 +17,14 @@ export class HelloIonicPage {
   aboutPage = AboutPage;
   NsbmenuPage = NsbmenuPage;
 
-  constructor() {
-    console.log("test");
+  constructor(public plt: Platform, private codePush: CodePush) {
+    if (this.plt.is('cordova')) {
+      // Don't run codepush in browser.
+      this.plt.ready().then((readySource) => {
+        const downloadProgress = (progress) => { console.log(`Downloaded ${progress.receivedBytes} of ${progress.totalBytes}`); }
+        this.codePush.sync({}, downloadProgress).subscribe((syncStatus) => console.log(syncStatus));
+      });
+    }
   }
+  
 }

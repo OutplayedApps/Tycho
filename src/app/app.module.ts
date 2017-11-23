@@ -59,6 +59,7 @@ import { CodePush } from '@ionic-native/code-push';
     FileOpener,
     InAppBrowser,
     TextToSpeech,
+    CodePush,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

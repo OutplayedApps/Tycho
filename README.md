@@ -45,3 +45,41 @@ April-end: Idea conceived
 5/7 - Created the backend database
 
 5/11 (around this time) - Created CRUD interface using jsGrid
+
+11/22 - Created django admin app, imported extra questions.
+
+# Code push
+```
+appcenter login
+appcenter apps list
+appcenter apps create -d TychoAndroid -o Android -p Cordova
+appcenter apps create -d TychoiOS -o iOS -p Cordova
+appcenter apps set-current aramaswamis-84dc/TychoAndroid
+appcenter tokens list
+
+
+appcenter apps set-current aramaswamis-84dc/TychoAndroid
+appcenter codepush deployment list
+appcenter codepush deployment add Production
+appcenter codepush release-cordova
+
+appcenter apps set-current aramaswamis-84dc/TychoiOS
+appcenter codepush deployment list
+appcenter codepush deployment add Production
+appcenter codepush release-cordova
+
+Release:
+```
+ionic bulid
+appcenter codepush release-cordova -a aramaswamis-84dc/TychoiOS
+appcenter codepush release-cordova -a aramaswamis-84dc/TychoAndroid -d Production
+```
+Android:
+Staging key: h0vcBzFs4qWOH9KMuaDa6hm_WgYpSy2FzRXlz
+Production key: nP7rBNQCk8csBGFhH1ZgrNCuAydjBkVKzRXeG
+
+iOS:
+Staging key: SYx-kYYL7TFFGfaULIeEBWEk8BvhryZ0MAmlz
+Production key: bbdTmRFS0Me7_em4DsbexpR4gvaQSk5TfRmgM
+
+Release-cordova cli info: https://github.com/Microsoft/code-push/tree/master/cli#releasing-updates-cordova
