@@ -19,7 +19,7 @@ export class HelloIonicPage {
 
   constructor(private plt: Platform, private apiService: ApiService) {
     this.plt.ready().then((readySource) => {
-      return this.apiService.syncQuestionsAndMetadata();
+      // return this.apiService.syncQuestionsAndMetadata();
     });
   }
   
