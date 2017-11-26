@@ -20,10 +20,12 @@ export class HelloIonicPage {
 
   constructor(private plt: Platform, private apiService: ApiService,
     private codePush: CodePush) {
-    this.plt.ready().then((readySource) => {
-      // this.codePush.sync().subscribe((syncStatus) => console.log(syncStatus));
-      // return this.apiService.syncQuestionsAndMetadata();
-    });
+      (<any>window).apiService = this.apiService;
+    if ((<any>window).cordova) {
+      this.plt.ready().then((readySource) => {
+        this.apiService.openUpdateDialog();
+      });
+    }
   }
   
 }

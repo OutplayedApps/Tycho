@@ -17,6 +17,8 @@ import { ApiService } from './services/ApiService';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { FileOpener } from '@ionic-native/file-opener';
+import { AppVersion } from '@ionic-native/app-version';
+import { Market } from '@ionic-native/market';
 
 import { SafeHtml } from './pipes/SafeHtml';
 import { InAppBrowser } from '@ionic-native/in-app-browser';
@@ -62,6 +64,8 @@ import { CodePush } from '@ionic-native/code-push';
     TextToSpeech,
     ApiService,
     CodePush,
+    AppVersion,
+    Market,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

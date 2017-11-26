@@ -2,12 +2,16 @@ import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
 import {LoadingController, AlertController} from 'ionic-angular';
 import 'rxjs/add/operator/mergeMap';
+import { AppVersion } from '@ionic-native/app-version';
+import { Market } from '@ionic-native/market';
+import compareVersions from 'compare-versions';
 
 @Injectable()
 export class ApiService {
   private fileStructure;
 
-  constructor(private http:Http, public loadingCtrl:LoadingController, public alertCtrl: AlertController) {
+  constructor(private http:Http, public loadingCtrl:LoadingController, public alertCtrl: AlertController,
+    private market: Market, private appVersion: AppVersion) {
   }
 
   getFile(url:string) {
@@ -75,6 +79,42 @@ export class ApiService {
       });
       alert.present();
     //}
+  }
+
+  openUpdateDialog() {
+    /* Opens dialog if update is available. */
+    this.getJSONFile("http://tiny.cc/tychoupdate").subscribe(data => {
+      console.log(data);
+      this.appVersion.getVersionNumber().then(currentVersion => {
+      console.log("Current version: " + (currentVersion) + ", updated against: " + data.version);
+        if (compareVersions(currentVersion, data.version) >= 0) {
+          // same or greater-than version.
+          console.log("Same version!");
+          return;
+        }
+        var description = data.description.replace(/\n/g, "<br>");
+        this.alertCtrl.create({
+          title: 'Update available',
+          subTitle: '<b>Version ' + data.version + ": </b><br><br>" + description,
+          buttons: ['Cancel', 
+          {
+            text: 'Update',
+            handler: () => {this.goToAppStore()}
+          }]
+        }).present();
+      });
+    });
+  }
+
+  goToAppStore() {
+    /* Goes to app store / google play store of this app in case of an update. */
+    this.appVersion.getPackageName().then(appId => {
+      return this.market.open(appId);
+    }).then(d => {
+      console.log("Thank you for updating!")
+    }).catch(e => {
+      this.error();
+    });
   }
 
   coalesce(...args: any[]) {
