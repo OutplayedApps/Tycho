@@ -3,7 +3,7 @@
     <button ion-button menuToggle>
       <ion-icon name="menu"></ion-icon>
     </button>
-    <ion-title>Tycho</ion-title>
+    <ion-title style="text-align: center;">Tycho</ion-title>
   </ion-navbar>
 </ion-header>
 
@@ -24,11 +24,27 @@
           <button ion-button color="secondary" large
           [navPush]="listPage" class="mainBtn">Quizbowl study guides</button>
       </ion-col-->
-      <ion-col text-center col-12>
+      <ion-col text-center col-12 col-sm-4>
         <button ion-button color="light" icon-start small
                 [navPush]="aboutPage" class="mainBtn">
           <ion-icon name="md-information-circle"></ion-icon>
-          &nbsp;&nbsp;&nbsp;About</button>
+          &nbsp;&nbsp;&nbsp;About us</button>
+      </ion-col>
+      <ion-col text-center col-12 col-sm-4>
+        <a href="javascript: window.open('http://outplayedapps.com/', '_system');">
+          <button ion-button color="light" icon-start small class="mainBtn">
+          <ion-icon name="md-globe"></ion-icon>
+          &nbsp;&nbsp;&nbsp;Our website
+          </button>
+        </a>
+      </ion-col>
+      <ion-col text-center col-12 col-sm-4>
+        <a href="javascript: window.open('https://www.facebook.com/outplayedapps/', '_system');">
+          <button ion-button color="light" icon-start small class="mainBtn">
+            <ion-icon name="logo-facebook"></ion-icon>
+            &nbsp;&nbsp;&nbsp;Connect with us
+          </button>
+        </a>
       </ion-col>
     </ion-row>
   </ion-grid>

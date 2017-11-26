@@ -34,6 +34,16 @@ page-hello-ionic {
     height: 100px;
     background-image: url(../assets/images/original.svg);
     background-size: contain;
+
+    // ipad
+    @media all and (min-width: 768px) and (min-height: 1024px) and (orientation:portrait) {
+      width: 300px;
+      height: 300px;
+    }
+    @media all and (min-width: 768px) and (min-height: 1024px) and (orientation:landscape) {
+      width: 300px;
+      height: 300px;
+    }
   }
   .mainBtn {
     //margin-top: 50vh;
