@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, ViewController, NavController, NavParams } from 'ionic-angular';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { ApiService } from '../../app/services/ApiService';
+import { Platform } from 'ionic-angular';
 
 /**
  * Generated class for the SplashPage page.
@@ -15,7 +17,13 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 export class SplashPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams,
-    public viewCtrl: ViewController, public splashScreen: SplashScreen) {
+    public viewCtrl: ViewController, public splashScreen: SplashScreen,
+    private apiService: ApiService, private plt: Platform) {
+      if ((<any>window).cordova) {
+        this.plt.ready().then((readySource) => {
+          this.apiService.openUpdateDialog();
+        });
+      }
   }
 
   ionViewDidLoad() {
@@ -28,7 +36,7 @@ export class SplashPage {
     
        setTimeout(() => {
          this.viewCtrl.dismiss();
-       }, 3);
+       }, 3000);
     
   }
 
