@@ -2,12 +2,35 @@
 ## What is Tycho?
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
 
-v 2.0.0
+### Release notes:
+```
+v 2.0.2
 Science Bowl is now Tycho! Many improvements include:
 - Offline access for questions
-- Expanded sets of questions
-- Audio mode in which it reads the questions to you
+- Hundreds of more questions have been added
+- Audio mode added, in which it reads the questions to you
+- Brand new look and feel
 - Much faster framework; the app has been completely rewritten in Ionic 2
+```
+
+### App store description:
+```
+Train your brain! Prepare for the National Science Bowl! An app like no other...
+```
+```
+Science Bowl is now Tycho! Many improvements include:
+- Offline access for questions
+- Hundreds of more questions have been added
+- Audio mode added, in which it reads the questions to you
+- Brand new look and feel
+- Much faster framework.
+
+This app uses questions from the National Science Bowl website to help prepare teams for practice, let individuals practice questions of a specific subject or difficulty, and just to let people learn science!
+
+In Reader Mode, tossups and bonuses will all appear at once. This is ideal for coaches reading questions to different teams during actual rounds at practice or tournaments.
+
+In Game Mode, tossups and bonuses will be read to you as if it's an actual science bowl round. This is good for players who are practicing questions by themselves, as you can select by category or by difficulty.
+```
 
 # Updates
 http://tiny.cc/tychoupdate
