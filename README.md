@@ -9,6 +9,13 @@ Science Bowl is now Tycho! Many improvements include:
 - Audio mode in which it reads the questions to you
 - Much faster framework; the app has been completely rewritten in Ionic 2
 
+# Updates
+http://tiny.cc/tychoupdate
+
+https://docs.google.com/document/d/1JlqM9yRqHyBls6shQdCSbplbCAZQ8E0gQprqaEz0AKg/edit
+
+https://docs.google.com/document/u/0/export?format=txt&id=1JlqM9yRqHyBls6shQdCSbplbCAZQ8E0gQprqaEz0AKg&token=AC4w5ViU9Hl6rCjnkWr0egjn4pP1fOq74w%3A1511654290622&includes_info_params=true
+
 <img src="https://user-images.githubusercontent.com/1689183/30305693-20e4cf9a-9729-11e7-874f-79abdb039712.png" width="200">
 
 <img src="https://user-images.githubusercontent.com/1689183/30305697-2610e382-9729-11e7-93c5-91de7aac0245.png" width="200">
