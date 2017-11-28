@@ -4,13 +4,31 @@ Tycho is a mobile app that allows people to access study guides to learn science
 
 ### Release notes:
 ```
-v 2.0.2
+v 2.0.4
 Science Bowl is now Tycho! Many improvements include:
 - Offline access for questions
 - Hundreds of more questions have been added
 - Audio mode added, in which it reads the questions to you
 - Brand new look and feel
 - Much faster framework; the app has been completely rewritten in Ionic 2
+```
+```
+2.0.4 long
+Since January, we've been listening to your feedback on our original science bowl app, and we're excited to announce a new stage in its development.
+
+Science Bowl is now Tycho! Many improvements include:
+
+- Offline access for all questions. Access your questions and practice with friends or by yourself on the go, whether you're on a plane to nationals or on vacation!
+
+- Audio mode added, in which the app reads the questions to you.
+
+- Hundreds of more questions have been added. We've incorporated additional sample questions, beyond just those offered by the DOE website. These questions are written by experienced former National Science Bowl players and are available exclusively on our app for free -- and we plan to update it regularly. We hope this will give teams a greater variety of questions to practice with!
+
+- Brand new look and feel, and a much faster framework; the app has been completely rewritten in Ionic 2
+
+Download the app today, at our website: http://outplayedapps.com/science-bowl/.
+Download for iOS: https://itunes.apple.com/us/app/science-bowl/id1191853690?ls=1&mt=8
+Download for Android: https://play.google.com/store/apps/details?id=com.outplayed.nsbapp
 ```
 
 ### App store description:
@@ -139,5 +157,5 @@ ionic cordova build --release android
 
 jarsigner -tsa http://timestamp.digicert.com -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore nsbapp.keystore platforms\android\build\outputs\apk\android-release-unsigned.apk nsbapp
 
-C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.2.apk
+C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.4.apk
 ```
