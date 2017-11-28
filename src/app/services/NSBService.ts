@@ -80,12 +80,8 @@ export class NSBService {
     getRandomQuestionsByCategory(categoryNum) {
         categoryNum = parseInt(categoryNum);
         return this.apiService.getJSONFile("assets/files/questions/all.json").map(data => {
-            console.log(data);
             data = this.filterQuestionsByCategory(data, parseInt(categoryNum));
-            console.log(data);
             this.shuffle(data);
-            console.log("data is");
-            console.log(data);
             return data;
         });
     }
@@ -93,7 +89,10 @@ export class NSBService {
     filterQuestionsByCategory(data, categoryNum) {
         var allQuestions = [];
         var maxNumQuestions = 100;
-        for (let key in data) {
+        let keys = Object.keys(data);
+        this.shuffle(keys);
+        for (let k in keys) {
+            let key = keys[k];
             for (let i in data[key]) {
                 if (allQuestions.length == maxNumQuestions) {
                     return allQuestions;
