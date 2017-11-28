@@ -78,13 +78,63 @@ export class NSBService {
         });
     }
 
-    getSetAndFilter(fileName) {
+    getRandomQuestionsByCategory(categoryNum) {
+        categoryNum = parseInt(categoryNum);
+        return this.apiService.getJSONFile("assets/files/questions/all.json").map(data => {
+            console.log(data);
+            data = this.filterQuestionsByCategory(data, parseInt(categoryNum));
+            console.log(data);
+            this.shuffle(data);
+            console.log("data is");
+            console.log(data);
+            return data;
+        });
+    }
+
+    filterQuestionsByCategory(data, categoryNum) {
+        var allQuestions = [];
+        var maxNumQuestions = 100;
+        for (let key in data) {
+            for (let i in data[key]) {
+                if (allQuestions.length == maxNumQuestions) {
+                    return allQuestions;
+                }
+                let question = data[key][i];
+                if (categoryNum == -1 || question.category == categoryNum) {
+                    allQuestions.push(question);
+                }
+            }
+        }
+        return allQuestions;
+    }
+
+    /* From https://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array */
+    /* Shuffles an array in place. */
+    shuffle(a) {
+        var j, x, i;
+        for (i = a.length - 1; i > 0; i--) {
+            j = Math.floor(Math.random() * (i + 1));
+            x = a[i];
+            a[i] = a[j];
+            a[j] = x;
+        }
+    }
+
+    getSetAndFilter(options, fileName) {
         // gets set by file name, and then filters it.
         this.apiService.presentLoadingCustom();
-        return this.getQuestionsBySetKey(fileName).map(data => {
-            (<any>window).loading.dismiss();
-            return this.formatMultipleChoice(data);
-        });
+        if (!fileName && options.vendorNum == 'RANDOM') {
+            return this.getRandomQuestionsByCategory(options.category.value).map(data => {
+                (<any>window).loading.dismiss();
+                return this.formatMultipleChoice(data);
+            });
+        }
+        else {
+            return this.getQuestionsBySetKey(fileName).map(data => {
+                (<any>window).loading.dismiss();
+                return this.formatMultipleChoice(data);
+            });
+        }
     }
 
     formatMultipleChoice(array) {

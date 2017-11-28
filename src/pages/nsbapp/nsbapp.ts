@@ -68,7 +68,7 @@ export class NsbappPage {
     this.options = this.nsbService.options;
     this.data = null; // todo fix
     
-    this.nsbService.getSetAndFilter(this.navParams.get('fileName')).subscribe((data) => {
+    this.nsbService.getSetAndFilter(this.options, this.navParams.get('fileName')).subscribe((data) => {
       this.questions = data;
       this.currentQuestionNumber = -1;
 

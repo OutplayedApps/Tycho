@@ -48,6 +48,7 @@ export class NsbmenuPage {
   }
 
   getSets() {
+    if (this.options.vendorNum == 'RANDOM') return [];
     let sets = [];
     var setNum = 0;
     for (let key in this.nsbService.metadata[this.options.vendorNum]) {
@@ -110,6 +111,7 @@ export class NsbmenuPage {
   }
 
   getPackets() {
+    if (this.options.vendorNum == 'RANDOM') return [];
     let packets = [];
     var packetNum = 0;
     for (let key in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
@@ -125,12 +127,19 @@ export class NsbmenuPage {
   }
 
   navigateNsbappPage() {
-    var packetInfo = this.nsbService.metadata[this.options.vendorNum][this.options.setNum][this.options.packetNum];
-    this.navCtrl.push(NsbappPage, {
-      options: this.nsbService.options,
-      numQuestions: packetInfo.numQuestions,
-      fileName: packetInfo.fileName
-    })
+    if (this.options.vendorNum == 'RANDOM') {
+      this.navCtrl.push(NsbappPage, {
+        options: this.nsbService.options
+      });
+    }
+    else {
+      var packetInfo = this.nsbService.metadata[this.options.vendorNum][this.options.setNum][this.options.packetNum];
+      this.navCtrl.push(NsbappPage, {
+        options: this.nsbService.options,
+        numQuestions: packetInfo.numQuestions,
+        fileName: packetInfo.fileName
+      });
+    }
   }
 
 }
