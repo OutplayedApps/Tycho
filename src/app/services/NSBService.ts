@@ -41,7 +41,7 @@ export class NSBService {
     this.options = {
         difficulty: "HS",
         mode: "GAME",
-        audio: "TRUE",
+        audio: "FALSE",
         vendorNum: "DOE-MS",
         setNum: "1",
         packetNum: "1"
