@@ -41,7 +41,6 @@ export class NSBService {
         category: [
             {"value": -1, "name": "ALL CATEGORIES"},
             {"value": 0, "name": "EARTH AND SPACE"},
-            {"value": 0, "name": "EARTH AND SPACE SCIENCE"},
             {"value": 1, "name": "BIOLOGY"},
             {"value": 2, "name": "CHEMISTRY"},
             {"value": 3, "name": "PHYSICS"},
