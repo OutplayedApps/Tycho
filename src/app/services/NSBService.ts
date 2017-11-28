@@ -58,10 +58,16 @@ export class NSBService {
         });
     }
 
+    getQuestionsBySetKey(setKey) {
+        return this.apiService.getJSONFile("assets/files/questions/all.json").map(data => {
+            return data[setKey];
+        });
+    }
+
     getSetAndFilter(fileName) {
         // gets set by file name, and then filters it.
         this.apiService.presentLoadingCustom();
-        return this.apiService.getJSONFile("assets/files/questions/" + fileName + ".json").map(data => {
+        return this.getQuestionsBySetKey(fileName).map(data => {
             (<any>window).loading.dismiss();
             return this.formatMultipleChoice(data);
         });
