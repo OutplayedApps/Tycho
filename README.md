@@ -3,6 +3,11 @@
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
 
 ### Release notes:
+#### 2.0.5
+```
+- Added random, categories filter.
+- Default audio off.
+```
 ```
 v 2.0.4
 Science Bowl is now Tycho! Many improvements include:

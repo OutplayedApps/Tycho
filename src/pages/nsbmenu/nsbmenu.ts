@@ -62,6 +62,15 @@ export class NsbmenuPage {
     return sets;
   }
 
+  getCategories() {
+    // Set default category
+    var categories = this.nsbService.optionValues.category;
+    if (!~categories.indexOf(this.options.category)) {
+      this.options.category = this.optionValues.category[0]; // Default: all
+    }
+    return categories;
+  }
+
   getDisplayNameFromMetadata(currentMetadata, displayName="") {
     /* If displayLabel is defined, will either get displayLabel or label (if displayLabel is true).
      * Defaults to displayName
@@ -93,7 +102,7 @@ export class NsbmenuPage {
         vendors.push(vendorNum);
     }
     // Set default vendorNum
-    if (!~vendors.indexOf(this.options.vendorNum)) {
+    if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
       this.options.vendorNum = this.options.difficulty == "MS" ? "DOE-MS": "DOE-HS";
     }
 

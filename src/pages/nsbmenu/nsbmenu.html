@@ -24,15 +24,22 @@
           <ion-label>Vendor</ion-label>
           <ion-select [(ngModel)]="options.vendorNum">
               <ion-option *ngFor="let o of getVendors()" [value]="o">{{prettifyVendorName(o)}}</ion-option>
+              <ion-option [value]="'RANDOM'">Random</ion-option>
           </ion-select>
       </ion-item>
-      <ion-item ng-if = "options.vendorNum">
+      <ion-item *ngIf = "options.vendorNum && options.vendorNum == 'RANDOM'">
+        <ion-label>Category</ion-label>
+        <ion-select [(ngModel)]="options.category">
+            <ion-option *ngFor="let o of getCategories()" [value]="o">{{o.name}}</ion-option>
+        </ion-select>
+      </ion-item>
+      <ion-item *ngIf = "options.vendorNum && options.vendorNum != 'RANDOM'">
         <ion-label>Set</ion-label>
         <ion-select [(ngModel)]="options.setNum">
             <ion-option *ngFor="let o of getSets()" [value]="o">{{o}}</ion-option>
         </ion-select>
       </ion-item>
-      <ion-item ng-if = "options.setNum">
+      <ion-item *ngIf = "options.setNum && options.vendorNum != 'RANDOM'">
           <ion-label>Packet</ion-label>
           <ion-select [(ngModel)]="options.packetNum">
               <ion-option *ngFor="let o of getPackets()" [value]="o">{{o}}</ion-option>

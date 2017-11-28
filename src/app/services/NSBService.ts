@@ -11,6 +11,7 @@ export interface optionsInterface {
     vendorNum: string,
     setNum: string,
     packetNum: string,
+    category: number
 }
 
 @Injectable()
@@ -36,7 +37,19 @@ export class NSBService {
         ],
         vendorNum: String,
         setNum: String,
-        packetNum: String
+        packetNum: String,
+        category: [
+            {"value": -1, "name": "ALL CATEGORIES"},
+            {"value": 0, "name": "EARTH AND SPACE"},
+            {"value": 0, "name": "EARTH AND SPACE SCIENCE"},
+            {"value": 1, "name": "BIOLOGY"},
+            {"value": 2, "name": "CHEMISTRY"},
+            {"value": 3, "name": "PHYSICS"},
+            {"value": 4, "name": "MATHEMATICS"},
+            {"value": 5, "name": "ENERGY"},
+            {"value": 6, "name": "GENERAL SCIENCE"},
+            {"value": 7, "name": "COMPUTER SCIENCE"}
+        ]
     }
     this.options = {
         difficulty: "HS",
@@ -44,7 +57,8 @@ export class NSBService {
         audio: "FALSE",
         vendorNum: "DOE-MS",
         setNum: "1",
-        packetNum: "1"
+        packetNum: "1",
+        category: this.optionValues.category[0]
     };
 }
 
