@@ -5,8 +5,9 @@ Tycho is a mobile app that allows people to access study guides to learn science
 ### Release notes:
 #### 2.0.5
 ```
-- Added random, categories filter.
-- Default audio off.
+- You can now choose a "random" option for vendor, which lets you filter between categories! This helps people more when they practice by themselves and want to hone in on a specific topic.
+Minor:
+- Audio is off by default.
 ```
 ```
 v 2.0.4
@@ -154,7 +155,7 @@ Logging:
 adb logcat *:W
 ```
 
-Release:
+Release (android):
 ```
 keytool -list -keystore nsbapp.keystore
 
@@ -162,5 +163,12 @@ ionic cordova build --release android
 
 jarsigner -tsa http://timestamp.digicert.com -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore nsbapp.keystore platforms\android\build\outputs\apk\android-release-unsigned.apk nsbapp
 
-C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.4.apk
+C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.5.apk
+```
+
+Release (iOS):
+```
+export PATH=/afs/ir.stanford.edu/users/a/s/ashwin99/Documents/local/bin/:$PATH
+
+ionic cordova build ios --release
 ```
