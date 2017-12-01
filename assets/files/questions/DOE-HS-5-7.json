@@ -1,0 +1,427 @@
+[
+  {
+    "category": 0, 
+    "bonusA": "ICE CORE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  What is the general name of an instrument designed to \r\nobserve the extremely faint emissions from the region around the Sun in the absence of a solar \r\neclipse?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What climate proxy can paleoclimate researchers use \r\nto provide an uninterrupted climate record extending back hundreds of thousands of years, \r\nincluding information such as temperature, precipitation, chemistry, volcanic eruptions, and \r\nother climate indicators?", 
+    "tossupA": "CORONAGRAPH (ACCEPT: SOLAR CORONAGRAPH)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc3"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2, 3, AND 4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  The pressure of an ideal gas is kept constant while the volume of \r\nthe gas is increased from 2 cubic meters to 6 cubic meters. If the initial temperature is 17\u00b0 \r\nCelsius, find the final temperature in Kelvin to the nearest integer.", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  By number, identify all of the following four groups of physical \r\nquantities that have the same units: 1) electric flux, electric field, and electric dipole moment; 2) \r\nheat, potential energy, and work; 3) pressure, stress, and Young\u2019s modulus; 4) electromotive \r\nforce, potential difference, and electric voltage.", 
+    "tossupA": "870", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc4"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "-277,500; SPONTANEOUS \r\n \r\n[NOTE: read (g) as GASEOUS; (l) = LIQUID]", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Which of the following is NOT an advantage of using liquefied \r\npetroleum gas in vehicles instead of conventional gasoline? \r\n \r\nW) It produces fewer toxic and smog-forming air pollutants \r\nX) Most liquefied petroleum gas comes from domestic sources \r\nY) It is less expensive than gasoline \r\nZ) It gets more miles per tank of fuel than conventional gasoline", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  Given the reaction C\r\n3\r\nH\r\n8(g)\r\n + 5O\r\n2(g)\r\n \u2192 (read as: yields) 4H\r\n2\r\nO\r\n(\r\nl\r\n)\r\n + \r\n3CO\r\n2(g)\r\n occurs at room temperature with a  change in enthalpy of  -290,000 joules and change \r\nin entropy of -110 joules per Kelvin, what is the delta G in joules for this reaction and is the \r\nreaction spontaneous?", 
+    "tossupA": "Z) IT GETS MORE MILES PER TANK OF FUEL THAN CONVENTIONAL \r\nGASOLINE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc6"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) PLASMODIUM FALCIPARUM \u2013 DENGUE HEMORRHAGIC FEVER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following BEST describes the syndrome that \r\nmanifests itself in starving children as swollen distended abdomens, spindly arms, and edema in \r\nthe face, hands, and feet resulting from the catabolism of muscle and blood proteins? \r\n \r\nW) Malnutrition primus \r\nX) Beri Beri \r\nY) Kwashiorkor (read as; kwah-shee-OHR-kohr) \r\nZ) Emaciation", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which disease-causing agent is NOT correctly matched to the \r\ndisease it causes? \r\n \r\nW) Plasmodium falciparum (read as: plahz-M\u014cE-dee-uhm fahl-SI-pah-ruhm) \u2013 Dengue \r\nhemorrhagic fever \r\nX) Rickettsia rickettsii (read as: ri-KEHT-see-ah ri-KEHT-see) \u2013 Rocky Mountain spotted fever \r\nY) Borrelia burgdorferi (read as: boh-REHL-ee-ah boorg-DOHR-feh-ree) \u2013 Lyme disease \r\nZ) Trypanosoma brucei (read as: try-pah-noh-S\u014cE-mah BROOH-sey) \u2013 Human African \r\nsleeping sickness", 
+    "tossupA": "Y) KWASHIORKOR", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc7"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-1/2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following is NOT true about the function y = |x| ? \r\n \r\nW) It is symmetric around the y-axis \r\nX) The derivative of the function does not exist at x = 0 \r\nY) It is monotonic \r\nZ) The integral of the function over the real line is unbounded", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Suppose that g is the inverse function of f, f(-1) = 2 (read as: f of \r\nnegative 1 equals 2), and f\u2019(-1) = -2 (read as: f prime of negative 1 equals negative 2). Find g\u2019(2) \r\n(read as: g prime of 2).", 
+    "tossupA": "Y) IT IS MONOTONIC", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc8"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) IT EXHIBITS HIGHER AFFINITY FOR OXYGEN THAN MYOGLOBIN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Aposematic coloration allows an organism to signal which of the \r\nfollowing?  \r\n \r\nW) Readiness to mate  \r\nX) Territoriality \r\nY) Noxious taste \r\nZ) Darwinian fitness", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT true regarding human \r\nhemoglobin? \r\n \r\nW) It is a tetramer  \r\nX) It exhibits binding cooperativity  \r\nY) It exhibits a sigmoidal saturation curve  \r\nZ) It exhibits higher affinity for oxygen than myoglobin", 
+    "tossupA": "Y) NOXIOUS TASTE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc9"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) THEY ARE TYPICALLY MORE EFFICIENT AT CONVERTING WIND ENERGY \r\nINTO ELECTRICITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  According to Betz\u2019s Law, wind turbines cannot capture more than \r\nwhat approximate percentage of the kinetic energy present in wind? \r\n \r\nW) 29 \r\nX) 39 \r\nY) 49 \r\nZ) 59", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  Which of the following is NOT an advantage of vertical axis wind \r\nturbines as compared to horizontal axis wind turbines? \r\n \r\nW) They can catch the wind from all directions \r\nX) They can catch the wind at lower wind speeds  \r\nY) They are typically more efficient at converting wind energy into electricity \r\nZ) They are more suited to urban environments", 
+    "tossupA": "Z) 59", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddca"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "4,500,000", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  By name or number, identify how antimatter interacts gravitationally \r\nwith ordinary matter: 1) it is attracted, 2) it is repelled, or 3) there is no interaction.", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A solid conducting sphere with a radius of 5 centimeters has a \r\ncharge of 5 microcoulombs. Given Coulomb\u2019s constant as 9.0 \u00d7 10<sup>9</sup> newton meters squared per \r\ncoulomb squared, what is the magnitude of the electric field in newtons per coulomb at a \r\ndistance of 5 centimeters from the surface of the sphere?", 
+    "tossupA": "IT IS ATTRACTED (ACCEPT: 1)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddcb"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) NITROSOFYING BACTERIA: CONVERT AMMONIA TO NITRATES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  By name or number, identify all of the following four animals that \r\nare ectotherms: 1) turtles, 2) goldfish, 3) otters, 4) beetles.", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following are NOT correctly matched to their \r\nfunction? \r\n \r\nW) Denitrifying bacteria: convert nitrates to gaseous nitrogen \r\nX) Nitrogen fixing bacteria: convert gaseous nitrogen to ammonia \r\nY) Nitrosofying bacteria: convert ammonia to nitrates \r\nZ) Nitrifying bacteria: convert nitrites to nitrates", 
+    "tossupA": "TURTLES, GOLDFISH, AND BEETLES (ACCEPT: 1, 2, AND 4)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddcc"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-4x<sup>2</sup> + 8x + 3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following is NOT a property of the normal p.d.f.?   \r\n \r\nW) The p.d.f. is symmetric \r\nX) The p.d.f. has two inflection points \r\nY) The variance has to be positive \r\nZ) The domain of the p.d.f. is non-negative real numbers", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  If f(x) = 2x \u2013 1 and g(x) = 6 + 2x \u2013 x<sup>2</sup>, what is the standard polynomial \r\nform for g(f(x)) (read as: g of f of x)?", 
+    "tossupA": "Z) THE DOMAIN OF THE P.D.F. IS NON-NEGATIVE REAL NUMBERS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddcd"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CALIFORNIA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is the number two killer \r\namong thunderstorm hazards? \r\n \r\nW) Large hail \r\nX) Lightning \r\nY) Flash flooding \r\nZ) Tornadoes", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  According to records kept since 1897, the all-time \r\nrecord snow depth in the U.S. was 451 inches in 1911. In which state did this record occur?", 
+    "tossupA": "X) LIGHTNING", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddcf"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "ETHYLENE (ACCEPT: ETHENE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is TRUE about the solubility of a gas \r\nin water? \r\n \r\nW) It increases as both temperature and partial pressure of the gas rise \r\nX) It increases as temperature rises but decreases as partial pressure of the gas rises \r\nY) It decreases as temperature rises but increases as partial pressure of the gas rises \r\nZ) It decreases as both temperature and partial pressure of the gas rise", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Plastics with the recycling symbols of 2 and 4, such as those \r\nused to make plastic bags, are produced from what monomer?", 
+    "tossupA": "Y) IT DECREASES AS TEMPERATURE RISES BUT INCREASES AS PARTIAL \r\nPRESSURE OF THE GAS RISES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd2"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1000", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  A person spearfishing from the shore sees a fish located 3 \r\nmeters from the shore at an approximate depth of 1 meter. To spear the fish, the person should \r\naim in which of the following directions? \r\n \r\nW) Directly at the fish\u2019s image \r\nX) Above the fish\u2019s image \r\nY) Below the fish\u2019s image \r\nZ) Behind the fish\u2019s image", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Once a rocket\u2019s fuel runs out, it coasts upwards for another 50 \r\nkilometers before falling back to Earth. Given g as 10 meters per second squared, what was the \r\nrocket\u2019s vertical velocity in meters per second the moment the fuel ran out?", 
+    "tossupA": "Y) BELOW THE FISH\u2019S IMAGE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd4"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) GLYCOSIDIC LINKAGES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Nematocysts (read as: NEHM-aht-oh-sists) are typically found \r\nin which of the following groups? \r\n \r\nW) Cnidarians (read as: ny-DEHR-ee-ahns (NO \u201cC\u201d)) \r\nX) Flatworms \r\nY) Roundworms \r\nZ) Echinoderms (read as: i-KY-noh-dehrms)", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following does not occur in the tertiary structure of \r\na protein? \r\n \r\nW) Glycosidic linkages \r\nX) Disulfide bridges \r\nY) Hydrophobic interactions \r\nZ) Ionic bonds", 
+    "tossupA": "W) CNIDARIANS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd5"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0.01", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  A ball is thrown vertically upward. Assuming that up is positive, \r\nwhich of the following pairs best describes its velocity and acceleration, respectively, at its \r\nhighest point? \r\n \r\nW) Negative, negative  \r\nX) Zero, negative \r\nY) Negative, zero \r\nZ) Zero, zero", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  If an earplug decreases the sound level of sound waves by 20 \r\ndecibels, providing your answer as a decimal to the nearest hundredth, what is the ratio of the \r\nfinal intensity of the waves to their initial intensity?", 
+    "tossupA": "X) ZERO, NEGATIVE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd7"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "2 AND 3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Evidence of past climate conditions is best reviewed \r\nby studying which of the following? \r\n \r\nW) Modern ocean chemistry \r\nX) Metal sulfides \r\nY) Mid-ocean ridges \r\nZ) Deep sea sediments", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  By number, identify all of the following five choices that \r\nwill allow greater resolution for a radio telescope: 1) lower noise temperature, 2) larger diameter, \r\n3) longer baseline, 4) adaptive optics system, 5) larger brightness temperature of the source.", 
+    "tossupA": "Z) DEEP SEA SEDIMENTS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd8"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0.41", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  A worker pushes a crate across the floor with a force of 50 \r\nnewtons for a distance of 10 meters. If a frictional force of 20 newtons acts on the crate, what is \r\nthe net work, in joules, done on the crate?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A horizontal force of 200 newtons is used to push a 50 kilogram \r\nbox 10 meters across a floor at constant speed. Given 9.8 meters per second squared as g and \r\nproviding your answer as a decimal to the nearest hundredth, what is the coefficient of kinetic \r\nfriction between the box and the floor?", 
+    "tossupA": "300", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd9"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "9.3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  To reduce total energy consumption in the home, in which of the \r\nfollowing locations should insulation with the highest R-value be installed? \r\n \r\nW) Walls \r\nX) Attic \r\nY) Crawlspace \r\nZ) Kitchen", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  An electronic device operates on a 1.5 volt battery with a \r\nresistance of 10 ohms. If the initial capacity of this battery is 1400 milliampere-hours, and \r\nproviding your answer as a decimal to the nearest tenth, for how many hours of continuous use \r\ncould this device operate?", 
+    "tossupA": "X) ATTIC", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddda"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CLOUD CONDENSATION NUCLEI (ACCEPT: CCN, CONDENSATION NUCLEI, \r\nNUCLEI)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  What is the name of unsorted sediment that is directly \r\ndeposited by glaciers?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What is the name for hygroscopic atmospheric particles \r\non which water vapor condenses to form clouds?", 
+    "tossupA": "TILL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc5"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "LEAD (II) CARBONATE (DO NOT ACCEPT: PLUMBOUS CARBONATE, LEAD \r\nCARBONATE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  In scientific notation, one attojoule is equal to how many \r\njoules?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the IUPAC name of the compound PbCO\r\n3\r\n?", 
+    "tossupA": "1 x 10\r\n\u2212\r\n18", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddce"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2 AND 3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Reduction involves which of the following? \r\n \r\nW) Gain of electrons and increase in oxidation number \r\nX) Loss of electrons and increase in oxidation number \r\nY) Gain of electrons and decrease in oxidation number \r\nZ) Loss of electrons and decrease in oxidation number", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  By number, identify all of the following four statements that are \r\nTRUE: 1) liquids with large intermolecular forces tend to have very low boiling points, 2) liquids \r\nwith large intermolecular forces tend to have considerable surface tension, 3) ethanol has a \r\nhigher boiling point than methanol, 4) the hardness of diamond is due to strong van der Waals \r\nforces.", 
+    "tossupA": "Y) GAIN OF ELECTRONS AND DECREASE IN OXIDATION NUMBER", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd0"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following BEST describes how annelids use their \r\nhydrostatic skeleton for locomotion? \r\n \r\nW) Each body segment is walled off, allowing body fluids to be compressed or expanded by its \r\nmuscles \r\nX) Each body segment has small holes allowing only small amounts of liquid to move at one \r\ntime \r\nY) All body segments are connected, and the muscles contract and release to move the fluid \r\naround the worm\u2019s body, creating aqueous motion \r\nZ) Anterior body segments are connected but walled off from posterior segments. Muscles \r\ncontrol body fluid movement bilaterally", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  How many pairs of chromosomes does a fruit fly have?", 
+    "tossupA": "W) EACH BODY SEGMENT IS WALLED OFF, ALLOWING BODY FLUIDS TO BE \r\nCOMPRESSED OR EXPANDED BY ITS MUSCLES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd1"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4.3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  In how many different ways can a president, vice president, and \r\nsecretary be elected in a club of 10 members if no one may hold more than one office?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Assuming that log 2 = 0.7 and log 3 = 1.1, find the value of log 72 to \r\nthe nearest tenth.", 
+    "tossupA": "720", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd3"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X) FATTY ACID ESTERS AND GLYCEROL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following statements is usually TRUE about an \r\nunsaturated fatty acid? \r\n \r\nW) It is from vegetable sources and is solid at room temperature \r\nX) It is from vegetable sources and is liquid at room temperature \r\nY) It is from animal sources and is solid at room temperature \r\nZ) It is from animal sources and is liquid at room temperature", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Making biodiesels is a transesterification reaction. Which of \r\nthe following represents the product(s) of this reaction? \r\n \r\nW) Phosphodiesters and glycerol \r\nX) Fatty acid esters and glycerol \r\nY) Fatty acids and alcohol  \r\nZ) Acetyl-ethyl ester", 
+    "tossupA": "X) IT IS FROM VEGETABLE SOURCES AND IS LIQUID AT ROOM \r\nTEMPERATURE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddd6"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2/5 + (9/5)i  (ACCEPT:  0.4 + 1.8i)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If a family has 5 children, what is the probability that there are 4 girls \r\nand 1 boy?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the following quotient of complex numbers:  (4 + i)/(1 \u2013 2i).", 
+    "tossupA": "5/32", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdddb"
+    }, 
+    "questionNum": 27
+  }
+]

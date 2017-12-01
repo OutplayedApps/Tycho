@@ -1,0 +1,427 @@
+[
+  {
+    "category": 0, 
+    "bonusA": "CALCAREOUS OOZE; SILICEOUS OOZE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice The Sun\u2019s tide-generating force is about: \r\n \r\nW) one-half that of the Moon \r\nX) twice that of the Moon \r\nY) one-fourth that of the Moon \r\nZ) 4-times that of the Moon", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Name all of the following 4 types of pelagic or marine \r\nsediments that are composed of more than 30% of the skeletal remains of microscopic organisms: \r\ncalcareous (read as: kal-CARE-ee-ous) ooze; terrigenous sediments; red clay; siliceous ooze", 
+    "tossupA": "W) ONE-HALF THAT OF THE MOON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc94b"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6.3 \r\n \r\n(Solution: [(0.1)(1 \u2013 26)]/(1 \u2013 2) = 6.3)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Assuming it is in standard position, a 1081\u00ba angle will lie in what \r\nquadrant of the rectangular coordinate system?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Giving your answer to the 1st decimal place, find the sum of the first six \r\nterms of the geometric sequence whose first three terms are: 0.1, 0.2, 0.4...", 
+    "tossupA": "ONE (ACCEPT: FIRST or I)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc94c"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) 1 TABLE SPOON COD LIVER OIL \r\n \r\n(Solution: egg ~ 40 IU; cod liver oil ~ 1360; cheese ~ 12; milk ~ 40)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Leucine and isoleucine are both: \r\n \r\nW) essential amino acids \r\nX) fatty acids \r\nY) complex carbohydrates \r\nZ) essential minerals", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following would contain the most dietary \r\nvitamin D: \r\n \r\nW) 1 egg yolk \r\nX) 1 table spoon cod liver oil \r\nY) 1 ounce Swiss cheese \r\nZ) 1 cup vitamin D-fortified whole milk", 
+    "tossupA": "W) ESSENTIAL AMINO ACIDS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc94d"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "NAD+ (ACCEPT: NAD or NICOTINAMIDE ADENINE DINUCLEOTIDE) \r\n(DO NOT ACCEPT: NADP or NADH)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following organelles would be most abundant in \r\ncells that are producing large amounts of ATP through oxidative metabolism: \r\n \r\nW) smooth ER \r\nX) rough ER \r\nY) mitochondria \r\nZ) lysosomes", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the oxidizing agent in the citric acid cycle that is derived \r\nin part from the vitamin niacin?", 
+    "tossupA": "Y) MITOCHONDRIA", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc94e"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) POOR THERMAL CONDUCTIVITY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following best explains the benefit of \r\nadding a solution of ethylene glycol, or antifreeze, to the radiator of a car: \r\n \r\nW) lowers the freezing point and raises the boiling point \r\nX) raises the freezing point and raises the boiling point \r\nY) lowers the freezing point and lowers the boiling point \r\nZ) raises the freezing point and lowers the boiling point", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Metallic bonding accounts for all but which of the \r\nfollowing physical characteristics of metals: \r\n \r\nW) strength \r\nX) ductility \r\nY) high electrical conductivity \r\nZ) poor thermal conductivity", 
+    "tossupA": "W) LOWERS THE FREEZING POINT AND RAISES THE BOILING POINT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc94f"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) CEPHEID VARIABLES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Rounding your answer to the first decimal place, if at its \r\nclosest approach to the Earth, a satellite in a circular orbit about the Sun is 0.3 astronomical units \r\nfrom Earth, how many astronomical units is the satellite from the Sun?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is a type of star that is \r\nextremely useful in measuring large distances across the universe and led to the discovery that the \r\nuniverse is much bigger than just our Milky Way galaxy: \r\n \r\nW) eclipsing binaries \r\nX) Wolf-Rayets \r\nY) Cepheid variables \r\nZ) neutrons", 
+    "tossupA": "0.7", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc950"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) HIGH VISCOSITY AND LOW GAS CONTENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Sometimes compared to a slow-moving glob of toothpaste \r\nextruding from a tube of toothpaste, which of the following has formed several times within the \r\ncrater Mount Saint Helens since its 1980 eruption: \r\n \r\nW) lava domes \r\nX) cinder cones \r\nY) flood basalts \r\nZ) spatter cones", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Knowing that the growth of lava domes is generally \r\nnonexplosive and they often grow for many months to years, which of the following best describes \r\ntheir magmas: \r\n \r\nW) low viscosity and low gas content \r\nX) low viscosity and high gas content \r\nY) high viscosity and low gas content \r\nZ) high viscosity and high gas content", 
+    "tossupA": "X) LAVA DOMES", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc951"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "a<sub>2</sub> + ab + b<sub>2</sub>", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is TRUE for the graph of the following two \r\nequations: x + y = 8, and, 2x + 2y = 16 \r\n \r\nW) they coincide \r\nX) they are perpendicular lines \r\nY) they are parallel lines \r\nZ) they are horizontal lines", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Divide and simplify the following, combining like terms: \r\nba\r\nba\r\n\u2212\r\n\u221233", 
+    "tossupA": "W) THEY COINCIDE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc952"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ZYGOTE; LYMPHOCYTE \r\n \r\n(Solution: rbc\u2019s have no nuclei)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the most common energy \r\nintermediate that couples exergonic and endergonic reactions in living cells: \r\n \r\nW) fat \r\nX) cellulose \r\nY) glucose \r\nZ) ATP", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 cells that are typically diploid: \r\nzygote; lymphocyte; red blood cell; mature ovum", 
+    "tossupA": "Z) ATP", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc953"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) A MASS OF 4 KG WITH A VELOCITY OF 8 METERS PER SECOND \r\n \r\n(Solution: KE = \u00bd mass \u00d7 velocity<sup>2</sup>)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer How many times as much kinetic energy does a falling \r\nrock have if it triples its velocity?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following has the GREATEST kinetic \r\nenergy for an object moving in a straight path: \r\n \r\nW) a mass of 2 kg with a velocity of 10 meters per second \r\nX) a mass of 4 kg with a velocity of 8 meters per second \r\nY) a mass of 6 kg with a velocity of 6 meters per second \r\nZ) a mass of 8 kg with a velocity of 4 meters per second", 
+    "tossupA": "9", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc954"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) NORMAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following best describes what \r\nmeteorologists call a mesoscale convective complex: \r\n \r\nW) an Alberta clipper \r\nX) a low-precipitation supercell tornado \r\nY) a large cluster of thunderstorms \r\nZ) a widespread area of cool, clear conditions", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is the name for the fault in which \r\ndisplacement of the hanging wall is downward with respect to the footwall: \r\n \r\nW) normal \r\nX) reverse \r\nY) strike-slip \r\nZ) thrust", 
+    "tossupA": "Y) A LARGE CLUSTER OF THUNDERSTORMS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc955"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "28 \r\n \r\n(Solution: 8C<sub>6</sub> = (8\u03877\u03876\u03875\u03874\u03873)/(6\u03875\u03874\u03873 \u03872\u03871) = 28)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What statistical quantity is computed knowing the square root of the \r\nvariance and is a measure of a population\u2019s dispersion?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many combinations are there of 8 things taken 6 at a time?", 
+    "tossupA": "STANDARD DEVIATION", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc956"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) TO SLOW FAST NEUTRONS AND ENSURE A SUSTAINED CHAIN \r\nREACTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What substance is the most common moderator used in \r\nnuclear reactors world-wide?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following best describes how water \r\ntypically functions as a moderator in nuclear reactors: \r\n \r\nW) to increase the distance among uranium atoms that are fissioned \r\nX) to cool the reactor core \r\nY) to slow fast neutrons and ensure a sustained chain reaction \r\nZ) to provide protons for the initiation of fission", 
+    "tossupA": "WATER (ACCEPT: H<sub>2</sub>O)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc957"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) OXIDASE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT true of ribososmes: \r\n \r\nW) they help translate mRNA into protein \r\nX) they are too small to be seen with a compound light microscope \r\nY) they are about 20 nanometers in diameter \r\nZ) bacterial and eukaryotic ribosomes are identical in shape and size", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following enzymes most likely catalyses the \r\nremoval of electrons: \r\n \r\nW) transferase \r\nX) nuclease \r\nY) hydrolase \r\nZ) oxidase", 
+    "tossupA": "Z) BACTERIAL AND EUKARYOTIC RIBOSOMES ARE IDENTICAL IN SHAPE \r\nAND SIZE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc958"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2 \r\n \r\n(Solution: CH<sub>4</sub> + 2O<sub>2</sub> \uf0e0 CO<sub>2</sub> + 2H<sub>2</sub>O)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following would be the most logical \r\nchoice for neutralizing a small amount of basic sodium hydroxide that was spilled on a lab bench: \r\n \r\nW) citric acid \r\nX) mercury pillow \r\nY) concentrated sulfuric acid \r\nZ) concentrated hydrochloric acid", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer When the following chemical equation is balanced, the \r\ncoefficient of oxygen will be what value: CH<sub>4</sub> + O<sub>2</sub> \uf0e0 CO<sub>2</sub> + H<sub>2</sub>O", 
+    "tossupA": "W) CITRIC ACID", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc959"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "OCEANIC CRUST = 2) 5 TO 10 KILOMETERS; CONTINENTAL CRUST = 1) 25 \r\nTO 90 KILOMETERS; MANTLE = 3) 2900 KILOMETERS \r\n(ACCEPT: 2; 1; 3)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is an example of a mountain range \r\nthat was primarily formed by a process of fault-blocking: \r\n \r\nW) the Grand Tetons, Wyoming \r\nX) the Andes Mountains \r\nY) the Himalayas \r\nZ) the Hawaiin Islands", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Match each of the following 3 layers of the Earth, oceanic \r\ncrust, continental crust, and mantle, respectively, with the following 3 approximate depths:  \r\n1) 25 to 90 kilometers; 2) 5 to 10 kilometers; 3) 2900 kilometers", 
+    "tossupA": "W) THE GRAND TETONS, WYOMING", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc95a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12\r\n1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If a given row of Pascal\u2019s triangle has the values, 1, 4, 6, 4, 1, give the \r\nexact order of values for the next row:", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A balanced coin is flipped once and a fair 6-sided die is rolled once. \r\nWhat is the probability, as a fraction in lowest terms, of obtaining a tail AND a 3?", 
+    "tossupA": "1, 5, 10, 10, 5, 1", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc95b"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) 1 WHOLE EGG \r\n \r\n(Solution: nuts ~ 0; egg ~ 213; milk ~ 33; oil ~ 0 mg)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true of cholesterol: \r\n \r\nW) cholesterol is transported in blood \r\nX) LDL\u2019s, or low density lipoproteins, are typically considered the \u201cbad\u201d cholesterol \r\nY) elevated cholesterol often begins in childhood \r\nZ) cholesterol is a common component of plant cell membranes", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following foods contains the MOST \r\nmilligrams of cholesterol: \r\n \r\nW) 1 cup dry, roasted cashew nuts \r\nX) 1 whole egg \r\nY) 1 cup whole milk \r\nZ) 1 cup olive oil", 
+    "tossupA": "Z) CHOLESTEROL IS A COMMON COMPONENT OF PLANT CELL \r\nMEMBRANES", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc95c"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) PRODUCTION OF AMNIOTIC EGGS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is considered the dominant \r\ngeneration in flowering plants: \r\n \r\nW) hypocotyl \r\nX) sporophyte \r\nY) gametophyte \r\nZ) anthophyte", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the most distinguishing \r\ncharacteristic of all vertebrates adapted to life on land from amphibians: \r\n \r\nW) lack of metamorphosis \r\nX) presence of true kidneys \r\nY) production of amniotic eggs \r\nZ) presence of a coelom (read as: sil-OHM)", 
+    "tossupA": "X) SPOROPHYTE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc95d"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "12 CENTS  \r\n \r\n(Solution: 100 watts = 0.1 Kw; 0.1 Kw \u00d7 10 hrs \u00d7 12 cents = 12 cents)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer For 2 planets separated by a given distance, if the mass \r\nof one planet doubles, by what factor will the gravitational attraction between the planets be \r\nmultiplied?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If the cost of electricity is 12-cents per kilowatt hour, \r\nhow much does it cost to run a 100-watt light bulb for 10 hours?", 
+    "tossupA": "2 (ACCEPT: 2 TIMES)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc95e"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CRESCENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer What is the most common astronomical term for the \r\ngeometrical configuration where an inferior planet is between the Earth and the Sun?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Giving your answer as crescent, quarter, half, or full, an \r\ninferior planet will be in what phase when at inferior conjunction with Earth?", 
+    "tossupA": "INFERIOR CONJUNCTION", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc95f"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "15.7 \r\n \r\n(Solution: V = \u03c0r<sub>2</sub>h = \u03c0(12)(20) = 62.8; 62.8/4 = 15.7 cm3)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Classify the graph of, y = x<sup>2</sup> \u2013 6x \u2013 2, as a circle, parabola, straight line, \r\nor ellipse:", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A 20-centimeter long straw in the shape of an open right circular \r\ncylinder has a diameter of 2 centimeters. If the straw is exactly one-quarter filled with water, how \r\nmany cubic centimeters, rounded to the first decimal place and using \u03c0 = 3.14, of water are in the \r\nstraw?", 
+    "tossupA": "PARABOLA", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc960"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "1:55 AM; DECEMBER 10th", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Fusion of which of the following 5 isotopes will produce \r\nthe LEAST amount of net energy gain: hydrogen-1; deuterium; tritium; helium; iron", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer It is 8:55 PM, December 9 in Boston, Massachusetts, \r\nwhich is located at 71\u00ba west longitude. What time and day is it in London, England at 0\u00ba longitude? \r\nMake sure to give the time in AM or PM.", 
+    "tossupA": "IRON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc961"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "1 AND 3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer How many carbon dioxide molecules are released in each turn \r\nof the Citric Acid Cycle?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer By words or numbers, name all of the following 3 places where \r\nyou would most likely find dense meristematic tissue in a tomato plant: \r\n1) just behind the root cap; 2) in the stem pith; 3) just behind the terminal buds", 
+    "tossupA": "2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc962"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "BaCl<sub>2</sub> + 2H<sub>2</sub>O", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer If the half-life of a given isotope is 7 days, what fraction \r\nof the original isotope will be left after 14 days?", 
+    "packetNum": 18, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Using proper chemical formulas, finish balancing the \r\nfollowing equation: Ba(OH)2 + 2HCl \uf0e0 what?", 
+    "tossupA": "4\r\n1", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc963"
+    }, 
+    "questionNum": 27
+  }
+]

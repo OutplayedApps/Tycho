@@ -1,0 +1,47 @@
+<ns0:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="2038.4" id="svg2" version="1.0" viewBox="0 -410 2092.7574 1936.48" width="2038.4" ns2:docname="tau.svg" ns2:version="0.32" ns1:export-filename="C:\Users\arama\git\tycho2\tycho\src\assets\images\tau2.png" ns1:export-xdpi="90" ns1:export-ydpi="90" ns1:output_extension="org.inkscape.output.svg.inkscape" ns1:version="0.91 r13725">
+  <ns0:metadata id="metadata15">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </ns4:Work>
+    </rdf:RDF>
+  </ns0:metadata>
+  <ns0:defs id="defs13">
+    <ns0:marker id="Arrow1Lstart" orient="auto" refX="0.0" refY="0.0" style="overflow:visible" ns1:isstock="true" ns1:stockid="Arrow1Lstart">
+      <ns0:path d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " id="path5822" style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#be0000;fill-opacity:1" transform="scale(0.8) translate(12.5,0)" />
+    </ns0:marker>
+    <ns0:marker id="DistanceStart" orient="auto" refX="0.0" refY="0.0" style="overflow:visible" ns1:isstock="true" ns1:stockid="DistanceStart">
+      <ns0:g id="g2300" style="stroke:none;stroke-opacity:1;fill:#be0000;fill-opacity:1">
+        <ns0:path d="M 0,0 L 2,0" id="path2306" style="fill:#be0000;stroke:none;stroke-width:1.15;stroke-linecap:square;stroke-opacity:1;fill-opacity:1" />
+        <ns0:path d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z " id="path2302" style="fill:#be0000;fill-rule:evenodd;stroke:none;stroke-opacity:1;fill-opacity:1" />
+        <ns0:path d="M 0,-4 L 0,40" id="path2304" style="fill:#be0000;stroke:none;stroke-width:1;stroke-linecap:square;stroke-opacity:1;fill-opacity:1" />
+      </ns0:g>
+    </ns0:marker>
+    <ns0:marker id="Tail" orient="auto" refX="0.0" refY="0.0" style="overflow:visible" ns1:isstock="true" ns1:stockid="Tail">
+      <ns0:g id="g5858" style="stroke:none;stroke-opacity:1;fill:#be0000;fill-opacity:1" transform="scale(-1.2)">
+        <ns0:path d="M -3.8048674,-3.9585227 L 0.54352094,0" id="path5860" style="fill:#be0000;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <ns0:path d="M -1.2866832,-3.9585227 L 3.0617053,0" id="path5862" style="fill:#be0000;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <ns0:path d="M 1.3053582,-3.9585227 L 5.6537466,0" id="path5864" style="fill:#be0000;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <ns0:path d="M -3.8048674,4.1775838 L 0.54352094,0.21974226" id="path5866" style="fill:#be0000;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <ns0:path d="M -1.2866832,4.1775838 L 3.0617053,0.21974226" id="path5868" style="fill:#be0000;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <ns0:path d="M 1.3053582,4.1775838 L 5.6537466,0.21974226" id="path5870" style="fill:#be0000;fill-rule:evenodd;stroke:none;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+      </ns0:g>
+    </ns0:marker>
+    <ns1:perspective id="perspective4136" ns2:type="inkscape:persp3d" ns1:persp3d-origin="1540 : 633.33332 : 1" ns1:vp_x="0 : 949.99999 : 1" ns1:vp_y="0 : 999.99999 : 0" ns1:vp_z="3080.0001 : 949.99999 : 1" />
+  </ns0:defs>
+  <ns2:namedview bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10.0" guidetolerance="10.0" height="2000px" id="base" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false" width="3000px" ns1:current-layer="layer1" ns1:cx="453.15551" ns1:cy="978.43486" ns1:pageopacity="0.0" ns1:pageshadow="2" ns1:showpageshadow="false" ns1:window-height="720" ns1:window-maximized="0" ns1:window-width="1280" ns1:window-x="-4" ns1:window-y="-4" ns1:zoom="0.19947368" />
+  <ns0:text id="text2171" style="font-style:normal;font-weight:normal;font-size:12px;font-family:Lello;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="-647.92218" y="-843.53699" xml:space="preserve"><ns0:tspan id="tspan2173" x="-647.92218" y="-843.53699" ns2:role="line" /></ns0:text>
+  <ns0:g id="layer1" ns1:groupmode="layer" ns1:label="circle">
+    <ns0:circle cx="1041.2318" cy="563.38684" id="path4152" r="978.06934" style="opacity:0.49000005;fill:none;fill-opacity:1;stroke:#be0000;stroke-width:138.80019283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1665.60231396, 138.80019282999999000;stroke-dashoffset:326.36076119;stroke-opacity:1" ns1:export-xdpi="87" ns1:export-ydpi="87" >
+      <ns0:animateTransform attributeType="xml"
+                    attributeName="transform"
+                    type="rotate"
+                    from="0 1041.2318 563.38684"
+                    to="360 1041.2318 563.38684"
+                    dur="4s"
+                    repeatCount="indefinite"/>
+      </ns0:circle>
+  </ns0:g>
+  </ns0:svg>

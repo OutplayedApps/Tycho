@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "118", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Expressing your answer in simplest form, if y = (x<sup>6</sup>) ln(x) [y equals x \r\nto the sixth power times the natural log of x], what is the derivative of y with respect to x?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  A national achievement test is administered. The test has a mean \r\nscore of 100 and a standard deviation of 15. If Vince\u2019s z-score is 1.20, what is his score on the \r\ntest?", 
+    "tossupA": "6x<sup>5</sup> ln(x) + x<sup>5</sup>", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbcf"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) HOMOPTERA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  The amino acid sequence of a protein represents the translation \r\nof which of the following? \r\n \r\nW) The template DNA strand  \r\nX) The nontemplate DNA strand  \r\nY) The tRNA nucleotide sequence [NOO-klee-uh-tyd] \r\nZ) The reverse-complement of the mRNA strand", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following insect orders is characterized by the beak \r\nor stylet arising from the posterior part of the head and extending along the insect\u2019s sternum? \r\n \r\nW) Hymenoptera [hy-muh-NOP-ter-uh] \r\nX) Homoptera [hoh-MOHP-tuh-ruh] \r\nY) Coleoptera [koh-lee-OP-ter-uh] \r\nZ) Hemiptera [hi-MIP-ter-uh]", 
+    "tossupA": "X) THE NONTEMPLATE DNA STRAND", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd0"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) GAUSS\u2019S LAW FOR MAGNETISM AND FARADAY\u2019S LAW", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following principles of fluid dynamics does an \r\nairplane use to create an upward force? \r\n \r\nW) Archimedes\u2019 \r\nX) Pascal\u2019s \r\nY) Venturi\u2019s \r\nZ) Bernoulli\u2019s", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  If magnetic monopoles exist, which of the following Maxwell\u2019s \r\nequations would be changed? \r\n \r\nW) Gauss\u2019s law for magnetism only \r\nX) Gauss\u2019s law for magnetism and Ampere\u2019s law \r\nY) Gauss\u2019s law for magnetism and Faraday\u2019s law \r\nZ) Gauss\u2019s law for magnetism, Ampere\u2019s law, and Faraday\u2019s law", 
+    "tossupA": "Z) BERNOULLI\u2019S", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd1"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) IT WOULD CONTAIN WELL ROUNDED GRAINS AND HAVE HIGH QUARTZ \r\nCONTENT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is the rate at which \r\natmospheric gases and particles are moved across a surface? \r\n \r\nW) Vertical dispersion \r\nX) Turbulence \r\nY) Flux \r\nZ) Stratospheric transport", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following is true of sandstone formed \r\nfrom a long-term paleodesert? \r\n \r\nW) It would exhibit clearly graded bedding \r\nX) It would have preserved ripples but not dunes \r\nY) It would appear black due to the dark iron-rich minerals present  \r\nZ) It would contain well rounded grains and have high quartz content", 
+    "tossupA": "Y) FLUX", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd2"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W) CARBON-CARBON DOUBLE BONDS IN ALKENES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following bonds is the longest in length? \r\n \r\nW) Fluorine-fluorine \r\nX) Chlorine-chlorine \r\nY) Bromine-bromine \r\nZ) Iodine-iodine", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Ozonolysis [oh-zuh-NOL-uh-sis] cleaves which of the \r\nfollowing? \r\n \r\nW) Carbon-carbon double bonds in alkenes [AL-keens]  \r\nX) Carbon-carbon bonds in alkanes  \r\nY) Oxygen-oxygen bonds \r\nZ) Bonds between carbon and hydrogen", 
+    "tossupA": "Z) IODINE-IODINE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd3"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "64&sqrt;2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following best represents the conversion of the \r\nrectangular coordinates (3, 4) into polar coordinates? \r\n \r\nW) (5, 37&deg;) \r\nX) (37&deg;, 5) \r\nY) (5, 53&deg;) \r\nZ) (53&deg;, 5)", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Evaluate  [the integral from the square root of 2 \r\nto the 3 times the square root of 2 of the quantity 3 x squared plus 6 dx] in simplest radical \r\nform.", 
+    "tossupA": "Y) (5, 53&deg;)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd4"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) THE SPERM THAT FERTILIZES THE EGG ONLY CONTRIBUTES ITS \r\nCHROMOSOMES AND NONE OF ITS MITOCHONDRIA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What modified base in the anticodon\u2019s wobble position can base \r\npair with uracil [YOOR-uh-sil], cytosine [SY-tuh-seen] or adenine [AD-n-een] in the third \r\nposition of an mRNA codon?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Kearns-Sayre Syndrome is caused by a mutation on a gene in \r\nthe mitochondrial [my-tuh-KON-dree-uhl] DNA. Both males and females can have the disease, \r\nbut the disease can only be transmitted to a child by the mother, never the father. Why is this \r\nso? \r\n \r\nW) The gene is on the X chromosome, and females are XX \r\nX) The sperm that fertilizes the egg contributes only its chromosomes and none of its \r\nmitochondria  \r\nY) The mutant protein is only active in the egg, not the sperm  \r\nZ) The disease is sex-limited", 
+    "tossupA": "INOSINE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd5"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) WITH A MIXTURE OF OXYGEN AND CARBON DIOXIDE INSTEAD OF AIR TO", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Which of the following effects does lowering the temperature have \r\non the decay rate of a sample of radioactive material? \r\n \r\nW) The decay will speed up \r\nX) The decay will slow down \r\nY) There is no change \r\nZ) There is an inverse relationship between temperature and fission", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  FutureGen 2.0 power plants will reduce carbon dioxide production \r\nby burning coal in which of the following ways? \r\n \r\nW) With a mixture of oxygen and carbon dioxide instead of air to produce concentrated carbon \r\ndioxide \r\nX) With an enhanced concentration of oxygen instead of air to produce less carbon dioxide per \r\nton of coal burned \r\nY) In a catalytic chamber that scrubs the carbon dioxide out of the emissions \r\nZ) Using carbon dioxide reduced coal in an 80% nitrogen and 18% oxygen mixture", 
+    "tossupA": "Y) THERE IS NO CHANGE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd6"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Two electromagnetic waves are incident upon a gerbil. They are \r\nidentical and coherent except for a phase difference of 60 degrees. If the intensity of each wave \r\nin isolation is 10 watts per meter squared, what is the intensity of light in watts per square meter \r\nexperienced by the gerbil?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  An ideal gas is enclosed within a container with a movable piston \r\nas the lid. The gas is initially at a pressure of 3 atmospheres and occupies a volume of 2 liters. \r\nThe piston is lowered so that the gas now occupies 1.5 liters at a pressure of P. If the process \r\nwas carried out slowly, maintaining constant temperature in contact with a suitable reservoir, \r\nwhat is P in atmospheres?", 
+    "tossupA": "30", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd7"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) NORTH CAROLINA BARRIER ISLANDS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  The observation that the mean luminosity of more \r\ndistant stars tends to be higher than the mean luminosity of nearby stars in a flux-limited sample \r\nis an example of which of the following kinds of bias?   \r\n \r\nW) Eddington  \r\nX) Selection  \r\nY) Confirmation  \r\nZ) Hindsight", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following features is NOT associated \r\nwith subduction zone geology? \r\n \r\nW) San Joaquin Valley, California \r\nX) Accreted terrains of coastal California \r\nY) North Carolina barrier islands  \r\nZ) Cascade Mountains in Oregon and Washington", 
+    "tossupA": "X) SELECTION", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd8"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3 (ACCEPT: THIRD)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is true for an adiabatic process? \r\n \r\nW) Temperature remains constant \r\nX) Pressure remains constant \r\nY) Net heat transfer to the surroundings is zero  \r\nZ) Work done on the surroundings is zero", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  A reaction between two solutions A and B has a rate constant \r\nk of 1. If A increases from 2.0 molar to 4.0 molar and B is held constant, the reaction rate is \r\ndoubled. If B goes from 2.0 molar to 4.0 molar and A is held constant, the reaction rate is \r\nquadrupled. What is the overall reaction order?", 
+    "tossupA": "Y) NET HEAT TRANSFER TO THE SURROUNDINGS IS ZERO", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbd9"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "FOMITE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  In active meiosis, new genetic combinations can arise in two \r\ndifferent ways. Which of the following is the first stage in which there could be genetic \r\nrecombination? \r\n \r\nW) Anaphase I \r\nX) Anaphase II \r\nY) Prophase I \r\nZ) Prophase II", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the term for an inanimate object that is capable of \r\ntransmitting infectious disease from one individual to another?", 
+    "tossupA": "Y) PROPHASE I", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbda"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) WHEN OCEAN DEPTH FALLS BELOW HALF THE WAVELENGTH OF A WAVE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following classes of stars does NOT \r\nhave radiative zones?   \r\n \r\nW) A  \r\nX) G  \r\nY) M  \r\nZ) O", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  Under which of the following circumstances does \r\nocean depth affect ocean wave motion? \r\n \r\nW) When ocean depth falls below half the wavelength of a wave  \r\nX) When the ocean wave has a period exceeding 20 seconds \r\nY) When the ocean waves are impacted by tides \r\nZ) When the ocean floor has high relief, regardless of the depth", 
+    "tossupA": "Y) M", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbdb"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12/5", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the radius of the circle with equation  \r\nx<sup>2</sup> + 6x + y<sup>2</sup> - 8y - 11= 0?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Providing your answer as an improper fraction in lowest terms, solve \r\nthe following equation for x over the real numbers:  [9 to the power of 2x equals \r\n27 to the power of the quantity 3x minus 4].", 
+    "tossupA": "6", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbdc"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) FLOWERING OCCURS WHEN NIGHT LENGTH IS LESS THAN CRITICAL \r\nLENGTH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  If a single nucleotide is inserted into the middle of the protein \r\ncoding sequence of a gene, which of the following is the likely outcome? \r\n \r\nW) A frameshift mutation that leads to multiple missense and/or nonsense mutations  \r\nX) A single codon will have a missense mutation \r\nY) One codon will have a missense or nonsense mutation, and the another nucleotide [NOO-\r\nklee-uh-tyd] will be deleted  \r\nZ) A frameshift mutation that is silent", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following statements is NOT correct regarding \r\nshort day plants? \r\n \r\nW) Flowering occurs when night length is less than critical length \r\nX) Continuity of darkness is crucial; flowering will not occur if darkness is interrupted by a \r\nmomentary light flash \r\nY) Short day plants are synonymous with long night plants \r\nZ) Photoperiod can be detected via phytochromes", 
+    "tossupA": "W) A FRAMESHIFT MUTATION THAT LEADS TO MULTIPLE MISSENSE AND/OR \r\nNONSENSE MUTATIONS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbdd"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "CENTRIFUGATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  If you heat a container of gas at a higher temperature than its \r\nsurroundings to twice its prior absolute temperature without changing the temperature of its \r\nenvironment, you have done which of the following? \r\n \r\nW) Increased the system's enthalpy and decreased its entropy \r\nX) Increased the system's enthalpy and entropy \r\nY) Decreased the system's enthalpy and entropy \r\nZ) Decreased the system's enthalpy and increased its entropy", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  What is the name of the technique used to enrich gaseous U-235 \r\nafter it has been combined with fluorine?", 
+    "tossupA": "X) INCREASED THE SYSTEM'S ENTHALPY AND ENTROPY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbde"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) IT IS THE SLOPE OF THE STRESS-STRAIN CURVE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  When an object with a volume of 10 cubic meters is completely \r\nsubmerged in water, given that acceleration due to gravity is 9.8 meters per second squared, \r\nwhat is the buoyant force on the object in newtons if the density of water is 1000 kilograms per \r\ncubic meter?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Stress-strain curves show how real materials respond to forces \r\nthat are applied to them. Materials such as steel have a region of elasticity where they \r\napproximate an ideal spring and a region where they start to deform plastically. Where the \r\nmaterials are acting like an ideal spring, how do we find their Young's modulus? \r\n \r\nW) It is the slope of the stress-strain curve \r\nX) It is the integral of the curve in the elastic region \r\nY) It is the y-intercept of the stress-strain curve \r\nZ) It is the second derivative of the curve just after transition into the region of plastic \r\ndeformation", 
+    "tossupA": "98,000", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbdf"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) SBc", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  What is the name for the gravitational equilibrium [ee-\r\nkwuh-LIB-ree-uhm] points in the orbital plane of two bodies?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  A galaxy shows a strong bar and very loosely-wound \r\nspiral arms. Which of the following would most likely be its class?  \r\n \r\nW) S0  \r\nX) SBa  \r\nY) SBc  \r\nZ) Sb", 
+    "tossupA": "LAGRANGIAN POINT (ACCEPT: LAGRANGE POINT)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe0"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "126 (ACCEPT: VALUES FROM 125 TO 126)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  In preparing to perform a flame test on a sample, a high \r\nmolar solution of which of the following chemicals would be best to use to clean your nichrome \r\nwire? \r\n \r\nW) Sodium hydroxide \r\nX) Nitrous acid \r\nY) Hydrochloric acid \r\nZ) Lithium hydroxide", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  To heat 0.5 kilograms of water from 20 degrees Celsius to 80 \r\ndegrees Celsius, providing your answer in kilojoules, how much energy is needed?", 
+    "tossupA": "Y) HYDROCHLORIC ACID", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe1"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "16/3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following values for a and b provide a counterexample \r\nto the statement \u201cIf 4 divides a + b, then 4 divides a or 4 divides b.\u201d \r\n \r\nW) a = 5 and b = 7 \r\nX) a = 5 and b = 6 \r\nY) a = 4 and b = 8 \r\nZ) a = 4 and b = 6", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Providing your answer as an improper fraction in lowest terms, what \r\nis the area under the curve bounded by the x-axis, x = 4 and y = &radic;x ?", 
+    "tossupA": "W) a = 5 AND b = 7", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe2"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) THEY HAVE THE HIGHEST MITOCHONDRIAL DENSITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Name the circulatory adaptation found in the legs of ducks and \r\ngeese that allows them to swim in water that is near freezing and yet not become hypothermic.", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Muscle fibers can be classified as slow, intermediate, or fast. \r\nWhich of the following is NOT true regarding fast muscle fibers? \r\n \r\nW) They are found in higher relative abundance in world class sprinters versus world class \r\nmarathoners \r\nX) They fatigue most rapidly \r\nY) They have the highest mitochondrial density  \r\nZ) The primary pathway for ATP production is fermentation", 
+    "tossupA": "COUNTERCURRENT EXCHANGER (ACCEPT: COUNTERCURRENT HEAT \r\nEXCHANGE, COUNTERCURRENT)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe3"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) LITHIUM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Nanticoke Generating Station, located in southern Ontario, \r\nCanada, is one of the world's largest coal-burning power plants. However, the Canadian \r\nMinistry of Energy announced in 2010 that Nanticoke would convert some of their generators to \r\nuse which of the following types of fuel instead of coal? \r\n \r\nW) Natural gas \r\nX) Uranium-238 \r\nY) Petroleum \r\nZ) Ethanol", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  A liquid metal fast reactor (LMFR) is an advanced type of \r\nnuclear reactor that uses liquid metal as a primary coolant. Of the following metals, which one is \r\nNOT most commonly used as a primary coolant in LMFRs? \r\n \r\nW) Lithium  \r\nX) Mercury \r\nY) Lead \r\nZ) Sodium", 
+    "tossupA": "W) NATURAL GAS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe4"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) P: POSITIVE, Q: NEGATIVE, R: NEUTRAL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What type of antineutrino [an-tee-noo-TREE-noh] is produced in \r\nbeta decay?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  There is an electrostatic force of attraction between any two of \r\nthree metal spheres P, Q, and R. Which of the following is a possible combination for the \r\ncharges on P, Q, and R? \r\n \r\nW) P: positive, Q: negative, R: positive \r\nX) P: positive, Q: negative, R: neutral \r\nY) P: positive, Q: positive, R: positive \r\nZ) P: neutral, Q: positive, R: neutral", 
+    "tossupA": "ELECTRON ANTINEUTRINO", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe5"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) HELIUM FOR NUCLEAR FUSION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Consider the track of the 2005 Hurricane Katrina. \r\nAlabama\u2019s Dauphin Island suffered more extreme damage than other islands exposed to the \r\nstorm. Based on the nature of hurricanes, what quadrant of the storm pounded Dauphin Island? \r\n \r\nW) Northeast \r\nX) Northwest \r\nY) Southwest \r\nZ) Southeast", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  When the lunar surface is bombarded with solar \r\nwind, which of the following resources may be exploited from the Moon's surface?  \r\n \r\nW) Helium for nuclear fusion \r\nX) Iron for steel \r\nY) Sulfur for acids \r\nZ) Silicon for computer technologies", 
+    "tossupA": "W) NORTHEAST", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe6"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  For the molecular orbital diagram of H<sub>2</sub>, in which of the \r\nfollowing locations are the electrons located? \r\n \r\nW) One electron in each hydrogen's 1s atomic orbital \r\nX) Both electrons in the sigma 1s orbital \r\nY) Both electrons in the sigma* [sigma-star] 1s orbital \r\nZ) Both electrons in the pi 1s orbital", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Providing your answer to one significant figure, determine the \r\npH of a 5.0 molar solution of acetic acid, given that acetic acid\u2019s Ka is 2 x 10-5.", 
+    "tossupA": "X) BOTH ELECTRONS IN THE SIGMA 1S ORBITAL", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecdbe7"
+    }, 
+    "questionNum": 27
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "X) DNA PRIMASE: CREATES DNA PRIMER TO START REPLICATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Different cell junctions are used to connect neighboring cells as \r\nneeded for their functions. Which of the following options describes a situation that is utilizing \r\ndesmosomes [DEZ-muh-sohms]? \r\n \r\nW) In developing embryos, ions can travel through a pore connecting the two membranes of \r\nadjacent cells to permit rapid cell communication \r\nX) Muscle cells are joined to form a sturdy sheet  \r\nY) Skin cells are joined to make a barrier impervious to even water \r\nZ) In a plant cell, small solutes in the cytoplasm will travel from cell to cell", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice During DNA replication, which of the following enzymes is \r\nmismatched to its function? \r\n \r\nW) DNA helicase: unwinds DNA strands  \r\nX) DNA primase: creates DNA primer to start replication  \r\nY) DNA polymerase [POL-uh-muh-rays]: joins nucleotides [NOO-klee-uh-tyds] together \r\nZ) Single strand binding protein: prevents parental DNA strands from re-annealing", 
+    "tossupA": "X) MUSCLE CELLS ARE JOINED TO FORM A STURDY SHEET", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd91"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "9.26", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice The following gases are all at standard temperature and \r\npressure. Which of the following gases will have the fastest root mean square speed? \r\n \r\nW) Helium \r\nX) Molecular nitrogen \r\nY) Molecular oxygen \r\nZ) Sulfur dioxide", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer If the pKa of a weak acid is 4.74, what is the pKb of its conjugate \r\nbase?", 
+    "tossupA": "W) HELIUM", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd92"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Z) CONVERGENT AND BOUNDED", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Find the sum of the infinite geometric series with first three terms 1/4, \r\n1/16, and 1/64.", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice The series with nth term (-1)<sup>3</sup>/n is which of the following? \r\n \r\nW) Divergent and unbounded \r\nX) Divergent and bounded from above only  \r\nY) Divergent and bounded \r\nZ) Convergent and bounded", 
+    "tossupA": "1/3", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd93"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "4, 3, 2, 1 (ACCEPT: BIOMASS, ETHANOL, NATURAL GAS, COAL)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Volatile fossil fuels tend to have low carbon to hydrogen ratios. \r\nWhich of the following fossil fuels is the most volatile? \r\n \r\nW) Coal \r\nX) Ethane \r\nY) Methane \r\nZ) Petroleum", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Rank the following four fuels in terms of carbon dioxide intensity, \r\nfrom least to greatest: 1) coal, 2) natural gas, 3) ethanol, 4) biomass.", 
+    "tossupA": "Y) METHANE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd94"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) EAST PACIFIC OCEAN HURRICANE SEASON", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements is NOT true about \r\nthe Gulf of Maine?  \r\n \r\nW) It is highly fertile \r\nX) A gyre [JYUHR] circulates nutrients and pollution through the Gulf \r\nY) It is among the deepest gulfs in the world \r\nZ) It is sub-arctic, but has a wide range in water temperature", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following natural phenomena are \r\nassociated with a patterned seasonal occurrence that ranges from May 15 to November 30?  \r\n \r\nW) East Pacific Ocean hurricane season \r\nX) Continental U.S. tornado season \r\nY) North Indian Ocean typhoon season \r\nZ) American Southwest monsoon season", 
+    "tossupA": "Y) IT IS AMONG THE DEEPEST GULFS IN THE WORLD", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd95"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "AMMONIUM CHLORIDE (ACCEPT: FLUORIDE, BROMIDE, OR IODIDE IN PLACE \r\nOF CHLORIDE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following is NOT a step in balancing a redox \r\nreaction in an acidic solution? \r\n \r\nW) Write the unbalanced net ionic equation \r\nX) Determine which atoms are oxidized and which atoms are reduced \r\nY) Balance each half-reaction for O by adding hydroxide (OH-) to the side with less oxygen \r\nZ) Balance each half-reaction for H by adding H+ to the side with less H", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer When a certain powder is mixed into a solution of silver nitrate, a \r\nwhite precipitate forms. When the powder is added to a solution of sodium hydroxide, bubbles \r\nform, which produce a noxious odor. These bubbles, when bubbled into a solution of nickel (II) \r\nhydroxide, produce a drastic color change from green to dark blue. What is the identity of this \r\npowder?", 
+    "tossupA": "Y) BALANCE EACH HALF-REACTION FOR O BY ADDING HYDROXIDE (OH-) TO \r\nTHE SIDE WITH LESS OXYGEN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd96"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CELL WALL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following is NOT an example of substrate-level \r\nphosphorylation [FOS-for-uh-lay-shuhn] in cellular respiration?  \r\n \r\nW) ATP synthase phosphorylates [FOS-for-uh-layts] ADP during chemiosmosis [ke-mee-uh-\r\nSMOH-sis] \r\nX) GDP is phosphorylated [fos-fer-uh-LAY-ted] as succinyl [SUHK-suh-nil] and CoA is \r\nconverted to succinate [SUHK-suh-nayt] \r\nY) Phosphofructokinase phosphorylates ADP \r\nZ) Pyruvate [py-ROO-vayt] kinase phosphorylates ADP", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer Beta-lactams, the class of antibiotics to which penicillin belongs, \r\ninterfere with bacterial synthesis of what cellular structure in bacteria?", 
+    "tossupA": "W) ATP SYNTHASE PHOSPHORYLATES ADP DURING CHEMIOSMOSIS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd97"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) THE EXACT RELATIONSHIP CANNOT BE DETERMINED WITHOUT KNOWING \r\nTHE HEIGHT OF THE CLIFF", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice Two cars of unequal mass crash and stick together in a head on \r\ncollision. Which of the following statements is true?  \r\n \r\nW) The car with the larger mass experiences the larger magnitude impulse \r\nX) The car with the smaller mass experiences the larger magnitude impulse \r\nY) Both cars experience the same magnitude impulse in the same direction \r\nZ) Both cars experience the same magnitude impulse in opposite directions", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice Two balls are thrown perfectly horizontally off a cliff on Mars, \r\nwhere the acceleration due to gravity is 3.7 meters per second squared. If ball 1 lands 30 \r\nmeters further than ball 2, which of the following statements is correct about their initial \r\nvelocities? \r\n \r\nW) The velocity of ball 1 is 30 meters per second greater than the velocity of ball 2 \r\nX) The velocity of ball 2 is 30 meters per second greater than the velocity of ball 1 \r\nY) The velocity of ball 1 is 30 times larger than the velocity of ball 2 \r\nZ) The exact relationship cannot be determined without knowing the height of the cliff", 
+    "tossupA": "Z) BOTH CARS EXPERIENCE THE SAME MAGNITUDE IMPULSE IN OPPOSITE \r\nDIRECTIONS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd98"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "STEFAN-BOLTZMANN  (ACCEPT: STEFAN\u2019S LAW)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements is NOT true about \r\nupwelling? \r\n \r\nW) It is associated with good fishing \r\nX) Water that rises to the surface as a result of upwelling is typically colder and richer in \r\nnutrients \r\nY) It is caused when offshore wind causes surface water to build up along a coastline \r\nZ) It occurs in the open ocean and along coastlines", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What law mathematically expresses the amount of \r\nradiation emitted by a blackbody at a given temperature?", 
+    "tossupA": "Y) IT IS CAUSED WHEN OFFSHORE WIND CAUSES SURFACE WATER TO \r\nBUILD UP ALONG A COASTLINE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd9b"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following is NOT a property of all amino acids? \r\n \r\nW) They contain both carboxylic [kahr-bok-SIL-ik] acid and amine [uh-MEEN] functional \r\ngroups \r\nX) They are chiral [KY-ruhl] \r\nY) They are considered organic molecules \r\nZ) They are generally referred to by their common name", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer What is the pH of a 0.001 molar solution of hydrochloric acid?", 
+    "tossupA": "X) THEY ARE CHIRAL", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd9c"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) 6.7", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice An Atwood\u2019s machine is built with a massless and frictionless \r\npulley with a mass of 1 kilogram on one side and a mass of 4 kilograms on the other side. \r\nAssuming that the acceleration due to gravity is 10 meters per second squared, which is the \r\nspeed of the masses in meters per second three seconds after being released?  \r\n  \r\nW) 5 \r\nX) 6  \r\nY) 15 \r\nZ) 18", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice You sit on a pier and look straight down into the pond below. The \r\napparent depth of the pond from the surface of the water is 5.0 meters. Given that the refractive \r\nindexes of air and water are 1.0 and 1.3, respectively, what is the real depth of the pond in \r\nmeters? \r\n \r\nW) 0.3 \r\nX) 3.8 \r\nY) 5.0 \r\nZ) 6.7", 
+    "tossupA": "Z) 18", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd9e"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) LATITUDE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Acid rain is unusually acidic precipitation containing elevated \r\nlevels of hydrogen ions. Which of the following emissions is NOT an emission from a power \r\nplant that would contribute to acid rain? \r\n \r\nW) Carbon dioxide \r\nX) Hydroxide \r\nY) Nitrogen oxide \r\nZ) Sulfur dioxide", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following does NOT increase line losses from so-\r\ncalled \"corona\" effects? \r\n \r\nW) Voltage \r\nX) Elevation \r\nY) Precipitation  \r\nZ) Latitude", 
+    "tossupA": "X) HYDROXIDE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda0"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Z) 3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following best explains the difference between \r\nreal gases and ideal gases? \r\n \r\nW) At low pressure, intermolecular attractions become significant \r\nX) At high pressure, intermolecular attractions become significant \r\nY) As pressure decreases, the volume of the gas itself also decreases \r\nZ) As pressure increases, the volume of the gas itself also increases", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice For a d orbital, which of the following is NOT an allowed value \r\nfor the magnetic quantum number ml? \r\n \r\nW) -1 \r\nX) 0 \r\nY) 2 \r\nZ) 3", 
+    "tossupA": "X) AT HIGH PRESSURE, INTERMOLECULAR ATTRACTIONS BECOME \r\nSIGNIFICANT", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda2"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) 1.5 \u00d7 10-6 NANOSECONDS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer Providing your answer in scientific notation with one significant \r\ndigit, what is the value of 1 erg in joules?", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice A light wave travels a distance of 3 \u00d7 10-7 meters in a medium of \r\nrefractive index n \u2248 1.5. How much time does this trip take? \r\n \r\nW) 1.5 \u00d7 10-6 nanoseconds \r\nX) 4.5 \u00d7 10-6 nanoseconds  \r\nY) 1.5 \u00d7 10-6 seconds \r\nZ) 4.5 \u00d7 10-6 seconds", 
+    "tossupA": "1 X 10-7", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda4"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(\u221a6\u2212\u221a2)/4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice A hypersphere is described by a set of points such that w2 + x<sup>2</sup> + y<sup>2</sup> + \r\nz<sup>2</sup> = 36. Which of the following statements is NOT true? \r\n \r\nW) (1, 2, 3, 1) lies inside the hypersphere \r\nX) (1, 5, 5, 1) lies outside the hypersphere \r\nY) (3, 3, 3, 3) lies on the hypersphere \r\nZ) (1, 2, 5, 1) lies outside the hypersphere", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate sin 15\u00b0.", 
+    "tossupA": "Z) (1, 2, 5, 1) LIES OUTSIDE THE HYPERSPHERE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda5"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) IT IS OVER 4.2 KILOMETERS THICK IN SOME AREAS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is the most abundant sediment \r\nin the oceans? \r\n \r\nW) Hydrogenous [hy-DROJ-uh-nuhs] \r\nX) Terrigenous  \r\nY) Biogenous  \r\nZ) Cosmogenous", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is true about the Antarctic ice \r\nsheet?  \r\n \r\nW) It covers all land features in Antarctica \r\nX) It is over 4.2 kilometers thick in some areas \r\nY) It is approximately 10 times as large in area as the Greenland ice sheet \r\nZ) It is nearly as large as the contiguous U.S.", 
+    "tossupA": "X) TERRIGENOUS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda6"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X) -100", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice What is the hybridization of the central oxygen atom in water? \r\n \r\nW) sp \r\nX) sp2 \r\nY) sp3 \r\nZ) sp3d", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice A system consists of two gases inside a piston. The two gases \r\nreact to form a solid product. During the reaction, 150 joules of heat are released and the \r\nsurroundings do 50 joules of work on the system. What is the change in internal energy in joules \r\nof the system? \r\n \r\nW) -200  \r\nX) -100 \r\nY) +100  \r\nZ) +200", 
+    "tossupA": "Y) sp3", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda7"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X-LINKED RECESSIVE (ACCEPT: SEX-LINKED RECESSIVE; DO NOT ACCEPT \r\nALONE: X-LINKED, RECESSIVE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Short Answer The extracellular matrix protein, collagen, is composed of \r\nintertwined helices. How many protein helices come together to form collagen?", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer Hemophilia A and Duchenne [duh-SHAYN] muscular dystrophy \r\nare examples of inherited genetic disorders that show which specific pattern of inheritance?", 
+    "tossupA": "3", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda8"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) THE SPHERICAL SHAPE AND/OR FLAT SURFACE MUST NOT BE IDEAL AND \r\nTHE SPHERE WILL STOP WHERE A DEFECT MAKES THAT LOCATION A MINIMUM \r\nPOTENTIAL ENERGY POSITION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice If a light ray passes from air (n = 1.00) to acetone (n = 1.36), \r\nwhat is the critical angle? \r\n \r\nW) 47\u00b0 \r\nX) 67\u00b0 \r\nY) 87\u00b0 \r\nZ) There is no total internal reflection", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice In a science lab, a sphere rolls on a horizontal flat surface until it \r\neventually comes to rest, but not as a result of a frictional force. Which of the following is the \r\nbest explanation of why the sphere comes to rest? \r\n \r\nW) The spherical shape and/or flat surface must not be ideal and the sphere will stop where a \r\ndefect makes that location a minimum potential-energy position \r\nX) Some other force, like fluid friction, must be acting on the sphere \r\nY) Angular momentum between the rolling sphere and the spinning Earth must be conserved \r\nZ) The force of gravity must not be constant even though the surface is flat", 
+    "tossupA": "Z) THERE IS NO TOTAL INTERNAL REFLECTION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda9"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) -1/2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer What is the area of a rhombus with diagonals of lengths 6 and 8?", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice A curve is given by the equation: x<sup>3</sup> + 3y<sup>2</sup> = 4. What is the slope of the \r\ntangent line at the point with coordinates (1, 1)? \r\n \r\nW) -2 \r\nX) -1/2 \r\nY) 1/2 \r\nZ) 2", 
+    "tossupA": "24", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd99"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "DISTANCE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Short Answer In which direction do protons drag water in a polymer electrolyte \r\nmembrane fuel cell?", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer The three ways to protect yourself from radiation are time, \r\nshielding, and what?", 
+    "tossupA": "ANODE TO CATHODE (ACCEPT: NEGATIVE ELECTRODE TO POSITIVE \r\nELECTRODE)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd9a"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "6", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice If you are doing a western blot, what kind of macromolecule are \r\nyou trying to detect?  \r\n \r\nW) DNA \r\nX) RNA  \r\nY) Protein \r\nZ) Carbohydrate", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer In adult humans, how many bones articulate with the occipital \r\nbone?", 
+    "tossupA": "Y) PROTEIN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd9d"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer A point rotates around a circle at the rate of 40\u00b0 per second. Convert \r\nthis to revolutions per minute.", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Given: x<sup>2</sup> + y<sup>2</sup> = 34 in the first quadrant and dx/dt = 5, find dy/dt when x = 3.", 
+    "tossupA": "20/3  (ACCEPT: 6 2/3)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd9f"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "EARTH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Pangaea [pan-JEE-uh] formed by the end of what \r\ngeologic period?  \r\n \r\nW) Paleocene [pay-lee-uh-SEEN] \r\nX) Paleozoic \r\nY) Permian \r\nZ) Pennsylvanian", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Which of the terrestrial planets in our solar system has \r\nthe strongest magnetic field?", 
+    "tossupA": "Y) PERMIAN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda1"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) DNA BINDING", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following is an example of catabolism in the cell?  \r\n \r\nW) Energy is extracted from the fat in avocado \r\nX) New DNA is synthesized  \r\nY) Glutamic acid is made from alpha-ketoglutarate [kee-toh-GLOO-tay-rayt] in the citric acid \r\ncycle \r\nZ) Dihydroxyacetone [dy-hy-drok-see-AS-uh-tohn] phosphate from glycolysis [gly-KOL-uh-\r\nsis] is converted to a precursor for lipid synthesis", 
+    "packetNum": 11, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice The helix-turn-helix motif is characteristic of a large group of \r\nproteins. Which of the following is a common function of the helix-turn-helix motif?  \r\n \r\nW) Insertion into the cell membrane \r\nX) Lipid hydrolysis [hy-DROL-uh-sis] \r\nY) DNA binding \r\nZ) Glycosidic bond formation [gly-kuh-SY-dik]", 
+    "tossupA": "W) ENERGY IS EXTRACTED FROM THE FAT IN AVOCADO", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdda3"
+    }, 
+    "questionNum": 19
+  }
+]

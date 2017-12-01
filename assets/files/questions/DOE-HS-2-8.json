@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "W)  DEFLECTION OF A COMPASS NEEDLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Neglecting friction, what is the acceleration, in meters per second \r\nsquared, when a force of 144 Newtons is applied to a 12 kilogram object:", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice   When Johann Schweigger invented the first galvanometer, what did \r\nhe recognize could be used to measure current: \r\n \r\nW)  deflection of a compass needle  \r\nX)  movement of iron particles in a magnetic field \r\nY)  movement  of electrons through a potential \r\nZ)  a magneto", 
+    "tossupA": "12  \r\n \r\n(Solution:  A = F/M;  A = 144/12; A = 12 m/sec2)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e0"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "PARA AND ORTHO", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following has the highest specific heat value: \r\n \r\nW)  wood \r\nX)  ice water \r\nY)  sand \r\nZ)  gold", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Normal hydrogen at room temperature contains what two forms of \r\nhydrogen, as defined by the spins of their electrons and nuclei?", 
+    "tossupA": "X)  ICE WATER \r\n \r\n(Solution:  wood = 0.42 Cal/g\u00b0C;  ice water = 0.5;  sand = 0.19;  gold = 0.031)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e1"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z)  XYLULOSE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  When the color of an organism alerts predators to stay away it is \r\ntechnically referred to as: \r\n \r\nW)  aposematic coloration \r\nX)  homological coloration \r\nY)  analogous coloration \r\nZ)  camouflage coloration", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT a hexose: \r\n \r\nW)  mannose  \r\nX)  glucose \r\nY)  fructose \r\nZ)  xylulose  (pronounced:  zyle-YOU-lows)", 
+    "tossupA": "W)  APOSEMATIC COLORATION", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e2"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "RIGHT ASCENSION  (ACCEPT:  ASCENSION)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  A first quarter Moon will cross the meridian at what time of \r\nthe day or night: \r\n \r\nW)  midnight \r\nX)  sunrise \r\nY)  sunset \r\nZ)  noon", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the most common astronomical term for the angle \r\nanalogous to geographical longitude?", 
+    "tossupA": "W)  MIDNIGHT", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e3"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  SUBTROPICAL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  The salts and ions derived from the chemical weathering of \r\nrocks are carried by a stream are part of its: \r\n \r\nW)  bed load \r\nX)  suspended load \r\nY)  dissolved load \r\nZ)  salt load", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  The Sahara desert in Africa is an example of what type of \r\ndesert: \r\n \r\nW)  subtropical \r\nX)  continental \r\nY)  rainshadow \r\nZ)  coastal", 
+    "tossupA": "Y)  DISSOLVED LOAD", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e5"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y)  PINEAPPLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Electric appliances and tools are grounded to: \r\n \r\nW)  complete the electrical circuit \r\nX)  balance the voltage in both lines \r\nY)  prevent the overloading of circuits \r\nZ)  prevent surface static charge buildup", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is an example of a multiple \r\nfruit: \r\n \r\nW)  apple \r\nX)  sour cherry \r\nY)  pineapple \r\nZ)  pear", 
+    "tossupA": "Z)  PREVENT SURFACE STATIC CHARGE BUILDUP", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e6"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "FIREWIRE  (ACCEPT:  IEEE 1394, I-LINK, AND LYNX)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Multiple Choice  An email sent over the internet most likely uses what \r\nprotocol: \r\n \r\nW)  HTTP \r\nX)  FTP \r\nY)  SMTP \r\nZ)  HMTTP", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Short Answer  What is the name for the high-speed serial bus \r\ndeveloped by Apple and Texas Instruments that allows for the connection of multiple devices, \r\nsupports hot-swapping, and transfers data at rates of up to 400 million bytes per second:", 
+    "tossupA": "Y)  SMTP", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e7"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) 550-600 NANOMETERS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  What branch of mechanics customarily deals with force and why \r\nobjects move as they do: \r\n \r\nW)  kinematics \r\nX)  dynamics \r\nY)  statics \r\nZ)  mechanics", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Yellow light has a wavelength of approximately:  \r\n \r\nW)  300-350 nanometers \r\nX)   450-500 nanometers \r\nY)  550-600 nanometers \r\nZ)  650-700 nanometers", 
+    "tossupA": "X)  DYNAMICS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e8"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  THE SUN'S APPARENT PATH ACROSS THE CELESTIAL SPHERE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Because of precession, the celestial pole traces out a complete \r\ncircle on the sky about every: \r\n \r\nW)  26,000 years \r\nX)  12,000 years \r\nY)  6,000 years \r\nZ)  600 years", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice The ecliptic is: \r\n \r\nW)  the line that divides the sky into the northern half and the southern half \r\nX)  the Sun's apparent path across the celestial sphere \r\nY)  the point directly overhead \r\nZ)  the line on the celestial sphere directly above the celestial equator", 
+    "tossupA": "W)  26,000 YEARS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4eb"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "240", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If the universal set is represented by the numbers 1, 2, 3, 4, 5, 6, 7, and \r\nset A is represented by the numbers 1, 2, 3;  set B by the numbers 3, 4, 5, 6;  and set C by the \r\nnumbers 2, 3, 4, then what set is represented by the union of sets A and B?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  In the US Senate, Senator Bill received four-sixths of the votes, Senator \r\nGeorge received two- tenths of the votes, and Senator Mary received the remaining votes.  If 48 \r\nvotes were cast for Senator Mary, how many votes did Senator Bill receive?", 
+    "tossupA": "1, 2, 3, 4, 5, 6", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ec"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MAGMA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following make up approximately 80% of \r\nall magma erupted by volcanoes on Earth: \r\n \r\nW)  andesitic \r\nX)   rhyolitic \r\nY)  basaltic \r\nZ)  andesitic and rhyolitic", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  A mixture of molten rock, suspended mineral grains, and \r\ndissolved gasses that forms in the crust or mantle when temperatures are sufficiently high, is a \r\ndefinition of what?", 
+    "tossupA": "Y)  BASALTIC \r\n \r\n(Solution: andesitic and rhyolitic 10% each)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ed"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "SILVER AND TIN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is an example of a modular \r\norganism that grows by producing additional units of body construction that are very similar to the \r\nunits of which it is already composed: \r\n \r\nW)  sea sponge \r\nX)  cockroach \r\nY)  spider \r\nZ)  turtle", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  A widely used dental amalgam is formed by reacting \r\nmetallic mercury with an alloy consisting primarily of which 2 metals?", 
+    "tossupA": "W)  SEA SPONGE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ee"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "3.2  \r\n \r\n(Solution:  wavelength = 2L;  = (2)(1.6) = 3.2 meters)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What scientist was the first to propose that in the absence of air \r\nresistance, all objects fall with the same constant acceleration?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  If a piano string is 1.6 meters long and has a fundamental frequency \r\nof 320 Hertz, what is the wavelength, in meters, of the fundamental?", 
+    "tossupA": "GALILEO", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f0"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "DIAMAGNETIC", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is considered a nonpolar molecule: \r\n \r\nW)  H<sub>2</sub>S  \r\nX)  NH<sub>3</sub> \r\nY)  NO<sub>2</sub> \r\nZ)  BeH<sub>2</sub>", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What general term describes a substance whose electrons are all \r\nspin-paired and that are weakly repelled by magnetic fields?", 
+    "tossupA": "Z)  BeH<sub>2</sub>", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f1"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "NEUROSPORA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the name for the group of muscles that stabilize the shoulder \r\njoint by holding the head of the humerus in its socket?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer   The \u201cone gene one enzyme\u201d rule proposed by Beadle and Tatum \r\nwas mostly based upon their work with what genus of organisms?", 
+    "tossupA": "ROTATOR CUFF", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f2"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  FOLDED TERRAINS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice  Which of the following types of plutons is a cylindrical \r\nconduit of igneous rock below a volcanic vent: \r\n \r\nW)  laccolith \r\nX)  dike \r\nY)  volcanic stock \r\nZ)  volcanic pipe", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Trellis drainage patterns are most likely to form on: \r\n \r\nW)  coastal plains \r\nX)  folded terrains \r\nY)  glacial outwash \r\nZ)  permafrost", 
+    "tossupA": "Z)  VOLCANIC PIPE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f4"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W)  THE SOFTER ITS CORE AND THE LESS THE OUTER HARDNESS \r\nPENETRATES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  What contemporary of Autolycus wrote a set of thirteen \r\nbooks titled \u201cElements\u201d, which remains among the most studied works in human thought and was a \r\nculmination of classical geometry?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  In the tempering of steel, the slower the hot steel cools \r\nin the quenching process: \r\n \r\nW)  the softer its core and the less the outer hardness penetrates \r\nX)  the softer its core and the more the outer hardness penetrates \r\nY)  the harder its core and the less the outer hardness penetrates \r\nZ)  the harder its core and the more the outer hardness penetrates", 
+    "tossupA": "EUCLID", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f5"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X)  500 TIMES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following explains why a sailboat can sail into the \r\nwind: \r\n \r\nW)  Archimedes' Principle \r\nX)  Bernoulli's Law \r\nY)  Pascal's Law \r\nZ)  Reynolds' Numbers", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  If the resolution of the human eye is about 0.1 millimeter and the \r\nresolution of a light microscope is about 2,000 angstroms, what is the approximate useful \r\nmagnification of a human eye combined with a light microscope: \r\n \r\nW)  250 times \r\nX)  500 times \r\nY)  1,000 times \r\nZ)  2,000 times", 
+    "tossupA": "X)  BERNOULLI'S LAW", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f6"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W)  COMMON CRABGRASS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  In bacterial transference of genes, what is the term for when naked \r\nDNA enters the cell from the surroundings:", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is the type of plant leaf that lacks a \r\npalisade and spongy mesophyll: \r\n \r\nW)  common crabgrass \r\nX)  dandelion \r\nY)  apple tree \r\nZ)  lotus plant", 
+    "tossupA": "TRANSDUCTION", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f8"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(x \u2013 2)(x + 2)(x<sup>2</sup> + 4)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the equation of a line that has a slope of 4 and a y-intercept of 5?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Factor the following expression as completely as possible:  x<sup>4</sup> \u2013 16", 
+    "tossupA": "y = 4x + 5", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e4"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  In which of the following pairs are both elements classified as \r\nsemimetals: \r\n \r\nW)  tellurium and tin \r\nX)  selenium and bromine \r\nY)  scandium and silicon \r\nZ)  arsenic and germanium", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer  The f subshell is associated with what L quantum number?", 
+    "tossupA": "Z)  ARSENIC AND GERMANIUM", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4e9"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CONDENSER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the predominant immunoglobulin class found in human \r\nsaliva?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the common name for the part of a compound light \r\nmicroscope that functions to converge a light source so that it passes through the specimen:", 
+    "tossupA": "IgA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ea"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "W)  BITMAP FONTS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Multiple Choice  Which of the following is TRUE about resolution: \r\n \r\nW)  printed images resolve with dots per inch and displayed images resolve with pixels \r\nX)  printed images resolve with dots per inch and displayed images resolve with dots per inch \r\nY)  printed images resolve with pixels and displayed images resolve with dots per inch \r\nZ)  printed images resolve with pixels and displayed images resolve with pixels", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Multiple Choice  Fonts that are digital representations of fonts that are \r\nnot scalable are called: \r\n \r\nW)  bitmap fonts \r\nX)  outline fonts \r\nY)  TrueType fonts \r\nZ)  vector fonts", 
+    "tossupA": "W)  PRINTED IMAGES RESOLVE WITH DOTS PER INCH AND DISPLAYED \r\nIMAGES RESOLVE WITH PIXELS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ef"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "&radic;(x+1)  (ACCEPT:  &radic;(1+x))", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  An arc of length 2\u03c0 is cut off by a central angle of \u03c04  radians.  What is \r\nthe radius of the circle?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Simplify the following equation:  &radic;(9x-9) - &radic;(4x+4)", 
+    "tossupA": "8 \r\n \r\n(Solution:  r = S/\u03b1;  = 2\u03c0 / (\u03c0/4);  = 8)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f3"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "IDEAL GAS LAW", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Liver enzymes oxidize ethanol to: \r\n \r\nW)  methanol \r\nX)  formaldehyde \r\nY)  oxalic acid \r\nZ)  acetaldehyde", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Which of the gas laws describes how the volume of a gas is \r\naffected by changes in pressure, temperature, and amount?", 
+    "tossupA": "Z)  ACETALDEHYDE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4f7"
+    }, 
+    "questionNum": 24
+  }
+]

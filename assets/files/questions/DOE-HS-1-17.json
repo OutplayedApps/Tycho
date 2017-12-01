@@ -1,0 +1,427 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "SIGMA  14;  PI = 1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  L-alanine and D-alanine are BEST classified as what type of \r\nisomers: \r\n \r\nW)  cis \r\nX)  trans \r\nY)  structural \r\nZ)  optical", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  How many sigma and pi bonds, respectively, are there in a  \r\nmolecule with the following formula: [read slowly] CH<sub>3</sub>CHCHCH<sub>2</sub>CH<sub>3</sub>", 
+    "tossupA": "Z)  OPTICAL", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c2"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z)  REMOVING INTRONS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following BEST explains how cyclic AMP can cause \r\nso many different intracellular responses in a mammalian cell: \r\n \r\nW)  it is produced in large quantities \r\nX)  it migrates to the DNA where it binds to a variety of histones \r\nY)  it activates a wide variety of specific protein kinases \r\nZ)  it prevents the activation of other hormonal signals", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following BEST describes the function of a \r\nspliceosome (read as: SPLY-see-oh-zome):  \r\n \r\nW)  splicing DNA together during replication \r\nX)  splicing out mutations \r\nY)  joining multiple copies of structural genes \r\nZ)  removing introns", 
+    "tossupA": "Y)  IT ACTIVATES A WIDE VARIETY OF SPECIFIC PROTEIN KINASES", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c3"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X)  THE PROXIMITY TO PRODUCTION FACILITIES FOR SHORT-LIVED \r\nRADIOISOTOPES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following BEST explains how a radium isotope with a \r\nhalf-life of about 1,600 years can be found in the crust of the Earth that was formed millions of years \r\nago: \r\n \r\nW)  its decay is slowed by the pressure of the Earth \r\nX)  the radium is replenished by decay of longer lived radioactive elements \r\nY)  the radium was replenished by meteors and asteroids over the millennia  \r\nZ)  the radium is recycled from the Earth\u2019s core where magnetic fields slow the decay", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following is probably the most significant limitation \r\nfor PET scans being used in remote rural hospital sites: \r\n \r\nW)  lack of properly trained personnel \r\nX)  the proximity to production facilities for short-lived radioisotopes \r\nY)  the high level of radiation requiring special training and increased radiation risk \r\nZ)  difficulty in PET radiotracers binding to receptors when imaging certain human tissues", 
+    "tossupA": "X)  THE RADIUM IS REPLENISHED BY DECAY OF LONGER LIVED \r\nRADIOACTIVE ELEMENTS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c4"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Row 1: 2/41, 5/41. Row 2: 7/41, -3/41.", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following is TRUE about any two successive terms in the \r\nFibonacci sequence: \r\n \r\nW)  their product is a Fibonacci number \r\nX)  they are either both odd or both even \r\nY)  they are relatively prime \r\nZ)  their quotient is the golden ratio", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the inverse of the 2-by-2 matrix whose rows are 3, 5 and 7, \u20132.  Give \r\nyour answer in rows.", 
+    "tossupA": "Y)  THEY ARE RELATIVELY PRIME", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c5"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y)  ALUMINUM TOXICITY TO THEIR ROOTS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Most terrestrial plants grow best in soil with a pH range of: \r\n \r\nW)  4.5 to 5.5 \r\nX)  6.0 to 7.0 \r\nY)  7.0 to 8.0 \r\nZ)  7.5 to 8.5", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is a problem that affects most \r\nplants growing in very acidic soil: \r\n \r\nW)  iron deficiency \r\nX)  accumulation of excess salt in their foliage \r\nY)  aluminum toxicity to their roots \r\nZ)  excess calcium and magnesium ion uptake", 
+    "tossupA": "X)  6.0 TO 7.0", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c6"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "TUESDAY;  12:47 AM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following best illustrates a limitation of a \r\nsupercapacitor, or electric double-layer capacitor, versus an electrochemical battery: \r\n \r\nW)  virtually unlimited cycle life \r\nX)  rapid recharging \r\nY)  low impedance \r\nZ)  high self-discharge rate", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  If it is 7:47 AM, Tuesday September 23rd  in  Beijing \r\nChina at 116\u00ba east longitude, what day and time, respectively, would it be in London, England?", 
+    "tossupA": "Z)  HIGH SELF-DISCHARGE RATE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c7"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  IN GLOBULAR CLUSTERS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following would astronomers most likely \r\nconsider emission nebula: \r\n \r\nW)  Population III (read as: 3) regions \r\nX)  Population II (read as: 2) regions \r\nY)  glowing H II (read as: H, 2) regions \r\nZ)  active regions", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  In which of the following locations would there typically be \r\nmore Population Two stars than Population One stars: \r\n \r\nW)  in globular clusters \r\nX)  in spiral arms of galaxies  \r\nY)  in planetary nebula  \r\nZ)  in regions actively forming stars", 
+    "tossupA": "Y)  GLOWING H II REGIONS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c8"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "100 \r\n(Solution: \u0394Tf = 5.5\u00ba \u2013 4.5\u00ba = 1.0\u00baC;  m = \u0394Tf/ Kf = 1.0\u00ba/5.0\u00ba = 0.2m or 0.2mol/kg;   \r\n(1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following are the units of the rate constant for a  \r\n2nd order reaction given that concentration is measured in molarity and time in seconds: \r\n \r\nW)  M\u20132s\u20131 \r\nX)  M\u20131s\u20131 \r\nY)  Ms\u20131 \r\nZ)  M\u20132minutes\u20131", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  1.0 gram of an unknown organic molecule is dissolved in 50.0 \r\ngrams of benzene.   Determine the molecular mass of the unknown if this solution freezes at 4.5\u00baC.  \r\nAssume the freezing point constant of benzene is 5.0\u00baC per molal, and the freezing point of benzene \r\nis 5.5\u00baC.  Give your answer to the nearest whole number in grams per mole.", 
+    "tossupA": "X)  M\u20131s\u20131 \r\n(Solution: units relationship is M1\u2013order \u00d7 time\u20131)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9c9"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y)  AN OMEGA 3 FATTY ACID", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is the target tissue of the hormone leptin \r\nwhere it binds with LepRB (read as: L, E, P, R, B) receptors: \r\n \r\nW)  hypothalamus  \r\nX)  pancreas \r\nY)  adipose tissue \r\nZ)  kidney", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following types of fatty acids would alpha linolenic or \r\nall cis-9,12,15-Octadecatrienoic (read as: octa-deca-tri-en-oh-ick) acid most commonly be classified: \r\n \r\nW)  an alpha 9 fatty acid \r\nX)  an alpha 9,12,15 fatty acid \r\nY)  an omega 3 fatty acid \r\nZ)  an omega 6 fatty acid", 
+    "tossupA": "W)  HYPOTHALAMUS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9ca"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "TEVATRON   (ACCEPT:  FERMILAB ACCELERATOR)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Name all of the following 3 sub-atomic particles that interact with all \r\n4 of the fundamental forces:  electron;  quarks;  neutrino", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Until the Large Hadron Collider came on-line at CERN, what \r\naccelerator was generally believed to be the only one energetic enough to produce top quarks?", 
+    "tossupA": "QUARKS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9cb"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(2, 8)   \r\n \r\n(Solution: simplifies to 2(x + 2); graph looks like a line except at the indicated hole)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following is the equation for the tangent line for y = x<sup>4</sup> at \r\nthe point (1, 1): \r\n \r\nW)  y = 4x \u2013 3  \r\nX)  y = 4x \u2013 1  \r\nY)  y = 4x + 1  \r\nZ)  y = 4x + 3", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What are the coordinates of the hole in the graph of the function, \r\ng(x) = (2x<sup>2</sup> - 8)/(x-2)?", 
+    "tossupA": "W)  y = 4x \u2013 3 \r\n \r\n(Solution: using the derivative, y\u2019 = 4x<sup>3</sup>, the slope of the tangent line at x = 1 is 4.  The line must pass \r\nthrough (1, 1) so y \u2013 1 = 4(x \u2013 1))", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9cc"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ANDESITIC  (ACCEPT:  ANDESITE) \r\n \r\n(Solution: 3 basic types: basaltic, andesitic, rhyolitic)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  According to the discontinuous side of Bowen\u2019s reaction \r\nseries, which of the following is likely to first crystallize as basaltic magma cools: \r\n \r\nW)  quartz \r\nX)  olivine \r\nY)  pyroxene \r\nZ)  hornblende", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  Of the 3 basic types of magma on Earth, which one generally \r\nhas a chemical composition intermediate in iron, magnesium, and calcium?", 
+    "tossupA": "X)  OLIVINE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9cd"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  OXIDATIVE METABOLISM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following age groups would have the \r\nmost brown fat per kilogram of body weight: \r\n \r\nW)  infant \r\nX)  adolescent \r\nY)  middle age \r\nZ)  elderly", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following physiological processes \r\ngenerates most of the heat needed to keep an infant warm: \r\n \r\nW)  digestion of food in the gut \r\nX)  oxidative metabolism \r\nY)  inspiration of air \r\nZ)  bacterial activity in the gut", 
+    "tossupA": "W)  INFANT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9ce"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "500X  (ACCEPT:  500 or 500 TIMES) \r\n \r\n(Solution:  M = Fo \u00f7 Fe = 250/0.50 = 500)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What element makes up the innermost core of a type II (read as: \r\ntype 2) supernova just before core collapse?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the magnification of a telescope with an objective lens \r\nthat has a focal length of 250 centimeters and an eyepiece with a focal length of 0.50 centimeters?", 
+    "tossupA": "IRON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9cf"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2H<sub>2</sub>O(liquid) \uf0e0 O<sub>2</sub>(gas) + 4H+(aqueous) + 4e\u2013", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Consider the following equilibrium reaction,  \r\nFeO(solid) + CO(gas) \u2194  Fe(solid) + CO<sub>2</sub>(gas), where \u2206H (read as: delta H) equals \u201310 kilojoules.  Which \r\nof the following would have a similar effect on the equilibrium position as lowering the temperature:  \r\n \r\nW)  adding iron \r\nX)  increasing pressure \r\nY)  removing carbon dioxide \r\nZ)  removing carbon monoxide", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  In the electrolysis of water, if a very small amount of sodium \r\nsulfate is added to the water, give the equation for the half reaction that occurs at the ANODE.  \r\nMake sure to indicate proper charges and the state of each substance, such as solid, liquid, aqueous, \r\nor gas:", 
+    "tossupA": "Y)  REMOVING CARBON DIOXIDE \r\n \r\n(Solution: shifts to the right)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d0"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "ELECTRONS AND ANTINEUTRINOS  (ACCEPT:  ELECTRON ANTINEUTRINO \r\nFOR NEUTRINO)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following BEST describes how one would compute \r\nthe speed for a sound wave through a liquid: \r\n \r\nW)  the square of the density of liquid divided by its bulk modulus \r\nX)  the square of the bulk modulus of the liquid divided by its density  \r\nY)  the square root of the density of liquid divided by its bulk modulus \r\nZ)  the square root of the bulk modulus of the liquid divided by its density", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Name all the leptons that are produced during beta minus decay?", 
+    "tossupA": "Z)  THE SQUARE ROOT OF THE BULK MODULUS OF THE LIQUID DIVIDED \r\nBY ITS DENSITY", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d2"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1/5   \r\n \r\n(Solution:  9/(10 nCr 2) = 9/45 = 1/5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  How many solutions are there for the equation, cosine 4x = 1/2, for the \r\ninterval 0 \u2264 x < 2\u03c0?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Cards numbered 1 through 10 lie on a table.  If two cards are picked at \r\nrandom, without replacement, what is the probability, as a fraction in lowest terms, that the two \r\ncards will have values within one of each other?", 
+    "tossupA": "8 \r\n \r\n(Solution: 4 cycles, 2 solutions per cycle)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d3"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  CONTINENTAL TROPICAL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Short Answer  In the southern hemisphere, Ekman transport generated by \r\ntrade winds over the equatorial Pacific Ocean is how many degrees to the left of the prevailing \r\nwinds?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following BEST describes an air mass that \r\noriginates in northern Mexico, moves into the Great Plains and stagnates, resulting in severe \r\ndrought: \r\n \r\nW)  continental tropical \r\nX)  continental polar \r\nY)  maritime tropical \r\nZ)  maritime polar", 
+    "tossupA": "90", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d4"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "25 \r\n \r\n(Solution: (100mg/20mg)(5mL) = 25 mL)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT true regarding the \r\nburning of biodiesel versus gasoline in automobile engines: \r\n \r\nW)  biodiesel combustion does not emit SO<sub>2</sub> \r\nX)  biodiesel contains more oxygen than gasoline \r\nY)  the CO<sub>2</sub> released when biodiesel is burned is the same CO<sub>2</sub> the plants removed from the \r\natmosphere as they grew \r\nZ)  the energy content per gallon of biodiesel is approximately 28% lower than that of ethanol", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  A physician orders 0.1 gram of a drug be administered to \r\na patient.  If it is only available as 20 milligrams per 5 milliliters, how many milliliters needs to be \r\nadministered?", 
+    "tossupA": "Z)  THE ENERGY CONTENT PER GALLON OF BIODIESEL IS \r\nAPPROXIMATELY 28% LOWER THAN THAT OF ETHANOL", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d5"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "114 \r\n \r\n(Solution: 3.26 \u00d7 35.00 = 114.1)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  From the LEAST to the MOST, what are the 3 most abundant \r\nelements in a G-type star?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  If a supernova with an apparent magnitude of \u20132.0 was observed \r\nfor the first time in the year 2,000 at 35.00 kiloparsecs from Earth, how many years before \r\nobservation, rounded to the nearest whole number, did the supernova most likely occur?", 
+    "tossupA": "HYDROGEN;  HELIUM;  CARBON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d6"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TRANSCRIPTION;  SPLICEOSOME;  TRANSLATION;  GOLGI MODIFICATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the specific intermediate informational molecule for human \r\nretrotransposons (read as: rhet-tro-trans-POE-zons):", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Order the following 4 processes from the one to typically occur the \r\nEARLIEST to the one to occur the LATEST in the production of collagen:   \r\n(read slowly)  spliceosome (read as: SPLY-see-oh-zome);  transcription;  translation;  golgi \r\nmodification", 
+    "tossupA": "RNA  (ACCEPT:  RIBONUCLEIC ACID or mRNA or MESSENGER RNA)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d7"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ALL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  From what specific biological molecule are Barbara McClintock\u2019s \r\ntransposons (read as: trans-POE-zons) made?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 organisms in which transposons (read \r\nas: trans-POE-zons) are found:  humans;  maize;  fruit fly;  bacteria", 
+    "tossupA": "DNA", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d1"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "0.07  (ACCEPT:  0.06) \r\n \r\n(Solution:  moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m;  \r\n\u0394Tb = Kb(m) = (2.0\u00baC/m)(0.033m) = 0.066\u00baC)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the overall reaction order for the following rate law:   \r\nrate = k[NH<sub>4</sub>+][NO<sub>2</sub>\u2013]   (read as: k times the concentration of NH<sub>4</sub>+ times the concentration of NO<sub>2</sub>\u2013)", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Calculate the one-atmosphere boiling point elevation, in degrees \r\nCelsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms \r\nof water.  Assume the formula weight of the solute is 300 and the boiling point depression constant \r\nis 2.0\u00baC per molal..", 
+    "tossupA": "2  (ACCEPT:  2nd ORDER) \r\n \r\n(Solution: exponents 1 + 1 = 2)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d8"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "PHOTONS AND NEUTRINOS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What boson is the only particle predicted by the Standard Model of \r\nParticle Physics that had not yet been observed as of June 2008?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Through what two particles is most of the energy released by a star \r\nlike our Sun?", 
+    "tossupA": "HIGGS BOSON   (ACCEPT: HIGGS)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9d9"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "\u201345  (ACCEPT:  \u201350 TO \u201340)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  From what amino acid is the vasodilator histamine primarily \r\nsynthesized?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the typical reported initial threshold value, in millivolts, of a \r\nhuman peripheral nerve axon?", 
+    "tossupA": "HISTIDINE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd9da"
+    }, 
+    "questionNum": 27
+  }
+]

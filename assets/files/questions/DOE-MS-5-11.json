@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "15 AND -3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice A quadrilateral may be inscribed in a circle if and only if which of the \r\nfollowing is true? \r\n \r\nW) It is a rectangle \r\nX) It is a square \r\nY) It is equilateral \r\nZ) Its opposite angles are supplementary", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the range of the set of five numbers {4, 3, x, 9, and 8} is 12, what are \r\nthe possible values of x?", 
+    "tossupA": "Z) ITS OPPOSITE ANGLES ARE SUPPLEMENTARY", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1fb"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "23%", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer By name or number, identify all of the following five \r\nanimals that are odd-toed ungulates: 1) horse, 2) zebra, 3) onager, 4) alpaca, 5) tapir.", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer All the nitrogenous bases from a DNA molecule are \r\nremoved. Of the nitrogenous base molecules, 27% were guanine (read as: GWAH-neen) \r\nmolecules. Approximately what percentage of the nitrogenous base molecules were thymine \r\nmolecules?", 
+    "tossupA": "HORSE, ZEBRA, ONAGER, AND TAPIR (ACCEPT: 1, 2, 3, AND 5)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1fc"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "IRON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the name of the large oceanic \r\ncirculation system that moves cold salty water from the surface to the bottom of the ocean near \r\nGreenland?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Unlike algae in lakes, marine algae are more \r\nlikely to grow rapidly after what element is added to their natural environment?", 
+    "tossupA": "NORTH ATLANTIC DEEP OCEAN CURRENT (ACCEPT: THERMOHALINE \r\nCIRCULATION, GREAT OCEAN CONVEYER)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1fd"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "4.5 WEST", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following elements would be the MOST \r\nmetallic? \r\n \r\nW) Iron \r\nX) Copper \r\nY) Titanium \r\nZ) Germanium", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer An object with a mass of 5 kilograms travels around a \r\nhorizontal circle with a radius of 2 meters at a speed of 3 meters per second in the \r\ncounterclockwise direction. In meters per second squared, what is the centripetal acceleration, \r\nin terms of both magnitude and direction, when the direction of the velocity is north?", 
+    "tossupA": "Y) TITANIUM", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1fe"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) PLANT CENTROSOMES DO NOT HAVE CENTRIOLES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Name the biome characterized by low precipitation, variable \r\ntemperatures, and soils rich in minerals but poor in organic material.", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements best describes the \r\nprimary difference between animal centrosomes and plant centrosomes? \r\n \r\nW) Plant centrosomes have a rough exterior made of cellulose \r\nX) Animal centrosomes use microfilaments \r\nY) Plant centrosomes do not have centrioles \r\nZ) Animal centrosomes are in the cytoplasm", 
+    "tossupA": "DESERT", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd1ff"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "NITROGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is an example of analogous \r\nstructures resulting from convergent evolution? \r\n \r\nW) Feathers on a bird to feathers on a dinosaur \r\nX) Forelimbs on a human to forelimbs on a chimpanzee \r\nY) Flippers on a dolphin to forelimbs on a human \r\nZ) Webbed feet on a duck to webbed feet on a frog", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer A certain isotope of oxygen is unstable and emits a \r\npositron to form a stable isotope of another atom. Name the element produced.", 
+    "tossupA": "Z) WEBBED FEET ON A DUCK TO WEBBED FEET ON A FROG", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd200"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) 79", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following best represents the sum of the reciprocals of \r\nall positive integers? \r\n \r\nW) 2 \r\nX) \u03c0<sup>2</sup>/6 \r\nY) 9 \r\nZ) Infinity", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice A cylindrical tin can has a diameter of 4 inches and a height of 5 \r\ninches. Approximately how much more volume, in cubic inches, would it have if the diameter \r\nwere increased to 6 inches? \r\n \r\nW) 63 \r\nX) 79 \r\nY) 141 \r\nZ) 157", 
+    "tossupA": "Z) INFINITY", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd201"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) OXIDATION REDUCTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the chemical formula for iron (III) oxide?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following kinds of reaction does the \r\nfollowing equation exemplify: CH\r\n2\r\nS + 6 F\r\n2\r\n \u2192 (read as: yields) CF\r\n4\r\n + 2 HF + SF\r\n6\r\n + heat? \r\n \r\nW) Acid-base \r\nX) Phase change \r\nY) Oxidation reduction \r\nZ) Double displacement", 
+    "tossupA": "Fe\r\n2\r\nO\r\n3", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd202"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) OKAZAKI FRAGMENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the term for the wave of muscular contractions that \r\npropels food down the esophagus (read as: i-SOH-fah-guhs)?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is a relatively short fragment of DNA \r\ncreated on the lagging strand during DNA replication? \r\n \r\nW) DNA polymerase \r\nX) Okazaki fragment \r\nY) Thymine dimer \r\nZ) Flap endonuclease", 
+    "tossupA": "PERISTALSIS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd203"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "84%", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer A hormone enters the blood stream and binds to \r\nspecific receptors; what is the general name for a cell that expresses the receptor for a given \r\nhormone?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer For a certain trait, there are three alleles, A, B, and C, \r\nand each locus contains 2 alleles. The frequency of allele A is 0.4 and the frequency of allele B \r\nis 0.1. What percentage of the population has either allele B or allele C present in their \r\ngenome?", 
+    "tossupA": "TARGET CELL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd204"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "OPHIOLITE (ACCEPT: OPHIOLITE SERIES)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is at the base of \r\nthe hydrothermal vent community food chain? \r\n \r\nW) Symbiotic phytoplankton \r\nX) Chemosynthetic archaea \r\nY) Marine snow \r\nZ) Photosynthetic bacteria", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What is the term for the sequences of rocks \r\nthat make up the ocean floor and are composed from top to bottom of pillow basalts, sheeted \r\ndikes, gabbro, and peridotite (read as: peh-RI-doh-tyt)?", 
+    "tossupA": "X) CHEMOSYNTHETIC ARCHAEA", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd206"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "6.2 x 10\r\n18", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following groups consists entirely of \r\nallotropes of carbon? \r\n \r\nW) Lonsdaleite (read as: lohnz-day-LEET), graphene, and fullerene \r\nX) Crystal, diamond, and graphite \r\nY) Graphite, graphene, and crystal \r\nZ) Fullerene, lonsdaleite (read as: lohnz-day-LEET), and alamosite", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Providing your answer in scientific notation with two \r\nsignificant digits, a coulomb of charge is equal to the electrical charge of how many electrons?", 
+    "tossupA": "W) LONSDALEITE, GRAPHENE, AND FULLERENE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd207"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "UNITED KINGDOM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice The U.S. Energy Information Administration is projecting that \r\nprimary energy consumption of which of the following energy sources will grow by more than \r\n4% per year between 2007 and 2035? \r\n \r\nW) Coal \r\nX) Natural gas \r\nY) Nuclear \r\nZ) Liquid biofuels", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What country has the world\u2019s largest offshore wind farm?", 
+    "tossupA": "Z) LIQUID BIOFUELS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd208"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "8:00 a.m.", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the product of complex numbers (2 + 3i)(2 \u2212 3i) (read as: the \r\nquantity 2 plus 3 i times the quantity 2 minus 3 i)?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Sue leaves for school at 7 a.m., walking at a rate of 4 miles per hour. \r\nHer sister, Mary, leaves home at 7:30 a.m., riding her bike at a rate of 8 miles per hour. At what \r\ntime will Mary meet up with Sue?", 
+    "tossupA": "13", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd209"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) PAULI EXCLUSION PRINCIPLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a substance that can \r\naccept a pair of electrons from another substance? \r\n \r\nW) Br\u00f8nsted acid \r\nX) Br\u00f8nsted base \r\nY) Lewis acid \r\nZ) Arrhenius base", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following states that no two electrons \r\ncan have the same four quantum numbers? \r\n \r\nW) Pauli exclusion principle \r\nX) Aufbau principle \r\nY) Hund\u2019s rule \r\nZ) Heisenberg uncertainty principle", 
+    "tossupA": "Y) LEWIS ACID", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd20b"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SINGLE CHAIN, DOUBLE CHAIN, SHEET, THREE-DIMENSIONAL FRAMEWORK \r\n(ACCEPT: 1, 2, 3, AND 4 OR ALL)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice A crystal\u2019s habit that is plant-like in shape \r\nis called which of the following? \r\n \r\nW) Dendritic \r\nX) Bladed \r\nY) Massive \r\nZ) Reniform", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer By name or number, identify all of the \r\nfollowing four choices that can appear as silicate mineral structures: 1) single chain, 2) double \r\nchain, 3) sheet, 4) three-dimensional framework.", 
+    "tossupA": "W) DENDRITIC", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd20c"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "(ACCEPT TWO) DENSITY OF THE AIR, ROTOR (ACCEPT: BLADE) AREA, WIND \r\nSPEED", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer What three-dimensional figure has the minimum surface area for a \r\ngiven volume, thus minimizing the leakage of neutrons in fission reactions?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer A wind turbine obtains its power input by converting the force of \r\nthe wind into a torque acting on the rotor blades. Name two of the three variables that affect the \r\namount of energy transferred from the wind to the rotor.", 
+    "tossupA": "SPHERE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd20d"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "31/11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If each side of a rectangle is decreased by 10%, by what percentage \r\nis the area decreased?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The lengths of three sides of a triangle are represented by 2x \u00a0- \u00a05, \r\n5x \u00a0+ \u00a03, and 4x \u00a0+ \u00a09. Providing your answer as an improper fraction in simplest form, if the \r\nperimeter is 50 units, what is the length of the shortest side?", 
+    "tossupA": "19%", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd20f"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "EXOCYTOSIS (ACCEPT: REVERSE PINO-CYTOSIS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT one of the events that \r\noccurs during translation? \r\n \r\nW) Binding to a promoter \r\nX) Termination \r\nY) Initiation \r\nZ) Elongation", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the term for the durable process by which a cell \r\ndirects the secretory vesicles to excrete their contents through the cell membrane?", 
+    "tossupA": "W) BINDING TO A PROMOTER", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd210"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice In the United States, where is spent nuclear fuel currently \r\nstored? \r\n \r\nW) At a nuclear waste facility in Prairie Island, Minnesota \r\nX) At a nuclear waste facility in Yucca Mountain, Nevada \r\nY) At a nuclear waste facility in Waterford, Connecticut \r\nZ) In temporary storage at nuclear power plants around the country", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer A 5 kilogram mass is held against a spring, compressing it by 1 \r\nmeter; the spring constant is 500 newtons per meter. What is the maximum speed, in meters \r\nper second, the mass can achieve when the spring decompresses?", 
+    "tossupA": "Z) IN TEMPORARY STORAGE AT NUCLEAR POWER PLANTS AROUND THE \r\nCOUNTRY", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd211"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) CHAPERONINS ARE REQUIRED FOR SOME PROTEINS TO FOLD", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT a cartilaginous fish? \r\n \r\nW) Skate \r\nX) Eel \r\nY) Ray \r\nZ) Shark", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following makes 3-dimensional protein \r\nstudies difficult? \r\n \r\nW) Proteins never fold properly outside their native cell \r\nX) Chaperonins are required for some proteins to fold \r\nY) Proteins lose their 3D structure once you remove them from the cell \r\nZ) Contaminating chaperonins will degrade proteins", 
+    "tossupA": "X) EEL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd213"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "VERTICES = 6, EDGES = 12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice The line with equation y = \u22123x + 10 has points in every quadrant \r\nEXCEPT: \r\n \r\nW) I \r\nX) II \r\nY) III \r\nZ) IV", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many vertices and edges, respectively, does a regular \r\noctahedron have?", 
+    "tossupA": "Y) III", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd205"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "DIAGENESIS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What is the name for the layer of the ocean \r\nin which temperature changes rapidly with depth?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What is the process by which physical and \r\nchemical changes occur in a sediment after it has been deposited and buried?", 
+    "tossupA": "THERMOCLINE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd20a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "RADIOTROPHIC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer With which protein does actin associate in order to produce \r\na muscular contraction?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What adjective is used to describe fungi which appear to use \r\nthe pigment melanin to convert gamma radiation into chemical energy for growth?", 
+    "tossupA": "MYOSIN", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd20e"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "10 DOWNWARDS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following BEST describes a cathode \r\nray? \r\n \r\nW) A device that emits light through a process of optical amplification based on the stimulated \r\nemission of photons \r\nX) An electrode through which electric current flows out of a polarized electrical device \r\nY) A stream of electrons observed in vacuum tubes \r\nZ) An electrode through which electric current flows into a polarized electrical device", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer A projectile is fired from a gun at an angle of 45\r\no \r\nwith \r\nrespect to the horizontal. Given that g is 10 meters per second squared, what is the magnitude \r\nand direction of the acceleration, in meters per second squared, of the projectile when it \r\nreaches its maximum height?", 
+    "tossupA": "Y) A STREAM OF ELECTRONS OBSERVED IN VACUUM TUBES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd212"
+    }, 
+    "questionNum": 24
+  }
+]

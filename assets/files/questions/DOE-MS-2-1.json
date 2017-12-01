@@ -1,0 +1,427 @@
+[
+  {
+    "category": 0, 
+    "bonusA": "Z) CREVASSE \r\n \r\nJunior National Science Bowl Round Robin 1 Page 1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer The Triassic, Jurassic, and Cretaceous are all periods in \r\nwhat era?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is the correct term for a large \r\ncrack in ice: \r\n \r\nW) crevice \r\nX) chasm \r\nY) canyon \r\nZ) crevasse (PRONOUNCE: crah-VAHSS)", 
+    "tossupA": "MESOZOIC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca78"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) 1 KILOGRAM OF GOLD", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice What is the density given as specific gravity, of a \r\none centimeter cube of a metal that weighs 5 grams: \r\n \r\nW) .5 \r\nX) 5 \r\nY) 2 \r\nZ) .2", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following has the greatest density: \r\n \r\nW) 10 kilogram of pure water \r\nX) 10 kilogram of aluminum \r\nY) 2 kilogram of silver \r\nZ) 1 kilogram of gold", 
+    "tossupA": "X) 5", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca79"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "100 (DO NOT ACCEPT: 102) \r\nJunior National Science Bowl Round Robin 1 Page 2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Peter bought a soda from a vending machine with a dollar bill. The soda cost 35 \r\ncents. What is the smallest number of coins he could receive in change if pennies are not \r\nincluded?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH What is the integer value of 105 divided by 103?", 
+    "tossupA": "FOUR", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca7a"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "VITAMIN D", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple ChoiceRAL SCIENCE Rickets, which was a common disease in the early twentieth century, \r\nis caused by a deficiency in what vitamin: \r\n \r\nW) riboflavin \r\nX) vitamin B12 \r\nY) vitamin K \r\nZ)  vitamin D", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short answer Exposure to sunlight converts cholesterol found in \r\nhuman skin into what vitamin?", 
+    "tossupA": "Z) VITAMIN D", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca7b"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TIDAL SURGE  (ACCEPT: STORM OR BASAL SURGE) \r\nJunior National Science Bowl Round Robin 1 Page 3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple ChoiceH SCIENCE Which of the following is present only where benthic organisms reside: \r\n \r\nW) phytoplankton \r\nX) zooplankton \r\nY) diatoms \r\nZ) deep sea vents", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What is the name of the rapid rise of coastal water that \r\naccompanies the arrival of a cyclone?", 
+    "tossupA": "Z) DEEP SEA VENTS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca7c"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) COMBUSTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following metals is attracted to a \r\nmagnet? \r\n \r\nW) gold \r\nX) silver \r\nY) iron \r\nZ) aluminum", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE  Multiple Choice The reaction of hydrocarbons found in such things \r\nas wood and paper with oxygen to produce carbon dioxide, water and heat is called: \r\n \r\nW) fission \r\nX) fusion \r\nY) endothermic \r\nZ) combustion", 
+    "tossupA": "Y) IRON", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca7d"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "STALACTITES \r\n \r\n \r\n \r\nJunior National Science Bowl Round Robin 1 Page 4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Metamorphism transforms limestone into a \r\nmetamorphic rock called: \r\n \r\nW) quartzite \r\nX) marble \r\nY) hornfel \r\nZ) granite", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What are the icicle-shaped deposits of limestone hanging \r\nfrom the roof of a cave called:", 
+    "tossupA": "X) MARBLE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca7e"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) MARS \r\n \r\nJunior National Science Bowl Round Robin 1 Page 5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Engineers in the USA often report pressure in PSI\u2019s. \r\nWhat does the abbreviation PSI stand for?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which planet does not have an element named \r\nafter it? \r\n \r\nW) Uranus \r\nX) Mars \r\nY) Mercury \r\nZ) Pluto", 
+    "tossupA": "POUNDS per SQUARE INCH", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca80"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice A parallelogram whose adjacent sides are unequal is a: \r\n \r\nW) deltoid \r\nX) rectangle \r\nY) rhomboid \r\nZ) monogram", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Solve the following equation: 9x \u2013 13 = 14", 
+    "tossupA": "Y) RHOMBOID", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca81"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) THE NORTH STAR \r\nJunior National Science Bowl Round Robin 1 Page 6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer On the Centigrade temperature scale give the whole \r\nnumber value that is the closest to absolute zero.", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT seen by reflection \r\nof sun light: \r\n \r\nW) the moon \r\nX) Mercury \r\nY) Mars \r\nZ) the north star", 
+    "tossupA": "MINUS 273", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca82"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) CANINES \r\nJunior National Science Bowl Round Robin 1 Page 7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is an intracellular parasite: \r\n \r\nW) malaria \r\nX) sleeping sickness \r\nY) tapeworm \r\nZ) shigella", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice In mammals, what teeth are evolved primarily to function \r\nin gripping and tearing \r\n \r\nW) incissors \r\nX) canines \r\nY) molars \r\nZ) wisdom", 
+    "tossupA": "W) MALARIA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca84"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) MARBLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Each day, most coastal beaches encounter: \r\n \r\nW) one high tide and one low tide \r\nX) two high tides and one low tide \r\nY) two high tides and two low tides \r\nZ) three high tides and three low tides", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a metamorphic rock: \r\n \r\nW) sandstone \r\nX) granite \r\nY) quartz \r\nZ) marble", 
+    "tossupA": "Y) TWO HIGH TIDES AND TWO LOW TIDES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca85"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-9 \r\n \r\n \r\nJunior National Science Bowl Round Robin 1 Page 8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the cube root of 8?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Solve the following equation: 3x + 15 = -12", 
+    "tossupA": "2", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca86"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) 1800  \r\nJunior National Science Bowl Round Robin 1 Page 9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple choice By our current estimations, the Earth is approximately \r\nhow many billions of years old: \r\n \r\nW) 8.4 \r\nX) 6.2 \r\nY) 4.6 \r\nZ) 2.4", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice The Earth's mantle is approximately how many miles \r\nthick: \r\n \r\nW) 1000 \r\nX) 1200 \r\nY) 1500 \r\nZ) 1800", 
+    "tossupA": "Y) 4.6", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca88"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) BUTTE \r\nJunior National Science Bowl Round Robin 1 Page 11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer A large mass of ice, formed on land by the compaction \r\nand recrystallization of snow, that is moving downhill or outward under the force of gravity is \r\ncalled:", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice A flat-topped plateau bordered on all sides by cliffs is \r\ncalled a: \r\n \r\nW) hillock \r\nX) butte \r\nY) drumlin \r\nZ) karst", 
+    "tossupA": "A GLACIER", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca8c"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "13 \r\n \r\n \r\nJunior National Science Bowl Round Robin 1 Page 12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If a \u2260 0 (read as: a does not equal 0), what is the multiplicative \r\ninverse of a?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the square root of 169?", 
+    "tossupA": "a\r\n1", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca8e"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HOMO SAPIENS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Living organisms are often divided into five Kingdoms. In \r\nwhich of the 5 Kingdoms would E. coli be classified?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the binomial scientific genus and species name for \r\nhumans?", 
+    "tossupA": "MONERA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca77"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CARTILAGE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the region of the body where the \r\nstapes bone is located: \r\n \r\nW) ankle \r\nX) ear \r\nY) wrist \r\nZ) knee", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Sharks belong the class Chondricthyes because they have a \r\nskeleton made of what substance?", 
+    "tossupA": "X) EAR", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca7f"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "BLUE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Metals that can be hammered into thin sheets are \r\ncalled: \r\n \r\nW) malleable \r\nX) ductile \r\nY) molten \r\nZ) pure", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer A white-colored object illuminated by a blue light \r\nwill appear as what color to the human eye?", 
+    "tossupA": "W) MALLEABLE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca83"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) JUPITER AND SATURN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer At its greatest possible brightness, which is the \r\nbrightest planet in the night sky?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The largest of the suns planets are: \r\n \r\nW) Venus and Mars \r\nX) Jupiter and Saturn \r\nY) Neptune and Pluto \r\nZ) Mercury and Uranus", 
+    "tossupA": "VENUS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca87"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "PEPTIDE BOND", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of these organisms in not a kind of worm? \r\n \r\nW) planerian \r\nX) fluke \r\nY) leech \r\nZ) centipede", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the common specific name for the bond that joins \r\ntwo amino acids to form a growing protein:", 
+    "tossupA": "Z) CENTIPEDE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca89"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "21 \r\nJunior National Science Bowl Round Robin 1 Page 10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Four divided by zero is: \r\n \r\nW) 4 \r\nX) undefined \r\nY) 0 \r\nZ) infinity", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the value of x<sup>2</sup> \u2013 y<sup>2</sup> when x = -5 and y = -2:", 
+    "tossupA": "X) UNDEFINED", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca8a"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) GLUCOSE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer  What is the common scientific term for the ratio of \r\nthe density of a material to that of water at 4\u00b0c", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Starch is made of what simple sugar? \r\n \r\nW) fructose \r\nX) mannose \r\nY) glucose \r\nZ) ribose", 
+    "tossupA": "SPECIFIC GRAVITY", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca8b"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) WEST TO EAST", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer How many microgams are in a single milligram?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The moon moves around the earth traveling \r\nprimarily: \r\n \r\nW) east to west \r\nX) north to south \r\nY) west to east \r\nZ) south to north", 
+    "tossupA": "1000", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca8d"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LAVA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple choice The Tropic of Cancer lies at which of the following \r\nlatitudes: \r\n \r\nW) 23 \u00bd\u00b0 North \r\nX) 23 \u00bd\u00b0 South \r\nY) 26 \u00bd\u00b0 North \r\nZ) 26 \u00bd\u00b0 South", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Magma that reached the Earth\u2019s surface is called what?", 
+    "tossupA": "W) 23 \u00bd\u00b0 NORTH", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca8f"
+    }, 
+    "questionNum": 27
+  }
+]

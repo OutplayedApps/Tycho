@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Barb and Zack start walking around a track at the same time. It takes \r\nBarb 10 minutes to complete one lap. Zack completes one lap in 8 minutes. After how many \r\nminutes will they be at the starting point together? \r\n \r\nW) 18 \r\nX) 30 \r\nY) 40 \r\nZ) 80", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the difference between the smallest prime number greater \r\nthan 100 and the largest prime number less than 100?", 
+    "tossupA": "Y) 40", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd165"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ALLOMETRIC GROWTH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice An ecologist notices that there are two distinct populations \r\nof sparrows that cannot interbreed due to infertility. This demonstrates which of the following \r\ntypes of isolation? \r\n \r\nW) Mechanical \r\nX) Genetic \r\nY) Gametic \r\nZ) Hybrid breakdown", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Various parts of the human body show differences in relative \r\ngrowth rates. What principle explains this phenomenon?", 
+    "tossupA": "Y) GAMETIC", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd166"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "62.5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice In which of the following locations do most ocean \r\ntrenches occur? \r\n \r\nW) Mid-ocean ridge \r\nX) Abyssal plains \r\nY) Continental shelf \r\nZ) Convergent boundaries", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Given the combustion equation 2C<sub>4</sub>H10 + 13O2 \u2192         \r\n[yields] 8CO2 + 10H<sub>2</sub>O, how many moles of water can be produced by reacting 12.5 moles of \r\nC<sub>4</sub>H10 with excess oxygen?", 
+    "tossupA": "Z) CONVERGENT BOUNDARIES", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd167"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) MEDIAL MORAINES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What type of coal is extremely hard and brittle, is almost \r\npure carbon, and gives off a great amount of heat when it burns?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following are the dark debris lines down \r\nthe center of glaciers caused by rocks scoured from surrounding valley walls? \r\n \r\nW) Cirques [SURKS] \r\nX) Horns \r\nY) Ar\u00eates [uh-REYTS] \r\nZ) Medial moraines", 
+    "tossupA": "ANTHRACITE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd16a"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ROUGH ENDOPLASMIC RETICULUM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice In which of the following locations found in the human body \r\nis the hormone somatotropin produced? \r\n \r\nW) Thyroid \r\nX) Pituitary [pi-TOO-i-ter-ee] \r\nY) Thymus \r\nZ) Adrenal", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Which organelle is the principal site of membrane protein \r\nsynthesis in eukaryotic [yoo-KAR-ee-oh-tik] cells?", 
+    "tossupA": "X) PITUITARY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd16b"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) IT PRODUCES LESS THAN 180 WATTS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following countries produces over 90% of its energy \r\nthrough geothermal resources? \r\n \r\nW) Iceland \r\nX) United States \r\nY) China \r\nZ) Russia", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice What happens to a 180 watt solar panel's power output when the \r\nsolar irradiance is lower than the one specified at standard temperature and pressure? \r\n \r\nW) The power is converted from AC to DC \r\nX) The power is converted from DC to AC \r\nY) It produces more than 180 watts \r\nZ) It produces less than 180 watts", 
+    "tossupA": "W) ICELAND", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd16c"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) EVOLUTION PROCEEDS AT THE SAME RATE IN ALL TYPES OF \r\nORGANISMS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following reproductive structures would \r\nbe found only in gymnosperms? \r\n \r\nW) Cones \r\nX) Sori \r\nY) Flowers \r\nZ) Pistils", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT one of the five \r\nprinciples of evolution? \r\n \r\nW) Evolution occurs more rapidly at some times than others \r\nX) Evolution proceeds at the same rate in all types of organisms \r\nY) Evolution is not always from the simple to the complex \r\nZ) Evolution occurs in populations in a gradual process over very long periods of time", 
+    "tossupA": "W) CONES", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd16d"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) LOW SLOPES, SANDY SOILS, AND COOL TEMPERATURES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What is the name for the lines on a weather map that \r\njoin places of the same air pressure?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which combination of characteristics allows the \r\ngreatest amount of water to permeate the ground? \r\n \r\nW) Steep slopes, silty soils, and cool temperatures \r\nX) Low slopes, sandy soils, and cool temperatures \r\nY) Steep slopes, sandy soils, and hot temperatures \r\nZ) Low slopes, clay-rich soils, and hot temperatures", 
+    "tossupA": "ISOBARS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd170"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "PINK (ACCEPT: RED)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Human infants weighing more or less than the average \r\nbirth weight of 6 to 8 pounds have a greater chance of mortality. Which of the following types of \r\nnatural selection describes this phenomenon? \r\n \r\nW) Diversifying \r\nX) Stabilizing \r\nY) Directional \r\nZ) Disruptive", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer After gram staining, what color should Escherichia [esh-uh-\r\nRIK-ee-uh] coli bacteria appear under the microscope?", 
+    "tossupA": "X) STABILIZING", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd171"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) A 35-GRAM BULLET TRAVELING AT 1.20 X 103 METERS PER SECOND", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Plasmas are typically described as glowing substances that are \r\nwhich of the following? \r\n \r\nW) Non-conductive \r\nX) Conductive \r\nY) Neutral \r\nZ) Non-superconductive", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following has the highest kinetic energy? \r\n \r\nW) A 35-gram bullet traveling at 1.20 X 103 meters per second \r\nX) A 35-kilogram cheetah running at 30 meters per second \r\nY) An 875-kilogram car traveling at 5 meters per second \r\nZ) A 148-gram pitched baseball moving at 45 meters per second", 
+    "tossupA": "X) CONDUCTIVE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd172"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "144", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Scientists theorize that Jupiter\u2019s core is which of the \r\nfollowing? \r\n \r\nW) Rock \r\nX) Water vapor \r\nY) Ammonia and methane \r\nZ) Hydrogen and helium", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer For a given reaction in which A and B react to create \r\nC, doubling the concentration of A will cause the reaction rate to be multiplied by 3, while \r\ndoubling the concentration of B will result in the reaction rate being multiplied by 4. If the \r\nconcentration of A and B are both quadrupled, by what numerical factor will the rate of the \r\nreaction be multiplied?", 
+    "tossupA": "W) ROCK", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd173"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "78", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following regular polygons could NOT be used to \r\ncompletely tile the floor of a video game center? \r\n \r\nW) Hexagon \r\nX) Pentagon \r\nY) Quadrilateral \r\nZ) Triangle", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The first row in a theatre contains 8 seats. Each row contains 2 seats \r\nmore than the one in front of it. How many total people can sit in the first 6 rows?", 
+    "tossupA": "X) PENTAGON", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd174"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) NEON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name of the amount of energy required to \r\nremove an electron from the highest occupied orbital of an atom?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements possesses the \r\nhighest ionization energy? \r\n \r\nW) Oxygen \r\nX) Silicon \r\nY) Neon \r\nZ) Chlorine", 
+    "tossupA": "IONIZATION ENERGY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd175"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "GARNET", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice In which of the following locations is the densest \r\nocean water on Earth found? \r\n \r\nW) Mediterranean Sea \r\nX) Off the coast of Antarctica \r\nY) Off the coast of Peru \r\nZ) Off the coast of Hawaii", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What group of minerals has the following \r\ncharacteristics: 1) they can be gemstones or abrasives; 2) they are found in many colors; 3) \r\nthey have a hardness of about 6.5 to 7.5; and 4) they are nesosilicates [nee-soh-SIL-i-kayts].", 
+    "tossupA": "X) OFF THE COAST OF ANTARCTICA", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd176"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "(ANY TWO) THYMINE, URACIL, CYTOSINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice When using the gel electrophoresis technique, which of \r\nthe following DNA segments will migrate the furthest from where they were loaded? \r\n \r\nW) The largest \r\nX) The smallest \r\nY) The most negatively charged \r\nZ) The most positively charged", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name two of the three pyrimidine nucleotides [py-RIM-i-\r\ndeen NOO-klee-uh-tyds].", 
+    "tossupA": "X) THE SMALLEST", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd177"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "2.5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice The first public demonstration of vegetable-oil-based diesel fuel \r\ntook place at the 1900 World\u2019s Fair. What type of oil was used? \r\n \r\nW) Corn \r\nX) Sunflower \r\nY) Peanut \r\nZ) Canola", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Given that stopping a bus requires 0.19 liters of fuel, and cars \r\nconsume 0.076 liters per kilometer, how long in kilometers would your bus commute need to be \r\nto save an amount of gasoline equivalent to stopping the bus once?", 
+    "tossupA": "Y) PEANUT", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd178"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice The radius of a bicycle tire is 10 inches. How far in inches does the \r\nwheel travel in six revolutions? \r\n \r\nW) 120\u03c0 \r\nX) 90\u03c0 \r\nY) 60\u03c0 \r\nZ) 45\u03c0", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Given a line segment in a plane, how many different isosceles right \r\ntriangles in the plane have the given line segment as a side?", 
+    "tossupA": "W) 120\u03c0", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd17a"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) FLUORINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following molecules is an alkene [AL-\r\nkeen]? \r\n \r\nW) CH4 \r\nX) C<sub>2</sub>H4 \r\nY) C<sub>3</sub>H8 \r\nZ) C<sub>5</sub>H12", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements has the largest \r\nelectron affinity? \r\n \r\nW) Lithium \r\nX) Beryllium \r\nY) Fluorine \r\nZ) Nitrogen", 
+    "tossupA": "X) C<sub>2</sub>H4", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd17b"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) CLAY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice A psychrometer is used by meteorologists to most \r\ndirectly measure which of the following? \r\n \r\nW) Wind chill \r\nX) Relative humidity \r\nY) Wind direction \r\nZ) Barometric pressure at high altitudes", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice If you were to build a pond in your back yard, which \r\nof the following materials should you use to line the bottom of the pond? \r\n \r\nW) Clay \r\nX) Sand \r\nY) Silt \r\nZ) A mixture of sand, silt, and clay", 
+    "tossupA": "X) RELATIVE HUMIDITY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd17c"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) CIRCULAR CHROMOSOMES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the pH of the normal human \r\nstomach lumen? \r\n \r\nW) 2-3 \r\nX) 4-5 \r\nY) 6-7 \r\nZ) 8-9", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Unlike eukaryotes [yoo-KAR-ee-ohts], prokaryotes [proh-\r\nKAR-ee-ohts] typically have only one chromosome. Which of the following is a unique \r\ncharacteristic of prokaryotic [proh-KAR-ee-oht-ik] genomes? \r\n \r\nW) Exons \r\nX) Telomeres \r\nY) Circular chromosomes \r\nZ) Presence of genes", 
+    "tossupA": "W) 2-3", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd17d"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6400", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If a wheel has 15 spokes, how many total spaces will this form \r\nbetween spokes?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Sam is going to sky dive out of a plane that is 8000 feet above sea \r\nlevel. Using g = 32 feet per second squared, find Sam\u2019s height above sea level in feet after he \r\nhas fallen 10 seconds.", 
+    "tossupA": "15", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd168"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What type of reaction is 2Al + Fe<sub>2</sub>O3 yields 2Fe + \r\nAl<sub>2</sub>O3?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If an atom has an electron in a d subshell, then what is \r\nthe smallest principal quantum number the electron may possess?", 
+    "tossupA": "REPLACEMENT (ACCEPT: SINGLE REPLACEMENT OR DISPLACEMENT)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd169"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer The volume of a cube is 27,000 cubic feet. What is the length of an \r\nedge in yards?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A circular pizza costs $19.99. Given that the diameter of the pizza is \r\n36 centimeters, what is the cost to the nearest whole number of cents of one square centimeter \r\nof pizza?", 
+    "tossupA": "10", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd16e"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) HIGHER IN THE SKY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following best describes nuclear \r\npotential energy? \r\n \r\nW) The average total potential energy of all the protons and neutrons in an atomic nucleus \r\nX) The mutual electrostatic energy of two charges \r\nY) The electric potential energy divided by a charge associated with a static electric field \r\nZ) A force on electrically charged objects near a nucleus", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice The Sun shines on a lake at an oblique angle. \r\nCompared to your view on the shore, in which of the following ways does a fish see the Sun? \r\n \r\nW) Higher in the sky \r\nX) Lower in the sky \r\nY) The same location in the sky \r\nZ) Total internal reflection blocks the appearance of the Sun", 
+    "tossupA": "W) THE AVERAGE TOTAL POTENTIAL ENERGY OF ALL THE PROTONS AND \r\nNEUTRONS IN AN ATOMIC NUCLEUS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd16f"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) ZOANTHARIAN CORALS EXTENDING FROM THEIR CALCAREOUS CAPS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following statements is NOT true about \r\nelectric eels? \r\n \r\nW) They are not eels, but fish \r\nX) They use electrical fields to navigate and explore their surroundings \r\nY) They are endangered \r\nZ) They can produce up to 600 volts of electricity", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice When you look at coral on a reef, which of the \r\nfollowing are you seeing? \r\n \r\nW) Sodium bicarbonate that precipitates from the seawater \r\nX) Deposits from fish and other marine vertebrates \r\nY) Zoantharian [zo-ahn-THA-ree-an] corals extending from their calcareous [kal-KAIR-ee-uhs] \r\ncaps \r\nZ) Minerals deposited as a result of runoff from nearby mainlands", 
+    "tossupA": "Y) THEY ARE ENDANGERED", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd179"
+    }, 
+    "questionNum": 21
+  }
+]

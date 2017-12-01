@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "9,375  \r\n \r\n(Solution: \u0394H = (0.75 J/g\u00b7K)(500g)(25K) = 9,375J)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Resonance in a musical instrument is MOST directly exemplified \r\nby: \r\n \r\nW)  sympathetic harmonic vibration  \r\nX)  destructive interference  \r\nY)  dissonance in the standing wave \r\nZ)  diffraction", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  The specific heat of a certain metal is 0.750 joules per gram kelvin.  \r\nHow much heat, in joules to the nearest whole number, will it take to increase the temperature of  \r\n0.50 kilograms of the metal from 25\u00baC to 50\u00baC?", 
+    "tossupA": "W)  SYMPATHETIC HARMONIC VIBRATION", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdcfb"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  INCREASED EFFECTIVE NUCLEAR CHARGE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Solvents, such as water, that can both donate and accept protons \r\nare typically described as: \r\n \r\nW)  resonant \r\nX)  metalloid  \r\nY)  amphoteric \r\nZ)  polyprotic", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  When going from left to right, elements in the same period of \r\nthe Periodic Table have progressively smaller atomic radii because of: \r\n \r\nW)  increased effective nuclear charge  \r\nX)  decreased effective nuclear charge \r\nY)  addition of electrons \r\nZ)  addition of neutrons", 
+    "tossupA": "Y)  AMPHOTERIC", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdcfc"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "3 TO 1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is missing in bryophytes and is an \r\nevolutionary advancement of higher plants: \r\n \r\nW)  vascular tissue \r\nX)  epidermal tissue \r\nY)  chloroplasts \r\nZ)  plasmodesmata  (read as: PLAS-mo-dez-MAH-tah)", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  If the flower color red is dominant and white is recessive, what will be \r\nthe expected phenotypic ratio of red to white flowers in the first generation of a cross between parent \r\nplants both heterozygous for flower color?", 
+    "tossupA": "W)  VASCULAR TISSUE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdcfd"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "43 \r\n \r\n(Solution:  curve of circle = \u00bc \u03c0d = 6\u03c0 = 18.84;  sides = 12 + 12 = 24;  24 + 18.84 = 42.8cm)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the domain and range for the function defined by the following \r\nset of three ordered pairs:  {(\u20132, 6), (0, 9), (3, 7)}", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Giving your answer in centimeters to the nearest whole number, what is \r\nthe perimeter of a closed quarter-circle whose radius is 12 centimeters?", 
+    "tossupA": "DOMAIN = \u20132, 0, 3;  RANGE = 6, 9, 7", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdcfe"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  SPRING HIGH TIDES TYPICALLY HAVE GREATER RANGES IN THE \r\nNORTHERN HEMISPHERE DURING SUMMER THAN DURING WINTER \r\n \r\n(Solution:  during winter at perihelion, Earth is closer to the Sun)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  What type of stream only bears water during and \r\nimmediately after a rainstorm: \r\n \r\nW)  ephemeral \r\nX)  intermittent \r\nY)  perennial \r\nZ)  dendritic", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT true about ocean tides: \r\n \r\nW)  the Moon\u2019s influence on Earth\u2019s tides is about 2-times greater than the Sun\u2019s influence \r\nX)  a complete tidal day is about 24 hours 50 minutes long \r\nY)  some coastlines have 2 high tides and 2 low tides each lunar day whereas some have only have 1 \r\nhigh tide and 1 low tide each lunar day \r\nZ)  spring high tides typically have greater ranges in the Northern Hemisphere during summer than \r\nduring winter", 
+    "tossupA": "W)  EPHEMERAL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdcff"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  DOPAMINE WILL NOT CROSS THE BLOOD BRAIN BARRIER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer   What neurotransmitter is deficient in Parkinson\u2019s disease?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is the BEST reason why \r\nParkinson\u2019s disease cannot be treated by simply administering dopamine into the blood stream: \r\n \r\nW)  dopamine\u2019s blood half-life is too short \r\nX)  dopamine will not cross the blood brain barrier \r\nY)  dopamine is the precursor to the real effective transmitter in Parkinson\u2019s disease \r\nZ)  it is not known why dopamine will not work if administered directly into the blood", 
+    "tossupA": "DOPAMINE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd00"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  625", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following was the primary instrument used to \r\ngather 5 to 35 micrometer spectra data from the Deep Impact mission: \r\n \r\nW)  Chandra X-ray observatory \r\nX)  Arecibo radio telescope \r\nY)  Hubble gamma-ray telescope \r\nZ)  Spitzer infrared spectrograph", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple choice  By what multiple does the brightness of two stars differ with \r\napparent magnitudes of \u20133 and +4:  \r\n \r\nW)  2.5 \r\nX)  25   \r\nY)  250 \r\nZ)  625", 
+    "tossupA": "Z)  SPITZER INFRARED SPECTROGRAPH", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd01"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) 1.9 \u00d7 10\r\n8 (Solution: 3.00 \u00d7 10<sup>8</sup>/1.55 = 1.9 \u00d7 10<sup>8</sup>)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the acceleration, in meters per second squared, of a  \r\n10-kilogram snow sled that is on a frictionless horizontal surface if a horizontal force of 500 newtons \r\nis applied to it?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  What is the speed of light in meters per second for monochromatic \r\nlight of 780 nanometers in glass with a refractive index of 1.55: \r\n \r\nW)  1.5 \u00d7 10\r\n8 \r\n \r\nX)  1.9 \u00d7 10<sup>8</sup> \r\nY)  4.65 \u00d7 10<sup>7</sup> \r\nZ)  4.65 \u00d7 10<sup>8</sup>", 
+    "tossupA": "50  \r\n \r\n(Solution:  A = F/M;  A = 500/10; A = 50 m/sec<sup>2</sup>)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd02"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  C\r\nn\r\nH\r\n2n", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is a nonpolar molecule: \r\n \r\nW)  HCN \r\nX)  HBr \r\nY)  CHCl\r\n3\r\n \r\nZ)  CO\r\n2", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is the general formula for a noncyclic \r\nalkene (read carefully as: al-KEEN) with n number of carbon atoms: \r\n \r\nW)  C\r\nn\r\nH\r\n2n\r\n \r\nX)  C\r\nn\r\nH\r\n2n+2\r\n \r\nY)  C\r\nn\r\nH\r\n2n\u20132\r\n \r\nZ)  C\r\nn\r\nH\r\n2n+1", 
+    "tossupA": "Z)  CO\r\n2", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd03"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y)  IN THE MITOCHONDRION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  In photosystem one, when NADP\r\n+\r\n forms NADPH with the catalytic \r\nhelp of NADP\r\n+\r\n reductase, from what specific place in the chloroplast are the hydrogen ions derived?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  The conversion of pyruvate to Acetyl Co-A occurs: \r\n \r\nW)  in the cytosol \r\nX)  in the ER \r\nY)  in the mitochondrion \r\nZ)  in the lysosome", 
+    "tossupA": "STROMA", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd04"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  ESKERS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is LEAST accurate regarding \r\npaleontology: \r\n \r\nW)  endothermic mammals thrived during the Cenozoic Era \r\nX)  the fossil records of birds is poor because of their thin bones and lack of teeth \r\nY)  the mastodon was a Proboscidian mammal of the Cenozoic Era \r\nZ)  trilobites are an important index fossil of the Mesozoic Era", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Deposited by subglacial streams, ridges of sand and \r\ngravel that form beneath the ablation zone of a glacier are called: \r\n \r\nW)  cirques \r\nX)  eskers \r\nY)  horns \r\nZ)  kames", 
+    "tossupA": "Z)  TRILOBITES ARE AN IMPORTANT INDEX FOSSIL OF THE MESOZOIC ERA", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd06"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z)  LISTERIA IS A WATERBORNE PARASITE \r\n(Solution:  it is food-borne)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is MOST commonly used for \r\nremoving many organic compounds in water in municipal water treatment plants: \r\n \r\nW)  activated charcoal \r\nX)  precipitation reactions \r\nY)  reverse osmosis \r\nZ)  dredging", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT true: \r\n \r\nW)  the epilimnion is the upper warm layer of water of a lake in summer \r\nX)  in cameras, the larger the f-number, the greater the depth of field \r\nY)  crab grass is better adapted to hot dry weather than Kentucky blue grass \r\nZ)  Listeria is a waterborne parasite", 
+    "tossupA": "W)  ACTIVATED CHARCOAL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd07"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y)  COOLER SUMMERS AND WARMER WINTERS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is LEAST accurate: \r\n \r\nW)  recent evidence suggests a subsurface salty ocean is present on the Moon Europa \r\nX)  spiral galaxies are actively forming stars \r\nY)  Earth\u2019s aphelion occurs on the summer solstice \r\nZ)  Julian days are often used as the time reference on light curves of stars", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  What would happen in the mid-northern latitudes if the tilt of \r\nthe Earth\u2019s axis decreased by 15 degrees: \r\n \r\nW)  warmer summers and warmer winters \r\nX)  cooler summers and cooler winters \r\nY)  cooler summers and warmer winters \r\nZ)  colder summers and colder winters", 
+    "tossupA": "Y)  EARTH\u2019S APHELION OCCURS ON THE SUMMER SOLSTICE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd08"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "212  (ACCEPT:  213) \r\n \r\n(Solution:  F = (300N)sin 45\u00ba = 300N \u00d7 0.707 = 212.1N)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following is generally NOT true regarding diffraction \r\nof light: \r\n \r\nW)  when white light is passed through a diffraction grating, shorter wavelengths are diffracted the \r\nmost \r\nX)  diffraction is wavelength dependent \r\nY)  if laser light is passed through a diffraction grating it will produce an interference pattern as a \r\nseries of dots on a screen \r\nZ)  white light passing through a diffraction grating is spread into a rainbow of colors", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A 300-newton box is placed on an inclined plane that makes a 45\u00ba \r\nangle with the horizontal.  Find the component of the box\u2019s weight parallel to the plane\u2019s surface, in \r\nnewtons to the nearest whole number:", 
+    "tossupA": "W)  WHEN WHITE LIGHT IS PASSED THROUGH A DIFFRACTION GRATING, \r\nSHORTER WAVELENGTHS ARE DIFFRACTED THE MOST", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd09"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X)  PEROXIDES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Dalton\u2019s gas law applies primarily to: \r\n \r\nW)  non-ideal gases \r\nX)  gas mixtures \r\nY)  density of gases \r\nZ)  molar mass of gas", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  The oxidation number of oxygen is \u20131 in: \r\n \r\nW)  normal oxides \r\nX)  peroxides \r\nY)  superoxides \r\nZ)  lithium oxide", 
+    "tossupA": "X)  GAS MIXTURES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd0a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z)  CALVIN CYCLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  According to the 3 domain system of classification with the 3 \r\ndomains being, Archaea, Bacteria and Eukarya, which of the following would be LEAST likely to \r\nbelong to the domain Bacteria: \r\n \r\nW)  chlamydia \r\nX)  spirochetes  (read as: spy-row-keets) \r\nY)  gram positive bacteria \r\nZ)  non-nucleated thermophiles", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  In which of the following does the RUBISCO enzyme play a \r\ncentral role: \r\n \r\nW)  Photosystem One \r\nX)  Electron Transport \r\nY)  Photosystem Two \r\nZ)  Calvin Cycle", 
+    "tossupA": "Z)  NON-NUCLEATED THERMOPHILES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd0b"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5 \u00b1 3i  (ACCEPT:  5 + 3i  AND 5 \u2013 3i)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Giving your answer in simplest radical form, rationalize the denominator \r\nof the following expression:  1/(3-&radic;x)", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Solve the following equation for x over the set of complex numbers, \r\ngiving your answer in simplest form:  x<sup>2</sup> \u2013 10x + 34 = 0", 
+    "tossupA": "(3 + &radic;x)/(9 - x)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd0c"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  GALENA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  A hurricane originating in the Eastern tropical Atlantic is \r\ndriven westward by: \r\n \r\nW)  the intertropical convergence zone \r\nX)  the prevailing westerlies \r\nY)  the easterly trade winds \r\nZ)  the doldrums", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT a silicate: \r\n \r\nW)  mica \r\nX)  galena \r\nY)  olivine \r\nZ)  potassium feldspar", 
+    "tossupA": "Y)  THE EASTERLY TRADE WINDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd0d"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "EARTH;  PLUTO;  TITAN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  What technique, used by the U.S. Navy in military \r\nexercises and suspected of harming many marine species, is the focus of a recent agreement to not \r\nrun these exercises within 40 kilometers of the new Hawaiian Islands Marine Reserve?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  Name all of the following 5 celestial bodies that have \r\natmospheres composed primarily of nitrogen:  Earth;  Uranus;  Venus;  Pluto;  Titan", 
+    "tossupA": "SONAR  (ACCEPT:  MIN-RANGE SONAR)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd0e"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "BROWN DWARFS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  A stargazer looks at Orion and sees a reddish star called \r\nBetelgeuse.  The redness is because the star is what type of star?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the MOST common name for the celestial objects that \r\nare called stars but since they are low mass objects of less than 0.08 solar masses they cannot \r\nundergo fusion?", 
+    "tossupA": "A RED GIANT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd0f"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "6 \u00d7 10\r\n14", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  The lens-maker\u2019s equation relates the focal length of a glass lens to \r\nthe radii of curvature of the lens\u2019s two surfaces and what other property of the lens?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Green light has a wavelength of 500 nanometers.  What is its \r\nassociated frequency, in hertz?", 
+    "tossupA": "INDEX OF REFRACTION  (ACCEPT:  REFRACTIVE INDEX)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd10"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "RUBIDIUM PERCHLORATE   \r\n(DO NOT ACCEPT:  RUBIDIUM ONE PERCHLORATE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  A molecule that contains 4 carbon-hydrogen single bonds and one \r\ncarbon-carbon double bond contains how many sigma and pi bonds, respectively?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the systematic IUPAC name for the compound RbClO\r\n4\r\n?", 
+    "tossupA": "SIGMA = 5;  PI = 1", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd11"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "POLIO VIRUS;  MITOCHONDRION;  ERYTHROCYTE;  MACROPHAGE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Animal tissues are generally divided into four main types.  If three of \r\nthem are, connective, nervous, and muscle, what is the fourth tissue?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Order the following 4 choices from the SMALLEST to the \r\nLARGEST, assuming average size for each:  erythrocyte;  mitochondrion;  polio virus;  macrophage", 
+    "tossupA": "EPITHELIAL  (ACCEPT:  EPITHELIUM)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd12"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3   \r\n \r\n(Solution:  (67L)(1mol Ar/22.4L) = 3 mol Ar)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the pH of a solution having a hydroxide ion concentration \r\nof 1 \u00d7 10\r\n\u20135 \r\nM?", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  At standard temperature and pressure, if a sample of argon has a \r\nvolume of 67 liters, how many moles of argon are in the sample, to the nearest whole number?", 
+    "tossupA": "9", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd13"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "90 \r\n \r\n(Solution: (n \u2013 2)180\u00ba = 176n;  n = 90)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the degree of the following monomial:  \u20136x<sup>2</sup>y<sup>4</sup>z<sup>3</sup>", 
+    "packetNum": 9, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the number of sides in a regular polygon if each interior angle \r\nmeasures 176 degrees:", 
+    "tossupA": "9", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd05"
+    }, 
+    "questionNum": 11
+  }
+]

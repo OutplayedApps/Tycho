@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "Y) POTENTIAL ENERGY FOR A SPRING IS INVERSELY PROPORTIONAL TO \r\nFORCE EXERTED BY THE SPRING", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is true? \r\n \r\nW) There is no preferred motionless frame from which to judge all motion \r\nX) When an object exerts a force on another, an equal amount of force is exerted back on it, \r\nexcept when friction is present \r\nY) The change in velocity of an object due to a force is proportional to the mass of the object \r\nZ) Frictional forces are proportional to the velocity of an object", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following does NOT properly relate force \r\nand potential energy? \r\n \r\nW) In a uniform gravitational field, force is directly proportional to negative mass times gravity \r\nX) Conservative forces push the system toward lower potential energy \r\nY) Potential energy for a spring is inversely proportional to force exerted by the spring \r\nZ) Force is proportional to the negative slope of the potential energy function", 
+    "tossupA": "W) THERE IS NO PREFERRED MOTIONLESS FRAME FROM WHICH TO JUDGE \r\nALL MOTION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd101"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CHINA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following planetary characteristics is \r\nestimated based on observations of abundance, size, and distribution of craters on the surface \r\nof other planets? \r\n \r\nW) Mineralogy \r\nX) Atmospheric conditions \r\nY) Geomorphology [jee-uh-mawr-FOL-uh-jee] \r\nZ) Age", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer The largest loess [LOH-es] province in the world can be \r\nfound in what country?", 
+    "tossupA": "Z) AGE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd103"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) ITS LUMINOSITY HAS DECREASED OVER TIME", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Bacteria are responsible for the majority of nitrogen \r\nfixation on the planet. Which of the following is also responsible for nitrogen fixation? \r\n \r\nW) Plankton \r\nX) Plants \r\nY) Insects \r\nZ) Lightning", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT an accurate description \r\nof our Sun? \r\n \r\nW) It has a spectral classification of G \r\nX) Its luminosity has decreased over time \r\nY) It has a life span of about 10 billion years \r\nZ) It will eventually expand to become a red giant", 
+    "tossupA": "Z) LIGHTNING", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd104"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) NATURAL THERMOSYPHON CIRCULATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following components of the solar irradiance falling on \r\na solar collector is affected directly by the incidence angle? \r\n \r\nW) Albedo \r\nX) Rate of diffusion \r\nY) Beam \r\nZ) Global horizontal", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Solar boilers and solar disinfectors both utilize which of the \r\nfollowing concepts to raise the temperature of water? \r\n \r\nW) Natural thermosyphon circulation [thur-muh-CY-fuhn] \r\nX) Zig zag collectors \r\nY) Autoclave plant \r\nZ) Cooling screens", 
+    "tossupA": "Y) BEAM", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd105"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Somatic mutations are which of the following? \r\n \r\nW) Germline \r\nX) Acquired \r\nY) Inherited \r\nZ) Always synonymous", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer A cell has the genotype AaBBccddEe [big A little a, big B big \r\nB, little c little c, little d little d, big E little e]. How many different genotypes are possible for \r\ngametes from this cell?", 
+    "tossupA": "X) ACQUIRED", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd106"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) THE REACTION IS SPONTANEOUS AT ANY TEMPERATURE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following statements about elastic and \r\ninelastic collisions is true? \r\n \r\nW) Elastic conserve momentum and kinetic energy; inelastic conserve only momentum \r\nX) Elastic conserve only kinetic energy; inelastic conserve momentum and kinetic energy \r\nY) Elastic conserve only momentum; inelastic conserve only kinetic energy \r\nZ) Elastic conserve only kinetic energy; inelastic conserve only momentum", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice For a particular chemical reaction, delta H is negative \r\nand delta S is positive. Which of the following is true? \r\n \r\nW) The reaction is spontaneous at any temperature \r\nX) The reaction is never spontaneous \r\nY) The reaction is only spontaneous when the temperature is greater than the heat of the \r\nreaction \r\nZ) The reaction is only spontaneous if the absolute value of delta H is greater than delta S", 
+    "tossupA": "W) ELASTIC CONSERVE MOMENTUM AND KINETIC ENERGY; INELASTIC \r\nCONSERVE ONLY MOMENTUM", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd107"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) (0, 0)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Darla wants to buy a new round card table with folding legs for her game \r\nroom. The opening in her doorway is 3 feet wide and 7 feet high. To the nearest whole number \r\nof feet, what is the diameter of the largest round table she can buy so that it fits through the \r\ndoorway?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice What is the fourth vertex, K, of parallelogram HIJK, if point H is \r\n(-2, -3), point I is (4, 4), and point J is (6, 7)? \r\n \r\nW) (0, 1) \r\nX) (1, 1) \r\nY) (0, 0) \r\nZ) (-1, 0)", 
+    "tossupA": "7", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd108"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) TUFF", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice What country has the largest coal reserves on Earth? \r\n \r\nW) China \r\nX) Russia \r\nY) Japan \r\nZ) United States of America", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice What is the name for rock formed from hot volcanic ash \r\nwelding together? \r\n \r\nW) Pumice \r\nX) Rhyolite [RY-uh-lyt] \r\nY) Obsidian \r\nZ) Tuff", 
+    "tossupA": "Z) UNITED STATES OF AMERICA", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd109"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) SHINING LIGHT THROUGH A HETEROGENEOUS MIXTURE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a molecular triatomic \r\ncompound with a linear molecular shape? \r\n \r\nW) Water \r\nX) Carbon dioxide \r\nY) Calcium chloride \r\nZ) Hydrogen peroxide", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following will most likely produce the \r\nTyndall effect? \r\n \r\nW) Warm ocean currents rising to meet cold ocean currents \r\nX) A fish creating ripples in a small pond \r\nY) Sending sound waves through a homogenous mixture [hoh-muh-JEE-nee-uhs] \r\nZ) Shining light through a heterogeneous mixture [het-er-uh-JEE-nee-uhs]", 
+    "tossupA": "X) CARBON DIOXIDE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd10a"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SUNLIGHT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Plants evolve adaptations to help them survive in different \r\nenvironments. One adaptation is an alternative pathway for photosynthesis. Which of the \r\nfollowing is a Crassulacean [kras-uh-LAY-shuhn] acid metabolism (CAM) plant? \r\n \r\nW) Sugar cane \r\nX) Corn \r\nY) Pineapple \r\nZ) Sugar maple tree", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Sulfide oxidizers, such as purple sulfur bacteria, dominate at \r\nthe anoxic-oxic interface in hot springs. They use the hydrogen from hydrogen sulfide to reduce \r\ncarbon dioxide to organic carbon, which can then be oxidized for energy. This process requires \r\nwhat external source of energy?", 
+    "tossupA": "Y) PINEAPPLE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd10b"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) URANIUM-236", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a true statement about \r\nthe angular momentum of an isolated system? \r\n \r\nW) It remains constant in magnitude \r\nX) It remains constant in direction \r\nY) It is a vector quantity \r\nZ) It is determined by dividing moment of inertia by angular velocity", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following compounds is NOT used as \r\nfuel in a nuclear reactor? \r\n \r\nW) Uranium-233 \r\nX) Uranium-235 \r\nY) Uranium-236 \r\nZ) Plutonium-239", 
+    "tossupA": "Z) IT IS DETERMINED BY DIVIDING MOMENT OF INERTIA BY ANGULAR \r\nVELOCITY", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd10c"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) 776", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Quadrilateral ABCD is inscribed in a circle. If the measure of angle C is \r\n2x degrees and the measure of angle A is 3x degrees, determine the value of x.", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Michael\u2019s bike has tires that are 26 inches in diameter. Which of the \r\nfollowing is closest to the number of revolutions his tires make in traveling one mile? \r\n \r\nW) 676 \r\nX) 726 \r\nY) 776 \r\nZ) 826", 
+    "tossupA": "36 (answer is unitless)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd10e"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1, 2, 3 (ACCEPT: SANTIAGO, ISABELA, SANTA FE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice The longest-ranging ice core temperature records \r\ncome from the Dome C ice core recovered in Antarctica. Which of the following is nearest to the \r\nnumber of years covered by the Dome C ice core? \r\n \r\nW) 800,000 \r\nX) 80,000 \r\nY) 8,000 \r\nZ) 800", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Identify all of the following four islands that are part of \r\nthe Galapagos: 1) Santiago, 2) Isabela, 3) Santa Fe, 4) Caprolites.", 
+    "tossupA": "W) 800,000", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd10f"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) CARBON MONOXIDE AND HYDROGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer A standard RC circuit has a time constant of 2 milliseconds, a 1 \r\nmillifarad capacitor, and a resistor. What is the resistance of the resistor in ohms?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Bio Syngas is a synthetic composition of what pair of gases? \r\n \r\nW) Ammonia and nitrogen \r\nX) Carbon monoxide and hydrogen \r\nY) Carbon dioxide and hydrogen \r\nZ) Helium and argon", 
+    "tossupA": "2", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd110"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) THE BULLET SAILS OVER WHERE THE FISH ACTUALLY IS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a common destiny for \r\nvesicles secreted from the Golgi apparatus? \r\n \r\nW) Nucleus \r\nX) Mitochondrion [my-tuh-KON-dree-uhn] \r\nY) Lysosome [LY-suh-sohm] \r\nZ) Microtubule", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice A cat on a pier sees a fish below in the water. The \r\nactual position of the fish is below and in front of the cat at 45\u00b0 from the normal. The cat has a \r\npellet gun and excellent marksmanship. He aims for exactly where he sees the fish and shoots. \r\nConsidering the properties of light, what happens? \r\n \r\nW) The cat hits the fish \r\nX) The bullet sails over where the fish actually is \r\nY) The bullet sails underneath where the fish actually is \r\nZ) The bullet goes to the left or right of where the fish actually is", 
+    "tossupA": "Y) LYSOSOME", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd111"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) BLUE MARLIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the term for the plant photosynthetic tissue, \r\ninterspersed with veins, that is located between the lower and upper epidermis of a leaf?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following organisms is least likely to perform \r\nwell in a hypoxic region of the ocean? \r\n \r\nW) Sperm whale \r\nX) Blue marlin \r\nY) Humboldt squid \r\nZ) Vampire squid", 
+    "tossupA": "MESOPHYLL", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd112"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) TRIBOELECTRIC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true? \r\n \r\nW) Electric field is a vector quantity \r\nX) Force is a scalar quantity [SKAY-ler] \r\nY) The force on a negative particle is opposite to the field direction \r\nZ) Electric field is uniform when magnitude and direction remain unchanged", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice The concept of \u201cstatic cling,\u201d whereby electrons can \r\nbe interchanged amongst materials with different degrees of electron affinity, is known as which \r\nof the following effects? \r\n \r\nW) Electrostatic \r\nX) Triboelectric \r\nY) Piezoelectric [py-ee-zoh-i-LEK-trik] \r\nZ) Pyroelectric [py-roh-i-LEK-trik]", 
+    "tossupA": "X) FORCE IS A SCALAR QUANTITY", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd113"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) XYLEM TRANSPORTS WATER AND DISSOLVED NUTRIENTS, WHILE \r\nPHLOEM TRANSPORTS DISSOLVED ORGANIC MATERIALS IN AN AQUEOUS SOLUTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice If you were a pirate in the 15th century, you might very well \r\nsuffer from scurvy. In order to prevent the disease, which of the following should you consume? \r\n \r\nW) Oranges \r\nX) Calcium carbonate \r\nY) Rice \r\nZ) Penicillin", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice The difference between xylem [ZY-luhm] and phloem \r\n[FLOH-em] is which of the following? \r\n \r\nW) Xylem transports water and dissolved nutrients, while phloem transports dissolved organic \r\nmaterials in an aqueous solution [AK-wee-uhs] \r\nX) Phloem transports water and minerals, while xylem transports sugars \r\nY) Phloem is not found in plants, while xylem is only present in plants \r\nZ) Xylem is not found in plants, while phloem is only present in plants", 
+    "tossupA": "W) ORANGES", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd115"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1, 3, 4, 2 (ACCEPT: QUARTZ, PYRITE, ARAGONITE, HALITE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following general statements is NOT true \r\nregarding the Arctic? \r\n \r\nW) It is a smaller continent than the Antarctic \r\nX) It is warmer than the Antarctic \r\nY) It is at a lower elevation than the Antarctic \r\nZ) It is less isolated from other landmasses than the Antarctic", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Rank the following four minerals from hardest to softest: \r\n1) quartz, 2) halite, 3) pyrite, 4) aragonite [uh-RAG-uh-nyt].", 
+    "tossupA": "W) IT IS A SMALLER CONTINENT THAN THE ANTARCTIC", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd116"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "ARTESIAN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Halogen lights are a special kind of incandescent \r\nlamp that has a small amount of a halogen gas added to the glass coating. Which of the \r\nfollowing is an example of a chemical from the halogen group? \r\n \r\nW) Iodine \r\nX) Silver \r\nY) Lead \r\nZ) Carbon", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer A rogue helicopter pilot captures you and drops you in \r\nthe middle of a desert. All around you is desert and you think all hope is lost. But suddenly, you \r\nsee a group of trees at the bottom of a valley. You make your way there and find a small pond \r\nsurrounded by the trees. What type of underground rock formation is providing this beautiful \r\ndesert oasis?", 
+    "tossupA": "W) IODINE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd117"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CYCLINS, CYCLIN-DEPENDENT KINASES (ACCEPT: CDKS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT an accurate comparison \r\nbetween meiosis [my-OH-sis] and mitosis [my-TOH-sis]? \r\n \r\nW) During metaphase in mitosis, chromosomes line up at the equator, while during metaphase \r\nI, homologous [huh-MOL-uh-guhs] pairs line up at the equator \r\nX) In prophase in mitosis, chromosomes are made of two sister chromatids [KROH-muh-tids], \r\nwhile in prophase I, homologous chromosomes form tetrads \r\nY) In both anaphase in mitosis and anaphase I of meiosis, sister chromatids separate \r\nZ) Mitosis produces two identical cells, while meiosis produces four daughter cells", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer In a normal cell cycle in eukaryotes [yoo-KAR-ee-ohts], what \r\ntwo families of proteins are required to permit movement through the cell cycle?", 
+    "tossupA": "Y) IN BOTH ANAPHASE IN MITOSIS AND ANAPHASE I OF MEIOSIS, SISTER \r\nCHROMATIDS SEPARATE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd118"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) HURRICANE KATRINA HAD AN ASYMMETRIC, BROAD WIND FIELD, BUT \r\nHURRICANE SANDY HAD A COMPACT, SYMMETRICAL WIND FIELD", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Your teacher asks you to draw a free body diagram of a box being \r\nmoved by a rope and pulley system. Which of the following should be included? \r\n \r\nW) All forces acting on the box \r\nX) All forces exerted by the box on itself \r\nY) All forces exerted by the box on other objects \r\nZ) Both forces for all action-reaction pairs", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following is NOT an accurate comparison between \r\nHurricane Katrina and Hurricane Sandy? \r\n \r\nW) Hurricane Katrina\u2019s winds were more intense, but they covered less area than Hurricane \r\nSandy\u2019s winds \r\nX) Hurricane Katrina had an asymmetric, broad wind field, but Hurricane Sandy had a compact, \r\nsymmetrical wind field \r\nY) Hurricane Katrina generated a locally higher storm surge, but Hurricane Sandy generated a \r\ndestructive surge over a longer length of coastline \r\nZ) Hurricane Katrina\u2019s strongest winds were just east of its eye, but Hurricane Sandy\u2019s winds \r\nwere weakest to the east", 
+    "tossupA": "W) ALL FORCES ACTING ON THE BOX", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd119"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "122\u00b0", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the coefficient of x<sup>2</sup> in the expansion of (2x\u22123)<sup>3</sup> [open \r\nparenthesis 2 x minus 3 close parenthesis cubed]?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the minimum Fahrenheit temperature in degrees that will make \r\nthe Celsius temperature greater than or equal to 50 degrees?", 
+    "tossupA": "-36", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd114"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "162", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Two perpendicular lines are represented by the equations 2x \u2013 3y = 6 \r\nand 6x + ky = 4. What is the value of k? \r\n \r\nW) -4 \r\nX) 4 \r\nY) -9 \r\nZ) 9", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many right isosceles triangles with 4 inch legs can be cut from 1 \r\nsquare yard of material?", 
+    "tossupA": "X) 4", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd102"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) THE LOCATION OF THE CELLS IN THE EMBRYO", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following statements is NOT true \r\nregarding disaccharides [dy-SAK-uh-ryds]? \r\n \r\nW) Maltose is composed solely of glucose monomers \r\nX) Sucrose is composed of glucose and fructose monomers \r\nY) Lactose is composed of fructose and galactose monomers \r\nZ) Cellobiose [sel-oh-BY-ohs] is composed solely of glucose monomers", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice What determines how cells in a developing embryo \r\nwill differentiate? \r\n \r\nW) Symmetry after the first division of cells \r\nX) The location of the cells in the embryo \r\nY) The number of cells in the embryo \r\nZ) The DNA present in the cells of the embryo", 
+    "tossupA": "Y) LACTOSE IS COMPOSED OF FRUCTOSE AND GALACTOSE MONOMERS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd10d"
+    }, 
+    "questionNum": 13
+  }
+]

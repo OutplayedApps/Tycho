@@ -1,0 +1,393 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "X) \u00bd R", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A car rounds a curve on a level road. What most \r\ndirectly provides the centripetal force on the car? \r\n \r\nW) Inertia \r\nX) Gravity \r\nY) Friction between the tires and the road \r\nZ) The force applied to the steering wheel", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Two resistors of equal resistance R are in parallel. \r\nWhat is the equivalent resistance of this circuit? \r\n \r\nW) 0 R \r\nX) \u00bd R \r\nY) R \r\nZ) 2 R", 
+    "tossupA": "Y) FRICTION BETWEEN THE TIRES AND THE ROAD", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd355"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) LEFT-LATERAL FAULT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer The Basin and Range region of Nevada is characterized \r\nby an abundance of what kind of faults?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice You are looking west, at a fault in a region of shear. \r\nAcross the fault, on the western side, the stream bed has been offset to the south, though no \r\nvertical movement has been detected. How do you describe this fault? \r\n \r\nW) Low angle thrust fault \r\nX) Left-lateral fault \r\nY) Right normal fault \r\nZ) Oblique-slip fault", 
+    "tossupA": "NORMAL (ACCEPT: DIP-SLIP)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd356"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "W) 5 tan 41", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the smallest integer radius of a circle centered at the point (3, 4) \r\nsuch that the point (9, 9) is within the interior of the circle?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice In triangle ABC, angle C measures 90 degrees and angle A measures \r\n41 degrees. The length of AC is 5 feet. Which expression is equivalent to the length of BC? \r\n \r\nW) 5 tan 41[5 tangent 41] \r\nX) 5 tan 49 [5 tangent 49] \r\nY) 5 sin 49 [5 sine 49] \r\nZ) 5 sin 41[5 sine 41]", 
+    "tossupA": "8", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd357"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) EARTH\u2019S MAGNETIC FIELD", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer Which group of gases, commonly produced from refrigerator \r\ncoolants, is largely responsible for the destruction of Earth\u2019s ozone layer?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice What prevents most of the consequences of a solar flare from \r\nreaching the Earth\u2019s surface? \r\n \r\nW) Earth\u2019s ionosphere \r\nX) Earth\u2019s magnetic field \r\nY) Nothing - it all reaches the Earth\u2019s surface \r\nZ) Earth\u2019s stratosphere", 
+    "tossupA": "CHLOROFLUOROCARBONS (ACCEPT: CFCS)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd358"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CELL WALL AND PLASMA MEMBRANE (ACCEPT: CELL MEMBRANE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following parts of the cytoskeleton is involved in \r\nmoving chromosomes during cell division? \r\n \r\nW) Microfilaments \r\nX) Microtubules \r\nY) Intermediate filaments \r\nZ) Vesicles [VES-i-kuhls]", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer A plant cell contains two external layers. One layer gives \r\nsupport to the cell but does not filter what may enter and exit. The other layer does not provide \r\nsupport but does filter compounds. Respectively, name the two layers.", 
+    "tossupA": "X) MICROTUBULES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd359"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "SEAWATER, HUMAN BLOOD, VINEGAR, BATTERY ACID", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following best describes hypothesis-\r\nbased inquiry? \r\n \r\nW) Deductive reasoning \r\nX) Logical reasoning \r\nY) Inductive reasoning \r\nZ) Intuitive reasoning", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Put the following four solutions in order from least acidic \r\nto most acidic: vinegar, human blood, battery acid, and seawater.", 
+    "tossupA": "W) DEDUCTIVE REASONING", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd35a"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) MASS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following electromagnetic waves has a \r\nshorter wavelength than visible light waves? \r\n \r\nW) Radar \r\nX) Infrared \r\nY) Ultraviolet \r\nZ) Microwave", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE\u00a0Multiple Choice Which of the following properties of an atomic electron \r\nis not associated with a quantum number? \r\n \r\nW) Energy \r\nX) Mass \r\nY) Spin \r\nZ) Angular momentum", 
+    "tossupA": "Y) ULTRAVIOLET", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd35b"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "3, 2, 1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice What highly efficient technology is currently employed to allow \r\nsatellites to maintain their orbits without carrying large quantities of fuel? \r\n \r\nW) Warp drive \r\nX) Chemical propulsion \r\nY) Solar sails \r\nZ) Ion thruster", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer By number, in descending order, rank the potential energy of an \r\nobject in the following three situations: 1) 30 kilogram at 10 meters from the Moon\u2019s surface;       \r\n2) 30 kilogram at 20 meters from the Earth\u2019s surface; 3) 10 kilogram at 70 meters from the \r\nEarth\u2019s surface", 
+    "tossupA": "Z) ION THRUSTER", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd35c"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "LIVER AND KIDNEYS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following traits is NOT a characteristic of \r\nmodern birds? \r\n \r\nW) Feathers \r\nX) A three-chambered heart \r\nY) A beak with no teeth \r\nZ) A lightweight but strong skeleton", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What are the two major organs that degrade hormones?", 
+    "tossupA": "X) A THREE-CHAMBERED HEART", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd35f"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) MELTING FOLLOWED BY CRYSTALLIZATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following can be found in both \r\nprokaryotic [proh-KAR-ee-oh-tik] and eukaryotic [yoo-KAR-ee-oh-tik] cells? \r\n \r\nW) Nuclei [NOO-klee-eye] \r\nX) Chloroplasts \r\nY) Mitochondria [my-tuh-KON-dree-uh] \r\nZ) Flagella", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following best describes how \r\nmetamorphic rock turn into igneous rock [IG-nee-uhs]? \r\n \r\nW) Erosion followed by sedimentation \r\nX) Melting \r\nY) Tectonic burial \r\nZ) Melting followed by crystallization", 
+    "tossupA": "Z) FLAGELLA", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd360"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) CONVECTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice The speed needed to put a satellite into orbit does \r\nNOT depend on which of the following? \r\n \r\nW) The mass of the satellite \r\nX) The radius of the orbit \r\nY) The shape of the orbit \r\nZ) The gravity at the orbit", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of these types of heat transfer explains how \r\nthe water molecules in coffee carry scent molecules across a restaurant? \r\n \r\nW) Radiation \r\nX) Conduction \r\nY) Convection \r\nZ) Osmosis", 
+    "tossupA": "W) THE MASS OF THE SATELLITE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd361"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "DECREASE IN AGE (ACCEPT: GET YOUNGER; DECREASE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT a component of the \r\ncontinental margin of western South America? \r\n \r\nW) Shallow abyssal plain [uh-BIS-uhl] \r\nX) Narrow continental shelf \r\nY) Active volcanic belt inland \r\nZ) Trench offshore", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer You are walking along an eroded dome structure. How \r\nwill the age of strata change if you start from the center and walk outward?", 
+    "tossupA": "W) SHALLOW ABYSSAL PLAIN", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd362"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "48", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice In a coordinate system, a lattice point is a location with integer \r\ncoordinates. How many lattice points lie on the circle x<sup>2</sup> + y<sup>2</sup> = 25 [x squared plus y squared \r\nequals 25]? \r\n \r\nW) 4 \r\nX) 6 \r\nY) 12 \r\nZ) 20", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A manufacturing facility wants to stack identical boxes along the side \r\nwall of a storage room. The wall is 18 feet wide and 8 feet tall. Each box is 18 inches by 18 \r\ninches by 2 feet. They are stacked against the wall from floor to ceiling and are placed so that \r\nthe height of each box is 2 feet. How many boxes can be stacked against the wall?", 
+    "tossupA": "Y) 12", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd363"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) A BUMBLE BEE LARVA FORMING A PUPA AND EMERGING AS A MATURE \r\nADULT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the name of a mat of absorptive filaments of fungus?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is an example of metamorphosis? \r\n \r\nW) A rabbit giving birth to eight young \r\nX) A bumble bee larva forming a pupa and emerging as a mature adult \r\nY) A baby bird emerging from the egg \r\nZ) A stink bug transitioning through multiple instars eventually becoming a mature adult", 
+    "tossupA": "MYCELIUM (ACCEPT: MYCELIA)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd364"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "EGG (ACCEPT: SECONDARY OOCYTES, OOCYTES, OVA, OVUM) AND SPERM \r\nCELLS (ACCEPT: SECONDARY SPERMATOCYTES, SPERMATOZOA, SPERMATIDS; DO \r\nNOT ACCEPT: SEX CELLS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following archipelagos is an example of \r\na geologic \u201chot spot\u201d? \r\n \r\nW) Hawaiian Islands \r\nX) British Virgin Islands \r\nY) Samoan Islands \r\nZ) Philippines", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What are the two types of human cells that are haploid?", 
+    "tossupA": "W) HAWAIIAN ISLANDS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd365"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) IT LOSES ONE ELECTRON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is a physical change? \r\n \r\nW) Combustion \r\nX) Electrolysis \r\nY) Sublimation \r\nZ) Fermentation", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Why does sodium becomes positively charged when \r\nit combines with chlorine? \r\n \r\nW) It loses one electron \r\nX) It gains one electron \r\nY) It forms a covalent bond \r\nZ) It has more electrons than protons", 
+    "tossupA": "Y) SUBLIMATION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd366"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "250", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice How is energy transported in the layer of the Sun just below the \r\nphotosphere? \r\n \r\nW) Conduction \r\nX) Convection \r\nY) Radiation \r\nZ) Wave motion", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer A conventional home pressure cooker can increase the pressure to \r\nabout twice that of atmospheric pressure. In degrees Fahrenheit rounded to the nearest 10, \r\nwhat would be the boiling point of water held at twice atmospheric pressure?", 
+    "tossupA": "X) CONVECTION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd367"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) ACTIVE MARGINS ARE MORE LIKELY TO HAVE ASH AND OTHER VOLCANIC \r\nMATERIALS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer Dip-slip faults are associated with what two kinds of \r\nforces?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice How do sediments found on continental shelves of \r\nactive margins compare to those at passive margins? \r\n \r\nW) Limestone is only present at passive margins \r\nX) Terrigenous and carbonate sediments are limited to active margins [te-RIJ-uh-nuhs] \r\nY) Both margins are devoid of river-carried sediments \r\nZ) Active margins are more likely to have ash and other volcanic materials", 
+    "tossupA": "COMPRESSIONAL AND TENSIONAL (ACCEPT: COMPRESSION AND TENSION)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd368"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) THERE ARE TRUE BLOOD VESSELS PRESENT IN THE FLATWORMS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following birds dives below the ocean surface \r\nto find fish? \r\n \r\nW) Jaegers [JAY-gers] \r\nX) Gulls \r\nY) Petrels \r\nZ) Frigates", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements about flatworms is NOT \r\ncorrect? \r\n \r\nW) Flatworms have no true body cavity and an incomplete digestive system \r\nX) Flatworms do not have a respiratory system \r\nY) There are true blood vessels present in the flatworms \r\nZ) The flatworms have a ladder-like nervous system with a distinct head region that includes \r\nnerve cells and sensory organs", 
+    "tossupA": "Y) PETRELS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd36a"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) PERMINERALIZATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT an anticipated result of \r\nglobal climate change? \r\n \r\nW) Increased ocean acidity \r\nX) Rise in average global temperatures \r\nY) More severe and frequent storms \r\nZ) Increased permafrost coverage", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Petrified wood is formed by which of the following \r\nfossilization types? \r\n \r\nW) Molds and casts \r\nX) Compression \r\nY) Permineralization \r\nZ) Preserved remains", 
+    "tossupA": "Z) INCREASED PERMAFROST COVERAGE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd36b"
+    }, 
+    "questionNum": 25
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the remainder when 6\u0b38 [6 raised to the power of 4] is divided \r\nby 5?", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Given a line segment in a plane, how many different 30-60-90 right \r\ntriangles in the plane have the given line segment as a side?", 
+    "tossupA": "1", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd35e"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) THE PERIOD BEGAN WITH A LARGE MASS EXTINCTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice At the most basic level, wind is caused by differences in \r\natmospheric pressure. When there is a difference, air moves in which of the following \r\ndirections? \r\n \r\nW) Clockwise to anticlockwise direction \r\nX) Area of low friction to area of high friction \r\nY) Higher to lower pressure area \r\nZ) Lower to higher pressure area", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT true of the Cretaceous \r\n[kri-TAY-shuhs] geologic time period? \r\n \r\nW) It follows the Jurassic period \r\nX) It is the last period in the Mesozoic era \r\nY) It was a period of relatively warm climate \r\nZ) The period began with a large mass extinction", 
+    "tossupA": "Y) HIGHER TO LOWER PRESSURE AREA", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd35d"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4\u221a6 AND \u221a146", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice What is the product of the unique prime factors of 72? \r\n \r\nW) 6 \r\nX) 24 \r\nY) 72 \r\nZ) 144", 
+    "packetNum": 14, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Given that a particular right triangle has two sides of length 5 and 11, \r\nwhat are the possible lengths of the third side?", 
+    "tossupA": "W) 6", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd369"
+    }, 
+    "questionNum": 21
+  }
+]

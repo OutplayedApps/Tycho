@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "W) POTASSIUM HYDROXIDE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following statements is TRUE: \r\n \r\nW) for a heavy element to be stable the number of protons typically equals the number of neutrons \r\nX) the faster a boiling uncovered pot of water boils the hotter the water becomes \r\nY) cellulose is an example of a natural polymer \r\nZ) the speed of light is always the same", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a salt: \r\n \r\nW) potassium hydroxide \r\nX) potassium bromide \r\nY) magnesium chloride \r\nZ) calcium carbonate", 
+    "tossupA": "Y) CELLULOSE IS AN EXAMPLE OF A NATURAL POLYMER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb89"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LATERAL MORAINES (DO NOT ACCEPT: MORAINE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice A high-pressure weather system is typically associated with \r\nwhich of the following conditions: \r\n \r\nW) cool with high thin clouds \r\nX) cool with nimbostratus clouds \r\nY) warm with moderate overcast \r\nZ) warm with cumulonimbus clouds", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What is the specific name for ridges of the giant \r\naccumulations of glacial till that form along the outer sides or edges of an alpine glacier?", 
+    "tossupA": "W) COOL WITH HIGH THIN CLOUDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb8a"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "720 \r\n \r\n(Solution: (6 \u2013 2)(180) = 720\u00ba)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer How many faces does a dodecagon have?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the sum of all interior angles, in degrees, in a regular hexagon:", 
+    "tossupA": "12", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb8b"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) CONSUME ONLY PASTEURIZED DAIRY PRODUCTS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice A recent 375-million year old fossil discovered in the \r\nupper reaches of Canada had many unusual features including a flat head with eyes on top and \r\noverlapping ribs. This was a major discovery because it is believed this: \r\n \r\nW) represents a missing link between fish and land vertebrates \r\nX) was the first juvenile Tyrannosaurus ever found in Canada \r\nY) was an amphibian bird from the Cretaceous Period \r\nZ) supports vertebrates evolving first on land rather than at sea", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following practices is one of the MAIN \r\nways of preventing Brucellosis in humans: \r\n \r\nW) avoid tick bites \r\nX) include vitamin C in your diet \r\nY) include niacin in your diet \r\nZ) consume only pasteurized dairy products", 
+    "tossupA": "W) REPRESENTS A MISSING LINK BETWEEN FISH AND LAND \r\nVERTEBRATES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb8c"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "23", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the BEST example of a \r\nheterozygous condition: \r\n \r\nW) non-identical twins \r\nX) the matching alleles for a certain physical characteristic are different \r\nY) one of a pair of chromosomes is lost \r\nZ) two zygotes are fused together", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Meiosis is typically divided into meiosis 1 and meiosis 2. In a \r\ntypical human egg cell, how many chromosomes will it have in each cell after meiosis 1?", 
+    "tossupA": "X) THE MATCHING ALLELES FOR A CERTAIN PHYSICAL CHARACTERISTIC \r\nARE DIFFERENT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb8d"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "NaCl; KBr", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is typically TRUE: \r\n \r\nW) rare earth metals are also known as alkali metals \r\nX) a combustion reaction releases heat \r\nY) noble gases are very reactive elements \r\nZ) a reaction in equilibrium cannot move forward or backward", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 4 choices that contain ionic \r\nbonds: NaCl; O\r\n2\r\n; KBr; CO\r\n2", 
+    "tossupA": "X) A COMBUSTION REACTION RELEASES HEAT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb8e"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) SILICA CONTENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is a volcano that is generally the \r\nsmallest type, has very steep slopes, and would most likely result from a single violent eruption: \r\n \r\nW) stratovolcano \r\nX) cinder cone \r\nY) shield volcano \r\nZ) lava dome", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following primarily influences the viscosity \r\nand therefore the explosivity of a magma: \r\n \r\nW) silica content \r\nX) gas content \r\nY) temperature \r\nZ) pressure", 
+    "tossupA": "X) CINDER CONE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb8f"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) POTASSIUM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the MAIN advantage of the \r\nLED, or light emitting diode, versus the conventional incandescent lamp: \r\n \r\nW) efficiency \r\nX) size \r\nY) they can be made out of plastic \r\nZ) they are cheaper to manufacture", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following elements is essential to the \r\nhuman body for muscle and nerve function and maintaining fluid balance: \r\n \r\nW) iodine \r\nX) potassium \r\nY) calcium \r\nZ) iron", 
+    "tossupA": "W) EFFICIENCY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb91"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "IRON AND NICKEL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the BEST description of the \r\narrangement of the magnetic domains of an unmagnetized iron bar: \r\n \r\nW) all are aligned at 180\u00ba to each other \r\nX) all are aligned at 90\u00ba to each other \r\nY) they are randomly arranged \r\nZ) there are no magnetic domains in this case", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Which 2 of the following 4 elements are most easily \r\nmagnetized at room temperature: iron; copper; nickel; aluminum", 
+    "tossupA": "Y) THEY ARE RANDOMLY ARRANGED", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb93"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) HOLOCENE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true about glaciations: \r\n \r\nW) about 15,000 years ago, most of Wisconsin was buried under thick glacial ice \r\nX) throughout history, times such as now when only minor ice sheets existed coincided with high \r\nsea levels \r\nY) because of its high altitude, Mt. Everest contains a vast continental glacier \r\nZ) Australia does not currently contain any glaciers", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is the Epoch name given to the \r\nlast approximately 10,000 years of Earth\u2019s history: \r\n \r\nW) Quaternary \r\nX) Eocene \r\nY) Miocene  \r\nZ) Holocene", 
+    "tossupA": "Y) BECAUSE OF ITS HIGH ALTITUDE, MT. EVEREST CONTAINS A VAST \r\nCONTINENTAL GLACIER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb94"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) LYME DISEASE IS TREATED WITH ANTI-VIRAL DRUGS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice If you notice a red-ringed rash similar to the shape of a \r\nbull\u2019s-eye, which of the following diseases would you expect you have: \r\n \r\nW) malaria \r\nX) poison ivy \r\nY) sickle cell anemia \r\nZ) Lyme disease", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true about Lyme \r\ndisease: \r\n \r\nW) only a small percentage of tick bites in the U.S. result in Lyme disease \r\nX) in early stages, people experience flu-like symptoms \r\nY) Lyme disease is treated with anti-viral drugs \r\nZ) the ticks that carry the disease are about the size of a sesame seed", 
+    "tossupA": "Z) LYME DISEASE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb96"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) ACETYLCHOLINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the name for the blood cell in \r\nhumans that plays the most central role in regulating the immune system: \r\n \r\nW) macrophage \r\nX) mast cell \r\nY) erythrocyte \r\nZ) lymphocyte", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is a common excitatory \r\nneurotransmitter in mammals: \r\n \r\nW) acetylcholine \r\nX) insulin \r\nY) estrogen \r\nZ) glycine", 
+    "tossupA": "Z) LYMPHOCYTE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb97"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) AS A LIGHT WAVE\u2019S FREQUENCY INCREASES SO MUST ITS AMPLITUDE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Real images produced by a single lens are always: \r\n \r\nW) upright \r\nX) inverted \r\nY) virtual \r\nZ) smaller", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true: \r\n \r\nW) sound waves can be considered longitudinal waves \r\nX) light slows down when it enters glass from dry air \r\nY) as a light wave\u2019s frequency increases so must its amplitude \r\nZ) light can be produced with one frequency", 
+    "tossupA": "X) INVERTED", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb98"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) POROUS SUBSURFACE ROCK SATURATED WITH WATER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is the primary process by which \r\ncolder ocean water loaded with nutrients rises to the surface: \r\n \r\nW) upwelling \r\nX) ocean swells \r\nY) maelstroms \r\nZ) eddies", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following BEST describes or exemplifies an \r\naquifer: \r\n \r\nW) superheated water bursting through surface cracks in the Earth  \r\nX) a lake, pond or stream \r\nY) the side of a mountain facing the prevailing winds \r\nZ) porous subsurface rock saturated with water", 
+    "tossupA": "W) UPWELLING", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb99"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "248 \r\n \r\n(Solution: A = 2lw + 2lh + 2wh = 2(10)(6) + 2(10)(4) + 2(6)(4) = 248 cm)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Find the value of the following logarithmic expression: log\r\n<sub>25</sub>\r\n 5", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the surface area of a closed box, in centimeters, with a width of \r\n6, height of 4, and length of 10 centimeters, respectively?", 
+    "tossupA": "1/2 (ACCEPT: 0.5)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb9a"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) A METABOLIC DISEASE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is an anti-oxidant vitamin \r\ntypically found in relatively high amounts in vegetable oils, nuts and dark green leafy vegetables: \r\n \r\nW) vitamin K \r\nX) vitamin C \r\nY) vitamin D \r\nZ) vitamin E", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Thyroid disease is typically thought of as: \r\n \r\nW) a blood disorder \r\nX) a metabolic disease \r\nY) a digestive system disorder \r\nZ) an immune system disorder", 
+    "tossupA": "Z) VITAMIN E", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb9b"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) ATP", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the phylum to which organisms \r\nwith large amounts of chitin belong: \r\n \r\nW) Anthophyta \r\nX) Arthropoda \r\nY) Vertebrata \r\nZ) Ginkophyta", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the MOST readily available energy \r\nstore during normal human cellular conditions: \r\n \r\nW) fat \r\nX) proteins \r\nY) ATP \r\nZ) glucose", 
+    "tossupA": "X) ARTHROPODA", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb9c"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "9,000 \r\n \r\n(Solution: 90/10 \u00d7 1000 = 9000)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Assuming a planet has a gravitational force of 5 meters \r\nper second squared, what would an object\u2019s weight be, in newtons, if it has a specific gravity of 2 \r\nand a mass of 5 kilograms?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the mass, in grams, of a bag of beans that weighs \r\n90 newtons if the force of gravity is assumed to be 10 meters per second squared?", 
+    "tossupA": "25", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb9d"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SIRIUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer Which 2 of the following 5 choices are sedimentary rocks \r\nformed as the result of evaporation and precipitation: gypsum; marble; rock salt; gneiss; diorite", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer As viewed from Earth, what is the proper name for the \r\nbrightest-appearing star in the night sky of mid northern latitudes?", 
+    "tossupA": "GYPSUM; ROCK SALT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb9e"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "ALICE = 6; TED = 18 \r\n \r\n(Solution: 3x + 6 = 2(x + 6); x = 6 (Alice); 3x = 18 (Ted))", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What are the exact lengths, in centimeters, of the shorter and longer legs, \r\nrespectively, of a 30-60-90 degree right triangle if the length of the hypotenuse is 12 centimeters?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Today, Ted is 3-times as old than Alice. In 6 years from now, Ted will \r\nbe twice as old as Alice will be. How many years old, respectively, are Alice and Ted today?", 
+    "tossupA": "SHORTER LEG = 6; LONGER LEG = 6\r\n3", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb9f"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "NITROGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer If solid dry ice is placed in a sealed sandwich bag at room \r\ntemperature, the bag quickly expands because of the release of what gas?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name the gas that has a very high partial pressure in air \r\nand is the main problem in decompression sickness, commonly known as the bends, that can happen \r\nto deep-sea divers if they swim to the surface too quickly?", 
+    "tossupA": "CARBON DIOXIDE (ACCEPT: CO\r\n2\r\n)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccba0"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "y = -4x + 6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate the following radical: \u2013&radic;(144/9)", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Giving your answer in slope-intercept form, what is the equation of the \r\nline passing through the point (2, 1) that is parallel to the line with the equation 3y + 12x = 6?", 
+    "tossupA": "\u20134", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb90"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "PULMONARY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the anatomical term for the nerves in humans that \r\nconduct messages from the eyes to the brain?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the scientific name for the veins in humans that return \r\noxygen rich blood to the heart?", 
+    "tossupA": "OPTIC", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb92"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "20ab<sup>2</sup>&radic;c", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Give the numerical value of 25 factorial divided by 24 factorial:", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Express the following radical in its simplest radical form if all variables \r\nrepresent positive quantities: 5 &radic;(16a<sup>2</sup>b<sup>4</sup>c)", 
+    "tossupA": "25", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccb95"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ADRENAL GLAND", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Of the four general types of biological molecules, proteins, \r\ncarbohydrates, lipids and nucleic acids, under which one would insulin be categorized?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What specific human gland is the primary production site of \r\nepinephrine?", 
+    "tossupA": "PROTEINS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccba1"
+    }, 
+    "questionNum": 27
+  }
+]

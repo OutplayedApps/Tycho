@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "METAL = SODIUM; METALLOID = SILICON; NONMETAL = NEON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following does NOT correctly describe \r\nforce in the context of a moving object? \r\n \r\nW) It is a vector \r\nX) It has a magnitude \r\nY) It is dependent on mass \r\nZ) It is independent of acceleration", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Identify the following three elements as a metal, \r\nmetalloid and nonmetal, respectively: silicon, sodium, neon.", 
+    "tossupA": "Z) IT IS INDEPENDENT OF ACCELERATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd06c"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "4 (ACCEPT: THE STATISTICIANS WHO ANALYZE THE DATA)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice All chordates [KAWR-dayts] possess which of the \r\nfollowing? \r\n \r\nW) A notochord \r\nX) A spinal cord \r\nY) Lungs \r\nZ) A four-chambered heart", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Identify all of the following four parties who know which \r\nsubjects are in which treatment groups in a double blind study involving human subjects: 1) the \r\nsubjects, 2) the investigators who carry out the study, 3) the investigators who plan the study, 4) \r\nthe statisticians who analyze the data.", 
+    "tossupA": "W) A NOTOCHORD", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd06d"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) ON TOP OF A GLACIER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Most gemstones belong to what class of minerals? \r\n \r\nW) Phosphates \r\nX) Oxides \r\nY) Carbonates \r\nZ) Silicates", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice A supraglacial lake would be located at which of the \r\nfollowing locations? \r\n \r\nW) Underneath a glacier \r\nX) On top of a glacier \r\nY) In the moraine of a retreating glacier \r\nZ) At the glacier terminus", 
+    "tossupA": "Z) SILICATES", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd06e"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) STABILIZING SELECTION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the term for a heritable change in the character of a \r\ngene or a change in the sequence of base pairs in a DNA molecule?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following will most likely reduce genetic \r\nvariation in a population? \r\n \r\nW) Disruptive selection \r\nX) Directional selection \r\nY) Stabilizing selection \r\nZ) Genetic drift", 
+    "tossupA": "MUTATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd06f"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-21", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Providing your answer as a mixed number, what is 134 + 278?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer For what value of k does kx + 7y = 10 have a slope of 3?", 
+    "tossupA": "458", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd071"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1 (ACCEPT: GAMMA RAYS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements would be expected to \r\nhave the most polar bond when bonded with oxygen? \r\n \r\nW) Sulfur \r\nX) Fluorine \r\nY) Hydrogen \r\nZ) Nitrogen", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Identify all of the following four choices that are \r\nelectrically neutral: 1) gamma rays, 2) positrons, 3) alpha particles, 4) beta particles.", 
+    "tossupA": "Y) HYDROGEN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd072"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "VENUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Sharks and salmon have evolved different adaptations. \r\nWhich of the following statements is true? \r\n \r\nW) Sharks lay eggs while salmon give birth to live young \r\nX) Sharks have cartilaginous [kahr-tl-AJ-uh-nuhs] skeletons while salmon have bony \r\nskeletons \r\nY) Salmon possess gills while sharks do not \r\nZ) Sharks possess opercula while salmon do not", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What inner planet of our solar system is known for its \r\nclouds of sulfuric acid and sulfur dioxide?", 
+    "tossupA": "X) SHARKS HAVE CARTILAGINOUS SKELETONS WHILE SALMON HAVE BONY \r\nSKELETONS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd073"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "2.9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following rocks has both high porosity \r\nand high permeability? \r\n \r\nW) Claystone \r\nX) Sandstone \r\nY) Granite \r\nZ) Marble", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer As a result of pressure, the melting point of glacial ice is \r\nknown to decrease 0.7\u00b0 Celsius per kilometer of depth. Providing your answer in kilometers to \r\nthe nearest tenth, at what depth will a glacier begin to melt if it has a constant temperature of -2\u00b0 \r\nCelsius?", 
+    "tossupA": "X) SANDSTONE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd074"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "D, B, A, C", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Angiosperms [AN-jee-uh-spurms] are plants that do what? \r\n \r\nW) Reproduce exclusively by spores \r\nX) Have flowers and fruits \r\nY) Parasitize other plants \r\nZ) Produce seeds, but not flowers", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer A student electrophoreses a sample of restriction-digested \r\nDNA. Upon staining, four distinct bands appear on the gel: A \u2013 1500 base pairs, B \u2013 2000 base \r\npairs, C \u2013 1000 base pairs, and D \u2013 3000 base pairs. Based on the size of the restriction \r\nfragments, in what order do the bands appear on the gel, starting from the band closest to the \r\nwell?", 
+    "tossupA": "X) HAVE FLOWERS AND FRUITS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd075"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "CARBON DIOXIDE = 3; WATER = 4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice When a substance contains more of a dissolved \r\ncompound than can be dissolved by the solvent under standard conditions, it is referred to as \r\nwhich of the following? \r\n \r\nW) Saturated \r\nX) Dissaturated \r\nY) Over saturated \r\nZ) Super saturated", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer In the balanced combustion reaction of one mole of \r\npropane with excess oxygen to form water and carbon dioxide, identify the number of moles, \r\nrespectively, of carbon dioxide and water formed.", 
+    "tossupA": "Z) SUPER SATURATED", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd078"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "NITROGEN FIXATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Lightning can NOT form between which of the \r\nfollowing media? \r\n \r\nW) Cloud and air \r\nX) Air and ground \r\nY) Cloud and cloud \r\nZ) Ground and cloud", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Most organisms need nitrogen to create important \r\ncompounds like amino acids and proteins, but cannot directly access nitrogen from the \r\natmosphere. What is the name of the process that makes atmospheric nitrogen accessible to \r\nindividuals in the food web?", 
+    "tossupA": "X) AIR AND GROUND", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd079"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) SPREADING CENTER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following types of volcano usually covers \r\nthe most acreage on the surface of the Earth? \r\n \r\nW) Lava dome \r\nX) Cinder cone \r\nY) Stratovolcano \r\nZ) Shield volcano", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Black smokers are most likely to be found in \r\nassociation with what type of undersea geological site? \r\n \r\nW) Subduction zone \r\nX) Slip-strike fault \r\nY) Methane seep \r\nZ) Spreading center", 
+    "tossupA": "Z) SHIELD VOLCANO", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd07a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CHITIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the nitrogenous [ny-TROJ-uh-nuhs] base found in \r\nRNA that is NOT present in DNA?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the structural polysaccharide [pol-ee-SAK-uh-ryd] \r\nthat forms the exoskeleton of arthropods [AHR-thruh-pods] and is the building material in the \r\ncell walls of some fungi?", 
+    "tossupA": "URACIL", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd07b"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) CHINA AND INDIA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Many fish possess a swim bladder filled with air for \r\nwhat purpose? \r\n \r\nW) Buoyancy \r\nX) Circulation \r\nY) Digestion \r\nZ) Respiration", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following pairs of countries is NOT \r\nlocated on the same tectonic plate? \r\n \r\nW) Great Britain and Russia \r\nX) China and India \r\nY) Greenland and Mexico \r\nZ) Malaysia and Norway", 
+    "tossupA": "W) BUOYANCY", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd07c"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "2, 4 (ACCEPT: REPRODUCTION, METABOLISM)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Arthropods [AHR-thruh-pods] evolved exoskeletons \r\nto better adapt to their environments. However, exoskeletons also present certain challenges. \r\nWhich of the following statements does NOT describe a disadvantage associated with \r\nexoskeletons? \r\n \r\nW) Increased risk of desiccation \r\nX) Restricted sensory input \r\nY) Restricted movement \r\nZ) Limited body size", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Many scientists believe viruses represent the boundary \r\nbetween the living and nonliving. They exhibit both similarities and differences when compared \r\nto living organisms. Identify all of the following four areas in which viruses are different from \r\nliving organisms: 1) presence of genetic material, 2) reproduction, 3) evolution by natural \r\nselection, 4) metabolism.", 
+    "tossupA": "W) INCREASED RISK OF DESICCATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd07f"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "4, 1, 3, 2 (ACCEPT: EON, ERA, PERIOD, EPOCH)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer Based on Iceland\u2019s location, what type of lava is most \r\ncommonly seen erupting from Iceland\u2019s volcanic vents?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Place the following four geological time divisions in the \r\ncorrect order, from longest to shortest: 1) era, 2) epoch, 3) period, 4) eon.", 
+    "tossupA": "BASALT", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd080"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CILIA (ACCEPT: CILIUM) OR PSEUDOPODIA (ACCEPT: PSEUDOPOD)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Shingles is a localized skin rash that is often very painful and \r\nis caused by reactivation of the virus that previously caused what common childhood disease in \r\nthe host?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer There are three primary locomotor structures that aid in \r\nmovement of single-celled organisms. One type of structure is flagella. Name one of the two \r\nother types.", 
+    "tossupA": "CHICKENPOX", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd081"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "DARK ENERGY (DO NOT ACCEPT: DARK MATTER)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer Nuclear reactors rely on a nuclear chain reaction to cleave atoms \r\nand release energy at a controlled rate. What subatomic particle drives this chain reaction?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What is attributed with causing the universe to expand at an \r\naccelerating rate?", 
+    "tossupA": "NEUTRON", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd082"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) y = 4x + 2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the x-intercept of the graph with equation y = 7?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice If a line passes through point (1, 6) and has a slope of 4, which of the \r\nfollowing is the equation of the line? \r\n \r\nW) x = 2y + 4 \r\nX) x = 4y + 2 \r\nY) y = 4x + 2 \r\nZ) y = 2x + 4", 
+    "tossupA": "THERE IS NONE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd06b"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "ILLINOIS AND PENNSYLVANIA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice A proton exchange membrane fuel cell exchanges which of the \r\nfollowing ions? \r\n \r\nW) OH- \r\nX) Cl- \r\nY) H+ \r\nZ) Al", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What two states together account for approximately one fifth of the \r\nnation\u2019s nuclear power generation?", 
+    "tossupA": "Y) H+", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd070"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) 365", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer If 6 amperes of current flow through a 5 ohm resistor, what is the \r\nvoltage across the resistor?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Approximately how many days could a single person be fed from \r\nthe corn needed to produce enough 100% ethanol to fuel a single SUV? \r\n \r\nW) 34 \r\nX) 234 \r\nY) 365 \r\nZ) 1089", 
+    "tossupA": "30", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd076"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer In the following proportion, solve for x over the real numbers: \r\n (x\u22121)/8=6/(x+1).", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Dividing a certain number by 2 yields the same result as subtracting 15 \r\nfrom 3 times the number. Find the number.", 
+    "tossupA": "\u00b17", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd077"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "90\u00b0", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the arithmetic mean of the numbers: -20, -12, 7, 9?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The measures of the angles of a triangle are in the ratio of 2:3:5. What \r\nis the measure in degrees of the triangle\u2019s largest angle?", 
+    "tossupA": "- 4", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd07d"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "INFRARED (ACCEPT: INFRARED REGION, INFRARED BAND, IR, IR REGION, \r\nAND IR BAND)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A student is standing in an elevator that is moving. \r\nTaking upward to be positive and downward to be negative, which of the following could NOT be \r\ntrue? \r\n \r\nW) The student has a velocity equal to zero and a positive acceleration vector \r\nX) The student has an acceleration equal to zero and a positive velocity vector \r\nY) The student has a positive acceleration vector and a negative velocity vector \r\nZ) The student has a negative acceleration vector and is slowing down", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Electromagnetic radiation that has a wavelength of 10-4 \r\nmeters is in which region of the spectrum?", 
+    "tossupA": "W) THE STUDENT HAS A VELOCITY EQUAL TO ZERO AND A POSITIVE \r\nACCELERATION VECTOR", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd07e"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) PROKARYOTES OBTAINING ENERGY FROM SULFUR COMPOUNDS FROM \r\nTHE SEA VENTS ON THE OCEAN FLOOR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Several species of birds feed on ectoparasites [ek-toh-PAR-\r\nuh-syts] that they clean off of large mammals. Specifically, this behavior is what kind of \r\ninteraction?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is an example of chemosynthesis? \r\n \r\nW) A Venus flytrap breaking down the phosphates in a fly \r\nX) A plant obtaining fixated nitrogen from bacteria rich soil \r\nY) Prokaryotes [proh-KAR-ee-ohts] obtaining energy from sulfur compounds from the sea \r\nvents on the ocean floor \r\nZ) A human being breaking down vitamins and minerals for metabolic digestion", 
+    "tossupA": "MUTUALISM (ACCEPT: FACULTATIVE MUTUALISM; DO NOT ACC E P T: \r\nSYMBIOSIS)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd083"
+    }, 
+    "questionNum": 27
+  }
+]

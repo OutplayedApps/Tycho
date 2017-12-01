@@ -1,0 +1,393 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "X) DECREASE IN PLASMA FATTY ACID LEVELS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Short Answer In photorespiration, ribulose bisphosphate carboxylase [RY-byoo-\r\nlays bis-fos-FAYT kahr-BOK-suh-layz] binds what molecule instead of carbon dioxide?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Which of the following would you NOT expect to experience during \r\nfasting or starvation? \r\n \r\nW) Increase in ketone body formation \r\nX) Decrease in plasma fatty acid levels \r\nY) Depletion of glycogen [GLY-kuh-juhn] \r\nZ) Increased use of ketones for ATP production in the brain", 
+    "tossupA": "OXYGEN", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece001"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) BUTTER CHURNED FROM MILK", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGYShort Answer What is the SI [S-I] unit used to measure capacitance, or the ability of \r\na body to store an electrical charge?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following foods has the highest energy density? \r\n  \r\nW) Lean meat of a rabbit \r\nX) Cell wall of celery \r\nY) Pericarp of an apple \r\nZ) Butter churned from milk", 
+    "tossupA": "FARAD", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece002"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) MOMENT MAGNITUDE SCALE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Short Answer Over a 720 minute period, through what angle in degrees \r\ndoes the Earth rotate?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following measures of natural disasters \r\nreflects only properties associated with the natural phenomenon and not damage to the human \r\nbuilt environment?  \r\n \r\nW) Moment Magnitude Scale \r\nX) Fujita Scale \r\nY) Modified Mercalli Scale  \r\nZ) Saffir-Simpson Scale", 
+    "tossupA": "180", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece003"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Z) x IS AN ODD PERFECT SQUARE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer What is the smallest possible value for the sum of a positive number and \r\nits own reciprocal?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice If a<sup>2</sup> \u2013 2ab + b<sup>2</sup> = x, [A squared minus two A B plus B squared \r\nequals x] where a is an odd integer and b is an even integer, which of the following MUST be \r\ntrue about x? \r\n \r\nW) x is a prime number \r\nX) x is divisible by 3 \r\nY) x is an even perfect square \r\nZ) x is an odd perfect square", 
+    "tossupA": "2", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece004"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "6) BIOLOGY Multiple Choice Which of the following steroid hormones is the precursor to all of \r\nthe others listed in the answer choices?  \r\n \r\nW) Estrone  \r\nX) Testosterone  \r\nY) Progesterone  \r\nZ) Androstenedione [an-druh-steen-DY-ohn] \r\n \r\nANSWER Y) PROGESTERONE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Short Answer What general class of animal tissue is characterized by the \r\npresence of collagen?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BONUS  \r\n \r\n6)", 
+    "tossupA": "CONNECTIVE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece005"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Z) NITROGEN TRIIODIDE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice You take an IR [I-R] spectrum that has a long, broad peak just \r\nbelow 3000 inverse centimeters.  Which of the following is the likely identification of the \r\nmolecule? \r\n  \r\nW) Nonane [NO-nayn] \r\nX) Methylcyclopentane [meth-uhl-sy-kluh-PEN-tan] \r\nY) Hexene  \r\nZ) Pentanol", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice Which of the following compounds is most thermodynamically \r\nunstable? \r\n \r\nW) Nitrogen trifluoride  \r\nX) Nitrogen trichloride  \r\nY) Nitrogen tribromide  \r\nZ) Nitrogen triiodide", 
+    "tossupA": "Z) PENTANOL", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece006"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) PSYCHROMETER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements is true about kaolinite \r\n[KAY-uh-luh-nyt]? \r\n \r\nW) It has an inosilicate structure [in-uh-SIL-i-kayt] \r\nX) It has a high cation exchange capacity [KAT-eye-uhn] \r\nY) It is a magnesium-rich silicate  \r\nZ) It is a non-expanding clay", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following meteorological sensors is not \r\npart of the suite of sensors on the Mars Rover Curiosity? \r\n \r\nW) Anemometer  \r\nX) Thermometer \r\nY) Barometer  \r\nZ) Psychrometer", 
+    "tossupA": "Z) IT IS A NON-EXPANDING CLAY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece008"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TYPES A, B, O, AB (SAYING \u201cTYPES\u201d IS NOT NECESSARY)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following animal cell junctions is most similar in \r\nfunction to plant cell plasmodesmata [plaz-muh-des-MUH-tuh]?  \r\n \r\nW) Gap junction \r\nX) Tight junction \r\nY) Desmosome  \r\nZ) Adherens junction", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer Luke Skywalker is looking for evidence about whether Darth Vader \r\nwas his father. Luke has blood type A, and medical records show that his mother had blood type \r\nAB. What are all the possible blood types that Luke\u2019s father could be?", 
+    "tossupA": "W) GAP JUNCTION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece009"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) 72\u03c0", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer. Determine the limit as x approaches zero of quantity x \r\nplus one divided by x", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Consider a circle in which a square is inscribed. Inscribed within that \r\nsquare is another circle.  If the innermost circle has circumference of 12\u03c0, what is the area of \r\nthe outermost circle? \r\n \r\nW) 64\u03c0\t\t\r\nX) 72\u03c0\t \r\nY) 88\u03c0\t \r\nZ) 96\u03c0", 
+    "tossupA": "THE LIMIT DOES NOT EXIST (ACCEPT: NON-EXISTANT; DO NOT ACCEPT: \r\nINFINITY)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece00a"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "ONE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGYMultiple Choice What is the power generated by a circuit with a total current of 6 \r\namperes running through two resistors in parallel, of 2 and 6 ohms? \r\n \r\nW) 40 Watts \r\nX) 54 Watts \r\nY) 66 Watts \r\nZ) 70 Watts", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Consider a Carnot engine operating between two reservoirs [REZ-\r\ner-vwahrs] of different temperatures. If the temperatures in Kelvin of both reservoirs are \r\ndoubled, by what factor is the efficiency multiplied?", 
+    "tossupA": "X) 54 WATTS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece00b"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X) GALVANIC CELLS SPONTANEOUSLY PRODUCE AN ELECTRICAL CURRENT; \r\nAN EXTERNAL VOLTAGE MUST BE APPLIED TO AN ELECTROLYTIC CELL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following would be the most appropriate SN2   \r\n[S- N- two] leaving group? \r\n \r\nW) Hydroxyl  \r\nX) O-Trifluoromethanesulfonate [try-FLOOR-oh-METH-ayn-SUHL-fuh-nayt] \r\nY) O-Ethyl  \r\nZ) O-Acyl", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice What is a chief difference between an electrolytic cell and a \r\ngalvanic cell?  \r\n \r\nW) Galvanic cells convert electrical energy into chemical energy, electrolytic cells convert \r\nchemical energy into electrical energy \r\nX) Galvanic cells spontaneously produce an electrical current; an external voltage must be \r\napplied to an electrolytic cell \r\nY) Oxidation occurs at the anode for a galvanic cell and at the cathode for an electrolytic cell \r\nZ) Reduction occurs at the anode for a galvanic cell and at the cathode for an electrolytic cell", 
+    "tossupA": "X) O-TRIFLUOROMETHANESULFONATE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece00c"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) A REDUCTION IN OXYGEN CARRYING CAPACITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following animals transfers oxygen to blood via a \r\nprocess called countercurrent exchange?  \r\n \r\nW) Goldfish \r\nX) Tarantula  \r\nY) Hummingbird \r\nZ) Mole", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice In a human, breathing air with too much carbon dioxide would \r\nlead to all of the following except:  \r\n \r\nW) A reduction in oxygen carrying capacity \r\nX) A decrease in oxygen affinity for hemoglobin \r\nY) Facilitation of oxygen to tissues \r\nZ) A rightward shift of the oxygen equilibrium curve", 
+    "tossupA": "W) GOLDFISH", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece00d"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CALCAREOUS OOZE (ACCEPT: CALCIUM CARBONATE OOZE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is responsible for auroras \r\noccurring mainly in the polar regions?   \r\n \r\nW) The moon  \r\nX) Low temperatures   \r\nY) The geomagnetic field  \r\nZ) The earth\u2019s equatorial bulge", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Below the carbonate compensation depth, what sort of \r\ndeep ocean ooze can no longer form?", 
+    "tossupA": "Y) THE GEOMAGNETIC FIELD", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece00e"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "PARABOLIC TROUGH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGYMultiple Choice In an adiabatic [ad-ee-uh-BAT-ik] process, in which direction \r\ndoes heat flow between the system and surroundings?  \r\n  \r\nW) Out of the system \r\nX) Into the system  \r\nY) No heat flow into or out of the system \r\nZ) Through the system\u2019s boundaries", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer In a solar power tower system, what are the names of the mirrors \r\nthat focus sunlight onto a pipe located at the focal line, heating up fluid inside and producing \r\nsteam that drives a turbine?", 
+    "tossupA": "Y) NO HEAT FLOW INTO OR OUT OF THE SYSTEM", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece00f"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer A car leaves its original location traveling due west at a speed of 60 \r\nmiles per hour and arrives at its destination in 3 hours. Later that day, the car returns to its \r\noriginal location. At what speed, in miles per hour, did it travel to cover the same distance in 2 \r\nhours?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer. Simplify:  [quantity log in base b of b raised to the power \r\nof a raised to the power of b divided by quantity log in base a of a raised to the  power of \r\nb, raised to the power of a]", 
+    "tossupA": "90 MILES PER HOUR", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece010"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1200 JOULES (DO NOT ACCEPT: -1200)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice Two objects collide in a perfectly inelastic collision. Which of the \r\nfollowing quantities is not conserved in the collision? \r\n \r\nW) Kinetic energy \r\nX) Momentum \r\nY) Potential energy \r\nZ) Total energy", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer A Carnot [kahr-NOH] engine takes 2000 joules of heat from a \r\nreservoir at 500 kelvin, does some work, and then discards some heat to a reservoir [REZ-er-\r\nvwahr] at 300 kelvin. How much heat, in joules, is discarded by the Carnot engine?", 
+    "tossupA": "W) KINETIC ENERGY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece011"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) CLADOGENESIS AND ALLOPATRIC SPECIATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice What disadvantage does the presence of introns and exons give \r\neukaryotes [yoo-KAR-ee-ohts] when compared to other organisms? \r\n \r\nW) The ability to produce more proteins from the same primary transcript \r\nX) Greater stability during reproduction \r\nY) Lower error rate during replication  \r\nZ) Mutations are harder to detect", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Over time, a large mountain range forms, separating two \r\npopulations of squirrels for multiple generations. Which of the following pairs of terms best \r\ndescribes this speciation event? \r\n \r\nW) Anagenesis and allopatric speciation [an-uh-JEN-uh-sis] \r\nX) Cladogenesis and allopatric speciation [klad-uh-JEN-uh-sis] \r\nY) Anagenesis and sympatric speciation \r\nZ) Cladogenesis and sympatric speciation", 
+    "tossupA": "Z) MUTATIONS ARE HARDER TO DETECT", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece012"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "CARBOXYPEPTIDASE; PANCREAS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Lithium dialkylcuprates [dy-AL-kuh-KUHP-rayts] can be \r\nused in carbon-carbon bond-forming reactions and are usually known as what named reagent? \r\n  \r\nW) Grignard  \r\nX) Gilman  \r\nY) Wittig  \r\nZ) Birch", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer Identify the enzyme that cleaves the first peptide bond at the C-\r\nterminal end of a peptide or protein and the organ where the enzyme is synthesized.", 
+    "tossupA": "X) GILMAN", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece013"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Z)f(1/x)/x", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Differentiate the following expression with respect to x, provided x is \r\nnot 0: x/|x| [ x over the quantity the absolute value of x].", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice If f(x) = (1+x)/x [f of x equals the fraction with numerator one plus x \r\nand denominator x], which of the following is equivalent to f(x)? \r\n \r\nW) f (-x) [f of negative x] \r\nX) f (1/x) [f of the quantity one divided by x] \r\nY) f (-1/x) [f of the quantity negative one divided by x] \r\nZ) f(1/x)/x [the fraction with numerator f of the quantity one divided by x and denominator \r\nx]", 
+    "tossupA": "0", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece014"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3, 1, 2 (ACCEPT: OXYGEN GAS, OZONIDE, PEROXIDE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice A sloppy chemist forgets to label two beakers.  One contains \r\nbarium chloride solution, and the other contains magnesium chloride solution.  The chemist \r\ndecides to add a third solution to each beaker in order to distinguish the two.  Which of the \r\nfollowing reagents would form a precipitate in only one of the two beakers? \r\n \r\nW) Sodium sulfate \r\nX) Sodium carbonate \r\nY) Silver nitrate \r\nZ) Ammonium chloride", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer Rank, by name or number, the following three molecules or \r\npolyatomic ions from the one containing oxygen atoms in the least negative oxidation state, to \r\nthe one containing oxygen atoms in the most negative oxidation state: 1) ozonide, 2) peroxide, \r\n3) oxygen gas.", 
+    "tossupA": "W) SODIUM SULFATE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece000"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "BLACK HOLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer How much energy, in joules, does a circuit containing a 9 volt battery \r\nand a 6 ohm resistor dissipate over 8 seconds?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer If the radius of a body is smaller than its Schwarzschild radius, the \r\nbody becomes what?", 
+    "tossupA": "108", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece007"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1 AND 3 (ACCEPT: THE TEMPERATURE OF THE RADIATION CAN BE \r\nAPPROXIMATED WITH A BLACK BODY AND THE RADIATION IS STRONGEST IN THE \r\nRADIO AND MICROWAVE REGIONS OF THE ELECTROMAGNETIC SPECTRUM)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer The statement that all points on a wavefront will serve as point \r\nsources for secondary wavelets is based on what principle?", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer Identify all of the following three statements that are true of the \r\ncosmic microwave background radiation:  1) The temperature of the radiation can be \r\napproximated by a black body; 2) The thermal black body spectrum is at a temperature of \r\napproximately 6 Kelvin; 3) The radiation is strongest in the radio and microwave regions of the \r\nelectromagnetic spectrum.", 
+    "tossupA": "HUYGENS PRINCIPLE (ACCEPT: HUYGENS-FRESNEL PRINCIPLE)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece015"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) DRAINING OF A LAVA LAKE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is true about the Labrador Sea \r\nWater mass (LSW)? \r\n \r\nW) It is formed in the western Labrador Sea in the late spring \r\nX) It travels south along the western edge of the North Atlantic Basin \r\nY) It has decreased in temperature in recent decades \r\nZ) It does not enter the subtropical gyre of the North Atlantic", 
+    "packetNum": 7, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following volcanic hazards occurred from \r\nMount Nyiragongo [nee-ir-uh-GON-goh] in 1977, killing 70 people in nearby villages? \r\n \r\nW) Eruption of a pyroclastic flow [py-ruh-KLAS-tik] \r\nX) Draining of a lava lake \r\nY) Eruption of a noxious gas cloud \r\nZ) Creation of a large lahar", 
+    "tossupA": "X) IT TRAVELS SOUTH ALONG THE WESTERN EDGE OF THE NORTH \r\nATLANTIC BASIN", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece016"
+    }, 
+    "questionNum": 25
+  }
+]

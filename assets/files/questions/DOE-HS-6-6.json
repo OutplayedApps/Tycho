@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "W) NEWBORN OTTERS ARE TAKEN CARE OF BY THEIR FATHERS ONLY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the common name of the group of marine spiny-finned fish \r\nof the order Heterosomata, all of which, when adult, swim along the sea floor on one side of the \r\nbody, which is highly compressed and has both eyes on the uppermost side?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following statements is NOT true about otters? \r\n \r\nW) Newborn otters are taken care of by their fathers only  \r\nX) Their dens are called holts or couches \r\nY) They feed on fish, shellfish, amphibians and birds  \r\nZ) A male otter is called a dog", 
+    "tossupA": "FLATFISH", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a2"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) CALCIUM CARBONATE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following best describes where the salt \r\nin ocean water comes from? \r\n \r\nW) Melting of glacial ice \r\nX) Weathering of continental rocks \r\nY) Decomposition of plants and animals \r\nZ) Precipitation of salty rain", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  Cayes [KAYS] are small sandy islands formed on the \r\nsurface of coral reefs in tropical areas like the coast of Belize. The sand on these cayes is \r\nprimarily composed of which of the following? \r\n \r\nW) Silicate \r\nX) Calcium carbonate  \r\nY) Sulfide \r\nZ) Halide", 
+    "tossupA": "X) WEATHERING OF CONTINENTAL ROCKS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a3"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) WIRE RESISTANCE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following cells cannot be recharged? \r\n \r\nW) Dry \r\nX) Wet \r\nY) Primary \r\nZ) Secondary", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Changing which of the following will NOT result in a change in the \r\nvoltage induced in a rotating wire coil?  \r\n \r\nW) Rate of rotation \r\nX) Wire resistance \r\nY) Number of coil loops \r\nZ) Average loop area", 
+    "tossupA": "Y) PRIMARY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a4"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "24", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is x equal to in the following expression: log<sub>x</sub>7 = 1 [log base x of \r\n7 equals 1]?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  If the length, width, and height of a right rectangular prism are in the \r\nratio of 3:4:12 [3 to 4 to 12], find the height in meters of the solid if the diagonal of the solid is 26 \r\nmeters long.", 
+    "tossupA": "7", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a5"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "AMONTON\u2019S (ACCEPT: IDEAL GAS LAW OR GAY-LUSSAC\u2019S LAW)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  When assigning electrons to subshells, which of the following \r\nsubshells will be filled first? \r\n \r\nW) 4f  \r\nX) 5s \r\nY) 5d \r\nZ) 6s", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Which of the gas laws is demonstrated when an aerosol can is \r\nthrown into a fire and explodes?", 
+    "tossupA": "X) 5s", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a6"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "x > 1/3 (ACCEPT: THE OPEN INTERVAL FROM 1/3 TO (POSITIVE) INFINITY)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Given that g(x) \u2264 f(x) \u2264 h(x) for all x, the lim<sub>x\u2192a</sub>g(x)=M [limit as x \r\napproaches a of g of x is M], and the lim<sub>x\u2192a</sub>h(x)=M [limit as x approaches a of h of x is \r\nM], what is the lim<sub>x\u2192a</sub>f(x) [limit as x approaches a of f of x]?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the largest possible real domain of f(x) = ln(3x \u2013 1) [f of x \r\nequals the natural log of the quantity 3x minus 1]?", 
+    "tossupA": "M", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a8"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) LAGOON", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following layers of the atmosphere \r\nallows AM radio stations to transmit over great distances at night? \r\n \r\nW) Ionosphere [eye-ON-uh-sfeer] \r\nX) Stratosphere \r\nY) Thermosphere \r\nZ) Troposphere", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following steps in atoll formation is the \r\nmost mature? \r\n \r\nW) Erupting volcanic island \r\nX) Lagoon \r\nY) Volcanic island with barrier reef \r\nZ) Volcanic island with fringing reef", 
+    "tossupA": "W) IONOSPHERE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a9"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) REPEL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  In 1868, observers of a solar eclipse first noticed a bright yellow \r\nspectral line. They theorized that this was due to a new element and gave it what sun-inspired \r\nname?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  An electroscope is negatively charged, with the leaves at an \r\nangle of about 45\u00b0. When a negatively charged rod is slowly brought near the plate of the \r\nelectroscope, the leaves do which of the following? \r\n \r\nW) Repel \r\nX) Attract \r\nY) Repel then attract \r\nZ) Fall to zero then repel", 
+    "tossupA": "HELIUM", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6aa"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1/6", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  W is one of the vertices of a polygon. If there are 8 diagonals of the \r\npolygon that contain W, how many sides does the polygon have?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  A fair standard six-sided die is rolled two times. What is the \r\nprobability that the sum of the numbers on the two rolls will be greater than 9?", 
+    "tossupA": "11", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6ab"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "PRIESTLY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the name of the bond linking each fatty acid to glycerol \r\n[GLIS-uh-rol] in a triglyceride?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Several candidates have been proposed as the discoverer of \r\noxygen. Who, however, is the scientist who most carefully documented his work and thus has \r\nbeen credited with its discovery?", 
+    "tossupA": "ESTER", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6ac"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) BLADE RADIUS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Which of the following particles has the least penetrating power? \r\n \r\nW) Neutron \r\nX) Alpha particle \r\nY) Beta particle  \r\nZ) Positron", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  The power produced by a wind turbine depends primarily on \r\nwhich of the following parameters? \r\n \r\nW) Air volume \r\nX) Wind pressure \r\nY) Blade radius  \r\nZ) Air coefficient", 
+    "tossupA": "X) ALPHA PARTICLE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6ad"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) ATP DEPENDENT CHANNELS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Which gas was in short supply in the Earth\u2019s atmosphere prior to \r\nthe evolution of the citric acid cycle?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Neurons can communicate with each another at synapses via \r\nsynaptic vesicles. Which of the following does NOT participate in communication at these sites? \r\n \r\nW) Neurotransmitter \r\nX) Gated channels \r\nY) ATP dependent channels \r\nZ) Acetylcholine [uh-seet-l-KOH-leen]", 
+    "tossupA": "OXYGEN", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6ae"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SUBSIDENCE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Kilauea [kee-lou-AY-ah] and Mauna Loa [MOU-nuh \r\nLOH-uh], are examples of which of the following types of volcanoes? \r\n \r\nW) Shield \r\nX) Composite \r\nY) Cinder cone \r\nZ) Transform fault", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What is the geologic term for the sinking of large areas \r\nof land due to compaction of drained soil and rock layers?", 
+    "tossupA": "W) SHIELD", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6af"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "DISTANCE BETWEEN THEM (ACCEPT: THEIR SEPARATION, RADIAL \r\nDISTANCE BETWEEN THEM)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  A lunar vehicle on Earth moves at 10 kilometers per hour. When it \r\ntravels at the same speed on the Moon, what is its momentum in comparison to its momentum \r\non Earth, assuming that the Moon\u2019s gravitational force is one fifth that of Earth\u2019s?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Coulomb\u2019s law states that an electric force between two charges \r\nis inversely proportional to the square of what quantity?", 
+    "tossupA": "THE SAME (ACCEPT: EQUAL)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b0"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "1 AND 3 (ACCEPT: SODIUM SULFATE AND AMMONIUM CHLORIDE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What element has the following four characteristics: 1) it \r\noccurs naturally only in combination with other elements in minerals; 2) it is used primarily as a \r\nhardening agent in alloys; 3) its dust is highly toxic, and 4) it is an alkaline [AL-kuh-lyn] earth \r\nmetal.", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Identify all of the following four compounds that are ionic: 1) \r\nsodium sulfate, 2) methane, 3) ammonium chloride, 4) beryllium iodide.", 
+    "tossupA": "BERYLLIUM", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b2"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "REACTIVE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Rectifiers are used in computers and other appliances to do \r\nwhich of the following? \r\n \r\nW) Convert direct current to alternating current \r\nX) Convert alternating current to direct current  \r\nY) Provide a steady amount of power at all times \r\nZ) Reduce the energy consumption of an appliance", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  When inductors are present in circuits with alternating currents, \r\nwhat type of power do they consume?", 
+    "tossupA": "X) CONVERT ALTERNATING CURRENT TO DIRECT CURRENT", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b3"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) THE B CELL WILL PROLIFERATE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following best describes why the xylem [ZY-luhm] \r\nis an important plant tissue? \r\n \r\nW) It transports water and minerals from the roots to the leaves \r\nX) It transports water and minerals from the leaves to the roots \r\nY) It is the best part of the plant to eat \r\nZ) It gives a plant its strength to stand straight", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Your body has approximately one million B cells and ten million \r\ndifferent T cells. A gram-negative bacterium enters your body and one of your B cells binds to \r\nthe bacterium via the BCR recognizing the LPS. Which of the following will happen next? \r\n \r\nW) The B cell will proliferate \r\nX) The virus will enter the B cell \r\nY) Similar T cells will be destroyed \r\nZ) The B cell will be destroyed", 
+    "tossupA": "W) IT TRANSPORTS WATER AND MINERALS FROM THE ROOTS TO THE \r\nLEAVES", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b4"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) COPROLITE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Given the current climatic conditions on Earth, at \r\nwhich of the following locations would a glacier most likely form? \r\n \r\nW) 0\u00b0 latitude at an elevation of 6,000 meters \r\nX) 15\u00b0 N latitude at an elevation of 4,000 meters \r\nY) 30\u00b0 N latitude at an elevation of 3,000 meters \r\nZ) 45\u00b0 N latitude at an elevation of 1,000 meters", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  The analysis of which of the following fossil types \r\nfrom ancient vertebrates provides important information about the diet and biota of ancient \r\nenvironments? \r\n \r\nW) Tracks \r\nX) Coprolite \r\nY) Burrows \r\nZ) Fulgurite [FUHL-gyuh-ryt]", 
+    "tossupA": "W) 0\u00b0 LATITUDE AT AN ELEVATION OF 6,000 METERS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b5"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) AFTER 100 SECONDS, THREE FOURTHS OF THE SAMPLE HAS DECAYED", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the SI unit of inductance?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  A radioactive element has a half life of 50 seconds. Which of the \r\nfollowing is true of a sample of such an element? \r\n \r\nW) Every atom of the element decays after 50 seconds \r\nX) Every atom of the element decays after 100 seconds \r\nY) After 100 seconds, one fourth of the sample has decayed \r\nZ) After 100 seconds, three fourths of the sample has decayed", 
+    "tossupA": "HENRY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b6"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) 2/25", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Give the coordinates of the point where the line 3x + 2y = 18 \r\nintersects the x axis.", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Multiple Choice  A jar contains 50 marbles. Exactly 10% are green, 20% are blue, \r\n30% are yellow, and the rest are orange. Which of the following is the probability of randomly \r\npicking first a blue marble, replacing it, and then picking an orange marble? \r\n \r\nW) 1/25 \r\nX) 2/25 \r\nY) 3/25 \r\nZ) 4/25", 
+    "tossupA": "(6, 0)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b7"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "IODINE CLOCK (ACCEPT: HARCOURT-ESSEN)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is NOT a buffering agent? \r\n \r\nW) Magnesium oxide \r\nX) Rubidium hydroxide  \r\nY) Ammonia \r\nZ) Monopotassium phosphate", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the name of the reaction, commonly used in lecture \r\ndemonstrations, in which two colorless solutions are mixed, and the liquid turns to a shade of \r\ndark blue after a short time delay?", 
+    "tossupA": "X) RUBIDIUM HYDROXIDE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b8"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) CELL WALL MORPHOLOGY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the common name of the unicellular organism that has \r\nthe following characteristics: 1) it has chloroplasts and can make its own food; 2) it can also \r\ningest food from its environment; 3) it usually lives in ponds or puddles; 4) it moves by a \r\nflagellum; 5) it has an eyespot that detects light.", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  The gram stain can be used to distinguish between different \r\nprokaryotes [proh-KAR-ee-ohts] based on which of the following? \r\n \r\nW) Glucose metabolism \r\nX) Flagella \r\nY) Lactose metabolism  \r\nZ) Cell wall morphology", 
+    "tossupA": "EUGLENA", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b9"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TWO", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following phenomena are responsible \r\nfor orange and red sunsets? \r\n \r\nW) Dust particles in the atmosphere \r\nX) Ice crystals in the atmosphere \r\nY) Water droplets in the atmosphere \r\nZ) Water vapor in the atmosphere", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  Uranus was discovered in 1781. Rounding down to the \r\nnearest whole number, how many complete revolutions around the Sun has it made since being \r\ndiscovered?", 
+    "tossupA": "W) DUST PARTICLES IN THE ATMOSPHERE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6ba"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "20%", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Short Answer  What is the term for a device used to determine or measure the \r\npresence of electrostatic charges?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  What is the efficiency of an appliance whose useful energy output is \r\n5 joules and wasted energy is 20 joules?", 
+    "tossupA": "ELECTROSCOPE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6a7"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "27", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following numbers is NOT prime? \r\n \r\nW) 107 \r\nX) 109 \r\nY) 111 \r\nZ) 113", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Todd the Tortoise is 268 years old, while Sammy the Snail is 32 \r\nyears old. How many years will it take for Todd\u2019s age to be exactly 5 times Sammy\u2019s age?", 
+    "tossupA": "Y) 111", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd6b1"
+    }, 
+    "questionNum": 16
+  }
+]

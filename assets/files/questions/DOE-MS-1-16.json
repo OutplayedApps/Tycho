@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "1 AND 3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the most common term biologists \r\nuse to indicate that an enzyme has lost its normal 3-dimensional shape: \r\n \r\nW) virulent \r\nX) catalyzed \r\nY) denatured \r\nZ) degenerated", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer By words or numbers, name all of the following 3 physical or \r\nchemical changes that will typically denature a protein:  \r\n1) large changes in pH; 2) rapid cooling to 4\u00baC; 3) heating to over 45\u00baC", 
+    "tossupA": "Y) DENATURED", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc900"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) MAGNETIC SURVEYS OF THE SEAFLOOR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following did Alfred Wegener study to come \r\nup with the theory of continental drift: \r\n \r\nW) remnant magnetism in rock \r\nX) the shape of landmasses and the distribution of fossils \r\nY) altimetry data \r\nZ) sea floor topography", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice The interpretation of which of the following gave strong \r\nand convincing support to the concept of sea-floor spreading: \r\n \r\nW) subsurface crystallography studies \r\nX) color comparisons of basaltic rock \r\nY) fossil studies of benthic organisms \r\nZ) magnetic surveys of the seafloor", 
+    "tossupA": "X) THE SHAPE OF LANDMASSES AND THE DISTRIBUTION OF FOSSILS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc902"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$2,000.00 \r\n \r\n(Solution: A = 900 ft<sup>2</sup>; (900 ft<sup>2</sup>)(1 yd<sup>2</sup>/9 ft<sup>2</sup>)($20/ yd<sup>2</sup>) = $2000)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer In how many different ways can 4 people line up for a photograph?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the price of carpeting is $20.00 per square yard, how much will it cost \r\nto cover a 30-foot by 30-foot square area?", 
+    "tossupA": "24 \r\n \r\n(Solution: 4 \u00d7 3 \u00d7 2 \u00d7 1 = 24)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc903"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "POROUS; GREY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice For people viewing the night sky from mid-northern \r\nlatitudes, which of the following constellations would never set below the horizon during the night: \r\n \r\nW) Centaurus \r\nX) Orion \r\nY) Pegasus \r\nZ) Ursa Major", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 choices that are characteristic \r\nof coke used in blast furnaces: porous; shiny; grey; soft", 
+    "tossupA": "Z) URSA MAJOR", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc904"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1 \r\n \r\n(Solution: 292g/5L = 58g/L = 1M)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following BEST describes what atomic \r\nparticle was the last to be discovered and why: \r\n \r\nW) the electron because it has very small mass \r\nX) the proton because it resides in the nucleus \r\nY) the proton because it does not have any angular momentum \r\nZ) the neutron because it has no charge", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Assuming that sodium and chlorine have atomic masses \r\nof 23 and 35, respectively, what is the molarity of a 5-liter aqueous solution containing 292 grams of \r\nsodium chloride?", 
+    "tossupA": "Z) THE NEUTRON BECAUSE IT HAS NO CHARGE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc906"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) FAIR WEATHER WITH INCREASING CIRRUS OR CIRROSTRATUS \r\nCLOUDS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT a key step in the nitrogen \r\ncycle: \r\n \r\nW) nitrification \r\nX) assimilation \r\nY) ammonification \r\nZ) evaporation", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice When lengthy and lasting jet contrails predominate in the \r\nsky, which of the following is the most likely forecast: \r\n \r\nW) showers within 24 hours \r\nX) fair weather with increasing cirrus or cirrostratus clouds \r\nY) violent thunderstorms within 24 hours \r\nZ) overcast with slow clearing", 
+    "tossupA": "Z) EVAPORATION", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc907"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) THEY ARE FAT SOLUBLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the best basic guide for \r\nrecognizing a theory as scientific: \r\n \r\nW) it must have a hypothesis that will be proven true \r\nX) it must be subject to some sort of testing or experimentation \r\nY) it must be new and able to be proved true in all instances \r\nZ) the subject with which it deals must be able to be directly observed", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true regarding \r\nB-vitamins: \r\n \r\nW) they are fat soluble \r\nX) there are more than 5 different B-vitamins \r\nY) niacin is a B-vitamin \r\nZ) vitamin B-12 is found in meat, milk and eggs", 
+    "tossupA": "X) IT MUST BE SUBJECT TO SOME SORT OF TESTING OR \r\nEXPERIMENTATION", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc909"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) MOST OF THE DNA SEQUENCES IN CHROMOSOMES ARE GENES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What human blood type has antibodies to only group A \r\nantigens?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT true of genes: \r\n \r\nW) they are a passed from generation to generation through chromosomes \r\nX) they can come in dominant or recessive forms \r\nY) genes often lead to the production of a protein \r\nZ) most of the DNA sequences in chromosomes are genes", 
+    "tossupA": "TYPE B (ACCEPT: B)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc90a"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) THERMAL ENERGY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A botanist observes pollen grains suspended in water \r\njittering about in a random fashion. Another scientist observes similar random motion of coal dust \r\non the surface of another liquid. These are commonly considered an examples of: \r\n \r\nW) speculative motion \r\nX) Bose condensation \r\nY) Brownian motion \r\nZ) osmosis", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice With which of the following is Brownian motion most \r\ndirectly related: \r\n \r\nW) thermal energy \r\nX) conservation of mass \r\nY) Dalton\u2019s law \r\nZ) chemical ionic bonds", 
+    "tossupA": "Y) BROWNIAN MOTION", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc90b"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) IT IS LARGELY DEFLECTED BY THE EARTH\u2019S MAGNETOSPHERE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice The darker portion of the Moon that faces the Earth in a \r\ncrescent phase often appears somewhat lighted with a faint grayish glow. Which of the following \r\nBEST describes why this happens: \r\n \r\nW) sunlight reflected off the Earth\u2019s surface onto the Moon \r\nX) afterglow of the Moon\u2019s lighted surface \r\nY) an optical illusion \r\nZ) sunlight reflected off interplanetary dust", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following best describes what occurs to the \r\nsolar wind as it approaches close to the planet Earth: \r\n \r\nW) it is absorbed by the troposphere and significantly heats the upper atmosphere \r\nX) it forms cosmic rays that create the Van Allen belts \r\nY) it is largely deflected by the Earth\u2019s magnetosphere \r\nZ) it causes a shock wave to form, creating what is called a termination shock in the Earth\u2019s \r\nionosphere", 
+    "tossupA": "W) SUNLIGHT REFLECTED OFF THE EARTH\u2019S SURFACE ONTO THE MOON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc90c"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "0.8  \r\n \r\n(Solution: log 2 + log 3 = 0.8)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer A bag contains 100 crayons of which 20 are red, 55 are purple, and 25 \r\nare yellow. Expressed as a percent, what is the probability of randomly getting one crayon from the \r\nbag and having it be yellow?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Assuming log 2 = 0.3 and log 3 = 0.5, find log 6:", 
+    "tossupA": "25", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc90d"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "TIDAL POWER; GEOTHERMAL ENERGY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the earliest stage in the birth \r\nof a star: \r\n \r\nW) globular cluster \r\nX) planetary nebula \r\nY) Blue Giant \r\nZ) nebula", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 3 energy resources that are \r\ntypically considered renewable: tidal power; geothermal energy; coal", 
+    "tossupA": "Z) NEBULA", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc90e"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1 ATMOSPHERE; 25\u00baC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is TRUE of a gas contained in \r\na tall, sealed cylindrical container at 1 atmosphere of pressure and 25\u00baC: \r\n \r\nW) the gas exerts the same pressure on all the walls of the container \r\nX) the gas exerts a higher pressure on the top of the container \r\nY) the gas exerts a higher pressure on the bottom of the container \r\nZ) the gas exerts a higher pressure on the sides of the container", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Which 2 of the following 4 choices represent standard \r\nconditions when working with gases: 1 atmosphere; 273 kelvin; 25\u00baC; 760 atmospheres", 
+    "tossupA": "W) THE GAS EXERTS THE SAME PRESSURE ON ALL THE WALLS OF THE \r\nCONTAINER", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc910"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) VERY LIGHT WINDS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice The prevailing westerlies converge and are caused to rise \r\nat which of the following latitudes: \r\n \r\nW) 0\u00ba \r\nX) 30\u00ba \r\nY) 60\u00ba \r\nZ) 90\u00ba", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice The horse latitudes are zones primarily characterized by: \r\n \r\nW) fierce polar winds \r\nX) very light winds \r\nY) rising air masses \r\nZ) strong tropical downbursts", 
+    "tossupA": "Y) 60\u00ba", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc911"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) 6,000 MILLILITERS AT $30.00", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the most common name for the branch of mathematics \r\ndeveloped by Mandelbrot that generates geometrically self-similar patterns?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Which of the following is the most economical purchase for a given \r\nbrand of olive oil: \r\n \r\nW) 3 liters at $30.00 \r\nX) 4 quarts at $30.00 \r\nY) 6,000 milliliters at $30.00 \r\nZ) 1 gallon at $30.00", 
+    "tossupA": "FRACTALS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc912"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "PALM OIL; SUNFLOWER; SOYBEANS (ACCEPT: ALL BUT SWITCH GRASS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a crystalline material found \r\nin arctic regions and within relatively shallow marine sediments that is sometimes called \u201cburning \r\nice\u201d and may one day be used as a vast energy source: \r\n \r\nW) methane gas hydrate \r\nX) liquid hydrogen \r\nY) sublimated helium \r\nZ) coal gas", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name all of the following 4 choices that are common \r\nresources for biodiesel fuel: palm oil; switch grass; sunflower seeds; soybeans", 
+    "tossupA": "W) METHANE GAS HYDRATE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc913"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CITRIC ACID CYCLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What substance is most directly formed when oxygen accepts \r\nelectrons at the end of the electron transport system of oxidative phosphorylation?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 3 metabolic processes in vertebrate \r\ncells that release carbon dioxide as a byproduct:  \r\nglycolysis; citric acid cycle; oxidative phosphorylation", 
+    "tossupA": "WATER", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc914"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1,000 \r\n \r\n(Solution: 330/second \u00d7 3 = 990 or 1,000 m)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What basic force of the universe most directly functions \r\nto keep the nucleus of an atom together?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer  Maryjane sees a fireworks display and 3 seconds later \r\nhears its explosion. Rounded to the nearest 100 meters, how far away from Maryjane were the \r\nfireworks?", 
+    "tossupA": "STRONG FORCE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc915"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": "6", 
+    "bonusA": "INTAKE; COMPRESSION; POWER; EXHAUST", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the most common term for the principal, rule or effect, that explains what is referred to by astronomers as blue shift?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-22T13:32:32.915000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer From the EARLIEST to the LATEST, what are the 4 \nstrokes or stages in a typical 4-stroke internal combustion engine?", 
+    "tossupA": "DOPPLER EFFECT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc918"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "45x<sup>2</sup>y<sup>4</sup> \u2013 7xy<sup>2</sup> \u2013 12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following expressions is NOT a monomial: \r\n \r\nW) 3x<sup>2</sup>y \r\nX) x<sup>2</sup>1 \r\nY) x \r\nZ) x", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the following product, giving your answer in simplified form:  \r\n(9xy<sup>2</sup> + 4)(5xy<sup>2</sup> \u2013 3)", 
+    "tossupA": "Y) x", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc908"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1ST LAW", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer On the geological time scale, the Pleistocene Epoch is \r\nfollowed by what epoch?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Which of Kepler\u2019s laws most directly leads us to have terms \r\nsuch as apogee, aphelion, and perigee?", 
+    "tossupA": "HOLOCENE (ACCEPT: RECENT)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc916"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5 \r\n \r\n(Solution: 180\u00ba(n \u2013 2) = 540\u00ba, n = 5 sides)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the degree of the following monomial: 12x<sup>2</sup>y<sup>3</sup>z<sup>4</sup>", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the sum of the INTERIOR angles of a regular polygon is 540\u00ba, how \r\nmany sides does it have?", 
+    "tossupA": "9 \r\n \r\n(Solution: 2 + 3 + 4 = 9)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc917"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) LIGHT EMITTED FROM A GALAXY THAT IS MOVING AWAY FROM \r\nEARTH IS SHIFTED TO THE RED WAVELENGTHS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the BEST description of the \r\nthermodynamic term entropy: \r\n \r\nW) a measure of the disorder of a system \r\nX) the amount of heat in a system \r\nY) all energy is conserved \r\nZ) heat moving from a warm system and generating work", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is an example of the Doppler \r\neffect: \r\n \r\nW) the higher a sound pitch the slower it travels through a dense medium \r\nX) light emitted from a galaxy that is moving away from Earth is shifted to the red wavelengths \r\nY) sound is louder the closer it is to an observer \r\nZ) light intensity falls off with the cube of the distance from an observer", 
+    "tossupA": "W) A MEASURE OF THE DISORDER OF A SYSTEM", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc901"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) GERMS GAIN ENTRY INTO CELLS BY BINDING TO RECEPTORS WHICH \r\nARE OFTEN SPECIFIC TO CERTAIN GROUPS OF ORGANISMS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Into what organelle does the nuclear membrane get absorbed at \r\nthe start of prophase?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the best explanation as to why \r\ngerms that infect a certain family of animals will often NOT be able to infect a different family of \r\nanimals: \r\n \r\nW) different metabolic pathways exist in different animals \r\nX) germs gain entry into cells by binding to receptors which are often specific to certain groups of \r\norganisms \r\nY) the immune systems of different animals prevents infection of unusual diseases \r\nZ) germs reproduce only when genes in a cell allow them", 
+    "tossupA": "ENDOPLASMIC RETICULUM (ACCEPT: ER)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc905"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) SWAN NECKED FLASKS WITH BOILED AND UNBOILED BROTH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a set of reactions that do NOT \r\nrequire light and where carbon dioxide is used to make 3 carbon sugar phosphate molecules that are \r\nlater used to make 6 carbon sugars: \r\n \r\nW) photosystem-two \r\nX) Calvin cycle \r\nY) citric acid cycle \r\nZ) electron transport", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following instruments did Louis Pasteur use in \r\ndispelling the theory of spontaneous generation: \r\n \r\nW) swan necked flasks with boiled and unboiled broth \r\nX) open and closed jars with rotting meat \r\nY) flasks of amino acids and other organic molecules exposed to electric charges \r\nZ) bacterial cultures inside sterile tubes", 
+    "tossupA": "X) CALVIN CYCLE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc90f"
+    }, 
+    "questionNum": 16
+  }
+]

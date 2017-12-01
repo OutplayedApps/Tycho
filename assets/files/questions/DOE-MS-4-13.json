@@ -1,0 +1,427 @@
+[
+  {
+    "category": 5, 
+    "bonusA": "156", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which one of the following is an issue of power quality? \r\n \r\nW) Connecting an alarm clock to a battery \r\nX) Voltage provided to a blood pressure monitor used in hospitals that is higher than what it \r\nshould be for long periods of time \r\nY) Wasting nuclear energy produced by nuclear power plants \r\nZ) Connecting a ceiling fan to a power outlet", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer For an outlet with a voltage of 120, calculate the voltage in volts if \r\nthe voltage is 30% over the usual value.", 
+    "tossupA": "X) VOLTAGE PROVIDED TO A BLOOD PRESSURE MONITOR USED IN \r\nHOSPITALS THAT IS HIGHER THAN WHAT IT SHOULD BE FOR LONG PERIODS OF TIME", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce90"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "NO LIGHT (ACCEPT: NOTHING)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice If you shine unpolarized light through a polarizing \r\nfilter, the light that exits the filter is: \r\n \r\nW) Half as intense \r\nX) Equally as intense \r\nY) Dispersed into many colors \r\nZ) Scattered in all directions", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If you shine white light through two linear polarizing \r\nfilters that have their directions of polarizations perpendicular to one another, what will you \r\nobserve about the light at the other end?", 
+    "tossupA": "W) HALF AS INTENSE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce91"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "RESPIRATORY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer By words or numbers, name all of the following that are \r\norgans in the human digestive system: 1) pancreas, 2) jejunum (read as: ji-JUH-nuhm), 3) \r\nduodenum (read as: duh-oh-DEE-nuhm), and/or 4) bladder.", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name the body system to which the trachea belongs.", 
+    "tossupA": "PANCREAS, JEJUNUM, AND DUODENUM (ACCEPT: 1, 2, 3)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce92"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) MERCURY HAS NO MAGNETIC FIELD", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Greenhouse gases heat the atmosphere by \r\nallowing sunlight to pass through while trapping heat. Which of the following planets does NOT \r\nhave an atmosphere that contains greenhouse gases? \r\n \r\nW) Earth \r\nX) Venus \r\nY) Mars \r\nZ) Mercury", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following statements is NOT \r\ntrue about Mercury? \r\n \r\nW) Mercury is the second densest planet in the solar system \r\nX) Mercury travels around the Sun faster than any other planet \r\nY) Mercury has no magnetic field \r\nZ) Mercury has been visited by spacecraft", 
+    "tossupA": "Z) MERCURY", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce93"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) MATILDA'S WAVE PEAKS ARE CLOSER TOGETHER THAN MATT'S", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Soundtracks of space movies frequently have sounds \r\nof ships exploding or whizzing through space. Why is this an inaccurate depiction of space? \r\n \r\nW) Sound waves are distorted in space so everything would sound like it was under water \r\nX) Sound cannot travel through a vacuum \r\nY) Everything would have a very high pitch in space \r\nZ) Space vibrations would muffle the explosions", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Matilda plays an instrument which produces a higher \r\npitch than the instrument her friend Matt plays. What can we say about the sound waves of \r\nMatilda's music? \r\n \r\nW) Matilda's wave peaks are farther apart than Matt's \r\nX) Both Matilda and Matt's sound waves have the same wavelength, but Matilda's travel slower \r\nY) Matilda's wave peaks are closer together than Matt's \r\nZ) Both Matilda and Matt's sound waves have the same wavelength, but Matilda's travel faster", 
+    "tossupA": "X) SOUND CANNOT TRAVEL THROUGH A VACUUM", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce95"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "METHIONINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer How many common amino acids are there?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name the first amino acid encoded by all eukaryotic (read as: \r\nyuh-KEHR-ee-\u014detik) mRNAs.", 
+    "tossupA": "20", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce96"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "16", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Simplify (y<sup>2</sup>) (y<sup>-3</sup>) (read as y squared times y to the power of negative 3).", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many subsets does the set {a, b, c, d} have?", 
+    "tossupA": "y<sup>-1</sup>    ALSO ACCEPT: 1/y", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce97"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What type of reaction absorbs energy?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If a superconductor's temperature rises above its \r\ncritical point, the superconductor transitions back to a regular conductor with resistance. If this \r\noccurred, and a conductor had a resistance of 1 ohm, what voltage would drive 2 amps of \r\ncurrent through the conductor?", 
+    "tossupA": "ENDOTHERMIC", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce99"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5 \u00d7 1014", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following values is smallest? \r\n \r\nW) 200 \r\nX) (-16)<sup>2</sup> (read as: open parenthesis negative 16 close parenthesis squared) \r\nY) 14<sup>2</sup> \r\n(read as: 14 squared) \r\nZ) (120/8)<sup>2</sup> (read as: open parentheis120 over 8 close parenthesis squared)", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The radius of the Earth is approximately 6.4 x 10<sup>6</sup> meters (read as: \r\n6.4 times 10 to the sixth). Giving your answer in scientific notation with one significant digit, what \r\nis the surface area of Earth in square meters?", 
+    "tossupA": "Y) 14\r\n2", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce9a"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) IT IS A FUNGUS \r\n \r\n*[NOTE: SLIME MOLDS WERE ORIGINALLY CLASSIFIED AS A FUNGUS BUT HAVE BEEN RECLASSIFIED. \r\nSEE: http://www.ucmp.berkeley.edu/protista/slimemolds.html]", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer In which kingdom could you find an eukaryotic (read as: yuh-\r\nKEHR-ee-\u014detik) heterotroph with cell walls?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following statements is NOT true about slime \r\nmold? \r\n \r\nW) It is a fungus* \r\nX) It can move \r\nY) It lacks chitin in its cell walls \r\nZ) It ingests food", 
+    "tossupA": "FUNGI OR PROTISTA", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce9b"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) TO REGULATE THE AMOUNT OF POWER THAT GOES INTO ENERGY \r\nSTORAGE FOR LATER USE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following components allows renewable systems to \r\nproduce energy for later use? \r\n \r\nW) Inductor \r\nX) Regulator \r\nY) Battery bank \r\nZ) Heater", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice A component of a solar energy system is the charge controller. \r\nWhat is its function? \r\n \r\nW) To provide electrical protection to the system \r\nX) To regulate the amount of power that goes into energy storage for later use \r\nY) To dissipate excess energy \r\nZ) To store the energy for later use", 
+    "tossupA": "Y) BATTERY BANK", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce9c"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) ITS ATMOSPHERE IS LARGELY COMPRISED OF METHANE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT a moon of \r\nJupiter? \r\n \r\nW) Titan \r\nX) Io \r\nY) Europa \r\nZ) Callisto", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following statements is NOT \r\ntrue about Jupiter\u2019s moon Europa?  \r\n \r\nW) It was discovered by Galileo \r\nX) Its atmosphere is primarily composed of methane \r\nY) It orbits Jupiter every 3 and a half days \r\nZ) It has a deep salty ocean which is frozen over", 
+    "tossupA": "W) TITAN", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce9d"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(5y + 3) (3y \u2013 2)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Solve for x in simplest form: 2x<sup>2</sup> = 50.", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Factor completely over the integers: 15y\u00b2 - y \u2013 6.", 
+    "tossupA": "5, -5", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce9e"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) NO, BECAUSE THE MOTHER IS NEITHER COLORBLIND NOR A CARRIER \r\nOF COLORBLINDNESS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which genetic disorder is caused by a mutation in \r\none gene, leading to thick, sticky mucus clogging the lungs, pancreas, and passageways in \r\nother organs? \r\n \r\nW) Cystic fibrosis \r\nX) Huntington\u2019s disease \r\nY) Klinefelter syndrome \r\nZ) Sickle cell anemia", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice A father is colorblind, but his wife is not colorblind \r\nand is not a carrier of the gene for colorblindness. If the couple has a son, will he be colorblind? \r\n \r\nW) Yes, because colorblindness is always passed from father to son \r\nX) No, because the mother is neither colorblind nor a carrier of colorblindness \r\nY) There is a 50% chance because colorblindness is autosomal dominant \r\nZ) Yes, because the gene for colorblindness is located on the Y chromosome", 
+    "tossupA": "W) CYSTIC FIBROSIS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea0"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-247", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the largest integer smaller than &radic;150?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the multiplicative inverse of the rational number halfway \r\nbetween -1/3 and -1/4?", 
+    "tossupA": "12", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea1"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) COLD AND DRY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice The general paths of storm systems that \r\ntravel across the continental United States are primarily driven by: \r\n \r\nW) Ocean currents \r\nX) Local winds \r\nY) Mountains \r\nZ) The jet stream", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice The jet stream separates major air \r\nmasses over the central continental U.S. The high pressure air mass to the north of the jet \r\nstream has which of the following characteristics in winter? \r\n \r\nW) Warm and humid \r\nX) Warm and dry \r\nY) Cold and humid \r\nZ) Cold and dry", 
+    "tossupA": "Z) THE JET STREAM", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea2"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) -1.8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice What is a meteorite? \r\n \r\nW) An asteroid \r\nX) A kind of comet \r\nY) A natural particle from space that vaporizes upon entering Earth\u2019s atmosphere \r\nZ) A natural particle from space that survives impact with the Earth\u2019s surface", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Sea ice is formed by frozen seawater, \r\nwhich contains salt. At what temperature, in Celsius, will sea ice freeze? \r\n \r\nW) -11.20 \r\nX) -1.8 \r\nY) 0 \r\nZ) +0.001", 
+    "tossupA": "Z) A NATURAL PARTICLE FROM SPACE THAT SURVIVES IMPACT WITH THE \r\nEARTH\u2019S SURFACE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea3"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) HYPOTHALAMUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Babies cannot walk well. As they grow older, which of the \r\nfollowing parts of their nervous systems will interact with their muscles, allowing for increased \r\ncoordination? \r\n \r\nW) Somatic \r\nX) Autonomic \r\nY) Sympathetic \r\nZ) Parasympathetic", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice When you have the flu, what part of the nervous system is \r\nresponsible for elevating your body temperature? \r\n \r\nW) Medulla oblongata \r\nX) Pons \r\nY) Hypothalamus \r\nZ) Brain stem", 
+    "tossupA": "W) SOMATIC", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea6"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "BRACKISH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is the term for the \r\nswampy area where a river valley meets the sea? \r\n \r\nW) Playa \r\nX) Trench \r\nY) Spit \r\nZ) Estuary (read as: EHS-chuh-wehr-ee)", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer When fresh water streams meet the salty \r\nocean, water of intermediate salinity forms. What term is used to describe this type of water?", 
+    "tossupA": "Z) ESTUARY", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea7"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "EDWARD JENNER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice For what did Marie Curie win the Nobel Prize in \r\nchemistry? \r\n \r\nW) Discovering uranium and plutonium \r\nX) Discovering radon \r\nY) Discovering curium \r\nZ) Discovering radium and polonium", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Who is credited with creating the first vaccine?", 
+    "tossupA": "Z) DISCOVERING RADIUM AND POLONIUM", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea8"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "T-CELL OR HELPER T-CELL (ACCEPT: CD4 T CELL)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Which organ system is responsible for protecting you \r\nagainst viruses, bacteria, and other pathogens?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name the type of immune cell that is attacked by HIV?", 
+    "tossupA": "IMMUNE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce9f"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "y = x + (ACCEPT: y = x + 5 )", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the smallest angle, in degrees, formed by the intersection of \r\nthe lines y = 2 and y = x + 3?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the equation, in slope intercept form, of the line perpendicular \r\nto the line y = 3x + 4, that passes through the point (-5, 7)?", 
+    "tossupA": "45", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce94"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "$36", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following sectors is the most important factor in \r\nassessing future trends in demand for liquid fuels? \r\n \r\nW) World carbon dioxide emissions \r\nX) Transportation \r\nY) Residential buildings \r\nZ) Commercial buildings", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer In 2009, the state of Tennessee had the greatest average \r\nresidential electricity consumption of 1,248 kilowatt hours per month at an average retail price of \r\nabout 9 cents per kilowatt hour. The state of Hawaii had the highest average retail price of about \r\n24 cents per kilowatt hour and an average residential electricity consumption of 617 kilowatt \r\nhours per month. Giving your answer to the nearest dollar, how much more, on average, was \r\nthe monthly electricity bill in Hawaii than in Tennessee?", 
+    "tossupA": "X) TRANSPORTATION", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce98"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) GOLD", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer According to Charles\u2019s law, which property of a gas \r\nincreases as its temperature increases?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following elements has the highest \r\nboiling point? \r\n \r\nW) Copper \r\nX) Magnesium \r\nY) Zinc \r\nZ) Gold", 
+    "tossupA": "VOLUME", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea4"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) GANYMEDE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Not counting the Sun itself, what is the name of the \r\nclosest star to the Sun?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice What is the largest moon in our Solar System? \r\n \r\nW) Io \r\nX) Europa \r\nY) Ganymede (read as: gah-NY-meed) \r\nZ) Callisto", 
+    "tossupA": "PROXIMA CENTAURI", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea5"
+    }, 
+    "questionNum": 22
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "5 SECONDS   \r\n \r\n(Solution: v = at, f = ma  => t = v/a  = v m / f = 20 x 5 / 20 = 5 seconds)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the angular velocity of a wheel with a radius of 15 meters and \r\na surface velocity of 120 meters/sec:", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer   Assuming friction is negligible, how long will it take an object to stop \r\nif it has an initial velocity of 5 meters per second, if the average braking force is 20 Newtons, and if \r\nthe object\u2019s mass is 20 kilograms?", 
+    "tossupA": "8 RAD/SEC \r\n \r\n(Solution:  T = v/r = 120/15 = 8)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd512"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X)  PHOSPHORIC ACID", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  For individuals who are \u201cLactose Intolerant,\u201d the reason for \r\ntheir gastric distress is the production of: \r\n \r\nW)  methane  \r\nX)  acetic acid and nitrogen \r\nY)  lactic acid and carbon dioxide \r\nZ)  acetic acid and methane", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which acid connects the 2-deoxyribose units within every DNA \r\nstrand: \r\n \r\nW)  acetic acid \r\nX)  phosphoric acid \r\nY)  citric acid \r\nZ)  glycolic acid", 
+    "tossupA": "Y)  LACTIC ACID AND CARBON DIOXIDE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd513"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "x < -2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Convert 135\u00b0 into radians:", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Solve the following inequality:  3 \u2013 6x > 15", 
+    "tossupA": "3\u03c0/4", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd516"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ABLATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Hawaiian volcanoes such as Kilauea and Mauna Loa are \r\nexamples of which of the following types of volcanoes: \r\n \r\nW)  basaltic \r\nX)  rhyolitic \r\nY)  andesitic \r\nZ)  andesitic and rhyolitic", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  In reference to glacial ice, the process by which ice below the \r\nsnow line is lost by evaporation and melting is called what?", 
+    "tossupA": "W)  BASALTIC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd517"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  ROBERT KOCH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  What is a quantity that has only a magnitude most \r\ncommonly called?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  What pioneer bacteriologist in 1873 located a particular \r\nbacterium that caused anthrax in the spleen of infected cattle and, after transferring it serially to \r\nmice, recovered the same bacterium in the end: \r\n \r\nW)  Louis Pasteur \r\nX)  Robert Koch  (pronounced:  Coke) \r\nY)  Rudolf Virchow \r\nZ)  Peter Vogt", 
+    "tossupA": "SCALAR", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd518"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "NIBBLE  (ACCEPT:  NYBBLE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Short Answer  In most computer systems, a byte is a unit of data that is \r\nhow many binary digits long?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Short Answer  What is the term for half a byte, or four bits?", 
+    "tossupA": "8", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd519"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1/8  (ACCEPT:  12.5%)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  In a standing wave of a vibrating wire cord, what are the points of \r\nconstructive interference most commonly called where the cord oscillates with maximum amplitude?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  For a radioactive element with a half-life of 5000 years, if a sample of \r\nthe radioactive element is left to decay for 15,000 years, what fraction of the original radioactive \r\natoms in the sample will be left?", 
+    "tossupA": "ANTINODES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd51a"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "BERYLLIUM;  MAGNESIUM;  CALCIUM;  STRONTIUM;  BARIUM;  RADIUM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following elements is found in Period 3 and main \r\nGroup 5A: \r\n \r\nW)  phosphorous \r\nX)  silicon \r\nY)  nitrogen   \r\nZ)  arsenic", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  From the lowest to the highest atomic number, give the full \r\nnames of any 4 alkaline earth metals:", 
+    "tossupA": "W)  PHOSPHOROUS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd51b"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "NEUTRON STARS  (DO NOT ACCEPT:  PULSAR)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  How many degrees above the horizon will the north celestial \r\npole be for someone standing at latitude 53\u00b0 North?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What kind of celestial bodies have  cores that consist primarily \r\nof neutral particles in a superfluid state and are thought to have evolved from stars with masses more \r\nthan about 1.4 times the Chandrasekhar limit?", 
+    "tossupA": "53", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd51d"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "\u20138x<sup>3</sup>y + 9x<sup>3</sup>y<sup>2</sup> + x<sup>2</sup>y<sup>3</sup> + 3y", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the formula for the volume of a sphere?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Subtract the following 2 polynomials: (-4x<sup>3</sup>y + 2x<sup>3</sup>y<sup>2</sup> + 2x<sup>2</sup>y<sup>3</sup> + 2y) \u2013 (4x<sup>3</sup>y \u2013 7x<sup>3</sup>y<sup>2</sup> + x<sup>2</sup>y<sup>3</sup> \u2013 y)", 
+    "tossupA": "4/3 \u03c0r<sup>3</sup>", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd51e"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LITTORAL ZONE  (ACCEPT:  INTERTIDAL ZONE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  A measure of how easily water flows through rock is \r\ncalled its: \r\n \r\nW)  porosity \r\nX)  aquifer system \r\nY)  permeability \r\nZ)  zone of aeration", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  In coastal engineering terms, the area from the shoreline to \r\njust beyond the breaker zone is called what?", 
+    "tossupA": "Y)  PERMEABILITY", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd51f"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  CAPACITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  What ardent behaviorist and author of \u201cWalden Two\u201d \r\nbelieved that human behavior is strongly influenced by what he referred to as operant reinforcement?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple choice  The total amount of sediment a stream can carry past a \r\npoint in a given amount of time, is known as its: \r\n \r\nW)  competence \r\nX)  capacity \r\nY)  abrasion \r\nZ)  dissolved load", 
+    "tossupA": "B.F. SKINNER  (ACCEPT:  SKINNER)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd520"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "Y)  200", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Short Answer  In word processing, a collection of letters and \r\nassociated characters in the same typeface, style and point size is called:", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Multiple choice  A logic chip that is just 20 nanometers wide would be \r\nabout how many times wider than a single silicon atom? \r\n \r\nW)  5 \r\nX)  50 \r\nY)  200 \r\nZ)  500", 
+    "tossupA": "FONT", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd521"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "350 NEWTONS  (ACCEPT:  350) \r\n \r\n(Solution:  F=MA; F=70 &times; 5; F=350)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which physical phenomenon explains the flotation of boats and air \r\nballoons: \r\n \r\nW)  Bernoulli\u2019s principle \r\nX)  Archimedes principle \r\nY)  Newton's second law of motion \r\nZ)  Galileo\u2019s law of displacement", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A runner, with her feet braced against her starting blocks, accelerates \r\nwith a horizontal magnitude of 5 meters per second squared.  How much horizontal force, in \r\nNewtons, must she exert on the blocks to produce this acceleration if the she has a mass of 70 \r\nkilograms?", 
+    "tossupA": "X)  ARCHIMEDES PRINCIPLE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd522"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Z)  POTASSIUM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  How many electrons would fill the 4d energy subshell?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  In which element is the first crossing in the orbital-filling order \r\nencountered, whereby the next 2 electrons go into the 4s subshell rather than filling the 3d orbitals? \r\n \r\nW)  argon \r\nX)  scandium  \r\nY)  rubidium  \r\nZ)  potassium", 
+    "tossupA": "10", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd523"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W)  A KEYSTONE SPECIES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What section of the brain is sometimes referred to as the body\u2019s \r\nthermostat?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Removal of a predatory starfish results in an overabundance of \r\nmollusks dramatically altering the community population.  The starfish would be considered: \r\n \r\nW)  a keystone species \r\nX)  primary competitor \r\nY)  secondary producer \r\nZ)  an endangered species", 
+    "tossupA": "HYPOTHALAMUS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd524"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  CONTINENTAL RISE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  On a topographical map, what are the lines drawn that \r\nconnect points of the same elevation above or below mean sea level called: \r\n \r\nW)  isobars  \r\nX)  ridges \r\nY)  isohyets \r\nZ)  contours", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  The abyssal plain of the Atlantic ocean lies directly \r\nadjacent to the: \r\n \r\nW)  continental slope \r\nX)  continental rise \r\nY)  continental shelf \r\nZ)  continental crust", 
+    "tossupA": "Z)  CONTOURS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd526"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "AMERICAN CHESTNUT  (DO NOT ACCEPT CHESTNUT)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  In 1905, on the basis of apparent irregularities in the \r\norbital motion of Neptune that later proved to be incorrect, who predicted the existence of a ninth \r\nplanet with an orbit beyond Neptune: \r\n \r\nW)  Percival Lowell \r\nX)  Charles Dillon Perrine \r\nY)  George Ellery Hale \r\nZ)  Johannes Franz Hartman", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  What native tree, prized for its wood, which looked like \r\noak, and valued also for its fruit, is now almost extinct in the wild in the US?", 
+    "tossupA": "W)  PERCIVAL LOWELL", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd527"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "7  \r\n \r\n(Solution:  v = 35/5 = 7 volts)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  The speed of light in a vacuum divided by the speed of light in a \r\nspecific material is a way to compute what common optical value:", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  What is the potential difference, in volts, if 35 joules of work is \r\nneeded to move 5 coulombs of charge in a uniform electric field?", 
+    "tossupA": "INDEX OF REFRACTION", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd528"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "IRON(II) CARBONATE  (read as: iron 2 carbonate)   \r\n(DO NOT ACCEPT:  FERROUS CARBONATE OR IRON CARBONATE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  All elements in a given period of the periodic table have \r\nsimilar: \r\n \r\nW)  valence-shell electron configuration  \r\nX)  maximum principal quantum number \r\nY)  atomic radii \r\nZ)  atomic number", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the systematic name for the compound FeCO<sub>3</sub>?", 
+    "tossupA": "X)  MAXIMUM PRINCIPAL QUANTUM NUMBER", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd529"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z)  LACRIMAL \r\n \r\n(Solution:  Lacrimal is a facial bone)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is a feeding structure in arachnids : \r\n \r\nW)  dentipalps \r\nX)  radula   \r\nY)  proboscis \r\nZ)  chelicerae  (read as:  chill-iss-err-aye)", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT a cranial bone: \r\n \r\nW)  parietal \r\nX)  occipital \r\nY)  sphenoid \r\nZ)  lacrimal", 
+    "tossupA": "Z)  CHELICERAE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd52a"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "IRIS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following organisms does NOT belong to the Class \r\nArachnida: \r\n \r\nW)  scorpions \r\nX)  lobsters \r\nY)  mites \r\nZ)  ticks", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What anatomical structure is responsible for the various colors of eyes \r\nin humans?", 
+    "tossupA": "X)  LOBSTERS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd514"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SATURN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following planets is NOT known to have any \r\norbiting satellites:  \r\n \r\nW)  Venus \r\nX)  Mars \r\nY)  Uranus \r\nZ)  Saturn", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  Cassini\u2019s division is associated with what planet?", 
+    "tossupA": "W)  VENUS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd515"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "NIGHTSHADE   (ACCEPT:  SOLANACEAE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Which is the more common specific name for the \r\npolymorphonuclear (read as:  poly-morph-oh-nuclear) leukocyte?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Tobacco, jimsonweed, belladonna, and tomatoes all belong to what \r\nfamily of plants?", 
+    "tossupA": "NEUTROPHIL  (ACCEPT:  PMN)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd51c"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "33  (ACCEPT:  32 \u2013 34) \r\n \r\n(Solution:  V = 4/3 \u03c0r<sup>3</sup>;  = 4/3 (3.14)(8);  = 33.49)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  In statistics, what is the square root of the variance most commonly \r\nknown as?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  To the nearest cubic inch, find the volume of a sphere whose diameter is \r\n4 inches:", 
+    "tossupA": "STANDARD DEVIATION", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd525"
+    }, 
+    "questionNum": 20
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "K = 32%;  Cl = 29%;  O = 39%   \r\n \r\n(Solution:  K = 39g/122g \u00d7 100% = 32%;  Cl = 35/122 \u00d7 100% = 29%;  O = 48/122 \u00d7 100% = 39%)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  The reaction Fe<sub>3</sub>O4 + 4H<sub>2</sub> \uf0e0 3Fe + 4H<sub>2</sub>O, is an example of what \r\nclass of chemical reaction: \r\n \r\nW)  decomposition  \r\nX)  single replacement \r\nY)  combustion  \r\nZ)  combination", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Find the mass percent composition, rounded to the nearest whole \r\nnumber, for each atom in KClO<sub>3</sub>.  Assume the atomic masses of potassium = 39, chlorine = 35, and \r\noxygen = 16", 
+    "tossupA": "X)  SINGLE REPLACEMENT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd84b"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GRAM NEGATIVE;  AN ENTERIC ORGANISM;  BACILLUS \r\n(ACCEPT:  ALL BUT NON-MOTILE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is the highest level of structural \r\norganization in myoglobin: \r\n \r\nW)  primary \r\nX)  secondary \r\nY)  tertiary \r\nZ)  quaternary", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 choices that are characteristic of  \r\nE. coli:  gram negative;  an enteric organism;  non-motile;  bacillus", 
+    "tossupA": "Y)  TERTIARY", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd84c"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W)  ORANGE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following colors of light has the greatest angle of \r\nrefraction in normal glass: \r\n \r\nW)  yellow \r\nX)  green \r\nY)  orange \r\nZ)  blue", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  If a beam of white light passes through a prism, which of the \r\nfollowing colors color will emerge on the other side at the lowest angle with respect to the incident \r\nbeam: \r\n \r\nW)  orange  \r\nX)  indigo \r\nY)  green \r\nZ)  blue", 
+    "tossupA": "Z)  BLUE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd84d"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "17,640 \r\n \r\n(Solution:  (100 \u2013 2)(180) = 17,640&deg;)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following is NOT true: \r\n \r\nW)  all central angles in a regular polygon are equal \r\nX)  irregular polygons are not considered to have centers and have no central angles \r\nY)  the circumcircle of a regular polygon is the circle that passes through at least one vertex \r\nZ)  all regular polygons are convex", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the sum of all interior angles, in degrees, in a regular polygon having \r\n100 sides:", 
+    "tossupA": "Y)  THE CIRCUMCIRCLE OF A REGULAR POLYGON IS THE CIRCLE THAT \r\nPASSES THROUGH AT LEAST ONE VERTEX", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd84e"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  OCEANIC TRENCH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Because of Earth\u2019s rotation and shape, ocean currents are \r\nintensified along which of the following borders of all oceans: \r\n \r\nW)  northern \r\nX)  southern \r\nY)  eastern \r\nZ)  western", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT generally characteristic of a \r\npassive continental margin: \r\n \r\nW)  relatively wide continental shelf \r\nX)  oceanic trench \r\nY)  terrigenous sediment \r\nZ)  continental rise", 
+    "tossupA": "Z)  WESTERN", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd84f"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  449", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  The sea nettle is the Bering Sea\u2019s most common: \r\n \r\nW)  jellyfish \r\nX)  crab \r\nY)  sea urchin \r\nZ)  walleye pollock", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  1 cubic foot per second equals approximately how many \r\ngallons per minutes: \r\n \r\nW)  256 \r\nX)  449 \r\nY)  646 \r\nZ)  724", 
+    "tossupA": "W)  JELLYFISH", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd850"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LIQUID", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  Which of the terrestrial planets has the lowest albedo?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  Most of the hydrogen that makes up the planet Jupiter is in what \r\nphase?", 
+    "tossupA": "MERCURY", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd851"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "7", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is the theoretical end of a titration: \r\n \r\nW)  end point \r\nX)  indicator point \r\nY)  equivalence point \r\nZ)  standardization point", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  In a strong acid-base titration, what is the pH of the solution when \r\nthe equivalence point is reached?", 
+    "tossupA": "Y)  EQUIVALENCE POINT \r\n \r\n(Solution: end point is the observed end of a titration)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd852"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X)  COMPLEMENT SYSTEM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What specific class of antibodies is most commonly responsible for \r\ndegranulation of basophils or mast cells?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is a group of about 20 proteins that aid in \r\nthe attraction and phagocytosis of microorganisms by macrophages: \r\n \r\nW)  alpha interferons  \r\nX)  complement system \r\nY)  TNF \r\nZ)  hemopoietins", 
+    "tossupA": "IgE  (ACCEPT:  IMMUNOLGLOBULIN E)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd853"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "FARADAY\u2019S FIRST LAW OF ELECTROLYSIS   \r\n(ACCEPT:  FARADAY\u2019S FIRST LAW or FARADAY\u2019S LAW OF ELECTROLYSIS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What property of a wave is generally said to increase during \r\nconstructive interference?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  What is the most common name for the Law or principal dictating \r\nthat the amount of a substance that is released or deposited from an electrode is directly proportional \r\nto the amount of electric current passing through the circuit?", 
+    "tossupA": "AMPLITUDE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd854"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "32  (DO NOT ACCEPT:  2<sup>5</sup>) \r\n \r\n(Solution: 1 + 3 + 8 + 8 = 20/4 = 5;  2<sup>5</sup> = 32)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Find 2 mean proportionals between the numbers 3 and 24:", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the numerical value of the geometric mean of the following 4 \r\nvalues:  2<sup>1</sup>;  2<sup>3</sup>;  2<sup>8</sup>;  2<sup>8</sup>", 
+    "tossupA": "6 AND 12 \r\n \r\n(Solution: 3r<sup>3</sup> = 24, r = 2)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd855"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y)  ITS TEXTURE CONSISTS OF ROUNDED PEBBLES, COBBLES AND \r\nBOULDERS \r\n \r\n(Solution: constituent clasts are angular)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Many of the driest locales on Earth are situated between \r\nwhich of the following latitudes: \r\n \r\nW)  0\u00ba to 15\u00ba \r\nX)  15\u00ba to 30\u00ba \r\nY)  30\u00ba to 45\u00ba \r\nZ)  45\u00ba to 60\u00ba", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT true of breccia rock: \r\n \r\nW)  it is sedimentary \r\nX)  its color is variable \r\nY)  its texture consists of rounded pebbles, cobbles and boulders \r\nZ)  fragments may be any type of igneous, metamorphic, or sedimentary rocks", 
+    "tossupA": "X)  15\u00ba to 30\u00ba", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd856"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z)  PERLITE \r\n \r\n(Solution: it is easily reduced to smaller pieces with little effort)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  In the northern hemisphere, which of the following \r\ndegrees latitude would experience a length of day of 6 months: \r\n \r\nW)  0 \r\nX)  30 \r\nY)  60 \r\nZ)  90", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is a substance that is generally \r\nconsidered friable: \r\n \r\nW)  concrete \r\nX)  topaz \r\nY)  quartz \r\nZ)  perlite", 
+    "tossupA": "Z)  90", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd857"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  O<sub>2</sub>\u2013 \r\n \r\n(Solution: O<sub>2</sub>\u2013 has configuration of neon)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  A sample of gas is heated from 300K to 500K.  If the container \r\nis sealed and of fixed volume, which of the following will remain constant: \r\n \r\nW)  the average kinetic energy of the gas molecules \r\nX)  the average speed of the gas molecules \r\nY)  the density of the gas \r\nZ)  the pressure of the gas", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following does NOT have the electron \r\nconfiguration of argon: \r\n \r\nW)  O<sub>2</sub>\u2013 \r\nX)  Cl\u2013 \r\nY)  S<sub>2</sub>\u2013 \r\nZ)  K+", 
+    "tossupA": "Y)  THE DENSITY OF THE GAS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd859"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MITOCHONDRION  (ACCEPT:  MITOCHONDRIA)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  In angiosperm seed development, what fuses with the second sperm \r\nnucleus to form the endosperm?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  In what specific part of a eukaryotic cell will pyruvate be converted \r\ninto acetyl Co-enzyme A?", 
+    "tossupA": "2 POLAR NUCLEI  (ACCEPT:  2 OR BOTH POLAR NUCLEI or POLAR NUCLEI) \r\n(DO NOT ACCEPT:  POLAR NUCLEUS)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd85a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z)  SPECIFIC GRAVITY OF THE ELECTROLYTE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following are the most important calibration \r\nreferences that Celsius used to devise his temperature scale: \r\n \r\nW)  melting point and boiling point of water \r\nX)  ice-point and freeze-thaw point of water \r\nY)  specific gravity of water \r\nZ)  boiling point and steam point of water", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following is the MOST reliable measure of the \r\nremaining percentage of stored energy in a lead acid battery: \r\n \r\nW)  pH of the electrolyte \r\nX)  voltage remaining in the battery as measured on a voltmeter \r\nY)  amount of oxygen gas released \r\nZ)  specific gravity of the electrolyte", 
+    "tossupA": "W)  MELTING POINT AND BOILING POINT OF WATER", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd85b"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1 AND \u20137", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  There are 10 people on a bus who, when ranked from youngest to oldest, \r\nall differ from those on the bus closest in age to them by the same number of years.  If the youngest \r\nis 6 and the oldest is 51, what is the common difference in their age?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Solve the following equation for all real values of x:  (x + 3)<sup>2</sup> = 16", 
+    "tossupA": "5 \r\n \r\n(Solution: 6-11-16-21-26-31-36-41-46-51)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd85c"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CONDENSATION NUCLEI", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  When geologists find pillow basalts in ancient rock \r\nsequences, which of the following BEST explains their presence: \r\n \r\nW)  the area was once underwater \r\nX)  volcanic bombs and lapilli landed on snow or ice and quickly cooled \r\nY)  they hardened in mid-air, sometimes forming a tear-drop shape \r\nZ)  nearby volcanoes erupted enormous quantities of ash", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  What is the general name for the myriad of suspended \r\nparticles or aerosols in the Earth\u2019s atmosphere that allow rain droplets to undergo coalescence?", 
+    "tossupA": "W)  THE AREA WAS ONCE UNDERWATER", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd85d"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  IN VERY DEEP OCEAN HYDROTHERMAL VENTS ALONG THE MID-\r\nATLANTIC RIDGE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is closest to the meaning of the \r\nsuffix \u2018tropic\u2019 (read as: troh-PIK): \r\n \r\nW)  hot \r\nX)  wet \r\nY)  changing \r\nZ)  under", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  In which of the following locations has water at its \r\nhighest temperature ever been recorded in nature: \r\n \r\nW)  within gullies on Venus \r\nX)  in very deep ocean hydrothermal vents along the mid-Atlantic ridge \r\nY)  at the bottom of Yellowstone Lake in Yellowstone National Park \r\nZ)  within volcanic vents high atop Hawaii\u2019s Kilauea volcano", 
+    "tossupA": "Y)  CHANGING", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd85e"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "(NH<sub>4</sub>)2SO<sub>4</sub>", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  In the electrolysis of a copper chloride solution, what forms at the \r\ncathode and anode, respectively?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  According to standard chemical nomenclature, what is the \r\nformula for ammonium sulfate?", 
+    "tossupA": "CATHODE = COPPER  (ACCEPT:  Cu);  ANODE = CHLORINE  (ACCEPT:  \r\nCHLORINE GAS or Cl<sub>2</sub>)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd860"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HUMANS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  How many human ova are produced by a full round of meiosis from \r\na single primary oocyte?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 animals for which L-ascorbate is an \r\nessential nutrient:  humans;  dogs;  cats;  horses", 
+    "tossupA": "1 \r\n \r\n(Solution: mammals produce 1 ovum and 3 polar bodies per primary oocyte)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd861"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2  (ACCEPT:  2 PIPE LENGTHS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  In triboelectric charging, when one object loses electrons, the object \r\nthat accepts the charges acquires the same number of charges that the other object has lost.  What \r\nlaw most directly governs this equal exchange?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Consider an organ pipe open at both ends.  For a standing wave in the \r\npipe, what is the wavelength of the fundamental tone, in terms of the pipe\u2019s length?", 
+    "tossupA": "CONSERVATION OF CHARGE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd862"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "23 \r\n \r\n(Solution: \u00bd(80\u00ba \u2013 34\u00ba) = 23\u00ba)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Giving your answer in standard form, give the equation of the circle with \r\ncenter at (0, 0) and diameter of 6:", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the degree measure of the angle formed by 2 secants intersecting \r\noutside a circle if the measures of the intercepted arcs are 80\u00ba and 34\u00ba?", 
+    "tossupA": "x<sup>2</sup> + y<sup>2</sup> = 9", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd863"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  DOPPLER SHIFT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  From what specific celestial body do meteor showers originate?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  Of which of the following is the Hubble Law most directly a \r\nconsequence:  \r\n \r\nW)  Doppler shift \r\nX)  Kirchoff\u2019s second law \r\nY)  Kepler\u2019s second law \r\nZ)  Drake\u2019s equation", 
+    "tossupA": "COMET(S)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd858"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MARS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What is the most accurate term astronomers use for the time it \r\ntakes for a planet to orbit the Sun relative to the stars?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What terrestrial planet has the longest sidereal period?", 
+    "tossupA": "SIDEREAL PERIOD", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd85f"
+    }, 
+    "questionNum": 21
+  }
+]

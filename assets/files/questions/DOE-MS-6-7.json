@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "11, \u22125, 2, \u22121", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Given that time t has values 0, 1, and 2, and distance d has \r\ncorresponding respective values 60, 110, and 160, which of the following equations represents \r\nthe linear relationship between t and d? \r\n \r\nW) d = 50t \r\nX) d = 50t + 60 \r\nY) d = 60t \r\nZ) d = 60t + 50", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the inverse of the 2 by 2 matrix:  [the first row is 1, \r\nnegative 5 and second row is 2, negative 11]?", 
+    "tossupA": "X) d = 50t + 60", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccea9"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) EACH HALF-ARCH HAS ITS OWN STRUCTURAL INTEGRITY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following equations represents Dalton\u2019s \r\nlaw? \r\n \r\nW) PV = nRT \r\nX) P<sub>1</sub>V1 = P<sub>2</sub>V2 \r\nY) PT = PA + PB + PC... \r\nZ) V1/n1 = V2/n2 [V 1 over n 1 equals V 2 over n 2]", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following statements is NOT true about \r\narch bridges? \r\n \r\nW) Its structure distributes compression through its entire form \r\nX) Weight is diverted onto its abutments \r\nY) The curve of the arch reduces the effects of tension \r\nZ) Each half-arch has its own structural integrity", 
+    "tossupA": "Y) PT = PA + PB + PC...", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceaa"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) SODIUM BICARBONATE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which reaction type occurs when an acid and base \r\nreact to produce a salt and water? \r\n \r\nW) Acidification \r\nX) Neutralization \r\nY) Ammonification \r\nZ) Basification", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Sulfuric acid is spilled on a laboratory bench. Which \r\nof the following chemicals would be useful for neutralizing the acid? \r\n \r\nW) Silver iodide \r\nX) Aluminum chloride \r\nY) Sodium bicarbonate \r\nZ) Potassium nitrate", 
+    "tossupA": "X) NEUTRALIZATION", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceab"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "POLAR-ORBITING (ACCEPT: POLAR, NEAR-POLAR, SUN-SYNCHRONOUS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements is NOT true about \r\nrock folding in the Earth\u2019s crust? \r\n \r\nW) Brittle conditions tend to occur near the surface \r\nX) Folding of rock is more likely to occur in brittle rocks \r\nY) If rocks become extremely hot during compression, they are more likely to fold than fault \r\nZ) If rocks are exposed to extremely high pressures, they are more likely to fold than fault", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What kind of weather satellite is in relatively low altitude \r\norbit and images the same location on Earth every twelve hours?", 
+    "tossupA": "X) FOLDING OF ROCK IS MORE LIKELY TO OCCUR IN BRITTLE ROCKS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceac"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) TRACK THE AZIMUTH ANGLE AND THE ALTITUDE OF THE SUN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice The energy saved from recycling one aluminum can is enough to \r\nrun a TV set for about how long? \r\n \r\nW) 30 minutes \r\nX) 1 hour \r\nY) 2 hours \r\nZ) 3 hours", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice To maximize the concentration of energy from the Sun, heliostats \r\nmust do which of the following? \r\n \r\nW) Track the zenith angle of the Sun \r\nX) Track the solar declination of the Sun \r\nY) Track the azimuth angle and the altitude of the Sun \r\nZ) Keep the panel facing up at all times", 
+    "tossupA": "Z) 3 HOURS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceae"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "1, 2, 4, 5 (HOUSE FLY, BLOW FLY, CATERPILLAR, TREE SAP)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following statements is NOT true about paper \r\nwasps? \r\n \r\nW) They are semi-social insects \r\nX) They can only sting once \r\nY) Stinging workers do not survive the winter \r\nZ) A mature nest may have 20 to 30 adults", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Identify all of the following five choices that may serve as food \r\nfor a hornet: 1) house fly, 2) blow fly, 3) pollen, 4) caterpillar, 5) tree sap.", 
+    "tossupA": "X) THEY CAN ONLY STING ONCE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceaf"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name given to the kinetic energy of atoms \r\nand molecules?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the number of valence electrons in Group 17 \r\nelements?", 
+    "tossupA": "THERMAL ENERGY (ACCEPT: HEAT ENERGY)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb0"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "3, 1, 2 (ACCEPT: SOLID SPHERE, PLANETARY, QUANTUM MECHANICAL)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice A cell that is not undergoing active division is said to \r\nbe in which of the following stages? \r\n \r\nW) Mitosis [my-TOH-sis] \r\nX) Interphase \r\nY) Metaphase \r\nZ) Telophase", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Place the following three models of atomic structure in \r\nthe order in which they were developed: 1) planetary, 2) quantum mechanical, 3) solid sphere.", 
+    "tossupA": "X) INTERPHASE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb1"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "FUNNEL CLOUD (DO NOT ACCEPT: TORNADO)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is an area of high land, \r\nusually consisting of relatively flat terrain, sometimes formed by upwelling of volcanic magma, \r\nextrusion of lava, or erosion by water and glaciers? \r\n \r\nW) Coastal plain \r\nX) Interior plain \r\nY) Plateau \r\nZ) Mountain", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What is the term for a rotating column of wind \r\nextending from the base of a cloud but not reaching the ground or water surface, often \r\nassociated with thunderstorms?", 
+    "tossupA": "Y) PLATEAU", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb2"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "42.9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following types of wind turbine will produce the \r\nmost power? \r\n \r\nW) Perpendicular axis \r\nX) Tilted axis \r\nY) Vertical axis \r\nZ) Horizontal axis", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Given that, at standard conditions, the combustion of 1.0 moles of \r\nhydrogen with oxygen released 285.8 kilojoules of energy, providing your answer to the nearest \r\ntenth, how much energy in kilojoules is released when a balloon containing 0.15 moles of \r\nhydrogen is ignited in the air?", 
+    "tossupA": "Z) HORIZONTAL AXIS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb4"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) RED CRABS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice If you eat a tuna fish sandwich, which of the following \r\ntypes of fish would you be eating? \r\n \r\nW) Cartilaginous [kahr-tl-AJ-uh-nuhs] \r\nX) Lobe-finned \r\nY) Ray-finned \r\nZ) Jawless", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Huge groups of which of the following migrating animals \r\nstop traffic on Australia\u2019s Christmas Island every year? \r\n \r\nW) Red crabs \r\nX) Kangaroos \r\nY) Emus \r\nZ) Yellow jacket wasps", 
+    "tossupA": "Y) RAY-FINNED", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb5"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "URBAN HEAT ISLAND (ACCEPT: HEAT ISLAND)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following types of weather front is \r\nindicated by an alternating red and blue line on a weather map? \r\n \r\nW) Warm \r\nX) Cold \r\nY) Stationary \r\nZ) Low pressure", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What is the phrase that refers to the tendency for a \r\ncity or town to remain warmer than its surroundings, mostly caused by lack of vegetation and \r\nsoil moisture?", 
+    "tossupA": "Y) STATIONARY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb6"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) LACK OF APPROPRIATE ENZYMES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT a gymnosperm? \r\n \r\nW) Ginkgo \r\nX) Hornwort \r\nY) Conifer \r\nZ) Cycad", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following best describes why humans are \r\nunable to digest cellulose? \r\n \r\nW) Weak stomach acid \r\nX) Lack of appropriate enzymes \r\nY) Glutamate dehydrogenase [GLOO-tuh-mayt dee-HY-druh-juh-nays] \r\nZ) Topoisomerase [toh-poh-ee-SAH-muh-rays]", 
+    "tossupA": "X) HORNWORT", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb7"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) MAGNETIC DOMAIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the equivalent resistance in ohms of a 2 ohm \r\nand 6 ohm resistor connected in series, in which the combination is connected in parallel with \r\nan 8 ohm resistor?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following describes a region within a \r\nmagnetic material that has uniform magnetization? \r\n \r\nW) Magnetic domain \r\nX) Magnetosphere \r\nY) Magnetic pole \r\nZ) Magnetic line", 
+    "tossupA": "4", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb8"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "4, 3, 1, 2 (ACCEPT: MANTLE, OUTER CORE, INNER CORE, CRUST)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Name all of the following four choices that are \r\nexamples of smooth muscle: 1) stomach wall lining, 2) blood vessels, 3) walls of the heart, 4) \r\nbicep.", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Place the following four layers of Earth in order from \r\nthickest to thinnest: 1) inner core, 2) crust, 3) outer core, 4) mantle.", 
+    "tossupA": "1, 2 (ACCEPT: STOMACH WALL LINING, BLOOD VESSELS)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb9"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) THEY GRADUALLY DIE AS THEY MOVE OVER WARMER WATERS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What category of hurricane would have winds of 111 \r\nto 130 miles per hour, and would cause extensive damage, such as damage to small buildings, \r\nknocking down large trees, and destroying mobile homes?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following statements is NOT true about \r\nhurricanes? \r\n \r\nW) They are intense low pressure areas \r\nX) They gradually die as they move over warmer waters \r\nY) They have warm air in their eyes \r\nZ) They generally form in the summer and early fall", 
+    "tossupA": "THREE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceba"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(-8, 6)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer On a history test, 10 students scored 80 and 10 students scored 72. \r\nWhat was the mean test score?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What are the coordinates of the vertex of y = x<sup>2</sup> + 16x + 70?", 
+    "tossupA": "76", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccebb"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) THERMAL ONLY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer At least how many seismograph stations are needed to locate the \r\nepicenter of an earthquake?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice A falling leaf eventually stops accelerating towards Earth \r\nbecause of wind resistance. Potential energy of the leaf, however, is still decreasing as the leaf \r\nfalls. Into which of the following forms of energy is the remaining potential energy converted? \r\n \r\nW) Mechanical only \r\nX) Kinetic only \r\nY) Thermal only \r\nZ) Kinetic and thermal", 
+    "tossupA": "THREE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccebc"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "PRESSURE AND VOLUME", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice In order to measure the current passing through an \r\nelement in the circuit, we want to connect which of the following? \r\n \r\nW) An ammeter in parallel with the element \r\nX) A voltmeter in parallel with the element \r\nY) An ammeter in series with the element \r\nZ) A voltmeter in series with the element", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Boyle\u2019s Law describes an inverse relationship \r\nbetween which two physical properties?", 
+    "tossupA": "Y) AN AMMETER IN SERIES WITH THE ELEMENT", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccebe"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) CHEMICAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is an example of a \r\nhomozygous [hoh-muh-ZY-guhs] dominant genotype? \r\n \r\nW) BB [Big b big b] \r\nX) bB [Little b big b] \r\nY) Bb [Big b little b] \r\nZ) bb [Little b little b]", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following types of energy is \r\nrepresented by the high concentration of protons in the intermembrane space relative to the \r\nmitochondrial [my-tuh-KON-dree-uhl] matrix? \r\n \r\nW) Chemical \r\nX) Thermal \r\nY) Mechanical \r\nZ) Kinetic", 
+    "tossupA": "W) BB", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccebf"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "LACTOSE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following statements is NOT true about \r\nbotulism? \r\n \r\nW) It is caused by a virus \r\nX) Food-borne botulism can thrive in raw honey \r\nY) Its toxin can be used to reduce severe underarm sweating \r\nZ) It can cause paralysis", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What disaccharide sugar is formed from galactose and \r\nglucose?", 
+    "tossupA": "W) IT IS CAUSED BY A VIRUS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccec0"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "7, -5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Given a quadrilateral with interior angles of 95\u00b0, 85\u00b0, and 120\u00b0, what is \r\nthe measure in degrees of its fourth interior angle?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Solve for v: v<sup>2</sup> \u2013 2v \u2013 35 = 0.", 
+    "tossupA": "60\u00b0", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccec1"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "19", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following numbers is NOT a perfect cube?  \r\n \r\nW) 216 \r\nX) 343 \r\nY) 521 \r\nZ) 729", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Matt is 12 years older than Clay. Clay is 1 year younger than Anna. If \r\nAnna is 8 years old, how old is Matt?", 
+    "tossupA": "Y) 521", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccead"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-10/3 (ACCEPT: -3 1/3)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If the product of three consecutive negative integers is -24, what is \r\nthe smallest of the three integers?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer For what value of c does the line -4x + cy = 2 pass through the point \r\nwith coordinates (2, -3)?", 
+    "tossupA": "-4", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecceb3"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "KERATIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice A plant produces small flowers that do not have a strong \r\nodor and are not brightly colored. The plant is probably fertilized by which of the following? \r\n \r\nW) Wind \r\nX) Bats \r\nY) Flies \r\nZ) Bees", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer From what protein are hair and fur synthesized?", 
+    "tossupA": "W) WIND", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccebd"
+    }, 
+    "questionNum": 21
+  }
+]

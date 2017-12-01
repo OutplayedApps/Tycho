@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "TOPOGRAPHY, MORPHOLOGY, COMPOSITION, OR CRYSTALLOGRAPHIC \r\nINFORMATION (ACCEPT: 1, 2, 3, 4, OR ALL)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice If you are looking at a specimen with a compound \r\nmicroscope using a 40X objective and a 10X eyepiece, what would be the total magnification? \r\n \r\nW) 4 times \r\nX) 40 times \r\nY) 44 times \r\nZ) 400 times", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer By name or number, which of the following information can be \r\ndetected with an electron microscope: 1) topography, 2) morphology, 3) composition, or      \r\n4) crystallographic information?", 
+    "tossupA": "Z) 400 TIMES", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd32"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) THE CORIOLIS EFFECT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer In which direction do winds circulate during a \r\nhurricane in the Northern Hemisphere?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Hurricane winds rotate in the opposite \r\ndirection in the Southern Hemisphere due to: \r\n \r\nW) The cyclonic force \r\nX) The Coriolis effect \r\nY) Ocean temperature differences \r\nZ) The presence of less land in the Southern Hemisphere", 
+    "tossupA": "COUNTERCLOCKWISE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd34"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) BAROMETRIC PRESSURE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Weather systems can be considered either high or \r\nlow pressure. Which of the following descriptions generally contrasts high and low pressure?  \r\n \r\nW) High pressure indicates fair weather and low pressure indicates stormy weather \r\nX) Low pressure indicates fair weather and high pressure indicates stormy weather \r\nY) Either high or low pressure can indicate fair or stormy weather, depending on the \r\ncircumstances \r\nZ) High and low pressure have nothing to do with indicating fair or stormy weather systems", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT likely to change in \r\nresponse to an increase in atmospheric carbon dioxide? \r\n \r\nW) Barometric pressure \r\nX) Storm intensity \r\nY) Mean annual temperature \r\nZ) Total precipitation", 
+    "tossupA": "W) HIGH PRESSURE INDICATES FAIR WEATHER AND LOW PRESSURE \r\nINDICATES STORMY WEATHER", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd35"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "NITROGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT true about \r\ncarbon dioxide? \r\n \r\nW) It has been present in Earth\u2019s atmosphere for billions of years \r\nX) The present amount of carbon dioxide in our atmosphere is completely due to natural causes \r\nY) Increased emissions of carbon dioxide from human industrial activities are causing global \r\nclimate change \r\nZ) On Earth, it is emitted by humans, most other animals and plants", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer What gas makes up the majority of our \r\natmosphere?", 
+    "tossupA": "X) THE PRESENT AMOUNT OF CARBON DIOXIDE IN OUR ATMOSPHERE IS \r\nCOMPLETELY DUE TO NATURAL CAUSES", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd36"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "SPINNERET", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Spiders such as black widows, brown recluses, mouse \r\nspiders, and trapdoor spiders are not actually poisonous, because the term poisonous refers to \r\nsubstances that are harmful if ingested. These spiders, on the other hand, have dangerous \r\nbites. Therefore, what term would more accurately describe them?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Name the organ that spiders and many insect larvae \r\nuse to build webs, make protective cocoons, and even to help catch the wind in order to fly.", 
+    "tossupA": "VENOMOUS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd38"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) NEAR THE SURFACE OF THE FERMENTING FRUIT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Fruit flies are common in homes, restaurants, supermarkets \r\nand wherever else fruit is allowed to rot and ferment. Given the opportunity, about how many \r\neggs will a fruit fly lay at a time? \r\n \r\nW) 50 \r\nX) 500 \r\nY) 5000 \r\nZ) 50,000", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice When larvae emerge from fruit fly eggs, where do they tend \r\nto feed? \r\n \r\nW) Near the surface of the fermenting fruit \r\nX) Deep within the fermenting fruit \r\nY) In the non-fermenting portion of the fruit next to the overripe portion \r\nZ) In the seed", 
+    "tossupA": "X) 500", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd39"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CHERT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice In which of the following locations are you \r\nmost likely to find sandstone rock formations? \r\n \r\nW) Areas with a long history of earthquakes \r\nX) Ancient beaches or deserts \r\nY) Swamps formed within the last thousand years \r\nZ) Areas with a history of lava deposition", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Name the insoluble siliceous nodules that \r\ncan form within limestone.", 
+    "tossupA": "X) ANCIENT BEACHES OR DESERTS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd3a"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) AQUATIC RAT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Chromosomes are composed of: \r\n \r\nW) DNA and proteins \r\nX) Genes and nucleotides \r\nY) Proteins and chromatin \r\nZ) DNA and RNA", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following mammals has the greatest diploid \r\nnumber of chromosomes? \r\n \r\nW) Aquatic rat \r\nX) Cat \r\nY) Dog \r\nZ) Elephant", 
+    "tossupA": "W) DNA AND PROTEINS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd3b"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "HETEROTROPH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Most mammals are able to eat both plants and animals. \r\nTherefore, most mammals are considered: \r\n \r\nW) Autotrophs (read as: AW-toh-tr\u014defs) \r\nX) Carnivores \r\nY) Herbivores (read as: (H)EHR-bi-vohrs) \r\nZ) Omnivores", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What type of organism obtains organic carbon for growth by \r\nconsuming other organisms?", 
+    "tossupA": "Z) OMNIVORES", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd3c"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "CARBON DIOXIDE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice You\u2019re doing an experiment with soda. You start by \r\nweighing the full, closed can of soda. Then you open the can and wait one hour. You weigh the \r\ncan again and discover that it is lighter. What caused this difference in mass? \r\n \r\nW) An exothermic reaction \r\nX) Escape of dissolved gases \r\nY) Loss of sugar \r\nZ) A series of redox reactions in the soda", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Dry ice is the solid form of what compound?", 
+    "tossupA": "X) ESCAPE OF DISSOLVED GASES", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd3d"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) A STRAIGHT LINE WITH POSITIVE SLOPE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What happens to the freezing point of water as salt is \r\nadded to it?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice The velocity-time graph of a body that starts from \r\nrest and moves away from the origin with constant positive acceleration appears as: \r\n \r\nW) A straight line with positive slope \r\nX) A straight, flat line \r\nY) A straight line with negative slope \r\nZ) A curved line whose slope is increasing in time", 
+    "tossupA": "IT GOES DOWN", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd3e"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CONDUCTIVITY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice What is the approximate salinity of the \r\nocean in parts per thousand? \r\n \r\nW) 15 \r\nX) 25 \r\nY) 35 \r\nZ) 45", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer The salinity of the ocean is rarely measured \r\ndirectly. What characteristic of the water is measured as a proxy for salinity?", 
+    "tossupA": "Y) 35", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd3f"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5/9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Two boys and three girls are in a small group. Expressing your \r\nanswer as a fraction in lowest terms, if a student is chosen at random, what is the probability \r\nthat a girl is chosen?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Sam has 2 quarters, 4 dimes, 2 nickels, and 1 penny in his pocket. \r\nExpressing your answer as a fraction in lowest terms, if he reaches into his pocket and \r\nrandomly pulls out a coin, what is the probability that the coin will be a penny or a dime?", 
+    "tossupA": "3/5", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd40"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "LIVE (ACCEPT: ATTENUATED VIRUS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice When you are sick with a virus, your body builds up a \r\ndefense system by making antibodies against it. Why, then, do we need to get flu shots every \r\nyear? \r\n \r\nW) Antibodies are usually only effective for a few months \r\nX) We need antibiotics to combat the flu \r\nY) We could be flu carriers even if we are not sick \r\nZ) The flu virus mutates every year", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ANSWER: LIVE (ACCEPT: ATTENUATED VIRUS)", 
+    "tossupA": "Z) THE FLU VIRUS MUTATES EVERY YEAR", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd42"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following correctly describes the number ? \r\n \r\nW) Integer \r\nX) Rational \r\nY) Irrational \r\nZ) Whole", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the cube root of 343?", 
+    "tossupA": "X) RATIONAL", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd43"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) IT WILL NOT BE DIFFERENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Sound energy passes as a wave through an object when energy \r\ncauses the molecules in the object to: \r\n \r\nW) Vacillate \r\nX) Rotate \r\nY) Vibrate \r\nZ) Translate", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice A passenger is sitting in a train that accelerates from a full stop. \r\nAs it moves, there are a number of sounds associated with the acceleration of the train. \r\nCompare the frequency of those sounds to the frequency actually heard by the passenger. \r\n \r\nW) It will be lower \r\nX) It will be higher \r\nY) It will vary \r\nZ) It will not be different", 
+    "tossupA": "Y) VIBRATE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd44"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) THE BRIGHTNESS OF THE TWO IN SERIES WOULD BE DIMMER THAN \r\nTHE SINGLE BULB", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer There are two circuits with the same voltage applied \r\nand one resistor each. Circuit A\u2019s resistor has twice the resistance of Circuit B\u2019s resistor. How \r\ndoes Circuit B\u2019s current compare to Circuit A\u2019s?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Assuming that the light bulbs, wires, and batteries \r\nare all the same in two different circuits, how would the brightness of two light bulbs in series \r\ndiffer from the brightness of just one light bulb? \r\n \r\nW) The brightness of the two in series would be dimmer than the single bulb \r\nX) The bulbs in series would not light up with the same amount of battery power \r\nY) The bulbs in series would be brighter than the single bulb \r\nZ) The bulbs in series and the single bulb would have the same brightness", 
+    "tossupA": "TWICE  (ALSO ACCEPT: DOUBLE)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd45"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "176", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice If a 4-inch plant grows at the rate of 1/4 inch per day, what will its \r\nheight be in 27 days? \r\n \r\nW) 6 &frac34; inches \r\nX) 7 inches \r\nY) 10 &frac34; inches \r\nZ) 11 inches", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If a 4-inch plant grows at the rate of \r\n4\r\n1\r\n inch per day, in how many \r\ndays will the plant reach 48 inches?", 
+    "tossupA": "Y) 10 &frac34; INCHES", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd46"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) MECHANICAL TO ELECTRICAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer What sub-atomic particles commonly act as the source of \r\nelectrical current?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice The purpose of a generator in a power plant is to convert one \r\ntype of energy into another type. What are these two types of energy? \r\n \r\nW) Electrical to chemical \r\nX) Chemical to kinetic \r\nY) Mechanical to electrical \r\nZ) Mechanical to kinetic", 
+    "tossupA": "ELECTRONS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd48"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) QUARTZ", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer Pikes Peak in the Rockies, Mount \r\nRushmore in the Black Hills, Stone Mountain in Georgia, and Yosemite National Park in the \r\nSierra Nevada are all areas where large quantities of what kind of rock are exposed at the \r\nsurface?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following minerals is present \r\nin the highest concentrations in granite? \r\n \r\nW) Pyroxene \r\nX) Hornblende \r\nY) Quartz \r\nZ) Plagioclase (read as: PLAY-jee-oh-klays) feldspar", 
+    "tossupA": "GRANITE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd49"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$12.17", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice In the gift shop, semi precious gemstones sell for $12 per pound. If \r\nthere are 15 stones in a pound, what is the unit cost per gemstone? \r\n \r\nW) 75 cents \r\nX) 80 cents \r\nY) $1.06 \r\nZ) $1.25", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Maria and Jonathon were selling shirts at a flea market for $13 per \r\nshirt. However, they had the ability to bargain with purchasers down to a minimum price of $10. \r\nAt the end of the day, they had sold 2 shirts for $10, 3 shirts for $12, 2 shirts for $12.50, and 5 \r\nshirts for $13. To the nearest cent, what was their mean price?", 
+    "tossupA": "X) 80 CENTS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd4a"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "0.9801", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Express in decimal form: 0.99 - 3/4(read as: 99 hun-DREDTHS minus \r\nthree fourths). \r\n \r\nW) 0.24 \r\nX) 0.75 \r\nY) 0.9825 \r\nZ) 0.9975", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Simplify: 0.99 - 0.0099 (read as: 99 hun-DREDTHS minus 99 ten \r\nthous-ANDTHS).", 
+    "tossupA": "W) 0.24", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd33"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0 TO 14", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What does pH measure?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the approximate range of the pH scale?", 
+    "tossupA": "THE ACIDITY OF A SOLUTION (ACCEPT: BASISITY OR ALKALINITY OF A \r\nSOLUTION, CONCENTRATION OF H\r\n+\r\n IONS)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd37"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) FEMTOMETER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What ion is known as the stable identity of the proton?", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following units is used to measure the \r\ndiameter of protons? \r\nW) Attometer \r\nX) Femtometer \r\nY) Leptometer \r\nZ) Ziggiometer", 
+    "tossupA": "HYDROGEN ION (ACCEPT: H\r\n+\r\n)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd41"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MUSHROOM (ACCEPT: FUNGUS, FUNGI)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Bioluminescence is light originating in an organism that is \r\nproduced by a chemical reaction. Which of the following statements is NOT true about \r\nbioluminescence?  \r\n \r\nW) It is the predominant source of light in the deep ocean \r\nX) The luminescent wake of a ship is due to dinoflagellates (read as: dy-n\u014de-FLAH-jeg-lehts) \r\nY) Most marine bioluminescence is blue in color \r\nZ) All firefly species are bioluminescent as adults", 
+    "packetNum": 6, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer In addition to bioluminescent marine and insect life, there \r\nare also over 70 known bioluminescent species of this kind of organism, which, like insects, \r\nuses chitin as a structural carbohydrate.", 
+    "tossupA": "Z) ALL FIREFLY SPECIES ARE BIOLUMINESCENT AS ADULTS", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccd47"
+    }, 
+    "questionNum": 22
+  }
+]

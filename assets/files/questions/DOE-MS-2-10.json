@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "X) A GROUP OF PROTEINS MADE BY PLASMA CELLS IN RESPONSE TO \r\nA FOREIGN SUBSTANCE \r\nJunior National Science Bowl Single Elimination 3 Page 2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice During photosynthesis, for every molecule of glucose that \r\nis made, how many molecules of carbon dioxide and water are consumed? \r\n \r\nW) six carbon dioxide molecules and six water molecules \r\nX) four carbon dioxide molecules and four water molecules \r\nY) twelve carbon dioxide molecules and twelve water molecules \r\nZ) six carbon dioxide molecules and twelve water molecules", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following best describes antibodies: \r\n \r\nW) a class of polysaccharides involved in the immune system \r\nX) a group of proteins made by plasma cells in response to a foreign substance \r\nY) small bodies of insects that look like ants \r\nZ) a class of genes produced by the immune system to fight disease", 
+    "tossupA": "W) SIX CARBON DIOXIDE MOLECULES AND SIX WATER MOLECULES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf0"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) OUTER CORE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple choice If wind speeds in a storm are clocked in excess of 200 \r\nmph, this is most likely a measurement within a : \r\n \r\nW) typical thunder storm \r\nX) tornado \r\nY) hurricane \r\nZ) microburst", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice S-waves produced by earthquakes, do not travel \r\nthrough the Earth\u2019s: \r\n \r\nW) crust \r\nX) mantle \r\nY) outer core \r\nZ) lithosphere", 
+    "tossupA": "X) TORNADO", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf1"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "4 TIMES \r\n \r\nJunior National Science Bowl Single Elimination 3 Page 3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice What causes skin to sunburn after prolonged \r\nexposure to sunlight? \r\n \r\nW) infrared light \r\nX) X-rays \r\nY) ultraviolet light \r\nZ) cosmic rays", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer An automobile traveling at 100 kilometers per hour \r\nhas how many more times the kinetic energy than the same vehicle traveling at 50 kilometers per \r\nhour?", 
+    "tossupA": "Y) ULTRAVIOLET LIGHT", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf2"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "60 KILOGRAMS (ACCEPT: 60 KG OR 60,000 GRAMS OR 600 NEWTONS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice The melting of lead, the freezing of water, and the \r\nsublimation of dry ice, are all examples of which of the following: \r\n \r\nW) chemical reactions \r\nX) separation processes \r\nY) condensation processes \r\nZ) physical changes", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If a 90 kilogram object displaces 30 kilograms of \r\nwater when immersed, what will its apparent weight be?", 
+    "tossupA": "Z) PHYSICAL CHANGES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf3"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) ABOUT THE SAME DIAMETER \r\n \r\nJunior National Science Bowl Single Elimination 3 Page 4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following temperatures in degrees \r\nCentigrade most likely corresponds to the hottest day on record anywhere in the USA: \r\n \r\nW) 26 degrees C \r\nX) 41 degrees C \r\nY) 57 degrees C \r\nZ) 65 degrees C", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice We know from solar eclipses that the Moon and \r\nthe Sun appear in the sky to be: \r\n \r\nW) about the same diameter \r\nX) much different in size \r\nY) in orbit around the Earth \r\nZ) moving on a collision course", 
+    "tossupA": "Y) 57 DEGREES C", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf4"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12, 13, AND 14 \r\n \r\n \r\nJunior National Science Bowl Single Elimination 3 Page 5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is TRUE of the following equation:  \r\n3x + 9 = 9 + 3x \r\n \r\nW) the equation is conditional \r\nX) the equation is an identity \r\nY) it is an equation with no solution \r\nZ) the equation has an infinite number of solutions", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What 3 consecutive numbers add up to 39?", 
+    "tossupA": "X) THE EQUATION IS AN IDENTITY", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf6"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CORUNDUM; QUARTZ; FLUORITE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice The San Andreas Fault in California is an example of \r\nwhat type of plate margin: \r\n \r\nW) divergent margin \r\nX) convergent margin \r\nY) transform fault margin \r\nZ) subduction margin", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Order the following minerals from the hardest to the \r\nsoftest: Corundum; Quartz; Fluorite", 
+    "tossupA": "Y) TRANSFORM FAULT MARGIN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf7"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) SODIUM CHLORIDE AND DISTILLER WATER \r\nJunior National Science Bowl Single Elimination 3 Page 6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is largely responsible for \r\nthe characteristic bad odor of a rotten egg? \r\n \r\nW) sulfuric acid \r\nX) hydrogen sulfide \r\nY) sodium chloride \r\nZ) nitrogen oxide", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following solutions will conduct \r\nelectricity the best? \r\n \r\nW) sugar and distilled water \r\nX) alcohol and distilled water \r\nY) sodium chloride and distiller water \r\nZ) moth balls and alcohol", 
+    "tossupA": "X) HYDROGEN SULFIDE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf8"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) THEY ARE THOUGHT TO BE THE RESULT OF THE LITHOSPHERE \r\nMOVING OVER A HOT SPOT \r\n \r\n \r\nJunior National Science Bowl Single Elimination 3 Page 7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE  Short Answer How many times does the Moon appear as half-full \r\nduring a single lunar cycle?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is true of the Hawaiian chain \r\nof islands: \r\n \r\nW) they show increasing age from the northwest to the southeast \r\nX) they are thought to be the result of the lithosphere moving over a hot spot \r\nY) they represent what could happen when plates interact at a convergent boundary \r\nZ) all the islands have approximately the same age", 
+    "tossupA": "2", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbfa"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) INERTIA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A figure skater who, while spinning in place, \r\npulls her arms in to increase her rotational speed, is most closely exhibiting which of the \r\nfollowing: \r\n \r\nW) conservation of angular momentum \r\nX) centrifugal force \r\nY) satellite motion \r\nZ) centripetal acceleration", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice The centrifugal effect perceived by a person on a \r\ncarousel is most accurately attributed to which of the following:  \r\n \r\nW) friction \r\nX) a stationary frame of reference \r\nY) constant velocity and accelerating angular momentum \r\nZ) inertia", 
+    "tossupA": "W) CONSERVATION OF ANGULAR MOMENTUM", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbfb"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "24.5 (ACCEPT: 24 \u2013 25) \r\nJunior National Science Bowl Single Elimination 3 Page 8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Add the following: 3&frac12; + 2&frac13; + 1<sup>1</sup>&frasl;<sub>12</sub>", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the average speed, in miles per hour, of a person who travels \r\n120 miles in 3 hours, 40 miles the next 3 hours, and 36 miles the following 2 hours?", 
+    "tossupA": "16<sup>11</sup>&frasl;<sub>12</sub>", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbfc"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) AS HOT AS THE SURFACE OF THE SUN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer The red color of Navajo sand stone is primarily \r\nbecause of the presence of what element?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice It is estimated that the temperature of the Earth\u2019s core \r\nis: \r\n \r\nW) as hot as the surface of the sun \r\nX) much hotter than the surface of the sun \r\nY) much cooler than the surface of the sun \r\nZ) it cannot be estimated", 
+    "tossupA": "IRON", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbfd"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ANTARCTICA AND GREENLAND \r\n \r\n \r\n \r\nJunior National Science Bowl Single Elimination 3 Page 9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice If the full moon rises in Nebraska at about 9 p.m., \r\nwhich of the following will most likely be the approximate time it rises the next day? \r\n \r\nW) 7:30 p.m. \r\nX) 8:45 p.m. \r\nY) 9:00 p.m. \r\nZ) 9:50 p.m.", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Name 2 places on earth where continental glaciers exist:", 
+    "tossupA": "Z) 9:50 P.M.", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbfe"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) MOST OF THE DNA DOES NOT CODE FOR PROTEINS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is a monocot: \r\n \r\nW) Acer rubrum \r\nX) Quercus rubra \r\nY) Zea maize \r\nZ) Echinacea angustifolia", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is TRUE about a typical liver \r\ncell: \r\n \r\nW) most genes are arranged in operon-like clusters \r\nX) it has very few mitochondria \r\nY) most genes are transcribed continuously \r\nZ) most of the DNA does not code for proteins", 
+    "tossupA": "Y) Zea maize", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbff"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "11 \r\n \r\n(Solution: one at the start and one every 8 feet there after 80/8 + 1 = 11)  \r\nJunior National Science Bowl Single Elimination 3 Page 10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer How many degrees are in one internal angle of a regular pentagon?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A farmer wishes to make a straight barbed wire fence 80 feet long. \r\nHe wants to have a fence post every 8 feet. How many fence posts does he need?", 
+    "tossupA": "108\u00b0", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc00"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) DIFFERENT GENES ARE EXPRESSED OR TURNED ON AND OFF IN \r\nDIFFERENT CELLS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the best description of a cell \r\nmembrane also known as the plasma membrane? \r\n \r\nW) it is permeable and made of mostly proteins \r\nX) it is semi-permeable and made mostly of proteins in a lipid bilayer \r\nY) it is impermeable and made up mostly of lipids \r\nZ) it is a fluid mosaic composed of a protein bilayer", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice The development of embryonic cells that allows them \r\nto become different specialized cells of different organs and tissue and then function in very \r\ndifferent ways in an adult organism is best explained by which of the following: \r\n \r\nW) they have evolved different genomes \r\nX) they each contain different genes \r\nY) they use different genetic codes \r\nZ) different genes are expressed or turned on and off in different cells", 
+    "tossupA": "X) IT IS SEMI-PERMEABLE AND MADE MOSTLY OF PROTEINS IN A \r\nLIPID BILAYER", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc01"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "WATER AT 1\u00b0C; WATER AT 4\u00b0C; IRON; GOLD \r\n(Solution: water is most dense at 3.98)\r\nJunior National Science Bowl Single Elimination 3 Page 11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice To describe a force you must give: \r\n \r\nW) the origin of the force \r\nX) its magnitude \r\nY) the mass of an object \r\nZ) its direction and magnitude", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Order the following substances from the LEAST \r\ndense to the MOST dense: gold, water at 1\u00b0C, water at 4\u00b0C, iron", 
+    "tossupA": "Z) ITS DIRECTION AND MAGNITUDE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc02"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "100 CENTIMETERS    [ACCEPT: BETWEEN 90-110 CENTIMETERS]", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer A person who had polydactylia would have too \r\nmany of what?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Consider a tree that grows 20 centimeters taller each \r\nyear. If you marked a spot 100 centimeters from ground level up the trunk of the tree, about how \r\nhigh from the ground would the mark be in 6 years?", 
+    "tossupA": "DIGITS (ACCEPT: FINGERS AND/OR TOES)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc03"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "TOMATO JUICE, PURE WATER, MILK, HOUSEHOLD LIQUID AMMONIA \r\n \r\nJunior National Science Bowl Single Elimination 3 Page 12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Which of the following is the largest in length? A \r\nlight year, 1,860,000 miles, a parsec, a furlong, a hectometer", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Order the following from the most acidic to the most \r\nbasic: household liquid ammonia, milk, tomato juice, pure water.", 
+    "tossupA": "A PARSEC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc04"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) REPEAT THE EXPERIMENT AND AVERAGE IN THE HIGH READING \r\n \r\n \r\nJunior National Science Bowl Single Elimination 3 Page 13", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Passive transport differs mostly from active transport \r\nsince passive transport requires: \r\n \r\nW) ATP \r\nX) spectrin proteins \r\nY) no energy \r\nZ) mitochondria", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice After taking 20 readings of the outside winter air \r\ntemperature during an experiment, Kathy realizes that the first reading is more than 20% higher \r\nthan all the following readings. She quickly remembers that she forgot to allow the thermometer, \r\nwhich was stored in a warm room, to adjust to the outside temperature. Which of the following is \r\nthe most appropriate solution to her problem of what seems to be an experimental error: \r\n \r\nW) discuss the error with the other scientists and then discard the reading \r\nX) repeat the experiment, and if no other readings are unusually high she can discard the initial \r\nhigh reading as long as she explains why \r\nY) repeat the experiment and average in the high reading \r\nZ) buy a new thermometer", 
+    "tossupA": "Y) NO ENERGY", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc05"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "20 \r\nJunior National Science Bowl Single Elimination 3 Page 1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Factor the following quadratic equation: x<sup>2</sup>+6x+9", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If you count from 1 to 100, how many 9's will you pass on the way?", 
+    "tossupA": "(x+3)(x+3) or (x+3)<sup>2</sup>", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbee"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) BEGIN WITH A LOW POWER OBJECTIVE AND USE ONLY FINE FOCUS \r\nWHEN USING THE HIGH POWER OBJECTIVE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Fungi are usually spread most effectively by: \r\n \r\nW) water born hyphae \r\nX) airborne spores \r\nY) animal ingestion of spores \r\nZ) soil germination of seeds", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice When using a compound light microscope, which \r\nof the following is the proper procedure for focusing? \r\n \r\nW) begin with a low power objective and use only course focus when using the high power objective \r\nX) begin with a high power objective and use only fine focus when using the low power objective \r\nY) begin with a low power objective and use only fine focus when using the high power objective \r\nZ) begin with a high power objective and use only course focus when using the low power objective", 
+    "tossupA": "X) AIRBORNE SPORES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbed"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1, 2, 11, 22 (ACCEPT: + or - 1, 2, 11, 22)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is a binomial? \r\nW) x<sup>2</sup>/2 X) x<sup>2</sup>+5x-2 Y) \u03c0  \r\nZ)  x-2\r\n", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What are all the integral factors of the number 22?", 
+    "tossupA": "Z) x-2\r\n", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbef"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) MACROPHAGES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer The spines of cacti are a modification of what plant \r\nstructure?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following cells would typically be capable of \r\nthe greatest amount of phagocytosis \r\n \r\nw) plasma cells \r\nX) lymphocytes \r\nY) mast cells \r\nZ) macrophages", 
+    "tossupA": "LEAF", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf5"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) A PENNY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer If Todd weighs 88 pounds, rounded to the nearest \r\nwhole number, how much does he weigh in kilograms?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following U.S. year 2001 coins is \r\nclosest in diameter to 2 cm? \r\n \r\nW) a dollar \r\nX) a quarter \r\nY) a dime \r\nZ) a penny", 
+    "tossupA": "40", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccbf9"
+    }, 
+    "questionNum": 13
+  }
+]

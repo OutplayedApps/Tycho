@@ -1,0 +1,393 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "Na+, F-, O2-", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice What fundamental constant is obtained when a photon\u2019s \r\nwavelength is multiplied by its frequency? \r\n \r\nW) The speed of light \r\nX) Planck\u2019s constant \r\nY) Avogadro\u2019s number \r\nZ) Boltzmann\u2019s constant", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer The following three ions are all isoelectronic with neon:  O2-, F-, \r\nNa+ [O two minus, F minus, N A plus].  Rank them in terms of their ionic radii, from smallest to \r\nlargest.", 
+    "tossupA": "W) THE SPEED OF LIGHT", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece12b"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1/10 (ACCEPT: 0.1 or 10%)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice What theorem guarantees the existence of at least one complex root \r\nfor any non-constant single-variable polynomial with real coefficients? \r\n \r\nW) Fundamental Theorem of Arithmetic \r\nX) Fundamental Theorem of Polynomials  \r\nY) Zero-Factor Theorem \r\nZ) Fundamental Theorem of Algebra", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Consider a bag of five marbles, 3 red and 2 white. You draw marbles \r\nfrom the bag until you draw the last white marble, at which point you stop. What is the \r\nprobability you stop drawing after the 2nd marble?", 
+    "tossupA": "Z) FUNDAMENTAL THEOREM OF ALGEBRA", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece12c"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2, 1, 3 (ACCEPT: ROTATIONAL KINETIC ENERGY, TRANSLATIONAL KINETIC \r\nENERGY, TOTAL KINETIC ENERGY)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer Identify all of the following three phenomena that could be observed \r\nin a radio wave:  1. diffraction, 2. interference, 3. deflection in an electric field.", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer From least to greatest, order the magnitudes of the following three \r\nquantities for a wheel on a car that is skidding along the road, if the wheel continues to rotate:  \r\n1. Translational kinetic energy, 2. Rotational kinetic energy, 3. Total kinetic energy.", 
+    "tossupA": "1 AND 2 (ACCEPT: DIFFRACTION AND INTERFERENCE)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece12d"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MARINE INVERTEBRATES (DO NOT ACCEPT: INVERTEBRATES)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Conditions for tornadoes are favorable in which of the \r\nfollowing mountain ranges? \r\n \r\nW) Atlas \r\nX) Appalachians \r\nY) Alps \r\nZ) Andes", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Identify both the general habitat and type of organisms \r\nthat are represented by the oldest fossils of the Paleozoic [pay-lee-uh-ZOH-ik] Era.", 
+    "tossupA": "X) APPALACHIANS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece12e"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) 8 IN METAPHASE, 8 IN ANAPHASE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice In the human digestive system, nutrient absorption predominantly \r\noccurs in which of the following?  \r\n \r\nW) Duodenum [doo-uh-DEE-nuhm] and jejunum [ji-JOO-nuhm] \r\nX) Stomach and duodenum  \r\nY) Jejunum and ileum [IL-ee-uhm] \r\nZ) Ileum and cecum [SEE-kuhm]", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice If a cell has 8 chromosomes during mitotic prophase, how many \r\nchromosomes will it have during metaphase and anaphase?  \r\n \r\nW) 16 in metaphase, 8 in anaphase \r\nX) 8 in metaphase, 8 in anaphase \r\nY) 8 in metaphase, 4 in anaphase \r\nZ) 4 in metaphase, 8 in anaphase", 
+    "tossupA": "W) DUODENUM AND JEJUNUM", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece130"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "55", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice In comparison to a gallon of gasoline, how much energy is \r\ncontained in a gallon of ethanol? \r\n \r\nW) 70%  \r\nX) 90% \r\nY) 110% \r\nZ) 120%", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer  What is the secondary voltage, in volts, in a transformer with a \r\nprimary current of 50 amps, a secondary current of 100 amps, and a 110-volt primary voltage?", 
+    "tossupA": "W) 70%", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece131"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) STROMATOLITES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Short Answer The 40-inch telescope at Yerkes [YUR-keez] Observatory \r\nis the largest in the world of what class of telescope?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice 3.6 Billion years ago cyanobacteria [sy-uh-noh-bak-\r\nTEER-ee-uh] caused the precipitation of calcium carbonate into structures of thin sheets of \r\nlimestone.  What is the name of these limestone sheets? \r\n  \r\nW) Stalactites [stuh-LAK-tyts] \r\nX) Stalagmites [stuh-LAG-myts] \r\nY) Stromatolites [stroh-MAT-l-uts] \r\nZ) Trilobites [TRY-loh-byts]", 
+    "tossupA": "REFRACTING", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece132"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) NO TWO CONSECUTIVE FLIPS ARE THE SAME", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer While sitting in his car at a train crossing, a driver decided to time how \r\nlong it took for a 1-mile long train to pass him directly.  If it took exactly 75 seconds for the train \r\nto pass, at how many miles per hour was the train traveling?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice A fair coin is flipped 4 times.  Which of the following events is LEAST \r\nlikely to occur? \r\n \r\nW) Exactly 2 heads occur \r\nX) At least 3 heads occur \r\nY) No two consecutive flips are the same \r\nZ) The second and third flips are the same", 
+    "tossupA": "48", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece133"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) HORSETAILS AND FERNS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following terms is used to describe the movement of \r\nleaves and flowers toward the sun? \r\n \r\nW) Thigmomorphogenesis [THIG-moh-mawr-fuh-JEN-uh-sis] \r\nX) Heliotropism [hee-lee-O-truh-piz-uhm] \r\nY) Nastic movements \r\nZ) Siesmonastic movements [sys-moh-NUH-stik]", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Which of the following plants belong to the phylum [FY-luhm] \r\nPterophyta [ter-uh-FY-tuh]?  \r\n \r\nW) Ferns and palm trees \r\nX) Bryophytes and Horsetails [BRY-uh-fyts] \r\nY) Horsetails and ferns \r\nZ) Palm trees and ginkgo", 
+    "tossupA": "X) HELIOTROPISM", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece134"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) 570", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "Physics Short Answer What is the SI [S -I] unit of radioactivity that is equivalent to 1 inverse \r\nsecond and is defined as the activity of a quantity of radioactive material in which one nucleus \r\ndecays every second?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "Physics Multiple Choice How much work must be done, in joules, on a 15 kilogram mass in \r\norder to increase its speed from 7.5 meters per second to 11.5 meters per second? \r\n \r\nW) 120  \r\nX) 450  \r\nY) 570  \r\nZ) 1100", 
+    "tossupA": "BECQUEREL", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece136"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) IRON OXIDES AND MAGNETITE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice A long narrow bay with an irregular outline, such as \r\nChesapeake Bay, was formed by \r\n \r\nW) Wave action \r\nX) Stream erosion and later submersion \r\nY) Glacier erosion and later submersion \r\nZ) Faulting", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice What two minerals contribute to the Earth\u2019s magnetic \r\nfield? \r\n \r\nW) Iron oxides and magnetite \r\nX) Calcium chloride and magnetite \r\nY) Iron oxides and calcium chloride \r\nZ) Magnetite and calcium chloride", 
+    "tossupA": "X) STREAM EROSION AND LATER SUBMERSION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece137"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) O\r\n2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following animals possess two circuits of blood flow, \r\nthe pulmocutaneous [POOL-moh-kyoo-tay-NEE-uhs] and systemic? \r\n \r\nW) Salamanders \r\nX) Snakes \r\nY) Lizards \r\nZ) Birds", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Photosynthesis requires water as a reactant. In which of the \r\nfollowing product molecules do the oxygen atoms from the water end up? \r\n W) O\r\n2  X) H\r\n2O  Y) C\r\n6H12O6 [C- six H- twelve O- six] Z) ATP", 
+    "tossupA": "W) SALAMANDERS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece138"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "9.0", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "Chemistry Short Answer Two electrons are located within the same orbital of the same \r\natom.  In order to satisfy the Pauli Exclusion Principle, what must the spin magnetic quantum \r\nnumbers of these two electrons be?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "Chemistry Short Answer 3.0 moles of propane are combusted in oxygen.  Providing your \r\nanswer to two significant digits, how many moles of carbon dioxide are formed?", 
+    "tossupA": "+\u00bd and -\u00bd", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece139"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "CALVIN CYCLE (ACCEPT: CALVIN-BENSON CYCLE OR LIGHT INDEPENDENT \r\nREACTIONS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice As the battery capacity decreases how does the rate of discharge \r\nchange? \r\n \r\nW) Increases \r\nX) Decreases \r\nY) Stays the same \r\nZ) Depends on brand", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What process in plant cells is primarily responsible for storing \r\nenergy from ATP and NADPH [A- T-P and N-A-D-P-H] by synthesizing sugars?", 
+    "tossupA": "W) INCREASES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece13a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2 + z", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Differentiate f(x)=e<sup>cos x</sup> with respect to x.", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The average of x and y is 5. The average of x and z is 4. Find y in \r\nterms of z.", 
+    "tossupA": "\u0741-sin x * e<sup>cos x</sup>", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece13b"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HERBACEOUS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice All codon combinations specify a particular amino acid, with the \r\nEXCEPTION of which of the following? \r\n \r\nW) Nonsense codons \r\nX) Missense codons \r\nY) Promoters \r\nZ) Silent codons", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer What type of perennials die back each year and survive as tubers \r\nuntil the next growing season?", 
+    "tossupA": "W) NONSENSE CODONS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece13c"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2, 3, AND 4 (ACCEPT: ELECTRON, NEUTRINO, AND PROTON)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer Indicate, by number, all of the following three particles that are \r\nconsidered to be force-carrying particles by the Standard Model:  1) photon; 2) gluon;  \r\n3) graviton", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer Identify all of the following four particles that can be found in \r\nisolation:  1) up quark; 2) electron; 3) neutrino; 4) proton.", 
+    "tossupA": "1, 2, AND 3 (ACCEPT: ALL OF THEM)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece13d"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) ALUMINUM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following is a term used to describe the ability to trim \r\nelectricity usage at specific times of the day?  \r\n \r\nW) Demand Response  \r\nX) Energy Efficiency \r\nY) Peak Load \r\nZ) Solar Inverter", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following materials would mostly likely be used for a \r\nradiant heat barrier? \r\n \r\nW) Asphalt  \r\nX) Glass \r\nY) Cement \r\nZ) Aluminum", 
+    "tossupA": "W) DEMAND RESPONSE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece13e"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "SQUARE PLANAR", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Identify the statement that does NOT describe a prostaglandin \r\n[pros-tuh-LAN-din] lipid function. \r\n \r\nW) Prostaglandins are involved in the inflammatory response process \r\nX) Prostaglandins play a role in blood clot formation but not clot reduction \r\nY) Prostaglandins can induce labor contractions \r\nZ) Prostaglandins can help to increase kidney blood flow", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer What is the VSEPR [ves-per] shape of the xenon [ZEE-non] \r\ntetrafluoride molecule?", 
+    "tossupA": "X) PROSTAGLANDINS PLAY A ROLE IN BLOOD CLOT FORMATION BUT NOT \r\nCLOT REDUCTION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece140"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) AUXIN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following is NOT a major site of lymphoid tissue? \r\n \r\nW) Thymus gland [THY-muhs] \r\nX) Spleen \r\nY) Tonsils \r\nZ) Kidney", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Which of the following hormones causes plants to grow toward \r\nlight? \r\n \r\nW) Cytokinin [sy-tuh-KY-nin] \r\nX) Auxin [AWK-sin] \r\nY) Gibberellin [jib-uh-REL-in] \r\nZ) Abscisic", 
+    "tossupA": "Z) KIDNEY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece141"
+    }, 
+    "questionNum": 25
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Y) SYSTEMATIC ERROR", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer What is the major product of the Hall-Heroult Process?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice Which of the following is the best example of determinate \r\nerror? \r\n \r\nW) Random error \r\nX) Measurement error \r\nY) Systematic error \r\nZ) Sampling error", 
+    "tossupA": "ALUMINUM", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece12f"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "CHROMATOGRAPHY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer What halogen has the greatest effect on a given molecule\u2019s \r\nlipophilicity?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer What general group of laboratory techniques is used to separate \r\nmixtures and has varieties such as thin-layer, affinity, and ion exchange?", 
+    "tossupA": "FLUORINE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece135"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "21) MATH Multiple Choice What is the product of the mean, median, and mode of the following \r\nset of data: {1, 1, 2, 3, 5, 8, 13} \r\n \r\nW) 9 \r\nX) 33/7 \r\nY) 99/7 \r\nZ) 33 \r\n \r\nAnswer: Y) 99/7", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Simplify the following expression: \u0745\u0b37\u0b37 [i to the thirty-third power].", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BONUS  \r\n \r\n21)", 
+    "tossupA": "\u0745", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece13f"
+    }, 
+    "questionNum": 21
+  }
+]

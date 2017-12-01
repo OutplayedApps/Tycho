@@ -1,0 +1,427 @@
+[
+  {
+    "category": 6, 
+    "bonusA": "SPIRAL, ELLIPTICAL, IRREGULAR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following leaf traits would be most useful \r\nin identifying the plants from which the leaves originated? \r\n \r\nW) Presence or absence of veins \r\nX) Arrangement of leaves on the stem \r\nY) Function of the leaves \r\nZ) Color of the leaves", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What are the three broad categories of galaxy shapes?", 
+    "tossupA": "X) ARRANGEMENT OF LEAVES ON THE STEM", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf8a"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "250\u03c0", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Find the value of c that completes the square of r<sup>2</sup> + 32r + c.", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Given that one liter of water weighs one kilogram, providing your \r\nanswer in terms of pi and in simplest form, what is the weight in kilograms of the water \r\ncontained in a full cylindrical container with a radius of 50 centimeters and a height of 1 meter?", 
+    "tossupA": "256", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf8b"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "WATER AND A SALT (ACCEPT: SOLVATED IONS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice One gram of which of the following substances will be \r\nmost dense at standard temperature and pressure? \r\n \r\nW) Water \r\nX) Gold \r\nY) Ethanol \r\nZ) Lead", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer When an Arrhenius [ahr-RAY-nee-oos] acid is added \r\nto a base, what are the products?", 
+    "tossupA": "X) GOLD", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf8c"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) STICKY PART OF THE FLOWER\u2019S CARPEL THAT TRAPS POLLEN GRAINS \u2013 \r\nSTIGMA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Identify all of the following four types of stimuli which can elicit \r\na tropic response in plants: 1) light, 2) gravity, 3) touch, 4) heat.", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following accurately matches the part of the \r\nflower and its description? \r\n \r\nW) Top part of the stamen that produces and bears pollen \u2013 sepal \r\nX) Swollen base of the flower than attaches it to the stem \u2013 carpel \r\nY) Sticky part of the flower\u2019s carpel that traps pollen grains \u2013 stigma  \r\nZ) Part of the flower containing the ovules that later develop into seeds \u2013 anther", 
+    "tossupA": "ALL", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf8e"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "NO SOLUTION (ACCEPT: NULL SET, EMPTY SET)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the greatest integer less than or equal to the cube root of 100?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Solve the following system of two equations: 7x + 2y = -6 and \r\n-14x \u2013 4y = -2.", 
+    "tossupA": "4", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf8f"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "INDEPENDENT = CHEMICAL; DEPENDENT = NUMBER OF APPLES; \r\nCONTROLLED = SUNLIGHT, WATER, APPLE SPECIES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Patricia is trying to improve her basketball skills. She \r\nfinds that her shots consistently hit a point to the right of the basket. Which of the following \r\ncorrectly characterizes the precision and accuracy of her shots? \r\n \r\nW) Not accurate or precise \r\nX) Both accurate and precise \r\nY) Accurate but not precise \r\nZ) Precise but not accurate", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer A scientist testing the effects of a chemical on apple \r\nyield sprays an orchard with the chemical. A second similar orchard with the same amount of \r\nsunlight, water, and species of apple does not receive the chemical. In the fall, the number of \r\napples harvested from each orchard is counted. What are the independent, dependent, and \r\ncontrolled variables in the experiment?", 
+    "tossupA": "Z) PRECISE BUT NOT ACCURATE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf90"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) USING IRON FILINGS INSTEAD OF IRON NAILS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer When a wave enters a new medium and changes \r\nspeed, what phenomenon occurs?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following would increase the rate of \r\nrusting on a fixed quantity of iron? \r\n \r\nW) Using iron filings instead of iron nails \r\nX) Putting more water over the iron \r\nY) Placing the iron in an ice bath \r\nZ) It is not possible to change the rate of rusting", 
+    "tossupA": "REFRACTION", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf92"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "500", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following types of friction are you experiencing as \r\nyou push a book across a table? \r\n \r\nW) Accelerated \r\nX) Kinetic \r\nY) Negative \r\nZ) Static", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer How much work in joules is done by the force of gravity when a 50 \r\nnewton object falls a distance of 10 meters?", 
+    "tossupA": "X) KINETIC", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf93"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "LATERAL LINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Which cellular organelle contains DNA inherited from the \r\nindividual\u2019s mother but not the father?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the name of the sense organ in fish and some \r\naquatic amphibians [am-FIB-ee-uhns] that is sensitive to differences in water pressure due to \r\nchanges in depth or waves caused by approaching objects?", 
+    "tossupA": "MITOCHONDRIA", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf94"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "15", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is \u22125\u221a3\u2212 3\u221a3?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What number is 1/2 of 1/3 of 1/4 of 1/5 of 1,800?", 
+    "tossupA": "\u22128\u221a3", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf95"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "JUPITER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following types of rock would have the \r\ngreatest permeability? \r\n \r\nW) Sandstone \r\nX) Shale \r\nY) Claystone \r\nZ) Limestone", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer The Sun contains the vast majority of the mass in the \r\nsolar system at 99.9%. What is the location of most of the remaining 0.1% mass in the solar \r\nsystem?", 
+    "tossupA": "W) SANDSTONE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf96"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) PRECAMBRIAN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What type of RNA carries copies of the instructions for \r\nassembling amino acids from the DNA to the site of translation?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice The first prokaryotes [proh-KAR-ee-ohts], eukaryotes \r\n[yoo-KAR-ee-ohts], and multicellular organisms all arose during which of the following \r\nevolutionary eras? \r\n \r\nW) Precambrian \r\nX) Mesozoic \r\nY) Paleozoic \r\nZ) Cenozoic", 
+    "tossupA": "MESSENGER RNA (ACCEPT: mRNA)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf97"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) A PHYSICAL INTENSIVE PROPERTY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a reason why midges of the \r\nrainforest are important? \r\n \r\nW) They consume waste on the forest floor \r\nX) They are harvested for medicinal extracts \r\nY) They pollinate the flowers of the cacao plant \r\nZ) They are used to make perfume", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The term specific volume refers to the volume per \r\ngram of a substance. Specific volume is an example of which of the following? \r\n \r\nW) A physical extensive property \r\nX) A physical intensive property \r\nY) A chemical extensive property \r\nZ) A chemical intensive property", 
+    "tossupA": "Y) THEY POLLINATE THE FLOWERS OF THE CACAO PLANT", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf98"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) LIQUID IRON AND NICKEL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT a process involved in \r\nthe formation of sedimentary rocks? \r\n \r\nW) Compaction \r\nX) Cementation \r\nY) Melting \r\nZ) Lithification", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice At a depth of 2,900 kilometers below the Earth\u2019s \r\nsurface, P seismic waves slow down rapidly and S seismic waves disappear. This indicates that \r\n2,900 kilometers is the beginning of which of the following layers? \r\n \r\nW) Solid iron \r\nX) Solid nickel \r\nY) Liquid iron and nickel \r\nZ) Solid iron and nickel", 
+    "tossupA": "Y) MELTING", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf99"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) IT REDUCES EFFICIENCY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Geothermal heat pumps take advantage of which of the \r\nfollowing? \r\n \r\nW) Salinity of the water stored underground \r\nX) Temperature differences in the underground water layers \r\nY) Temperature difference between groundwater and the ground \r\nZ) Temperature differences between the ground and buildings", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following is the effect of reactive power on the \r\nefficiency of a circuit? \r\n \r\nW) It reduces efficiency \r\nX) It increases efficiency by about 30% \r\nY) The efficiency remains unaffected \r\nZ) The efficiency is maximized", 
+    "tossupA": "Z) TEMPERATURE DIFFERENCES BETWEEN THE GROUND AND BUILDINGS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf9b"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "1, 2, 3, 4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Cyamids, commonly known as whale lice, are tiny \r\ncrustaceans that live on the skin of whales. Cyamids obtain nutrition from the whale by feeding \r\non dead skin and algae that grow on the whale's body; it is believed that whales are not helped \r\nor harmed by their presence. This type of biological relationship can best be described as which \r\nof the following? \r\nW) Commensalism \r\nX) Antagonism \r\nY) Parasitism \r\nZ) Mutualism", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer By number, identify all of the following five characteristics \r\nwhich are true of baleen whales: 1) they travel to cold water for feeding; 2) they travel to warm \r\nwater to give birth; 3) they have wide, separated lower jaws; 4) they can open their eyes \r\nunderwater, 5) they have about four times more blood cells than terrestrial mammals.", 
+    "tossupA": "W) COMMENSALISM", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf9c"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-173", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Simplify 1,000,000<sup>1/6</sup> [one million to the power of one sixth].", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate f(x) = -x<sup>3</sup> + 6x + 7 [f of x equals negative x cubed plus 6 x \r\nplus 7] at x = 6.", 
+    "tossupA": "10", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf9d"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "ONE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice A population splits and part of the group occupies a \r\ndifferent niche [NICH] from the parent group and can no longer interbreed with the parent \r\npopulation. Which of the following describes this process? \r\n \r\nW) Genetic drift \r\nX) Speciation \r\nY) Endemism \r\nZ) Invasion", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Given the equation H2 + Cl2      [yields] 2HCl + \r\nheat, if the reaction were performed with fluorine instead of chlorine, how many moles of H2 \r\nwould be required to yield two moles of HF?", 
+    "tossupA": "X) SPECIATION", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf9e"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TRANSPIRATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice At which of the following latitudes in the Northern \r\nHemisphere will the Sun be directly overhead at solar noon on the summer solstice? \r\n \r\nW) Equator \r\nX) Tropic of Capricorn \r\nY) Tropic of Cancer \r\nZ) North Pole", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Which process allows water to move from plants to the \r\natmosphere?", 
+    "tossupA": "Y) TROPIC OF CANCER", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf9f"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1, 4, 2, 5, 3 (ACCEPT: VIOLET, BLUE, GREEN, ORANGE, RED)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT an example of \r\noxidation? \r\n \r\nW) Electroplating zinc \r\nX) Rusting iron \r\nY) Tarnishing silver \r\nZ) Burning wood", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer List the following five colors of the visible spectrum in \r\norder of highest to lowest frequency: 1) violet, 2) green, 3) red, 4) blue, and 5) orange.", 
+    "tossupA": "W) ELECTROPLATING ZINC", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccfa0"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "2, 3 (ACCEPT: PLANTS, DETRITUS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following molecules is an important part of \r\nmembrane structure, is usually NOT soluble in water, and stores about 9 kilocalories of energy \r\nin each gram? \r\n \r\nW) Protein \r\nX) Nucleic acid \r\nY) Lipid \r\nZ) Carbohydrate", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Identify all of the following five options which serve as the \r\nprimary food source for most millipedes: 1) minerals, 2) plants, 3) detritus, 4) blood, 5) slugs.", 
+    "tossupA": "Y) LIPID", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccfa2"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) SANDSTONE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer What is the SI unit of measurement for gravitational potential \r\nenergy?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following rock types would most likely be the best oil \r\nreservoir [REZ-er-vwohr]? \r\n \r\nW) Granite \r\nX) Basalt \r\nY) Shale \r\nZ) Sandstone", 
+    "tossupA": "JOULE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf8d"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) 50%", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer Which form of energy can coincide with tectonic plate \r\nboundaries?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is the approximate percentage \r\nof silica in basaltic lava? \r\n \r\nW) 50% \r\nX) 60% \r\nY) 70% \r\nZ) 80%", 
+    "tossupA": "GEOTHERMAL", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf91"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "GIBBS FREE ENERGY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What form of heat transfer does NOT depend on \r\nmatter?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the name for energy which represents the \r\ncapacity of a system to do non-mechanical work at constant temperature and pressure?", 
+    "tossupA": "RADIATION", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf9a"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "DOMAIN x \u2265 2; RANGE y \u2265 5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the x intercept of the line -3x + y = 3?", 
+    "packetNum": 8, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What are the largest possible domain and range, respectively, of \r\ny = 5+\u221a(x-2) [y equals 5 plus the square root of the quantity x minus 2]?", 
+    "tossupA": "(-1, 0) (ACCEPT: -1)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccfa1"
+    }, 
+    "questionNum": 24
+  }
+]

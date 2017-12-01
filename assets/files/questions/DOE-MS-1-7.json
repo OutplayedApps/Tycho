@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "1.7 \r\n \r\n(Solution: MA = EA/RA = 340/200 = 1.7)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following laws most directly limits the \r\nability of a simple machine to an efficiency of 100% or lower: \r\n \r\nW) Hooke\u2019s law \r\nX) law of equal proportions \r\nY) the first law of motion \r\nZ) the law of conservation of energy", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer To the first decimal place, what is the ideal mechanical \r\nadvantage of a lever with a resistance arm of 200 centimeters and an effort arm of 3.4 meters?", 
+    "tossupA": "Z) THE LAW OF CONSERVATION OF ENERGY", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca2c"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) TIDAL BORE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following characteristics is most commonly \r\nassociated with a tsunami wave as opposed to a normal ocean wave in the open ocean: \r\n \r\nW) period of 5 seconds \r\nX) wavelength of 300 miles \r\nY) speed of 50 miles per hour \r\nZ) motion of only the uppermost layer of water", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a true tidal wave: \r\n \r\nW) tsunami \r\nX) tidal bore \r\nY) rip current \r\nZ) tidal range", 
+    "tossupA": "X) WAVELENGTH OF 300 MILES", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca2d"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4\r\n10\r\n1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Divide x<sup>5</sup> by x<sup>3</sup> and simplify:", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate the following and give your answer as a mixed fraction in lowest \r\nterms: 9\r\n2\r\n1 \u2013 5\r\n5\r\n2", 
+    "tossupA": "x<sup>2</sup>", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca2e"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "30 YARDS PER HOUR; 3 FEET PER MINUTE; 5 YARDS PER MINUTE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following does the prefix endo (spell out \r\nthe letters e, n, d, o) mean, as in the word endoscope: \r\n \r\nW) under \r\nX) dark \r\nY) inside \r\nZ) invisible", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 3 choices in order of INCREASING \r\nspeed: 3 feet per minute; 5 yards per minute; 30 yards per hour", 
+    "tossupA": "Y) INSIDE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca2f"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GREGOR MENDEL (ACCEPT: MENDEL)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following anatomical structures do sharks NOT \r\npossess: \r\n \r\nW) gill covers or opercula \r\nX) lateral lines \r\nY) cartilaginous skeletons \r\nZ) livers", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What scientist is sometimes considered the father of genetics \r\nbecause of his extensive studies on the patterns of inheritance?", 
+    "tossupA": "W) GILL COVERS OR OPERCULA", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca30"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "250,000 (ACCEPT: 2.5 \u00d7 10<sup>5</sup>) \r\n \r\n(Solution: PS = 10,000 N \u00d7 25 m = 250,000 J)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice What is the mass of an electron: \r\n \r\nW) about the same as a proton \r\nX) about \u00bd as much as a proton \r\nY) about 1/1,800th of a proton \r\nZ) electrons have no mass", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer A 10,000-newton car is on the top floor of a parking \r\ngarage 25 meters above the ground. Relative to the ground, what is the gravitational potential \r\nenergy, in joules, of the car?", 
+    "tossupA": "Y) ABOUT 1/1,800TH OF A PROTON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca31"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) ALLUVIAL FAN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Streams running off the terminus of glaciers have a high \r\nbed load and easily erodible banks, typically forming which of the following types of stream \r\npatterns: \r\n \r\nW) meandering \r\nX) oxbow \r\nY) braided \r\nZ) back swamp", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is similar to a delta but forms when \r\na steep mountain stream spreads out from a mountain canyon onto a flat, broad valley: \r\n \r\nW) alluvial fan \r\nX) levee \r\nY) playa \r\nZ) flood plain", 
+    "tossupA": "Y) BRAIDED", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca32"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "27\r\n25", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Solve the following equation for x: 15x + 8x \u2013 3x = 120", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Divide \r\n9\r\n5 by \r\n5\r\n3 and give your answer as a proper fraction in lowest terms:", 
+    "tossupA": "6", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca33"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following BEST describes the SI unit \r\ncalled the Newton: \r\n \r\nW) a unit of power \r\nX) a unit of force \r\nY) a unit of work \r\nZ) a unit of energy", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Rounded to the nearest whole number, how many meters \r\nper second is equal to 40 kilometers per hour?", 
+    "tossupA": "X) A UNIT OF FORCE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca34"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) EQUILIBRIUM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer How many phalanges are in a human thumb?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following terms is most often used to describe a \r\nbiochemical reaction where the forward reaction is at the same rate as the reverse reaction: \r\n \r\nW) isothermic \r\nX) isotropic \r\nY) equilibrium \r\nZ) homeotropic", 
+    "tossupA": "2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca35"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) DISTILLED WATER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Alkali metals all have the same: \r\n \r\nW) number of electrons in their outer shells \r\nX) atomic radii \r\nY) electronegativities \r\nZ) melting points", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following liquids at room temperature \r\nand 1 atmosphere would have the GREATEST surface tension: \r\n \r\nW) distilled water \r\nX) ethanol \r\nY) methanol \r\nZ) acetone", 
+    "tossupA": "W) NUMBER OF ELECTRONS IN THEIR OUTER SHELLS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca36"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) LARGE AMOUNTS OF SUSPENDED MATERIAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following most likely formed a U-shaped \r\nvalley: \r\n \r\nW) glacial erosion \r\nX) mountain stream erosion \r\nY) wind erosion \r\nZ) deforestation", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following gives glacial meltwater a quality \r\nwhich is commonly described as glacial milk: \r\n \r\nW) ice crystals in the water \r\nX) the abundance of trapped air \r\nY) large amounts of suspended material \r\nZ) the abundance of cyanobacteria", 
+    "tossupA": "W) GLACIAL EROSION", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca37"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Z) 2,520", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Name all of the following 3 statements which are always TRUE: \r\n 1) a square is a regular polygon \r\n 2) an equilateral triangle is equiangular \r\n 3) a scalene triangle has 2 sides of equal length", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Which of the following is evenly divisible by each of the counting \r\nnumbers 1 through 8: \r\n \r\nW) 360 \r\nX) 1,250 \r\nY) 1,800 \r\nZ) 2,520", 
+    "tossupA": "1 AND 2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca38"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "LANOLIN = ANIMAL; SILK = ANIMAL; JUTE = PLANT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following instruments consists of a \r\nweighted glass tube or bulb, which is floated in a liquid to measure the liquid\u2019s relative density: \r\n \r\nW) hydrometer \r\nX) hypsometer \r\nY) densitometer \r\nZ) sensometer", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Identify each of the following 3 materials as derived from \r\na plant or animal source, respectively: lanolin; silk; jute", 
+    "tossupA": "W) HYDROMETER", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca39"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) PELVIS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice In which of the following areas of the human body is the \r\nfrontal bone found: \r\n \r\nW) pelvis \r\nX) spine \r\nY) shoulder \r\nZ) head", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice In which of the following areas of the human body is the \r\nileum bone found: \r\n \r\nW) pelvis \r\nX) wrist \r\nY) shoulder \r\nZ) head", 
+    "tossupA": "Z) HEAD", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca3a"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "27", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following chemical formulas gives an \r\nindication of the arrangement of atoms and bonds in a chemical compound: \r\n \r\nW) empirical \r\nX) molecular \r\nY) structural \r\nZ) polyatomic", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer How many total atoms are in any one molecule of \r\nEpsom salts, or MgSO<sub>4</sub>\u20227H<sub>2</sub>O (read as: Mg, S, O, 4, dot, 7, H, 2, O)", 
+    "tossupA": "Y) STRUCTURAL", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca3b"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) THEY ARE NOT FOUND IN THE U.S.", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is made of microcrystalline quartz \r\nand is very hard and compact: \r\n \r\nW) gypsum \r\nX) chalk \r\nY) limestone \r\nZ) chert", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true of geodes: \r\n \r\nW) they occur in sedimentary and certain volcanic rocks \r\nX) they look like ordinary rocks from the outside \r\nY) their exterior is typically made up of limestone \r\nZ) they are not found in the U.S.", 
+    "tossupA": "Z) CHERT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca3c"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) 1.5 \r\n \r\n(Solution: (59 in)(2.54 cm/in)(1 m/100 cm) = 1.49 m)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the study of bees: \r\n \r\nW) herpetology \r\nX) apiology \r\nY) ichthyology \r\nZ) ornithology", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is CLOSEST to the height, in \r\nmeters, of a person who is 4 feet and 11 inches tall: \r\n \r\nW) 1.2 \r\nX) 1.5 \r\nY) 1.8 \r\nZ) 2.2", 
+    "tossupA": "X) APIOLOGY", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca3e"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "67 \r\n \r\n(Solution: 400/600 = 0.67 \u00d7 100 = 67%)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is generally NOT true: \r\n \r\nW) the boiling point of water decreases with increased altitude on Earth \r\nX) the melting point of table salt is much higher than that of glucose \r\nY) radon is radioactive \r\nZ) metals react with nonmetals to form new metals", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the percent efficiency, rounded to the nearest \r\nwhole number, of a simple machine that requires 600 joules of energy input to achieve 400 joules of \r\nenergy output?", 
+    "tossupA": "Z) METALS REACT WITH NONMETALS TO FORM NEW METALS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca40"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) NIMBOSTRATUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following most likely made the trip from \r\nEurope to the New World possible for early sailors: \r\n \r\nW) the westerlies \r\nX) the trade winds \r\nY) the doldrums \r\nZ) the jet stream", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is a dark gray, low cloud \r\nassociated with continuous falling rain: \r\n \r\nW) altocumulus \r\nX) stratocumulus \r\nY) cumulus humilis \r\nZ) nimbostratus", 
+    "tossupA": "X) THE TRADE WINDS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca41"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ALL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What glands of the human body are most responsible for \r\nproducing what is sometimes called the stress hormone cortisol?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 3 choices that are common functions \r\nof feathers on birds: thermal insulation; sexual selection; flight", 
+    "tossupA": "ADRENALS (ACCEPT: ADRENAL CORTEX)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca44"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Give the numerical value of 8 factorial divided by 8 factorial:", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate the following expression: 10 + [8 + (2 \u2013 10)] (read as: 10 plus, \r\nopen bracket, 8 plus, open parenthesis, 2 minus 10, close parenthesis, close bracket)", 
+    "tossupA": "1", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca3d"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MOSSES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer In what organelle do parenchymal (read as: PAR-en-KYM-al) \r\ncells store most of a plant\u2019s cellular fluid?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer  Name all of the following 3 groups of plants that have no \r\nxylem: mosses; ferns; conifers", 
+    "tossupA": "VACUOLE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca3f"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "DIMES = 10; QUARTERS = 5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate \r\ny\r\nx when x = 0 and y = \u20138:", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Jill has $2.25 consisting of U.S. dimes and quarters. If she has 5 more \r\ndimes than quarters, how many dimes and quarters, respectively, does she have?", 
+    "tossupA": "0", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca42"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "C", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the common term for the most accepted theory \r\non how the universe came into being?", 
+    "packetNum": 7, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What letter is most often used by scientists as a symbol \r\nfor light or the speed of light?", 
+    "tossupA": "BIG BANG", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecca43"
+    }, 
+    "questionNum": 24
+  }
+]

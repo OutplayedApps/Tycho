@@ -1,0 +1,427 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "(ACCEPT TWO) PHENYLALANINE, TYROSINE, TRYPTOPHAN, METHIONINE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following is a proper comparison between ductile \r\nand brittle fracture? \r\n \r\nW) Ductile has an unstable crack and brittle has a stable crack \r\nX) Brittle has relatively little plastic deformation, while ductile has extensive deformation \r\nY) Brittle doesn\u2019t occur in cold metals while ductile does \r\nZ) Brittle fracture is preferred in most applications", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer The generation of proteolytic [proh-tee-uh-LIT-ik] fragments is \r\nessential to protein purification. Chymotrypsin [ky-moh-TRIP-sin] is an endopeptidase [en-\r\ndoh-PEP-ti-days] that will cleave peptide amide bonds. Name two of the four amino acids this \r\nenzyme cleaves.", 
+    "tossupA": "X) BRITTLE HAS RELATIVELY LITTLE PLASTIC DEFORMATION, WHILE \r\nDUCTILE HAS EXTENSIVE DEFORMATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddaa"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) s1 IS DECREASING AND s2 IS INCREASING", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer What is the slope-intercept form of the equation of the line  \r\nthat is tangent to the circle with equation x<sup>2</sup> + y<sup>2</sup> = 25 at the point (-3, 4)?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Given the two sequences s1 with nth term  2/(n+6) and s2 with nth term  n/(5+n), which of the following statements is correct? \r\n \r\nW) s1 and s2 are both increasing \r\nX) s1 is increasing and s2 is decreasing \r\nY) s1 is decreasing and s2 is increasing \r\nZ) s1 and s2 are both decreasing", 
+    "tossupA": "y = 3/4 x + 25/4", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddab"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "RADIATION PRESSURE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following pairs of metamorphic rocks both \r\nresult from the parent rock shale?  \r\n \r\nW) Slate and hornfels \r\nX) Greenstone and phyllite \r\nY) Quartzite and amphibolite [am-FIB-uh-lyt] \r\nZ) Marble and gneiss [NYS]", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Wolf-Rayet stars are young, massive stars with \r\nprodigious mass loss rates. What force drives their strong stellar winds?", 
+    "tossupA": "W) SLATE AND HORNFELS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddac"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "TRIPLE-ALPHA PROCESS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer According to the Standard Model, protons and neutrons are made of \r\nquarks. What are the quark constituents of protons?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer What famous nuclear reaction bypasses the \"mass 8 gap\" in stellar \r\nburning and proceeds mainly through the Hoyle state in carbon-12?", 
+    "tossupA": "TWO UPS AND ONE DOWN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddad"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) KINETIC", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Short Answer In northern climates, which component of a residential home, if \r\nproperly insulated, will lead to maximal energy savings?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice In string theory, in the absence of external interactions, string \r\ndynamics are governed by tension and which of the following types of energy? \r\n \r\nW) Kinetic  \r\nX) Chemical  \r\nY) Electrostatic potential  \r\nZ) Gravitational potential", 
+    "tossupA": "ATTIC (ACCEPT: ROOF)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddae"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) CELL BODIES OF SENSORY NEURONS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice The basal lamina is a long thin structure that is essential for the \r\nstability of body cells. Which of the following cell classes is NOT typically underlain or \r\nsurrounded by the basal lamina? \r\n \r\nW) Epithelial  \r\nX) Muscle  \r\nY) Nerve  \r\nZ) Cartilage", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice When using a light microscope to view a stained cross section of a \r\ndorsal root ganglion, which of the following structures are you most likely to see?  \r\n \r\nW) Cell bodies of sensory neurons \r\nX) Axons of sensory neurons \r\nY) Axons of motor neurons \r\nZ) Cell bodies of motor neurons", 
+    "tossupA": "Z) CARTILAGE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddaf"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "1) ELECTROCYCLIC; 2) THERMAL; 3) DISROTATORY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer Bottom-up approaches to nanotechnology generally involve \r\nmicroscopy. What technique is primarily involved in the top-down approach?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer The molecule (2E, 4Z, 6E)-2,4,6-octatriene [2 comma 4 comma \r\n6 -ok-tuh-TRY-een] can isomerize to cis-5,6-dimethyl-1,3-cyclohexadiene [cis-5 comma 6-dy-\r\nMETH-uhl-1 comma 3-sy-kloh-HEK-suh-deen]. Identify: 1) The family of pericyclic reactions \r\nfor this particular isomerization; 2) The mode of activation; and 3) The direction of \r\nstereochemical rotation.", 
+    "tossupA": "LITHOGRAPHY (ACCEPT: SMALL-SCALE LITHOGRAPHY, MICRON-SCALE \r\nLITHOGRAPHY, AND ELECTRON-BEAM LITHOGRAPHY)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb0"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "W) (log 4)/(log 2 - log pi)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer If the graph of the complex number z = 3 + 4i is rotated 90\u00b0 \r\ncounterclockwise, what complex number is represented by the result?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Which of the following is a solution for x of the equation 2<sup>x-2</sup> = pi<sup>x</sup> ? \r\n \r\nW) (log 4)/(log 2 - log pi) X) (log 4)/(log pi - log 2) Y) (log pi - log 2)/(log 4) Z) (log 2 - log pi)/(log 4)", 
+    "tossupA": "-4 + 3i", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb1"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) EDGE-ON SYSTEMS WITH SMALL SEMI-MAJOR AXES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice A halo around the Sun or Moon is different than a \r\ncorona around the Moon in that the halo is produced by what? \r\n \r\nW) Water droplets in a cloud \r\nX) Ice crystals in a cloud \r\nY) Reflection of sunlight  \r\nZ) Refraction of sunlight", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Radial velocity surveys are biased towards discovering \r\nwhich of the following kinds of exoplanets? \r\n \r\nW) Face-on systems close to the Earth \r\nX) High albedo planets with large semi-major axes \r\nY) Systems with large mass ratios that are close to the Earth \r\nZ) Edge-on systems with small semi-major axes", 
+    "tossupA": "X) ICE CRYSTALS IN A CLOUD", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb2"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "34 (ACCEPT: 0.75)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice If 500 joules of energy are required to move a 20-coulomb charge \r\nfrom point A to point B, what must be the potential difference, in volts, between A and B? \r\n \r\nW) 0 \r\nX) 25 \r\nY) 1000 \r\nZ) 10000", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer A child is playing on a straight metal slide which is at 45\u00b0 to the \r\nlevel ground. The child slides down the slide in twice the time it would take if the slide was \r\ncompletely frictionless. What is the coefficient of kinetic friction of the slide?", 
+    "tossupA": "X) 25", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb3"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GRUNION (ACCEPT: LEURESTHES)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Short Answer In mammals, B cells are produced in the bone marrow. What \r\ncloacal [kloh-AY-kuhl] organ in birds produces these cells and is the source of their name?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer You are walking at night on a sandy beach in southern California \r\nduring a high tide that followed the last full moon. What fish will you most likely see mating in the \r\nsand on the beach during your walk?", 
+    "tossupA": "BURSA OF FABRICIUS (ACCEPT: BURSA)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb4"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X) ALLOWEDNESS OF THE TRANSITIONS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following is NOT a method to separate two \r\nliquids? \r\n \r\nW) Fractional distillation \r\nX) Chromatography \r\nY) Sonication \r\nZ) Extraction", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice The intensity of absorption maxima in a visible spectrum \r\ndepends upon which of the following characteristics? \r\n \r\nW) Ligand field splitting parameter \r\nX) Allowedness of the transitions \r\nY) Electron configuration of the metal center \r\nZ) Degree of inter-electron repulsion", 
+    "tossupA": "Y) SONICATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb5"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2 (ACCEPT: PENDULUM ON THE MOON)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice Which of the following is a consequence of Gauss's law for \r\nmagnetism? \r\n \r\nW) A changing magnetic flux through a loop creates an electric current around the loop  \r\nX) Charges must be moving to produce magnetic fields \r\nY) A time-varying electric flux acts as a current and produces a magnetic field  \r\nZ) Magnetic monopoles do not exist", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer Which of the following three choices has the longest period: 1) a \r\npendulum [PEN-juh-luhm] on Earth with a cord length of 3 meters, 2) a pendulum on the Moon, \r\nwhere the acceleration due to gravity is roughly 1.6 meters per second squared, with a cord \r\nlength of 1 meter, or 3) a pendulum on Jupiter, where acceleration due to gravity is 26 meters \r\nper second squared, with a cord length of 10 meters?", 
+    "tossupA": "Z) MAGNETIC MONOPOLES DO NOT EXIST", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb6"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "h(t) = 10 e<sup>(1/2)t</sup>", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice A jar contains 500 jellybeans, 100 each of red, white, blue, orange, \r\nand green. If you reach in without looking, how many jellybeans must you grab to be certain that \r\nat least five are of the same color?  \r\n \r\nW) 6 \r\nX) 21 \r\nY) 25 \r\nZ) 26", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find h(t) if 2h'(t) - h(t) = 0  \r\nand h(0) = 10.", 
+    "tossupA": "X) 21", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb7"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "IT WILL RISE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What is the term for the process through which \r\nprecipitation forms in water vapor clouds?", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Imagine a parcel of air forced upward. If the \r\nenvironmental lapse rate is greater than the dry adiabatic [ad-ee-uh-BAT-ik] rate, what is the \r\nvertical motion of the parcel?", 
+    "tossupA": "COLLISION-COALESCENCE (ACCEPT: COALESCENCE or BERGERON \r\nPROCESS)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb8"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) YOUR BODY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice What is the process by which lithium enters electrodes in a \r\nlithium-ion battery? \r\n \r\nW) Intercalation \r\nX) Precipitation \r\nY) Hydration \r\nZ) Bombardment", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice While walking down the street, an open wire falls on you and you \r\nreceive an instantaneous alternating current electric shock. Where did most of the electrons \r\ncome from that \u201cshocked\u201d you? \r\n \r\nW) The ground \r\nX) The wire \r\nY) The air \r\nZ) Your body", 
+    "tossupA": "W) INTERCALATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddb9"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2/3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice A square loop of wire with a resistance of 2 ohms and a side \r\nlength of 2 meters has a magnetic field of 5 teslas passing straight through it. If the field is \r\nuniformly reduced to zero in 10 seconds, what is the magnitude of the current generated in the \r\nloop in amperes? \r\n \r\nW) 0.5 \r\nX) 1 \r\nY) 2 \r\nZ) 4", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer A rod of length 1 meter and mass 2 kilograms is pivoted \r\nperpendicularly to its length and through its center of mass. If two point masses, each with a \r\nmass of 1 kilogram, are attached to each end of the rod, what is the total moment of inertia in \r\nkilogram meters squared of this collection of objects?", 
+    "tossupA": "X) 1", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddba"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) NEURAMINIDASE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following proteins would likely be synthesized by a \r\ncytosolic ribosome instead of an ER-bound ribosome?  \r\n \r\nW) Insulin \r\nX) Actin  \r\nY) Subunits for a potassium channel \r\nZ) G protein-coupled receptor", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice The mechanism of action of the antiviral drugs zanamivir [za-\r\nNUHM-i-veer] and oseltamivir [oh-sel-TUHM-i-veer] is to inhibit what virally encoded enzymes \r\nexpressed on the surface of influenza virions [VY-ree-ons]? \r\n \r\nW) Neuraminidase [nyoor-uh-MIN-uh-days] \r\nX) Hemagglutinin [he-muh-GLU-ti-nin] \r\nY) Nonspecific protease \r\nZ) Reverse transcriptase", 
+    "tossupA": "X) ACTIN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddbb"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following reactions would be most expected to \r\nform a racemic [ray-SEE-mik] product mixture?  \r\n \r\nW) E1 \r\nX) E2 \r\nY) SN1 \r\nZ) SN<sub>2</sub>", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer At the beginning of an experiment measuring the \r\nphosphorescence produced by a phosphorescent substance, the brightness is measured at 12 \r\nlumens. After five minutes, the brightness is 6 lumens. After 10 minutes, it is 4 lumens. What \r\nbrightness, in lumens, would you expect to find after 15 minutes?", 
+    "tossupA": "Y) SN1", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddbc"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-(x + 1) e<sup>-x</sup> (ACCEPT: -xe<sup>-x</sup> - e<sup>-x</sup>, OR EITHER ANSWER +/- ANY CONSTANT)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice Box A contains 4 chips numbered 1 through 4 and Box B contains 5 \r\nchips numbered 1 through 5. A chip is drawn from each box and the product of the two values \r\ndrawn is denoted by x. What is the probability that x is even? \r\n \r\nW) 1/2 \r\nX) 2/3 \r\nY) 7/10 \r\nZ) 3/4", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find an antiderivative for xe<sup>-x</sup>.", 
+    "tossupA": "Y) 7/10", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddbd"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "VERNATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice In the lipid membranes of cells, there are multipass proteins that \r\nare partly within the lipid bilayer and partly outside of the lipid bilayer. Through which of the \r\nfollowing forces do these proteins achieve this position relative to the membrane?  \r\n \r\nW) Covalent linkages to lipid molecules \r\nX) Disulfide bonds to lipid molecules \r\nY) Hydrophobic and hydrophilic interactions \r\nZ) Physical connections to the cytosol", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer What is the term for the pattern of arrangement of embryonic \r\nleaves within the bud?", 
+    "tossupA": "Y) HYDROPHOBIC AND HYDROPHILIC INTERACTIONS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddbe"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) THE TEMPERATURE GRADIENT LESSENED BETWEEN THE SOUTH POLE \r\nAND THE EQUATOR", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following volcanic hazards can have \r\nworldwide climatic consequences? \r\n \r\nW) Lahars \r\nX) Pyroclastic flows \r\nY) Volcanic tremors \r\nZ) Volcanic tephra", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Plate tectonics have often been linked to changes in \r\nglobal climate. During the middle Cenozoic era, South America became separated from \r\nAntarctica and a circumpolar current formed. Which of the following was NOT caused by this \r\nseparation?  \r\n \r\nW) A permanent ice cap formed on Antarctica \r\nX) The temperature gradient lessened between the South Pole and the Equator \r\nY) Earth\u2019s average temperature decreased \r\nZ) Thermohaline [thuhr-moh-HAY-lyn] circulation of the southern hemisphere Atlantic Ocean \r\nintensified", 
+    "tossupA": "Z) VOLCANIC TEPHRA", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddbf"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "3, 4, 1, 2 (ACCEPT: FATS, ETHANOL, PROTEINS, ORGANIC ACIDS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Whose equation describes the relationship between the \r\nconcentration of an electro-active species and electric potential? \r\n \r\nW) Ohm \r\nX) Joule  \r\nY) Nernst  \r\nZ) Bode", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Arrange the following four substances in order of decreasing energy \r\ncontent in kilocalories per gram: 1) proteins, 2) organic acids, 3) fats, 4) ethanol.", 
+    "tossupA": "Y) NERNST", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc1"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "COLEOPTERA (ACCEPT: 5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice What chemicals do peroxisomes [pe-ro-KSI-sohms] use to \r\noxidize other compounds? \r\n \r\nW) Mono-diglyceride [dy-GLIS-uh-ryd] \r\nX) Nitrogen dioxide  \r\nY) Hydrogen peroxide  \r\nZ) Dihydrogen monoxide", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer Name all of the following five insect orders that have adults with \r\nchewing mouthparts: 1) Hemiptera [hi-MIP-ter-uh], 2) Strepsiptera [strep-sip-TER-uh], 3) \r\nHomoptera, 4) Lepidoptera [lep-i-DOP-ter-uh], 5) Coleoptera [koh-lee-OP-ter-uh].", 
+    "tossupA": "Y) HYDROGEN PEROXIDE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc2"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) 4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice A simple pendulum [PEN-juh-luhm] is pulled back to a large \r\nangle less than 90\u00b0, so that the small angle approximation is no longer valid for this situation. \r\nWhich of the following statements is true about the period of oscillation of the pendulum?  \r\n \r\nW) It is independent of the amplitude \r\nX) It is larger than the small angle approximation \r\nY) It is smaller than the small angle approximation \r\nZ) It depends on the square root of the amplitude", 
+    "packetNum": 15, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice A motor has a DC resistance of 5 ohms. The motor operates on \r\n220 volt AC, and when running at full speed, it generates a back electromotive force of 200 \r\nvolts. What is the current, in amperes, drawn when the motor operates at top speed? \r\n \r\nW) 0.4 \r\nX) 4 \r\nY) 40 \r\nZ) 44", 
+    "tossupA": "X) IT IS LARGER THAN THE SMALL ANGLE APPROXIMATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecddc0"
+    }, 
+    "questionNum": 23
+  }
+]

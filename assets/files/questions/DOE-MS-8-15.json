@@ -1,0 +1,393 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "W) LOSS OF THE ZOOXANTHELLAE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer In the Kingdom Animalia, what is the only phylum that lacks \r\ntrue tissues?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following processes is directly related to coral \r\nbleaching? \r\n \r\nW) Loss of the zooxanthellae [zoh-uh-zan-THEL-ee] \r\nX) Air pollution \r\nY) Red tides \r\nZ) Climate change", 
+    "tossupA": "SPONGES (ACCEPT: PHYLUM PORIFERA)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3f7"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "WARM MOIST AIR (ACCEPT: HUMIDITY)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is a good way to prevent \r\nerosion? \r\n \r\nW) Moldboard plowing \r\nX) Growing crops in terraces \r\nY) Disc plowing \r\nZ) River channelization", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Tornado alley is a region in the Midwest including parts of \r\nTexas, Oklahoma, Kansas and Nebraska. Tornadoes are common here because of the \r\nconfluence of cold dry air from the northwest and what from the Gulf of Mexico?", 
+    "tossupA": "X) GROWING CROPS IN TERRACES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3f8"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) OXYGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the name for the in vitro technique that rapidly \r\ngenerates large amounts of DNA from a small amount of template DNA?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following was NOT a component of the \r\nEarth\u2019s early atmosphere? \r\n \r\nW) Oxygen \r\nX) Hydrogen gas \r\nY) Methane \r\nZ) Ammonia", 
+    "tossupA": "POLYMERASE CHAIN REACTION (ACCEPT: PCR)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3f9"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) PHONONS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer How is the speed of a wave affected when the amplitude \r\nincreases?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following are NOT emitted by radioactive \r\nmaterials? \r\n \r\nW) Gamma rays \r\nX) Phonons \r\nY) Alpha particles \r\nZ) Electrons", 
+    "tossupA": "IT REMAINS THE SAME (ACCEPT: IT IS UNCHANGED OR NO CHANGE)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3fa"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer The volume of a cube with an edge that is an integer is represented by \r\nthe value 72n, where n is an integer. What is the smallest possible value for n?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Suppose a two digit number is added to the number formed by \r\ninterchanging its digits. The result is how many times the sum of the original digits?", 
+    "tossupA": "3", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3fb"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "THERE IS NO DIFFERENCE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Particle Man is attacking a video game hero with gamma rays. A \r\nshield made from which of the following would be most effective in protecting our hero? \r\n \r\nW) Paper \r\nX) A leaf \r\nY) Aluminum \r\nZ) Lead", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What is the difference in kinetic energy of a 10 pound object \r\nmoving at 10 feet per second on Earth vs. the same object moving at 10 feet per second on \r\nthe Moon?", 
+    "tossupA": "Z) LEAD", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3fc"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) THE FLOWER IS MISSING PETALS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What age-related process in plants is characterized by fruits, \r\nflowers, and leaves falling from trees after they have completed development?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice If a flower is said to be incomplete and perfect, which of the \r\nfollowing would apply? \r\n \r\nW) The flower is missing petals \r\nX) The flower is missing carpels \r\nY) The flower has extra sepals [SEE-puhls] \r\nZ) The flower is missing stamens [STAY-muhns]", 
+    "tossupA": "SENESCENCE (ACCEPT: BIOLOGICAL AGING)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3fd"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) ARABIAN AND EURASIAN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple choice Which of the following is NOT true of a lahar? \r\n \r\nW) It can be very destructive \r\nX) It can occur long after the eruption that caused it \r\nY) It must involve material at high temperatures \r\nZ) It contains more water than a pyroclastic flow", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Compressive forces dominate which of the following \r\ntectonic plate boundaries? \r\n \r\nW) North American and Eurasian [yoo-RAY-shuhn] \r\nX) Arabian and Eurasian \r\nY) Nazca and Antarctic \r\nZ) Indo-Australian and Antarctic", 
+    "tossupA": "Y) IT MUST INVOLVE MATERIAL AT HIGH TEMPERATURES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3fe"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) 7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice The production of water from barium hydroxide and \r\nammonium chloride is an example of what type of reaction? \r\n \r\nW) Endothermic \r\nX) Isothermic \r\nY) Exothermic \r\nZ) Xerothermic", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Assume the acceleration due to gravity is 10 meters \r\nper second squared, and you are holding a 5 newton weight hanging from a relatively \r\nweightless string. You pull up on the string, causing both the string and mass to accelerate \r\nupwards at a rate of 4 meters per second squared. How many newtons of tension exist in the \r\nstring during this motion? \r\n \r\nW) 3 \r\nX) 5 \r\nY) 7 \r\nZ) 9", 
+    "tossupA": "W) ENDOTHERMIC", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd400"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "PYTHAGOREAN THEOREM, EUCLIDEAN GEOMETRY, NEWTON\u2019S CALCULUS, \r\nBOOLEAN ALGEBRA (ACCEPT: 3, 2, 1, 4)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice If \u221ax = \u221aa +\u221ab [, then which of the following is equivalent to x? \r\n \r\nW) a + b+ 2\u221a(ab) \r\nX) a +b +2ab  \r\nY) a +b +ab  \r\nZ) a + b ", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Arrange the following four in historical order, earliest to most recent: 1) \r\nNewton\u2019s calculus, 2) Euclidean geometry, 3) Pythagorean theorem, 4) Boolean algebra.", 
+    "tossupA": "W) a + b+ 2\u221a(ab)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd401"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "YEAST (ACCEPT: SACCHAROMYCES OR SACCHAROMYCES CEREVISIAE, OR \r\nBAKER\u2019S YEAST)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Photosynthesis has both light and dark reactions. Which of \r\nthe following occurs WITHOUT the presence of light? \r\n \r\nW) Water is split to produce oxygen \r\nX) Carbon dioxide is transformed to sugar \r\nY) NADP+ is converted to NADPH \r\nZ) ADP is converted to ATP", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer You come home from school to discover your grandmother \r\nmaking fresh bread from scratch. You tell her that you don\u2019t want to eat it because it contains a \r\nfungus. To what specific ingredient do you object?", 
+    "tossupA": "X) CARBON DIOXIDE IS TRANSFORMED TO SUGAR", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd402"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ELECTRONS AND IONS (ACCEPT: POSITIVE IONS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is NOT a mechanism \r\nof erosion? \r\n \r\nW) Flowing water \r\nX) Freeze thaw cycles \r\nY) Photolytic breakdown [foht-l-IT-ik] \r\nZ) Movement of dust by wind", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer A space plasma is a combination of what two things?", 
+    "tossupA": "Y) PHOTOLYTIC BREAKDOWN", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd403"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) CYSTIC FIBROSIS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What term is used to refer to all of a person\u2019s genetic \r\ninformation, including the DNA in chromosomes and the mitochondria [my-tuh-KON-dree-uh]?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following diseases is NOT caused by a \r\nmicrobial infection? \r\n \r\nW) Trypanosomiasis [tri-pan-uh-soh-MY-uh-sis] \r\nX) Lyme disease \r\nY) Cystic fibrosis \r\nZ) Coccidiomycosis [kok-si-dee-dy-uh-my-KOH-sis]", 
+    "tossupA": "HUMAN GENOME (ACCEPT: GENOME)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd404"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "16) ENERGY Short Answer What is the temperature, in degrees Fahrenheit, of 15 \r\npounds of water at atmospheric pressure after 40 minutes, if the initial temperature of \r\nthe water was 192oF and 15 BTU per minute is added? \r\n \r\nANSWER 212", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice What is the major source of energy for protostars? \r\n \r\nW) Gravitational potential energy \r\nX) Fusion \r\nY) Fission \r\nZ) Thermal energy", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BONUS \r\n \r\n16)", 
+    "tossupA": "W) GRAVITATIONAL POTENTIAL ENERGY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd405"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "5 YEARS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Copper is known for many properties, two of which in \r\nparticular make it excellent for power lines. One of them is that it has a rather high electrical \r\nconductivity. The other property is that it is relatively easy to stretch it into great lengths of wire \r\nwithout breaking. What is the scientific name of the latter property? \r\n \r\nW) Masonoriety [may-SUHN-oh-REE-e-tee] \r\nX) Malleability \r\nY) Ductility \r\nZ) Softness", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer In a sample of a radioactive element, 75% of the nuclei \r\nhave undergone radioactive decay after 10 years. What is the half-life of this element?", 
+    "tossupA": "Y) DUCTILITY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd406"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-21/8 < d < 7/8 (ACCEPT: -2 5/8 < d < 7/8 OR -2.625 < d < .875)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Mrs. Brooks gave Devon and Coco each a red rod and a blue rod. \r\nEach red rod was equal in measure, and the blue rods were equal in measure. She told them to \r\ncreate a triangle using these side lengths. The third side could be any length they wanted. She \r\nalso told them one angle of their triangle must measure 50 degrees. Which of the following \r\nstatements best describes their triangles? \r\n \r\nW) Possibly but not necessarily congruent \r\nX) Definitely similar but not necessarily congruent \r\nY) Definitely congruent but not necessarily similar \r\nZ) Definitely both congruent and similar", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Solve the following inequality for d: \u2502(7 + 8d)\u2502 < 14 [absolute value of \r\nthe quantity 7 plus 8d is less than 14].", 
+    "tossupA": "W) POSSIBLY BUT NOT NECESSARILY CONGRUENT", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd407"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) THEY ARE ALL PASSED FROM ANIMALS TO HUMANS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What small, regularly-shaped cell fragments circulate in the \r\nblood of mammals and lead to the formation of blood clots?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice What do mad-cow disease, hantavirus, and malaria all have \r\nin common? \r\n \r\nW) They all affect the nervous system \r\nX) They all have mortality rates of 100% \r\nY) They are diseases that primarily affect people living in tropical environments \r\nZ) They are all passed from animals to humans", 
+    "tossupA": "PLATELETS (ACCEPT: THROMBOCYTES)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd408"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "MARCELLUS SHALE (ACCEPT: MARCELLUS FORMATION)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice What is the primary reason for irradiating food? \r\n \r\nW) To make the food taste better \r\nX) To increase the shelf life of food \r\nY) To kill pathogens in the food \r\nZ) To make the food more interesting visually", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What is a tremendous source of natural gas in the U.S. that is \r\nresponsible for the current low prices of natural gas?", 
+    "tossupA": "Y) TO KILL PATHOGENS IN THE FOOD", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd409"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) ANTIBODIES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Mitosis is the process by which nuclei [NOO-klee-\r\neye] divide, creating two new nuclei, each with identical sets of DNA. Meiosis [my-OH-sis] is \r\nthe process that involves only which of the following types of cells? \r\n \r\nW) Skin cells \r\nX) Sex cells \r\nY) Parenchyma cells [puh-RENG-kuh-muh] \r\nZ) Bacteria", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT part of humans\u2019 innate \r\nimmune system? \r\n \r\nW) Skin \r\nX) Antibodies \r\nY) Phagocytic cells [fag-uh-SIT-ik] \r\nZ) Mucous membranes", 
+    "tossupA": "X) SEX CELLS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd40b"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) THE VEHICLE EXPERIENCES AN ACCELERATION TOWARD THE CENTER \r\nOF THE CIRCLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following types of radiation has the \r\ngreatest ability to penetrate matter? \r\n \r\nW) Gamma rays \r\nX) Beta particles \r\nY) Alpha particles \r\nZ) Positrons", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following statements best describes a \r\nvehicle traveling at 60 miles per hour on a uniform circular track, assuming the vehicle stays on \r\nthe track? \r\n \r\nW) The vehicle experiences zero net acceleration, as it continually travels at a speed of 60 \r\nmiles per hour \r\nX) The vehicle experiences zero net acceleration because the circular track does not move \r\nY) The vehicle experiences a forward acceleration as it must speed up to continue moving in a \r\ncircle \r\nZ) The vehicle experiences an acceleration toward the center of the circle", 
+    "tossupA": "W) GAMMA RAYS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd40c"
+    }, 
+    "questionNum": 25
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following figures can result when a plane intersects a \r\ncube? \r\n \r\nW) Circle \r\nX) Octagon \r\nY) Line \r\nZ) Pentagon", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If dog food can be purchased in packages of either 3 pounds or 5 \r\npounds, in how many different ways can exactly 150 pounds be purchased?", 
+    "tossupA": "Z) PENTAGON", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3f6"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "FRONTAL, PARIETAL, OCCIPITAL, AND TEMPORAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the oldest mountain chain, \r\ngeologically? \r\n \r\nW) Himalayas \r\nX) Rockies \r\nY) Appalachians \r\nZ) Alps", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer List the four lobes of the cerebral cortex.", 
+    "tossupA": "Y) APPALACHIANS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd3ff"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) BED LOAD TENDS TO SETTLE OUT AND BE DEPOSITED ALONG RIVER \r\nBEDS BEFORE RIVERS MEET THE OCEAN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer Saturn\u2019s moon, Enceladus [en-SEL-uh-duhs], has a \r\nsurface reflectivity of about 100% and an average surface temperature of 75 Kelvin. What does \r\nthis indicate about the chemical surface composition?", 
+    "packetNum": 15, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the follow is NOT true about terrigenous  \r\n[te-RIJ-uh-nuhs] ocean sediments? \r\n \r\nW) They are formed through chemical and physical weathering processes on land \r\nX) They are transported by surface water, often rivers, to the ocean \r\nY) Bed load tends to settle out and be deposited along river beds before rivers meet the ocean \r\nZ) Fine clay particles from rivers can remain in suspension for years in the ocean", 
+    "tossupA": "IT IS ICE (ACCEPT: WATER ICE)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd40a"
+    }, 
+    "questionNum": 21
+  }
+]

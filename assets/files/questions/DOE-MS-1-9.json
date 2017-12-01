@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "53; 2001; 35; 202", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Find the product of 23 \u00d7 32:", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Arrange the following 4 choices in INCREASING order:  \r\n2001; 53; 35; 202", 
+    "tossupA": "72", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8e7"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "WATER MOLECULE; VIRUS; MOSQUITO; MOUSE SPLEEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice A blimp or airship that uses helium as its lifting gas \r\nprimarily controls its buoyancy by doing which of the following: \r\n \r\nW) adding or removing small amounts of hydrogen gas because it is lighter than helium \r\nX) heating or cooling the helium gas within the outside bladder of the blimp \r\nY) intaking or venting air  \r\nZ) producing or destroying helium gas", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 4 choices from the one with the \r\nLOWEST mass to the HIGHEST mass: virus; mouse spleen; mosquito; water molecule", 
+    "tossupA": "Y) INTAKING OR VENTING AIR", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8e8"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "DENDRITE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the most common name for the junctions across which \r\nnerve cells carry chemical messages from cell to cell?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the most common name of the part of a neuron that takes \r\nits name from the Greek word for tree, and functions to carry electrical messages from other nerve \r\ncells to the soma?", 
+    "tossupA": "SYNAPSE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8e9"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) BeCL<sub>2</sub> AND BORON DICHLORIDE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A fifty-fifty solution of distilled water and pure ethanol \r\nwill appear: \r\n \r\nW) clear \r\nX) cloudy \r\nY) purple \r\nZ) heterogeneous", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following chemical names is NOT \r\ncorrectly matched with its chemical formula: \r\n \r\nW) H<sub>2</sub>SO<sub>4</sub> and sulfuric acid \r\nX) HCl and hydrochloric acid \r\nY) BeCl<sub>2</sub> and boron dichloride \r\nZ) SO<sub>2</sub> and sulfur dioxide", 
+    "tossupA": "W) CLEAR", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ea"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LATERAL (DO NOT ACCEPT ANY OTHER MORAINE TYPE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is a feature made by a continental \r\nglacier and NOT made by an alpine glacier: \r\n \r\nW) cirque \r\nX) hanging valley \r\nY) truncated spur \r\nZ) drumlin", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What type of moraine forms along the valley walls of an \r\nalpine glacier?", 
+    "tossupA": "Z) DRUMLIN", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8eb"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "50 \r\n \r\n(Solution: \u2013100 + 75 \u2013 125 + 200 = $50.00)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate | \u2013x | (read as: the absolute value of negative x) for \r\nx = \u20135:", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Maxine buys a stock for $100.00 and then sells it for $75.00. She \r\nrepurchases the stock for $125.00, and 3 months later sells it for $200.00. What was her profit, in \r\ndollars?", 
+    "tossupA": "5", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ec"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) 38 KILOMETERS PER HOUR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the physical state of a saturated fat and a \r\npolyunsaturated fat, respectively, at room temperature, if both have 18 carbons per molecule?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is closest to the maximum \r\nrunning speed of a human: \r\n \r\nW) 0.3 meters per second \r\nX) 30 meters per second \r\nY) 18 kilometers per hour \r\nZ) 38 kilometers per hour", 
+    "tossupA": "SATURATED FAT = SOLID; UNSATURATED FAT = LIQUID", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ed"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CENTRIOLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice In which of the following cells would myelin most likely be \r\nfound: \r\n \r\nW) oocyte \r\nX) red blood cell \r\nY) neuron \r\nZ) skin cell", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 choices of eukaryotic sub-cellular \r\nstructures that do NOT have their own specific membrane: chloroplast; lysosome; centriole; golgi", 
+    "tossupA": "Y) NEURON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ee"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "CITRIC ACID; CARBONATED WATER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer How many times as much momentum does a truck have \r\ntraveling at 40 kilometers per hour if it triples its mass?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Name all of the following 4 substances that will turn blue \r\nlitmus paper red: citric acid; carbonated water; ammonia; sodium hydroxide", 
+    "tossupA": "3", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ef"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) WEATHERING AND EROSION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice The hard coral of coral reefs are primarily made of: \r\n \r\nW) basalt \r\nX) calcium carbonate \r\nY) silicates \r\nZ) halite", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice According to the Rock Cycle, once conglomerate \r\nsedimentary rocks are formed, the most direct pathway in the formation of sediments is by which of \r\nthe following: \r\n \r\nW) weathering and erosion \r\nX) compaction and cementation \r\nY) cooling and crystallization \r\nZ) heat and pressure", 
+    "tossupA": "X) CALCIUM CARBONATE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f0"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$400.00", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is NOT true: \r\n \r\nW) a line that intersects 2 other lines at different points is called a transversal \r\nX) if a \u2264 0 (read as: if a is less than or equal to 0), then the absolute value of a equals a \r\nY) the square of an integer is called a perfect square \r\nZ) the real numbers include all rational and irrational numbers", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A college student has a budget of $600.00 per month. If at the end of a \r\ngiven month she spent $350.00 and earned an extra $150.00 in wages, how much is left in the budget \r\nat month\u2019s end?", 
+    "tossupA": "X) IF A \u2264 0 THEN THE ABSOLUTE VALUE OF A EQUALS A", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f1"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) E.COLI", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice What is the most important function of fiber tracheids (read \r\nas: TRAY-key-ids) in woody plants: \r\n \r\nW) energy storage \r\nX) structural support \r\nY) sugary sap movement \r\nZ) absorption of nutrients from the soil", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the smallest object that a typical \r\nstudent compound light microscope is able to allow a person to see: \r\n \r\nW) mRNA \r\nX) ribosomes \r\nY) E.coli \r\nZ) polio virus", 
+    "tossupA": "X) STRUCTURAL SUPPORT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f3"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) LIQUID WATER CHANGES TO SOLID WATER \r\n \r\n(Solution: freezing is exothermic)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer According to Charles\u2019s gas law, the volume of a fixed \r\namount of gas varies directly with what property?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following processes is exothermic: \r\n \r\nW) solid water changes to water vapor \r\nX) solid water changes to liquid water \r\nY) liquid water changes to solid water \r\nZ) liquid water changes to water vapor", 
+    "tossupA": "TEMPERATURE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f4"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TRANSFORM FAULT BOUNDARY (ACCEPT: TRANSFORM MARGIN or \r\nTRANSFORM )", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice An igneous rock in which individual mineral grains or \r\ncrystals are visible to the naked eye most likely was formed by which of the following processes: \r\n \r\nW) rapid cooling \r\nX) slow cooling \r\nY) quenching \r\nZ) metamorphosis", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What type of boundary exists where plates are neither \r\nproduced nor destroyed, an example of which is the San Andreas fault?", 
+    "tossupA": "X) SLOW COOLING", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f5"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "100", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer By words or number, name all of the following 3 statements which are \r\nalways TRUE: \r\n 1) the smaller angle formed by the hands of a clock at 2 o\u2019clock is acute \r\n 2) two non-vertical parallel lines have the same slope \r\n 3) an altitude of an equilateral triangle forms two, 45\u00ba, 45\u00ba, 90\u00ba triangles", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If a staple-gun misfires 5 times for every 200 shots, how many times will \r\nit be expected to misfire in 4,000 shots?", 
+    "tossupA": "1 AND 2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f6"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) LESS THAN 3,500 K", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer If a star has a mass of 10 solar masses, how many times \r\nas much mass does it have as the Sun?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The majority of stars in the universe are thought to \r\nhave surface temperatures of: \r\n \r\nW) about 20,000 K \r\nX) about 10,000 K \r\nY) about 6,000 K \r\nZ) less than 3,500 K", 
+    "tossupA": "10", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f7"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) PHOSPHOLIPIDS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Adipose tissue stores mostly: \r\n \r\nW) lipid \r\nX) protein \r\nY) starch \r\nZ) glycogen", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following biological molecules make up the \r\nmain part of the bilayer and hydrophobic region of the plasma cell membrane: \r\n \r\nW) oligosaccharides (read as: oh-LEE-go-SACK-ah-rides) \r\nX) carbohydrates \r\nY) phospholipids \r\nZ) proteins", 
+    "tossupA": "W) LIPID", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f8"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2NH<sub>3</sub>", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Giving your answer in scientific notation to the second \r\ndecimal place, how many molecules are in 10 moles of H<sub>2</sub>O?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Using proper chemical formulas, finish balancing the \r\nfollowing equation:N<sub>2</sub> + 3H<sub>2</sub> \uf0e0 what?", 
+    "tossupA": "6.02 \u00d7 1024 \r\n \r\n(Solution: (10 mol H<sub>2</sub>O)(6.023 \u00d7 1023 molecules/mole) = 6.023 \u00d7 1024 molecules)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f9"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) CIRRONIMBUS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following forms of winter precipitation is \r\nmost likely to cause downed power lines and broken tree limbs: \r\n \r\nW) freezing rain \r\nX) sleet \r\nY) snow \r\nZ) hail", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT one of the 10 major cloud \r\ntypes: \r\n \r\nW) cirrus \r\nX) cirrocumulus \r\nY) cirrostratus \r\nZ) cirronimbus", 
+    "tossupA": "W) FREEZING RAIN", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8fa"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "26/7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Solve the following inequality for x: 3(x + 1) \u2265 9", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate the following complex fraction, giving your answer as an \r\nimproper fraction in lowest terms:  (2 - 1/7) / (1 - 1/2)", 
+    "tossupA": "x \u2265 2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8fb"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "STARCH; GLYCOGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Keratins are considered structural proteins. This is because \r\nthey are most often arranged in which of the following shapes: \r\n \r\nW) long, thin fibers \r\nX) spherical and smooth \r\nY) short and irregular \r\nZ) small, irregular, and hydrophilic", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 molecules that are storage forms of \r\nglucose: starch; wax; glycogen; maltose", 
+    "tossupA": "W) LONG THIN FIBERS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8fd"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) 3,800", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is indicated by the following \r\nforecast: \u201cA front moves through New England Monday with a few showers. Chillier air moves in \r\nbehind the front gradually changing to lake-effect snows, followed by clear skies on Tuesday\u201d: \r\n \r\nW) cold front \r\nX) warm front \r\nY) stationary front \r\nZ) inverted front", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Which of the following is CLOSEST to the estimate of \r\nhow many million years ago the first bacteria appeared on Earth: \r\n \r\nW) 65 \r\nX) 280 \r\nY) 1,500 \r\nZ) 3,800", 
+    "tossupA": "W) COLD FRONT", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8ff"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What fossil fuel is the greatest fuel source for electricity \r\ngeneration in the world?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer The acidity of a water sample with a pH of 5 is how \r\nmany times as great as that of a sample with a pH of 6?", 
+    "tossupA": "COAL", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8f2"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "15", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the name for the time zone immediately east of \r\nthe Eastern Time Zone?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Ignoring boundary adjustments, most individual time \r\nzones are how many degrees of longitude apart?", 
+    "tossupA": "ATLANTIC TIME ZONE (ACCEPT: ATLANTIC)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8fc"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0.0005 (ACCEPT: 5 \u00d7 10\u20134) \r\n \r\n(Solution: period = 1/f)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name of the particle that carries the \r\nelectromagnetic force?", 
+    "packetNum": 9, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If a wave has a frequency of 2,000 hertz, what is its \r\nperiod, in seconds?", 
+    "tossupA": "PHOTON", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc8fe"
+    }, 
+    "questionNum": 24
+  }
+]

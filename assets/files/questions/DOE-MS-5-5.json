@@ -1,0 +1,428 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "180\u03c0", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following does NOT represent a function? \r\n \r\nW) x = 4 \r\nX) y = 4 \r\nY) y = x<sup>2</sup> \r\nZ) y = 2x \u2013 8", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer You have a right circular cylinder with a radius of 6 inches and a height \r\nof 6 inches. You drop a ball with a radius of 3 inches into the cylinder. How much empty space, \r\nin cubic inches and in terms of \u03c0, remains in the cylinder?", 
+    "tossupA": "W) x = 4", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf58"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) PUMICE AND SCORIA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice If you walked the full extent of each of the \r\nfollowing lines, which would be the shortest in length? \r\n \r\nW) 0\u00b0 Latitude \r\nX) 0\u00b0 Longitude \r\nY) 45\u00b0N Latitude \r\nZ) 45\u00b0E Longitude", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following pairs of rocks are \r\nformed by volcanic froth creating a vesicular texture? \r\n \r\nW) Obsidian (read as: ohb-SI-dee-ahn) and pumice \r\nX) Pumice and scoria \r\nY) Scoria and shale \r\nZ) Feldspar and quartz", 
+    "tossupA": "Y) 45\u00b0N LATITUDE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf59"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "HYDROKINETIC TURBINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following statements is NOT true about modern \r\nevaporative coolers? \r\n \r\nW) They cool the air through the evaporation of water \r\nX) They produce an odor of algae \r\nY) They are well suited for climates where the air is hot and the humidity is low \r\nZ) They provide little thermal comfort in highly humid climates", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What kind of device is powered by moving water but is different \r\nfrom traditional hydropower turbines in that it is placed directly in a river, ocean, or tidal current?", 
+    "tossupA": "X) THEY PRODUCE AN ODOR OF ALGAE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf5a"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) 16", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a naturally occurring \r\npolymer? \r\n \r\nW) Protein \r\nX) Cellulose \r\nY) Sucrose \r\nZ) Deoxyribonucleic (read as: dee-OHK-si-ry-b\u014de-NUH-kleye-ik) acid", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is closest to the theoretical \r\nmechanical advantage of a screw with a mean diameter of 1 centimeter and a lead of 2 \r\nmillimeters? \r\n \r\nW) 2 \r\nX) 5 \r\nY) 8 \r\nZ) 16", 
+    "tossupA": "Y) SUCROSE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf5b"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "ELECTROMAGNETIC INDUCTION (ACCEPT: INDUCTION)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice You want to chill a can of soda. You should place it in \r\na bucket filled with which of the following for it to chill the fastest? \r\n \r\nW) Ice \r\nX) Fresh water and ice \r\nY) Ice with salt \r\nZ) Salty water and ice", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What is the name of the process that causes an \r\nelectrical current in a changing magnetic field?", 
+    "tossupA": "Z) SALTY WATER AND ICE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf5e"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) DIFFERENT TEXTURES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following is the name of the \r\nglacial deposit that is formed as a stream flows underneath a glacier? \r\n \r\nW) Drumlin \r\nX) Kame (read as: CAME) \r\nY) Esker \r\nZ) Erratic", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Which of the following best represents why \r\ntwo igneous rocks may have the same minerals but different names? \r\n \r\nW) Found in different places \r\nX) Different sizes \r\nY) Different colors \r\nZ) Different textures", 
+    "tossupA": "Y) ESKER", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf5f"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "bonusA": "GLASS, RUBBER, AND WAX (ACCEPT: 1, 2, AND 4)", 
+    "category": 6, 
+    "good": true, 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice A pure tone is played softly, and then the volume is \r\nincreased. Which of the following statements best describes what occurs with respect to the \r\nsound waves given off when the volume is increased? \r\n \r\nW) The amplitude increases \r\nX) The frequency increases \r\nY) The amplitude decreases \r\nZ) The frequency decreases", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer By name or number, identify all of the following four \r\nchoices that are amorphous solids: 1) glass, 2) rubber, 3) ice, 4) wax.", 
+    "vendorNum": "DOE-MS", 
+    "tossupA": "W) THE AMPLITUDE INCREASES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf60"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "THYLAKOID", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following factors does NOT affect the rate of \r\nphotosynthesis? \r\n \r\nW) Temperature \r\nX) Amount of free oxygen \r\nY) Amount of carbon dioxide \r\nZ) Light intensity", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer The light-dependent reactions of photosynthesis occur on \r\nwhich membrane-bound compartment inside chloroplasts?", 
+    "tossupA": "X) AMOUNT OF FREE OXYGEN", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf61"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "STOMACH ACID, SODA POP, WATER, BLOOD, SOAP (ACCEPT: 3, 5, 1, 4, 2)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer How many valence electrons do the alkaline earth \r\nmetals possess?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer By name or number, rank the following five \r\nsubstances from lowest to highest on the pH scale: 1) water, 2) soap, 3) stomach acid, 4) blood, \r\n5) soda pop.", 
+    "tossupA": "2", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf64"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) IT WILL BECOME TURGID OR LYSE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the name of the junction between two neurons?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice If a cell is placed in a hypotonic solution, what effect will \r\nosmosis have on the cell? \r\n \r\nW) It will remain the same \r\nX) It will become turgid or lyse \r\nY) It will lose ions \r\nZ) It will shrivel or plasmolyze", 
+    "tossupA": "SYNAPSE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf65"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) 106", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice A student waters a plant with salt water and \r\nmeasures growth over the course of two weeks. She creates a graph of her data. Which \r\nvariables should she put on the x and y axes? \r\n \r\nW) Time on the x axis and amount of salt on the y axis \r\nX) Amount of salt on the x axis and plant size on the y axis \r\nY) Plant size on the x axis and time on the y axis \r\nZ) Time on the x axis and plant size on the y axis", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice If a Celsius thermometer shows a temperature \r\nreading of 41\r\no\r\n, which of the following is the closest temperature in degrees Fahrenheit? \r\n \r\nW) 97 \r\nX) 102 \r\nY) 106 \r\nZ) 111", 
+    "tossupA": "Z) TIME ON THE X AXIS AND PLANT SIZE ON THE Y AXIS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf66"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "THEY WILL MOVE TOWARDS EACH OTHER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following mixtures is made of liquids \r\nthat are miscible? \r\n \r\nW) Salad dressing \r\nX) Pizza \r\nY) Gasoline \r\nZ) Water", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If you suspend two empty aluminum soda cans next \r\nto each other and blow quickly between them, how will the cans move with respect to each \r\nother?", 
+    "tossupA": "Y) GASOLINE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf67"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) FELSIC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Where is the water along a stream's \r\nmeander expected to move most quickly? \r\n \r\nW) Along the bottom waters \r\nX) Along the surface waters \r\nY) Along the outside bank \r\nZ) Along the inside bank", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Multiple Choice Igneous rocks that contain the last \r\nminerals to crystallize from magma, and consist mainly of sodium and potassium feldspars and \r\nquartz are said to have which of the following compositions? \r\n \r\nW) Lithic \r\nX) Mafic \r\nY) Felsic \r\nZ) Gneissic (read as: NYS-ik)", 
+    "tossupA": "Y) ALONG THE OUTSIDE BANK", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf68"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) STRONTIUM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Four identical 4 ohm resistors are connected in series. \r\nWhat is the total resistance in ohms?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice In 1986, the Chernobyl nuclear power plant \r\nreleased several radioactive isotopes into the environment. Which of the following radioactive \r\nisotopes is most likely to have replaced the calcium in the bones of people who lived near \r\nChernobyl? \r\n \r\nW) Strontium \r\nX) Iodine \r\nY) Cesium \r\nZ) Plutonium", 
+    "tossupA": "16", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf69"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) THEY GENERATE BIOAEROSOLS WHICH ADD ADDITIONAL NUTRIENTS \r\nINTO NEARBY SOILS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer What is the term for the solid, organic by-products of wastewater \r\ntreatment?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following is NOT a benefit of using biosolids in \r\ncompost? \r\n \r\nW) They retain moisture \r\nX) They have nutrient-rich composition \r\nY) They promote microbial diversity \r\nZ) They generate bioaerosols which add additional nutrients into nearby soils", 
+    "tossupA": "BIOSOLIDS (ACCEPT: TREATED SLUDGE)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf6a"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "METHANE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Multiple Choice Soils that have an abundance of which of \r\nthe following generally have the greatest rate of permeability? \r\n \r\nW) Sand \r\nX) Silt \r\nY) Clay \r\nZ) Humus", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Titan, one of Saturn\u2019s moons, has an \r\naverage temperature far below the triple point of water. Instead, it has solid, liquid, and vapor \r\nphases of what compound?", 
+    "tossupA": "W) SAND", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf6c"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "IODINE-131 AND CESIUM-137 (ACCEPT: IODINE-132, CESIUM-134, \r\nTELLURIUM-132)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following animals requires the most energy to \r\nsurvive? \r\n \r\nW) Marmot \r\nX) Lizard \r\nY) Salmon \r\nZ) Frog", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Name two radioactive isotopes released from the Fukushima \r\nDaiici nuclear power plant, crippled by the March 11, 2011 earthquake and tsunami.", 
+    "tossupA": "W) MARMOT", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf6f"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CELLULOSE (ACCEPT: 3)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What structural component of the cell cytoskeleton is shaped \r\nlike a hollow tube?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer By name or number, identify all of the following four choices \r\nthat are NOT considered lipids: 1) cholesterol, 2) steroids, 3) cellulose, 4) sex hormones.", 
+    "tossupA": "MICROTUBULE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf5c"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following lines has the steepest slope? \r\n \r\nW) y = 2x \u2013 4 \r\nX) -x + y = 4 \r\nY) 2y = 3x + 8 \r\nZ) 4y = 5x + 12", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the surface area, in square feet, of a box that measures half of \r\na foot by half of a foot by a quarter of a foot?", 
+    "tossupA": "W) y = 2x \u2013 4", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf5d"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) SARGASSO SEA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer In what direction does an observer have to look in \r\norder to see Venus at sunset?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following serves as the reproductive \r\nlocation for the American eel? \r\n \r\nW) Baltic Sea \r\nX) Sargasso Sea \r\nY) Pacific Ocean \r\nZ) Hudson Bay", 
+    "tossupA": "WEST", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf62"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "41", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer The point (-3, -2) is reflected through the line y = -x. What are the \r\ncoordinates of its image?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Providing your answer in simplest radical form, what is the distance, \r\nin units, between the points (2, 3) and (-2, 8)?", 
+    "tossupA": "(2, 3)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf63"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "x IS LESS THAN -\u00bd OR x IS GREATER THAN 0", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following angles in degrees cannot be constructed \r\nusing only compass and straightedge? \r\n \r\nW) 15 \r\nX) 20 \r\nY) 30 \r\nZ) 45", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Consider the line y = 2x + 1. For what values of x will x and y have \r\nthe same sign?", 
+    "tossupA": "X) 20", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf6b"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2.5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the SI unit of inductance?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If a car goes from 0 to 20 meters per second in 8 \r\nseconds, providing your answer as a decimal to the nearest tenth, what is its average \r\nacceleration in meters per second squared?", 
+    "tossupA": "HENRY", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf6d"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TRELLIS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE SCIENCE Short Answer What occurs when air is rapidly \r\nsuperheated by lightning and expands, cools, and then contracts?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE SCIENCE Short Answer Due to the presence of folds in the \r\nAppalachian Mountains, what type of drainage would you expect to find there?", 
+    "tossupA": "THUNDER", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf6e"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) MOVING MOLECULES AGAINST A CONCENTRATION GRADIENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following best describes a karyotype (read \r\nas: KAH-ree-oh-typ)? \r\n \r\nW) A region of the chromosome where the two sister chromatids are held together \r\nX) An organized visual profile of the chromosomes \r\nY) Chromosomes that occur singly \r\nZ) Chromosomes found in mitochondria (read as: my-toh-KOHN-dree-ah) and chloroplasts", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice For which of the following situations would active transport \r\nbe required? \r\n \r\nW) Movement of ethanol across a cell membrane \r\nX) Releasing oxygen produced by photosynthesis \r\nY) Releasing carbon dioxide produced by respiration \r\nZ) Moving molecules against a concentration gradient", 
+    "tossupA": "X) AN ORGANIZED VISUAL PROFILE OF THE CHROMOSOMES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccf70"
+    }, 
+    "questionNum": 27
+  }
+]

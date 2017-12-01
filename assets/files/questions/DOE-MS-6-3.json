@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "Y) CLIMAX COMMUNITIES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer During which phase of mitosis [my-TOH-sis] do \r\nchromosomes line up along the center of the cell nucleus?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Old growth forests and ancient cypress swamps would be \r\nexamples of which of the following? \r\n \r\nW) Primary successive species \r\nX) Secondary successive species \r\nY) Climax communities \r\nZ) Commensalism", 
+    "tossupA": "METAPHASE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce5e"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) SOLUTES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following kinds of solutions is a mixture \r\nin which the solvent has dissolved all the solute it can at a given temperature? \r\n \r\nW) Saturated \r\nX) Unsaturated \r\nY) Supersaturated \r\nZ) Concentrated", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice When calculating the equilibrium constant for a \r\nreaction, the concentration of which of the following is generally included? \r\n \r\nW) Pure liquids \r\nX) Pure solids \r\nY) Solvents \r\nZ) Solutes", 
+    "tossupA": "W) SATURATED", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce5f"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "ELASTIC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a pyrimidine [py-RIM-i-\r\ndeen]? \r\n \r\nW) Guanine [GWAH-neen] \r\nX) Thymine \r\nY) Adenine [AD-n-een] \r\nZ) Xanthine [ZAN-theen]", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer To a very good approximation, a golf club hitting a ball \r\nis an example of what kind of collision?", 
+    "tossupA": "X) THYMINE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce60"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) BOTTOM DOMINATED BY COURSE SANDS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What mountain chain composes the majority of the \r\nWestern Continental Divide in North America?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is NOT a characteristic of \r\nestuaries? \r\n \r\nW) Bottom dominated by course sands \r\nX) Physical connection to the ocean \r\nY) Physical connection with a freshwater source \r\nZ) Lower average water salinity than ocean water", 
+    "tossupA": "THE ROCKY MOUNTAINS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce61"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "30 AND 10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Nick\u2019s car costs $450 per month for car payment and insurance, and \r\n25 cents per mile driven. What is the total monthly cost in dollars in terms of m, the miles \r\ndriven?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A rectangular field has an area of 300 square meters and a perimeter \r\nof 80 meters. What are the dimensions of the field in meters?", 
+    "tossupA": "0.25m + 450 (ACCEPT: m/4 + 450)", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce62"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) NORTHWEST", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer Environmentalists are most concerned about the environmental \r\nimpact of hydroelectric plants on what group of organisms?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following areas of the United States accounts for \r\napproximately half of the total hydroelectric power generation in the United States? \r\n \r\nW) Northeast \r\nX) Northwest \r\nY) Southeast \r\nZ) Southwest", 
+    "tossupA": "FISH", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce63"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1, 2 AND 3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the name for the individual repeating units of \r\npolymers?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Identify by number all of the following that are related to \r\nthe origin of the name of the Large Hadron Collider (LHC) located at CERN: 1) composite \r\nparticles made from quarks, 2) particle beams of protons that the LHC was built to collide, 3) \r\nlead nuclei that the LHC was built to collide, 4) a famous physicist.", 
+    "tossupA": "MONOMERS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce65"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "1, 2, 3 (ACCEPT: SEEDS, FOOTPRINTS, TEETH)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the term for the tendency for an object to resist \r\nchange in its motion?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Identify all of the following four choices which are \r\npossible examples of fossils: 1) seeds, 2) footprints, 3) teeth, 4) cave drawings.", 
+    "tossupA": "INERTIA", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce66"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "OXBOW LAKE (ACCEPT: OXBOW, HORSESHOE LAKE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What adjective describes an air parcel when it reaches \r\na relative humidity of 100%?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer In fluvial systems, what is the name of the crescent-\r\nshaped lake that is formed when a meander of a river is cut off from the main channel?", 
+    "tossupA": "SATURATED", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce67"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "p \u2264 -7 OR p \u2265 3 (MUST GIVE BOTH ANSWERS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If |200\u2212x|=10 [the absolute value of the quantity 200 minus x \r\nequals 10], what are the possible values for x?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Solve the inequality -5 + |p +2| \u2265 0 [negative 5 plus the absolute \r\nvalue of the quantity p plus 2 is greater than or equal to 0].", 
+    "tossupA": "190 AND 210", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce68"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) IT WILL INCREASE THE RELIABILITY AND ACCESSIBILITY OF ELECTRICITY \r\nFOR CRITICAL NEEDS IN THE ELECTRICAL GRID", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following is NOT an example of a biomass energy \r\nsource? \r\n \r\nW) Coal \r\nX) Wood \r\nY) Grain \r\nZ) Sugar", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice In the summer, why is it best to do high energy consumption \r\ntasks, such as laundry and dishwashing, after 8 pm? \r\n \r\nW) It will increase the reliability and accessibility of electricity for critical needs in the electrical \r\ngrid \r\nX) It takes more energy to run a dishwasher during the day \r\nY) More energy is produced at night \r\nZ) Hot water heaters are programmed to operate at maximum efficiency after 8 pm", 
+    "tossupA": "W) COAL", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce69"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) SIBERIAN TIGER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Of the following habitats, which is the most likely to have \r\nthe highest amount of biodiversity? \r\n \r\nW) Desert \r\nX) Tropical rainforest \r\nY) Deciduous forest [di-SIJ-oo-uhs] \r\nZ) Prairie", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following cats is the largest? \r\n \r\nW) African lion \r\nX) Snow leopard \r\nY) Siberian tiger \r\nZ) King cheetah", 
+    "tossupA": "X) TROPICAL RAINFOREST", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce6a"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3x + 2y = 2 (DO NOT ACCEPT: -(3/2)x + 1)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer An isosceles triangle has a perimeter of 62 inches. If the base of the \r\ntriangle is 18 inches, what is the length of each of the congruent legs?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the standard form of the equation of the line that passes \r\nthrough (-2, 4) and is parallel to y = (-3/2)x + 3?", 
+    "tossupA": "22", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce6b"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) LAMPREY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the least likely to be a \r\ncharacteristic of an invasive species? \r\n \r\nW) It will outcompete native species \r\nX) It will only survive under a narrow range of environmental conditions \r\nY) It will have a longer reproductive cycle than native species \r\nZ) It will do economic and/or environmental harm in a new environment", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is an example of a jawless fish? \r\n \r\nW) Sea horse \r\nX) Lamprey \r\nY) Shark \r\nZ) Lungfish", 
+    "tossupA": "X) IT WILL ONLY SURVIVE UNDER A NARROW RANGE OF ENVIRONMENTAL \r\nCONDITIONS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce6c"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "TERMINAL VELOCITY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Einstein concluded that E = mc2, where m is mass \r\nand c is speed of light. According to this formula, which of the following statements is true? \r\n \r\nW) All objects have energy only if they are moving at the speed of light \r\nX) An object at rest cannot possess an amount of energy due to its mass \r\nY) All objects have energy of being, or rest mass energy \r\nZ) Small relativistic objects all propagate at the speed of light", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer When the force on a falling object is equal to the force \r\nof air friction on that object, it will fall at a constant rate. What is this rate called?", 
+    "tossupA": "Y) ALL OBJECTS HAVE ENERGY OF BEING, OR REST MASS ENERGY", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce6d"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) SURFACE AREA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the name of the warm water event originally \r\nrecognized by anchovy fishermen off the coast of Peru that sometimes occurs near Christmas?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice By crushing a tablet of medicine before you take it, \r\nyou are changing the reaction rate by changing which of the following characteristics of the \r\ntablet? \r\n \r\nW) Surface area \r\nX) Amount of reactants \r\nY) Activation energy \r\nZ) Km of the reaction", 
+    "tossupA": "EL NI\u00d1O", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce6e"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "FREEZING AND THAWING (ACCEPT: FROST ACTION; FROST WEDGING; ICE \r\nWEDGING)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice The spring 2011 earthquake in Japan occurred \r\nbecause Japan is located on which of the following? \r\n \r\nW) A spreading center \r\nX) A rift zone \r\nY) A subduction zone \r\nZ) A mantle plume", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer It is common for roads in mid latitudes to develop \r\nsevere potholes after the spring thaw. What form of mechanical weathering is responsible?", 
+    "tossupA": "Y) A SUBDUCTION ZONE", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce6f"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) IT REDUCES THE AMOUNT OF FOSSIL FUELS THAT MUST BE USED", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following did NOT come from a once-living \r\norganism? \r\n \r\nW) Gasohol \r\nX) Crude oil \r\nY) Uranium \r\nZ) Charcoal", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following statements best describes a benefit of \r\nusing alternative energy resources? \r\n \r\nW) It reduces the amount of fossil fuels that must be used \r\nX) It repairs the ozone layer \r\nY) It reduces the amount of renewable resources used \r\nZ) It reduces the costs of producing energy", 
+    "tossupA": "Y) URANIUM", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce71"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CROP", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT a source of food for polar \r\nbears in the wild? \r\n \r\nW) Emperor penguins \r\nX) Beluga whales \r\nY) Walruses \r\nZ) Ringed seals", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the name of the organ found in birds and some \r\ninvertebrates which is used to temporarily store food but also aids in preliminary digestion?", 
+    "tossupA": "W) EMPEROR PENGUINS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce72"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) 10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the term for the part of the eye that contains \r\nvarious colored pigments?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice A material with which of the following specific heats \r\nin joules per kilogram Kelvin will require the least heat to change its temperature? \r\n \r\nW) 10 \r\nX) 50 \r\nY) 100 \r\nZ) 1000", 
+    "tossupA": "IRIS", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce74"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "KARST", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following is the name for the hills made \r\nfrom glacial drift and deposited by meltwater from retreating glaciers? \r\n \r\nW) Kettle \r\nX) Drumlin \r\nY) Kame \r\nZ) Esker", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Disappearing streams, dolines, sink holes, and caves \r\nare distinctive features in northern Florida, central Tennessee, and south-central Kentucky and, \r\nare indicative of what kind of topography?", 
+    "tossupA": "Y) KAME", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce75"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "W) QUARTIC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is twenty and 55 hundredths expressed as a decimal, a mixed \r\nnumber in simplest form, and a percent?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice For positive values of x, the function f(x) = (x<sup>6</sup> \u2212 x<sup>3</sup>)/x<sup>2</sup> [the fraction with \r\nnumerator x to the sixth minus x cubed and denominator x squared] is which of the \r\nfollowing types?    \r\n  \r\nW) Quartic \r\nX) Cubic \r\nY) Hyperbolic \r\nZ) Parabolic", 
+    "tossupA": "20.55, 20 11/20, 2055%", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce76"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Z) 8 AND 9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate 12y/5x [the fraction with numerator 12 y and denominator 5 \r\nx] when y = 2 and x = 0.", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Between which of the following two whole numbers does [the \r\ncube root of 515] fall? \r\n \r\nW) 5 and 6 \r\nX) 6 and 7 \r\nY) 7 and 8 \r\nZ) 8 and 9", 
+    "tossupA": "UNDEFINED", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce70"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) 13", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer A substance with a pH of 2 has what pOH?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Should oxygen-17 undergo alpha decay, the \r\nresulting atom would have which of the following masses in amu? \r\n \r\nW) 11 \r\nX) 13 \r\nY) 15 \r\nZ) 17", 
+    "tossupA": "12", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce73"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) MONITOR MOTH POPULATIONS IN SEPARATE FIELDS PLANTED WITH \r\nCONTROL AND EXPERIMENTAL WHEAT CROPS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Organisms of the same class would also share which of the \r\nfollowing? \r\n \r\nW) Genus \r\nX) Family \r\nY) Phylum [FY-luhm] \r\nZ) Order", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Scientists are using genetic engineering to develop a wheat \r\ncrop that is resistant to a particular kind of moth. How would they determine if the plants are \r\nmoth resistant? \r\n \r\nW) Determine the length of the moth reproductive cycle in normal wheat \r\nX) Monitor moth populations in separate fields planted with control and experimental wheat \r\ncrops \r\nY) Monitor numbers of moth species infesting normal wheat \r\nZ) Determine whether moths in test wheat can be controlled with chemical sprays", 
+    "tossupA": "Y) PHYLUM", 
+    "setNum": 6, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecce64"
+    }, 
+    "questionNum": 7
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 5, 
+    "bonusA": "Y) BIOPLASTICS PRODUCE A VARIETY OF POLLUTANTS WHEN BURNED", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Bioplastics are plastics derived from plant sources, rather than \r\npetroleum. Which of the following is NOT a way in which bioplastics can be made? \r\n \r\nW) Intracellular production by the fermentation of a feedstock \r\nX) Engineering a crop to grow the plastic within the plant itself \r\nY) Fermentation of a cereal to make precursors, which would then be processed into bioplastics \r\nZ) Fermentation of the waste water from the conventional manufacture of corn syrup", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  Which of the following is NOT an accurate representation of a \r\nlimitation on the production and use of bioplastics?   \r\n \r\nW) Using crops to produce plastic diverts plants from the food supply \r\nX) Bioplastics are unlikely to disintegrate in a landfill \r\nY) Bioplastics produce a variety of pollutants when burned \r\nZ) Individuals at home would find it difficult to compost bioplastics", 
+    "tossupA": "Z) FERMENTATION OF THE WASTE WATER FROM THE CONVENTIONAL \r\nMANUFACTURE OF CORN SYRUP", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd78"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "38", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple choice  Psoriasis, a chronic skin disorder caused by the immune system, \r\naffects 1% to 2% of Caucasians. If there are 16,098,000 Caucasians in New York State, about \r\nhow many would be expected to have psoriasis? \r\n \r\nW) Between 16,000 and 32,000 \r\nX) Between 160,000 and 325,000 \r\nY) Between 1,600,000 and 3,220,000 \r\nZ) 241,470", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is 224% of 17? Provide your answer as a decimal to the nearest \r\ninteger.", 
+    "tossupA": "X) BETWEEN 160,000 AND 325,000", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd7a"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SOLAR FLARES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  In the last 4 billion years, the average brightness of \r\nthe Sun has: \r\n \r\nW) Increased \r\nX) Decreased \r\nY) Stayed the same \r\nZ) Increased, then decreased", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What are explosive events associated with sunspots \r\nthat cause spectacular auroras in Earth\u2019s upper atmosphere near its magnetic poles?", 
+    "tossupA": "W) INCREASED", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd7c"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "10,800", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  The Lorentz force acting on a particle moving in electric and \r\nmagnetic fields depends on what two characteristics of the particle?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  The interior light in a car is left on for three hours. The light draws 1 \r\nampere from the battery. How many coulombs flowed through the light?", 
+    "tossupA": "CHARGE AND VELOCITY (DO NOT ACCEPT: SPEED)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd7d"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "YELLOWCAKE (ACCEPT: U\r\n3\r\nO\r\n8\r\n, TRIURANIUM OCTOXIDE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Where is most of the uranium used in the United States mined? \r\n \r\nW) United States \r\nX) Middle East \r\nY) Africa \r\nZ) South America", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  Uranium is usually found in trace concentrations, so it generally has \r\nto be extracted from uranium ore. Name the term for concentrated uranium oxide, which can \r\nvary in color from yellow, orange, and dark green to brown and black, produced from uranium \r\nore in the uranium recovery process.", 
+    "tossupA": "W) UNITED STATES", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd7e"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) THE 2F(X) INFLECTION POINTS ARE TWICE AS HIGH BUT THE SAME \r\nDISTANCE APART", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  For which values of g is the following inequality true: 6g + 4 > 9g - 11?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice  If f(x) (read as: f of x) represents the function whose graph is the \r\nstandard normal distribution curve, then how do the inflection points on the curve for 2f(x)? \r\n \r\nW) Both curves have the same inflection points \r\nX) The 2f(x) inflection points are twice as far apart but the same height \r\nY) The 2f(x) inflection points are twice as high but the same distance apart \r\nZ) The 2f(x) inflection points are both twice as far apart and twice as high", 
+    "tossupA": "g  <  5", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd7f"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X-RAYS AND GAMMA RAYS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Which of the following forms of energy does NOT require bulk \r\nmotion of physical matter through space? \r\n \r\nW) Radiant  \r\nX) Nuclear \r\nY) Electrical \r\nZ) Hydropower", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  Ionizing radiation, which can penetrate cells and create ions in cell \r\ncontents, is generated by which two kinds of electromagnetic radiation?", 
+    "tossupA": "W) RADIANT", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd80"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) VISUAL COMMUNICATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Spiders can build webs without a parent showing them how, \r\nand baby birds can beg for food from the moment they are hatched. These are examples of: \r\n \r\nW) Imprinting \r\nX) Stimulus and response  \r\nY) Instinct  \r\nZ) External motivations", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Honeybees leave the hive to find food. Upon finding food, \r\nhoneybees return to the hive and dance to tell others how to find the food. This behavior is an \r\nexample of: \r\n \r\nW) Classical conditioning \r\nX) Migration \r\nY) Insight learning \r\nZ) Visual communication", 
+    "tossupA": "Y) INSTINCT", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd82"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "TWO COMPLEX ROOTS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Solve the following equation for x: log<sub>2</sub>x = 5.", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Consider the polynomial 5x<sup>2</sup> + 13x + 10. How many and what kind of \r\nroots does it have?", 
+    "tossupA": "32", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd83"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "RESPIRATION AND PHOTOSYNTHESIS (IN THIS ORDER)   ALSO ACCEPT: \r\nSOURCE IS RESPIRATION AND SINK IS PHOTOSYNTHESIS (IN ANY ORDER)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT a greenhouse gas? \r\n \r\nW) Helium  \r\nX) Methane \r\nY) Carbon dioxide \r\nZ) Water vapor", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  There are many sources and sinks on Earth for carbon \r\ndioxide. Give the most biologically significant source and sink, respectively.", 
+    "tossupA": "W) HELIUM", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd84"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "X) SPECIFIC GRAVITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is standard temperature, in Kelvin, as defined in ideal \r\ngas equations?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  To calculate the pressure within a known volume of gas, \r\nwhich of the following pieces of information is NOT needed? \r\n \r\nW) Temperature \r\nX) Specific gravity \r\nY) Moles of gas \r\nZ) Gas constant", 
+    "tossupA": "273 KELVIN", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd86"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "STRING THEORY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Lynne is standing still on a sidewalk. What is the name of the \r\nconcept which describes why the siren of an approaching fire truck has a higher frequency than \r\nthat of a fire truck that is stopped?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Which theory attempts to unify physics by producing all known \r\nforces and particles as different vibrations of a single substance?", 
+    "tossupA": "DOPPLER SHIFT (ACCEPT: DOPPLER EFFECT)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd87"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) INTERNEURONS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  When you touch a hot object and quickly draw your hand away, \r\nthis is known as: \r\n \r\nW) The withdrawal impulse \r\nX) The withdrawal reflex \r\nY) A reflexive habit \r\nZ) Learned withdrawal", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  A withdrawal reflex is initiated by skin receptors that detect \r\nexternal stimuli. The sensory neurons then pass the message on to the spinal cord, where the \r\nsensory nerve terminals synapse with which of the following?   \r\n \r\nW) Synaptic neurons \r\nX) Intersynapses  \r\nY) Sensory synapse  \r\nZ) Interneurons", 
+    "tossupA": "X) THE WITHDRAWAL REFLEX", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd89"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Z) BODY-CENTERED CUBIC", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What best describes a solid whose atoms are arranged in a \r\nregular pattern?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  The unit cell in a crystal system may have one of several \r\nforms. Which of the following describes a cubic unit cell with one identical particle in the center \r\nof the cell? \r\n \r\nW) Simple cubic \r\nX) Orthohombic \r\nY) Triclinic \r\nZ) Body-centered cubic", 
+    "tossupA": "CRYSTAL", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd8a"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ENERGY IS RELEASED", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Adenosine triphosphate (ATP) and glucose are both examples \r\nof substances containing what kind of energy? \r\n \r\nW) Heat  \r\nX) Kinetic  \r\nY) Chemical  \r\nZ) Mechanical", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What happens when the third phosphate group is removed from \r\nATP by hydrolysis, forming ADP and phosphate?", 
+    "tossupA": "Y) CHEMICAL", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd8b"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) THE FUELS NEEDED FOR FUSION REACTIONS ARE EXPENSIVE AND \r\nDIFFICULT TO FIND", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  What is the process by which nuclear fission produces energy? \r\n \r\nW) Combining lighter nuclei into heavier nuclei \r\nX) Increasing the number of protons a nucleus contains \r\nY) Changing an electron's spin state following excitation \r\nZ) Splitting heavier nuclei into lighter nuclei", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following is NOT a challenge in using nuclear \r\nfusion as a controlled generator of power? \r\n \r\nW) The fuels needed for fusion reactions are expensive and difficult to find  \r\nX) Containing the reaction once it has started is difficult \r\nY) Materials used to contain fusion reactions are affected by the high radiation levels \r\nZ) Extremely high temperatures are needed to start the reaction", 
+    "tossupA": "Z) SPLITTING HEAVIER NUCLEI INTO LIGHTER NUCLEI", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd8c"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "INNER CORE, OUTER CORE, MANTLE, CRUST", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  The core of the Earth is primarily made of iron and \r\nwhich additional element? \r\n \r\nW) Mercury \r\nX) Nickel \r\nY) Zinc \r\nZ) Barium", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  Put the following terms in order from the center of the \r\nEarth to the surface: mantle, crust, outer core, inner core.", 
+    "tossupA": "X) NICKEL", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd8d"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) 352", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is 3/4 + (-5/6) as a fraction in simplest form?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Multiple Choice  Which of the following numbers is relatively prime with 15?   \r\n \r\nW) 348 \r\nX) 350 \r\nY) 352 \r\nZ) 354", 
+    "tossupA": "-1/12", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd8e"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "+1.10 (DO NOT ACCEPT: -1.10)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  A pH of of 2 has what pOH?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer   If the electromotive force of the anode in a galvanic cell is       \r\n-0.76 volts and the electromotive force of the cathode is 0.34 volts, calculate the electromotive \r\nforce of the cell in volts. Provide your answer as a decimal to the nearest hundredth.", 
+    "tossupA": "12", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd90"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2C\r\n8\r\nH\r\n18\r\n + 25O\r\n2\r\n            18H\r\n2\r\nO + 16CO\r\n2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  Name the following compound: N\r\n2\r\nO\r\n4.", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the equation for the combustion of octane?", 
+    "tossupA": "DINITROGEN TETROXIDE   (ALSO ACCEPT: NITROGEN TETROXIDE, \r\nNITROGEN PEROXIDE)", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd79"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "5", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  When we measure the distance traveled by an object moving \r\nfrom one point to another, which of the following is always true? \r\n \r\nW) Magnitude of displacement is greater than or equal to distance  \r\nX) Magnitude of displacement equals distance  \r\nY) Magnitude of displacement is greater than distance  \r\nZ) Magnitude of displacement is less than or equal to distance", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Jos\u00e9 and Rosie were spelunking in the caves in the Black Hills of \r\nSouth Dakota. They crawled through a multitude of passages, traveling a net 3 kilometers \r\nwestward, 4 kilometers south, and 50 meters up. What was magnitude of their overall \r\ndisplacement to the nearest kilometer?", 
+    "tossupA": "Z) MAGNITUDE OF DISPLACEMENT LESS THAN OR EQUAL TO DISTANCE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd7b"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TROPOSPHERE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of these atmospheric layers is furthest from \r\nthe Earth\u2019s surface? \r\n \r\nW) Stratosphere \r\nX) Mesosphere \r\nY) Thermosphere \r\nZ) Troposphere", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What is the name of the atmospheric layer that is the \r\nclosest to the ground?", 
+    "tossupA": "Y) THERMOSPHERE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd81"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(2, -1)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  If 14 is a factor of the whole number x, which of the following also \r\nmust be a factor of x? \r\n \r\nW) 4 \r\nX) 7 \r\nY) 10 \r\nZ) 28", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the point of intersection of these two lines: \r\ny = -2x + 3 and y = 3x - 7?", 
+    "tossupA": "X) 7", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd85"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) PRESSURE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  A map composed of constant elevation lines is known \r\nas what kind of map?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  What quality is represented by isobars when looking \r\nat a weather map?   \r\n \r\nW) Pressure \r\nX) Temperature \r\nY) Cloud height \r\nZ) Water vapor content", 
+    "tossupA": "TOPOGRAPHIC", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd88"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "FERTILIZATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the name for a segment of DNA that carries instructions \r\nfor synthesizing proteins?", 
+    "packetNum": 5, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What process is best described as the fusion of gametes to \r\nproduce a new organism?", 
+    "tossupA": "GENE", 
+    "setNum": 4, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd8f"
+    }, 
+    "questionNum": 24
+  }
+]

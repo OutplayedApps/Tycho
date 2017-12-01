@@ -1,0 +1,393 @@
+[
+  {
+    "category": 6, 
+    "bonusA": "W) RIBOSOMES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer In an RNA molecule, a codon is AUG. What is the 5\u2019 to 3\u2019 \r\n[5-prime to 3-prime] sequence of the anticodon for the tRNA?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following could be viewed with an electron \r\nmicroscope but not with a light microscope? \r\n \r\nW) Ribosomes [RY-buh-sohms] \r\nX) Plant cells \r\nY) Animal cells \r\nZ) Mitochondria [my-tuh-KON-dree-uh]", 
+    "tossupA": "CAU", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd497"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) WATER FLOWS FASTEST THROUGH THE NARROWEST PIECE OF A LONG \r\nPIPE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A chisel would represent what type of simple machine? \r\n \r\nW) Pulley \r\nX) Wedge \r\nY) Lever \r\nZ) Screw", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following best demonstrates the mass \r\ncontinuity of fluid flow? \r\n \r\nW) Water flows fastest through the narrowest piece of a long pipe \r\nX) Water flows slower after having moved further from Earth\u2019s center \r\nY) Pressure is lower in water moving at high speed \r\nZ) A small force can be used on a small tube to lift a large object sitting on a large tube", 
+    "tossupA": "X) WEDGE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd499"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) LANOLIN, GOAT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following characteristics will a lake that has \r\nundergone eutrophication exhibit [yoo-tro-fi-KAY-shun]? \r\n \r\nW) The lake will be clear and cold \r\nX) The lake will be high in nutrients \r\nY) The lake will support large numbers of fish \r\nZ) The lake will have low primary productivity", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following animal products has NOT been \r\ncorrectly paired with the animal that produces it? \r\n \r\nW) Ambergris, sperm whale [AM-ber-grees] \r\nX) Lanolin, goat \r\nY) Carticin, sharks \r\nZ) Leaf lard, pig", 
+    "tossupA": "X) THE LAKE WILL BE HIGH IN NUTRIENTS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd49a"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "NITROGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice What type of galaxy usually occupies the central \r\nregions of a galaxy cluster? \r\n \r\nW) Peculiar \r\nX) Elliptical \r\nY) Lenticular \r\nZ) Spiral", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Which atmospheric element is converted into a \r\nbioavailable form through the Haber-Bosch process [HA-buhr BOSH]?", 
+    "tossupA": "X) ELLIPTICAL", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd49b"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "4, 2, 1, 3 (ACCEPT: EONS, ERAS, PERIODS, EPOCHS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following distinguishes different isotopes \r\nof an element? \r\n \r\nW) Chemical reactivity \r\nX) Number of electrons \r\nY) Number of protons \r\nZ) Their mass", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer List the following four geologic time scale divisions in \r\norder from largest to smallest: 1) periods, 2) eras, 3) epochs, 4) eons.", 
+    "tossupA": "Z) THEIR MASS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd49c"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "125 (ACCEPT: 125%)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following theorems does NOT allow one to conclude \r\ndirectly that two triangles are congruent? \r\n \r\nW) Side-side-angle \r\nX) Side-angle-side \r\nY) Hypotenuse-leg [hy-POT-n-oos] \r\nZ) Side-side-side", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The diameter of a circle is increased by 50%. By what percentage is the \r\narea of the circle increased?", 
+    "tossupA": "W) SIDE-SIDE-ANGLE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd49d"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) INCREASED OUTPUT AT OIL FIELDS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice What fuel is used in a nuclear reactor? \r\n \r\nW) Polonium-275 \r\nX) Radium-226 \r\nY) Uranium -235 \r\nZ) Curium-258 [KYOOR-ee-uhm]", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice The U.S. Department of Energy is currently developing methods \r\naimed at carbon capture, utilization, and storage (CCUS). How can the CO2 captured in this way \r\nalso be used to increase energy output in the U.S.? \r\n \r\nW) Increased output at oil fields \r\nX) Increased output at geothermal sources \r\nY) Increased output at hydroelectric dams \r\nZ) Increased output at wind farms", 
+    "tossupA": "Y) URANIUM -235", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd49e"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) OKAZAKI FRAGMENTS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following statements does NOT support the \r\ncell theory? \r\n \r\nW) All organisms are composed of cells \r\nX) Cells are alive \r\nY) Cells arise de novo (from nothing) \r\nZ) Cells are the fundamental units of living organisms", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following are the result of the 5\u2019 to 3\u2019 [5-prime \r\nto 3-prime] directionality of DNA polymerase [POL-uh-muh-rays]? \r\n \r\nW) Semi conservative DNA replication \r\nX) Okazaki fragments [AW-kah-ZAH-kee] \r\nY) Thymine dimers [THY-meen] \r\nZ) Degradation of the 3\u2019 to 5\u2019 strand of parental DNA", 
+    "tossupA": "Y) CELLS ARISE DE NOVO (FROM NOTHING)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a0"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) A TORNADO", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer To the nearest Kelvin, what is the temperature of the \r\nCosmic Microwave Background?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following would be affected the least by \r\nthe Coriolis effect? \r\n \r\nW) Direction for a wind blowing from the north \r\nX) A hurricane \r\nY) A tornado  \r\nZ) A high pressure system", 
+    "tossupA": "3", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a1"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) CENTRIOLES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What structure of the brain, referred to as \u201clittle brain,\u201d is \r\nresponsible for maintaining balance and posture as well as coordination of voluntary \r\nmovements?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following organelles is found in motile \r\ncells of higher order animals, but NOT in flowering plant cells? \r\n \r\nW) Cytoplasm \r\nX) Cell wall \r\nY) Centrioles [SEN-tree-ohls] \r\nZ) Centrosome", 
+    "tossupA": "CEREBELLUM", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a2"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) 109", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice The secant of 70 is equivalent to which of the following expressions? \r\n \r\nW) 1 / cos (70) [1 over the cosine of 70] \r\nX) 1 / sin (70) [1 over the sine of 70] \r\nY) sin(70) / cos(70) [sine of 70 over the cosine of 70] \r\nZ) cos(70) / sin(70) [cosine of 70 over the sine of 70]", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice 230 is nearest which of the following powers of 10? \r\nW) 108   \r\nX) 109   \r\nY) 1011   \r\nZ) 1012", 
+    "tossupA": "W) 1/cos(70)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a3"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "510", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice The source of the tremendous energy and rapid \r\nrotations of stars detected at the center of the Milky Way is attributed to which of the following? \r\n \r\nW) Supernova explosions \r\nX) Dark matter \r\nY) Neutron star \r\nZ) Supermassive black hole", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer One common way to express the distance from the \r\nEarth to the Sun is in light-minutes, which is a similar concept to light-years. The distance to the \r\nSun in these units is about 8.5 light-minutes. If the Sun were to go out in an instant, how long, in \r\nseconds, would it take people on Earth to notice?", 
+    "tossupA": "Z) SUPERMASSIVE BLACK HOLE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a4"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) JOINING THE 3\u2019 END OF THE DNA THAT REPLACES THE PRIMER TO THE \r\nREST OF THE SEQUENCE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the first amino acid encoded by all eukaryotic mRNAs \r\n[yoo-KAR-ee-oh-tik]?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following is the role of DNA ligase [LY-gayz] in \r\nDNA replication? \r\n \r\nW) Joining the 3\u2019 [3-prime] end of the DNA that replaces the primer to the rest of the sequence \r\nX) Unwinding the parental DNA strand \r\nY) Relieving strain caused by over-winding the DNA strand \r\nZ) Synthesis of an RNA primer", 
+    "tossupA": "METHIONINE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a5"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) 0 DEGREES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice What will raising water temperature (under pressure) from 100 \u030aC \r\nto 110 \u030aC do to the cooking time of a potato? \r\n \r\nW) Decrease it by 10% \r\nX) Decrease it by 50% \r\nY) Increase it by 50% \r\nZ) No change", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice At what specific angle of incidence should the irradiance hit a \r\nsolar panel in order to produce maximum power? \r\n \r\nW) 0 degrees \r\nX) 15 degrees \r\nY) 45 degrees \r\nZ) 90 degrees", 
+    "tossupA": "X) DECREASE IT BY 50%", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a7"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "EXTINCT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT a way in which bacteria \r\ncan obtain foreign DNA? \r\n \r\nW) Transduction \r\nX) Conjugation \r\nY) Transformation \r\nZ) Transcription", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What is the term for a volcano that has NOT erupted for \r\ntens of thousands of years and is not expected to erupt again?", 
+    "tossupA": "Z) TRANSCRIPTION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a8"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-127", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Given that a particular right triangle contains one 45\u00b0 angle and one \r\nside of length 6, what are all possible lengths of one of the other two sides?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer On the domain 5 \u2264 x \u2264 12 [5 is less than or equal to x is less than or \r\nequal to 12], what is the maximum y-value of the parabola with equation y = 17 - (x + 7)2 [y \r\nequals 17 minus the square of the quantity x plus 7]?", 
+    "tossupA": "3\u221a2; 6; 6\u221a2", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a9"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) GRAPHITE IS ARRANGED IN SHEETS WHEREAS DIAMOND\u2019S LAYERS ARE \r\nINTERTWINED IN A CRYSTALLINE STRUCTURE, MAKING IT STRONGER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer While on the side of the road, a student is approached \r\nand passed by an emergency vehicle with its siren blaring. While the vehicle is approaching the \r\nstudent, the pitch that the student hears is higher than when the vehicle is receding away after \r\npassing him. What is the name of the effect which is responsible for this difference in pitch?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following best explains why diamond is \r\nmuch harder than graphite even though both are made of arranged carbon atoms? \r\n \r\nW) Graphite is arranged in sheets, whereas diamond\u2019s layers are intertwined in a crystalline \r\nstructure, making it stronger \r\nX) Graphite is opaque and grey while diamond has a greater clarity and sheen to it \r\nY) Diamond is arranged in sheets, whereas graphite\u2019s layers are intertwined in a crystalline \r\nstucture, making them weaker \r\nZ) The density of graphite is greater than that of diamond, meaning the carbon atoms are more \r\nlikely to leave the structure", 
+    "tossupA": "DOPPLER EFFECT", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4aa"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) RISK OF CORROSION AT HIGH TEMPERATURES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer In ecology, GPP is the amount of light energy that is converted to \r\nchemical energy via photosynthesis per unit of time. In this case, for what is GPP an \r\nabbreviation?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following is one of the main disadvantages of molten \r\ncarbonate fuel cells, when compared to solid oxide fuel cells? \r\n \r\nW) Sensitivity to carbon dioxide \r\nX) Risk of corrosion at high temperatures \r\nY) They require an external reformer to convert more energy-dense fuels to hydrogen \r\nZ) Sensitivity to fuel impurities", 
+    "tossupA": "GROSS PRIMARY PRODUCTION (DO NOT ACCEPT: GROSS PRIMARY \r\nPRODUCTIVITY)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ab"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SPLEEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice The ocean\u2019s distinct smell comes from dimethyl [dy-METH-\r\nuhl] sulfide (DMS), which is released upon the death of what ocean organism? \r\n \r\nW) Worms \r\nX) Nudibranchs [NOO-duh-brangks] \r\nY) Phytoplankton [fy-tuh-PLANGK-tuhn] \r\nZ) Shrimp", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Which organ in the human body is sometimes referred to as \r\nthe \u201cgraveyard\u201d for red blood cells?", 
+    "tossupA": "Y) PHYTOPLANKTON", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ac"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) AN OXIDIZING ATMOSPHERE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What is the term used to describe the period when \r\nJupiter is directly opposite the Sun as viewed from Earth?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice The presence of oxygen in our atmosphere makes it \r\nwhich of the following? \r\n \r\nW) A low pressure gradient atmosphere \r\nX) An oxidizing atmosphere \r\nY) A high pressure gradient atmosphere \r\nZ) A reducing atmosphere", 
+    "tossupA": "OPPOSITION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ad"
+    }, 
+    "questionNum": 25
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "120/17 (ACCEPT: 7 1/17)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer In base-3, what is the product of 100 and 110?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer In a right triangle with legs of length 8 and 15, expressing your answer \r\nin simplest form, what is the length of the altitude to the hypotenuse?", 
+    "tossupA": "11000", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd498"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "5,700", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following metals is the most reactive with \r\nwater? \r\n \r\nW) Ca \r\nX) Fe \r\nY) K \r\nZ) Mg", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Providing your answer to the nearest hundred, what is \r\nthe half-life in years of carbon-14?", 
+    "tossupA": "Y) K", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd49f"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "WATER TABLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What is the term that refers to waves at high tide during \r\na spring tide?", 
+    "packetNum": 16, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer What is the term for the surface where the water \r\npressure head is equal to the atmospheric pressure?", 
+    "tossupA": "TIDAL SURGES (ACCEPT: TIDAL SURGE)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4a6"
+    }, 
+    "questionNum": 16
+  }
+]

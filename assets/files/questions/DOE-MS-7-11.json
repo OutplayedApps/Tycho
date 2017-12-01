@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "\u22122", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Assuming that a and b are non-negative, simplify \u221a(72a<sup>4</sup>b<sup>3</sup>) [the square \r\nroot of the quantity 72 a to the fourth b cubed].", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If x, y, and z are three consecutive integers with x < y < z, evaluate the \r\nproduct (x - y)(x - z)(y - z) [open parenthesis x minus y close parenthesis open parenthesis \r\nx minus z close parenthesis open parenthesis y minus z close parenthesis] .", 
+    "tossupA": "6a<sup>2</sup>b\u221a(2b)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0e8"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0, 10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Light passes through a rectangular slit in a box and \r\nproduces a small spot of light on a screen at the back of the box. What is located between the \r\nslit in the box and the screen? \r\n \r\nW) A concave lens \r\nX) A convex lens \r\nY) A prism \r\nZ) A flat piece of glass", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer A ball moving at an initial velocity of 10 meters per \r\nsecond strikes head-on a similar ball initially sitting at rest. Both balls have the same mass and \r\nthe collision is perfectly elastic. What are the respective speeds of the initially moving and \r\ninitially stationary ball in meters per second after the collision?", 
+    "tossupA": "X) A CONVEX LENS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0e9"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) [He]2s22p43s1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is forbidden by the Pauli \r\nexclusion principle? \r\n \r\nW) Neutrons in a nucleus out-numbering the protons \r\nX) Triple ionization of the lanthanide [LAN-thuh-nyd] series \r\nY) The sharing of more than one electron by any two atoms \r\nZ) Two electrons in the exact same state in an atomic shell", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following electron configurations \r\nrepresents an excited state energy level? \r\n \r\nW) [He]2s22p5 \r\nX) [He]2s22p43s1 \r\nY) [Ne]3s2 \r\nZ) [Ne]3s23p6", 
+    "tossupA": "Z) TWO ELECTRONS IN THE EXACT SAME STATE IN AN ATOMIC SHELL", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0ea"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) DIRECTLY PROPORTIONAL TO THE TEMPERATURE DIFFERENCE \r\nBETWEEN THE AIR AND THE WATER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What is the hottest planet in our solar system, by surface \r\ntemperature?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Consider ocean water underlying sea ice with cold air \r\nabove the sea ice. The rate at which heat flows out of ocean water is which of the following? \r\n \r\nW) Directly proportional to the temperature difference between the air and the water \r\nX) Directly proportional to the thickness of the ice layer \r\nY) Constant once ocean water reaches -5\u00b0 Celsius \r\nZ) Increased by the snow cover on top of the ice", 
+    "tossupA": "VENUS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0eb"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) CLOWNFISH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice What is the ultimate purpose of the Calvin cycle? \r\n \r\nW) To convert carbon dioxide into sugars \r\nX) To convert waste products to oxygen \r\nY) To convert sugars, fatty acids, and amino acids into ATP \r\nZ) To separate water into hydrogen and oxygen", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following fish exhibit protandry and are all male \r\nwhen hatched? \r\n \r\nW) Clownfish \r\nX) Platy \r\nY) Tarpon \r\nZ) Indigo hamlet", 
+    "tossupA": "W) TO CONVERT CARBON DIOXIDE INTO SUGARS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0ec"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "3, 4, 2, 1 (ACCEPT: PETROCHEMICAL PRODUCTION, ABANDONED \r\nUNDERGROUND COAL MINES, LANDFILLS, NATURAL GAS SYSTEMS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Who is considered the originator of alternating current in electricity \r\ntransmission systems? \r\n \r\nW) Thomas Edison \r\nX) Nils Bohr \r\nY) Albert Einstein \r\nZ) Nikola Tesla", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Order from least to greatest the following four U.S. methane \r\nemissions by source for 2009: 1) natural gas systems, 2) landfills, 3) petrochemical production, \r\n4) abandoned underground coal mines.", 
+    "tossupA": "Z) NIKOLA TESLA", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0ed"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) THE SMALLER THE ATOM, THE GREATER THE IONIZATION ENERGY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice At a particular temperature T and pressure P, carbon \r\ndioxide is in the vapor phase. Which of the following is NOT possible if the pressure of the vapor \r\nis increased while the temperature stays the same? \r\n \r\nW) The vapor remains a vapor \r\nX) The vapor enters the compressible liquid phase \r\nY) The vapor enters the solid phase without entering the liquid phase first \r\nZ) The vapor enters the solid phase and then enters the liquid phase", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is true of periodic trends? \r\n \r\nW) The smaller the atom, the greater the ionization energy \r\nX) The larger the electronegativity, the smaller the ionization energy \r\nY) Elements with the highest metallic character are located at the upper left corner of the \r\nperiodic table \r\nZ) The process of removing an electron from an atom is always exothermic", 
+    "tossupA": "Z) THE VAPOR ENTERS THE SOLID PHASE AND THEN ENTERS THE LIQUID \r\nPHASE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0ef"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) 4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is the most usable form of \r\nnitrogen for non-leguminous [non li-GYOO-muh-nuhs] plants? \r\n \r\nW) Ammonia \r\nX) Nitrogen gas \r\nY) Nitrites \r\nZ) Nitrates", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice A block is being pulled up a ramp by a rope. The block \r\nexperiences friction against the surface of the ramp. How many forces in total are acting on the \r\nblock? \r\n \r\nW) 2 \r\nX) 3 \r\nY) 4 \r\nZ) 5", 
+    "tossupA": "Z) NITRATES", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f0"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) TWO OF THE TROPICAL STORMS OCCURRED BEFORE THE OFFICIAL \r\nJUNE 1 BEGINNING OF HURRICANE SEASON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice The tails of comets always do which of the following? \r\n \r\nW) Point away from the Sun \r\nX) Point towards the Sun \r\nY) Point away from their direction of travel \r\nZ) Point in their direction of travel", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is true about the 2012 North \r\nAtlantic hurricane season? \r\n \r\nW) Two of the tropical storms occurred before the official June 1 beginning of hurricane season \r\nX) Four major hurricanes, categories 3 through 5, struck the East Coast \r\nY) The exceptionally weak jet stream over the eastern portion of the nation could not push \r\nhurricanes off the East Coast \r\nZ) El Ni\u00f1o proved to be a major influence in suppressing overall storm activity", 
+    "tossupA": "W) POINT AWAY FROM THE SUN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f1"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "BACTERIOPHAGES (ACCEPT: PHAGES)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following animals would NOT be classified in \r\nthe phylum [FY-luhm] cnidaria [ny-DAIR-ee-uh]? \r\n \r\nW) Portuguese man-of-war \r\nX) Ostrich plume hydroid \r\nY) Aggregating anemone [uh-NEM-uh-nee] \r\nZ) Long-spined sea urchin", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the name for viruses that infect only organisms in the \r\ndomain Bacteria?", 
+    "tossupA": "Z) LONG-SPINED SEA URCHIN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f2"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "PRIMARY (ACCEPT: COMPRESSIONAL, P)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true regarding \r\nradioactive decay? \r\n \r\nW) In gamma decay, no transmutation occurs \r\nX) Different isotopes of the same element will decay at the same rate \r\nY) Radioactive decay may cause an atom to lose protons or neutrons \r\nZ) Radioactive decay is a process by which unstable atoms emit ionizing particles", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer A seismograph measures a wave that compresses and \r\ndilates the Earth as it travels. The seismograph has measured what type of wave?", 
+    "tossupA": "X) DIFFERENT ISOTOPES OF THE SAME ELEMENT WILL DECAY AT THE SAME \r\nRATE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f5"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5\u221a3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the sum of the exterior angles of a triangle, one at each \r\nvertex?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the length in units of the longest diagonal of a cube whose \r\nedge measures 5 units?", 
+    "tossupA": "360\u00ba", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f6"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) MERCURY HAS LITTLE TO NO ATMOSPHERE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice How fast does the Sun rotate? \r\n \r\nW) Every 24 hours \r\nX) Every 31 days \r\nY) Every 27 days \r\nZ) The Sun does not rotate", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Aerobraking is a method that can be used to slow a \r\nspacecraft down by having it drag through a planet's atmosphere. Why couldn't NASA use this \r\nmethod for the MESSENGER spacecraft? \r\n \r\nW) Mercury is too close to the Sun \r\nX) Mercury's atmosphere has too much corrosive methane in it \r\nY) Mercury has little to no atmosphere \r\nZ) Mercury has insufficient gravity to permit it", 
+    "tossupA": "Y) EVERY 27 DAYS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f7"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) SPAGHETTI", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice While dissecting a plant in your botany class, which of the \r\nfollowing tissues would you NOT see? \r\n \r\nW) Epidermis \r\nX) Xylem [ZY-luhm] \r\nY) Ectoderm [EK-tuh-durm] \r\nZ) Sclerenchyma [skli-RENG-kuh-muh]", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice In order to begin the digestive process, which of the \r\nfollowing menu items would require the most salivary amylase? \r\n \r\nW) Spaghetti \r\nX) Green salad \r\nY) Steamed clams \r\nZ) Fillet of fish", 
+    "tossupA": "Y) ECTODERM", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f8"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) BOTH DIVIDE AT THE SAME TIME AS THE CELLS IN WHICH THEY ARE \r\nFOUND", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following can NOT produce genetic \r\nvariation in a bacterial population? \r\n \r\nW) Transduction \r\nX) Transformation \r\nY) Meiosis [my-OH-sis] \r\nZ) Conjugation", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice All except which of the following are true of both \r\nmitochondria [my-tuh-KON-dree-uh] and chloroplasts? \r\n \r\nW) Both have their own genetic material separate from the cell nucleus \r\nX) Both divide at the same time as the cells in which they are found \r\nY) Both use chemiosmosis to power energy conversions \r\nZ) Both reproduce through binary fission", 
+    "tossupA": "Y) MEIOSIS", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f9"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "400", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Seismographs, used to keep track of earthquakes, \r\nuse which of the following variables to measure earthquakes? \r\n \r\nW) The amplitude and frequency of water waves \r\nX) The rotational motion of the recording drum \r\nY) The differential motion between two vibrating structures \r\nZ) The differential motion between a free mass and a supporting structure anchored to the \r\nground", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Light with a frequency of 7.5 x 1014 hertz strikes a plate. \r\nWhat is this light\u2019s wavelength, to the nearest 100 nanometers?", 
+    "tossupA": "Z) THE DIFFERENTIAL MOTION BETWEEN A FREE MASS AND A SUPPORTING \r\nSTRUCTURE ANCHORED TO THE GROUND", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0fb"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "W) INCREASED EXTREMITY BLOOD CIRCULATION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Humans cannot completely digest plants because we \r\ncannot break down their cell walls. Which of the following is an enzyme you would expect to be \r\npresent in an herbivore? \r\n \r\nW) Amylase [AM-uh-lays] \r\nX) Cellulase \r\nY) Pepsin \r\nZ) Chymotrypsin [ky-moh-TRIP-sin]", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT an adaptation for deep- \r\ndiving marine mammals? \r\n \r\nW) Increased extremity blood circulation \r\nX) Muscles containing high concentrations of myoglobin [my-uh-GLOH-bin] \r\nY) Bradycardia [brad-i-KAHR-dee-uh] \r\nZ) Apneustic breathing [ap-NOO-stik]", 
+    "tossupA": "X) CELLULASE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0fc"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "RADAR", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements regarding Saturn is \r\nNOT true? \r\n \r\nW) It has a 29-year orbit around the Sun \r\nX) Its rotational axis is tilted 27\u00b0 with respect to the orbital plane \r\nY) Its seasons are about twice as long as corresponding seasons on Earth \r\nZ) Its rings are aligned with its equator", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer You are an astronaut on the space station looking down \r\non the city of Seattle at night. You can see a few city lights but it is quite cloudy below. What \r\nmethod of remote sensing would you most likely use due to these conditions?", 
+    "tossupA": "Y) ITS SEASONS ARE ABOUT TWICE AS LONG AS CORRESPONDING \r\nSEASONS ON EARTH", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0fd"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) SULFATE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Sharks do not have a swim bladder. What major organ \r\ncontrols buoyancy in sharks? \r\n \r\nW) Gallbadder \r\nX) Liver \r\nY) Spiral organ \r\nZ) Lungs", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Aerobic organisms fuel their metabolism by reducing \r\nmolecular oxygen through respiration. Some organisms are able to undergo anaerobic \r\nrespiration, where another oxidized molecule is substituted for oxygen. Which of the following \r\nwould be a good substitute for oxygen in anaerobic respiration? \r\n \r\nW) Sulfite \r\nX) Sulfoxide \r\nY) Sulfate \r\nZ) Sulfide", 
+    "tossupA": "X) LIVER", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0fe"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) IN 2009, THE DAM WAS DAMAGED BY A STORM, TEMPORARILY BLACKING \r\nOUT THE ENTIRE COUNTRY OF PARAGUAY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Short Answer According to the American Council for an Energy-Efficient Economy \r\nin 2007, renewable energy is one pillar of sustainable energy. What is the other pillar?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following statements is NOT true about the Itaipu \r\nDam? \r\n \r\nW) It is the largest operating hydroelectric facility in the world in terms of annual energy \r\ngeneration \r\nX) It is a binational undertaking \r\nY) In 2009, the dam was damaged by a storm, temporarily blacking out the entire country of \r\nParaguay \r\nZ) Its maximum height is equivalent to a 65-story building", 
+    "tossupA": "ENERGY EFFICIENCY", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0ff"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) NUDIBRANCH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer A wild population of daisies exists where flowers are either \r\nwhite (rr) [little r little r] or red (RR) [big R big R]. Assuming that bees cross pollinate equally \r\nwell between white and red flowers as they pollinate white or red flowers directly, what \r\ngenotypes would you expect to be present in year 2?", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following can NOT be classified in the class \r\nCephalopoda [sef-uh-luh-POD-uh]? \r\n \r\nW) Squid \r\nX) Cuttlefish \r\nY) Nudibranch \r\nZ) Chambered nautilus", 
+    "tossupA": "RR, rr, Rr", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd100"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "600%", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Providing your answer in scientific notation, simplify the quotient 240,000/(2\u00d710<sup>-6</sup>) \r\n[240 thousand over open parenthesis 2 times 10 to the power of negative 6 close \r\nparenthesis].", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer The sum of six integers is what percentage of the average of the six \r\nintegers?", 
+    "tossupA": "1.2\u00d71011", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0ee"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "MINIMUM 6, MAXIMUM 15", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate cos60\u00b0(sin45\u00b0) [cosine of 60 degrees times sine of 45 \r\ndegrees].", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer In a class of 29 children, 20 children have a dog and 15 have a cat. \r\nWhat are the minimum number and maximum number, respectively, of children that could have \r\nboth a dog and a cat?", 
+    "tossupA": "\u221a24", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f4"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) LOW ENVIRONMENTAL IMPACT IN CASE OF DISASTER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Trophic levels describe energy flow in an ecosystem. Which of the \r\nfollowing statements about trophic levels is NOT true? \r\n \r\nW) Every organism\u2019s trophic level is determined by its feeding behavior \r\nX) Every organism\u2019s trophic level remains the same throughout its life span \r\nY) Energy flows from primary producers to consumers \r\nZ) Some plants can be consumers", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Compared to other methods of electricity production, hydroelectric \r\npower possesses all EXCEPT which of the following advantages? \r\n \r\nW) Low power cost \r\nX) Lack of air pollution \r\nY) Flood prevention \r\nZ) Low environmental impact in case of disaster", 
+    "tossupA": "X) EVERY ORGANISM\u2019S TROPHIC LEVEL REMAINS THE SAME THROUGHOUT \r\nITS LIFE SPAN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0f3"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) 6 23%", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Determine the value of the function (f/g)(4) [f over g of 4], if \r\n f(x)=x<sup>2</sup>+2x and g(x) = 3x - 5.", 
+    "packetNum": 11, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice If 150% of 5c is b, what percentage of 2b is c? \r\n \r\nW) 5 12% \r\nX) 6 23% \r\nY) 15% \r\nZ) 75%", 
+    "tossupA": "24/7 (ACCEPT: 3 3/7)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd0fa"
+    }, 
+    "questionNum": 19
+  }
+]

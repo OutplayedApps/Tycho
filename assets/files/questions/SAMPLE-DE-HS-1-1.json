@@ -1,0 +1,402 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "1 AND 2", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Indicate all of the following three statements concerning photosynthesis that are TRUE: \n\n\n\n1.  Plastocyanin is a protein responsible for ferrying high-energy electrons within the thylakoid membrane \n\n2.  Ferredoxin-NADP+ reductase contains an iron-sulfur cluster\n\n3.  The pH of the thylakoid space is lower than that of the intermembrane space", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Indicate all of the following three changes that would increase the glomerular filtration rate of a nephron:\n\n\n\n1.  Constriction of efferent renal arterioles\n\n2.  Increase in plasma ANP concentration\n\n3.  Activation of the sympathetic nervous system", 
+    "tossupA": "ALL OF THEM", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c28a"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2 ONLY", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Which of the following statements is TRUE about addition reactions to alkenes?\n\n\n\nW)  Hydroboration-oxidation follows Markovnikov's rule\n\nX)  Rearrangements are not possible in the addition of hydrohalic acids to alkenes\n\nY)  The addition of ozone to alkenes generates a vicinal diol \n\nZ)  The hydration of an alkene by sulfuric acid in water proceeds via a carbocation intermediate", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Indicate all of the following three compounds that are predicted to be aromatic by MO theory:  \n\n\n\nPhenyl-1,3-dication\n\nCyclopropylidium cation\n\nCyclopentadienyl cation", 
+    "tossupA": "Z) THE HYDRATION OF AN ALKENE BY SULFURIC ACID IN WATER PROCEEDS VIA A CARBOCATION INTERMEDIATE", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c28b"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W)  FLOWS ARE LAMINAR", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Which of the following statements is NOT TRUE concerning the electric field surrounding a stationary, charged perfect conductor?\n\n\n\nW)  It is proportional to the radius of curvature of the conductor\n\nX)  It is zero inside the conductor\n\nY)  Far away from the conductor, it decays as a monopole field with charge equal to the total charge on the conductor\n\nZ)  It is discontinuous at the surface of the conductor", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Which of the following statements is NOT TRUE of the high-Reynolds number regime in fluid mechanics?\n\n\n\nW)  Flows are laminar \n\nX)  Inertial forces are much greater than viscous drag\n\nY)  Momentum diffusivity is low, relative to flow velocity\n\nZ)  The Stokes approximation for the drag on a small sphere is not applicable", 
+    "tossupA": "W)  IT IS PROPORTIONAL TO THE RADIUS OF CURVATURE OF THE CONDUCTOR", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c28c"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "19/e", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Which of the following complex numbers in polar form is equal to 1+i ?\n\n\n\nW)  e^(i*pi/4)\n\nX)  sqrt(2)e^(i*pi/4)\n\nY)  e^(i*pi/2)\n\nZ)  sqrt(2)*e^(i*pi/2)", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Consider the function f(x) = (x-1)/e^x. What is the nineteenth derivative of f(x), evaluated at x=1, in terms of e ?", 
+    "tossupA": "X) SQRT(2) E^(I*PI/4)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c28d"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1 AND 3", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Indicate all of the following three statements that are TRUE concerning globular clusters:\n\n\n\n1.  They are usually found outside the galactic plane \n\n2.  They are mostly composed of Population I stars\n\n3.  They often display active star formation", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Indicate all of the following three statements that are TRUE concerning glacial erosion:\n\n\n\n1.  Kames are composed of unsorted glacial deposits\n\n2.  Drumlins in the American Midwest point have an East-West directionality\n\n3.  The basal layer of a glacier flows more slowly than the internal, plastic-flow dominated layer", 
+    "tossupA": "1 ONLY", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c28e"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "2 AND 3", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "In July of 2015, DOE researchers, working with European colleagues at the LHCb collaboration, reported the discovery of what QCD bound state with 15-sigma significance as an intermediate in the decay of bottom Lambda baryons?", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Indicate all of the following three statements that are TRUE of the pentaquark bound state discovered at the LHCb collaboration:\n\n\n\n1.  It has a baryon-number equal to five-thirds\n\n2.  The net color charge of a pentaquark bound state is zero\n\n3.  The bound state contained a charm quark", 
+    "tossupA": "PENTAQUARK", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c28f"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "1 ONLY", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Indicate all of the following three salts that have 1 molar solutions with a pH less than 7:\n\n\n\n1.  Aluminum chloride\n\n2.  Sodium acetate\n\n3.  Potassium hydrogen sulfate", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Indicate all of the following three functional groups that have a pKa less than 20: \n\n\n\n1.  Alcohols\n\n2.  Terminal alkyne\n\n3.  Secondary amine", 
+    "tossupA": "1 AND 3", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c290"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "BRADYKININ", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Rank the following three types of muscle fibers in terms of increasing rate of fatigue development, from the least fatigued to the most fatigued after a given period of exercise:\n\n\n\n1.  Slow oxidative\n\n2.  Fast glycolytic\n\n3.  Fast oxidative-glycolytic", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "What peptide inflammatory mediator, whose degradation is inhibited by ACE inhibitors, lowers blood pressure by dilating blood vessels via the release of NO, prostacyclins, and EDHF?", 
+    "tossupA": "1. SLOW OXIDATIVE, 3. FAST OXIDATIVE-GLYCOLYTIC, 2. FAST GLYCOLYTIC (ACCEPT: 1, 3, 2)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c291"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "SQRT(15)", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Consider a long, straight, hollow wire with a cross-section the shape of an annulus with inner radius a and outer radius 2a. If the current density in this wire is constant, which of the following describes the magnitude of the circulating B field as a function of radius r in the wire?\n\n\n\nW)  Zero until a, then constant from a to 2a\n\nX)  Zero until a, then linearly increasing from a to 2a\n\nY)  Constant but nonzero until a, then a different constant from a to 2a\n\nZ)  Constant but nonzero until a, then linearly increasing from a to 2a", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "An electron has total energy equal to four times its rest energy. In units where c=1, what is the momentum of the electron divided by its rest energy?", 
+    "tossupA": "X)  ZERO UNTIL A, THEN LINEARLY INCREASING FROM A TO 2A", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c292"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "When only positive values of x are considered, how many intersection points are there between the curve y = cos(97x) and y = x ?\n\n\n\nW)  15\n\nX)  31\n\nY)  49\n\nZ)  96", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.619000", 
+    "bonusQ": "Suppose that f(x) = sum from n=1 to infinity of x^n/n, a power series with a radius of convergence of at least 1. What is f'(1/2) ?", 
+    "tossupA": "X)  31", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.619000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c293"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1, 2, 3, 4 (ACCEPT: FRESH SNOW, OLD SNOW, WATER AT A SMALL ZENITH ANGLE, SHORT GRASS)", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Why are Type 1a supernovae [soo-per-NOH-vee] thought to have different progenitors from other kinds of supernovae?\n\n\n\nW) They have very different light curves from other supernovae\n\nX) They are 100 times more luminous than all other kinds of supernovae\n\nY) The lack of hydrogen lines in their spectra means that the progenitor must have lost its envelope\n\nZ) They are seen in all galaxies, whereas other kinds of supernovae are only seen in star- forming regions of spiral galaxies", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Arrange the following four surfaces in order of highest to lowest albedo: 1) fresh snow, 2) old snow, 3) water at a small zenith angle, 4) short grass.", 
+    "tossupA": "Z) THEY ARE SEEN IN ALL GALAXIES, WHEREAS OTHER KINDS OF SUPERNOVAE ARE ONLY SEEN IN STAR-FORMING REGIONS OF SPIRAL GALAXIES", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c294"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "1. UP, 2. DOWN, 4. STRANGE, 3. CHARM", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "DOE researchers at Fermilab are studying flavor-changing decays as part of an effort to understand physics beyond the Standard Model. What force is the only known force that mediates flavor-changing decays?", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Scientists over the past decades at the DOE's Fermilab were instrumental in better constraining the masses of quarks. Rank the following four quarks by increasing rest mass:\n\n\n\n1.  Up \n\n2.  Down\n\n3.  Charm\n\n4.  Strange", 
+    "tossupA": "WEAK FORCE", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c295"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2 ONLY", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Which of the following statements best explains why lead(II) nitrate is soluble, but lead(II) bromide is insoluble?\n\n\n\nW)  Lead(II) and nitrate are both hard, but bromide is soft\n\nX)  Lead(II) and bromide are both hard, but nitrate is soft\n\nY)  Lead(II) and nitrate are both soft, but bromide is hard\n\nZ)  Lead(II) and bromide are both soft, but nitrate is hard", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Indicate all of the following three statements concerning the Wittig reaction that are TRUE:\n\n\n\n1.  trans-alkenes are predominantly produced because of their thermodynamic stability \n\n2.  In the first step of the reaction, the carbonyl group acts as the electrophile\n\n3.  The driving force is the release of a gas", 
+    "tossupA": "Z)  LEAD(II) AND BROMIDE ARE BOTH SOFT, BUT NITRATE IS HARD", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c296"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "8", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "A spring of force constant k stretched a distance d has a potential energy U. A spring of force constant k' is stretched a distance d/2 and has potential energy 2U. What is the ratio of k' to k?", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Consider a solid disk, with an initial velocity of 10 meters per second. If rolling friction is ignored and this disk rolls without slipping up an incline, what is the maximum height to the nearest meter reached by the disk?", 
+    "tossupA": "8", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c297"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "1 AND 3", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Which of the following steps would conceivably be the LAST step in a analytical protein purification protocol from cell lysate?\n\n\n\nW)  Adding TRITON-100X detergent buffer\n\nX)  2D-PAGE\n\nY)  HPLC\n\nZ)  Ammonium-sulfate precipitation", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Indicate all of the following three statements that are true of a DNA footprinting assay:\n\n\n\n1.  DNA footprinting is used to find the binding site of a protein to DNA\n\n2.  Hydroxide ions are used as a low resolution probe\n\n3.  Gel electrophoresis is performed on DNA fragments in a denaturing environment", 
+    "tossupA": "Y)  HPLC", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c298"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Z)  NEGATIVE INFINITY", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "What is the value of the integral with lower bound e^(-3) and upper bound e^(-2) of 1 over the quantity x times the log(x), end quantity, dx ?\n\n\n\nW)  2/3\n\nX)  3/2\n\nY)  log(2/3)\n\nZ)  log(3/2)", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Suppose y(x) satisfies the differential equation: y'(x) + x*y(x) = x, with initial value y(0) = -1. What is the limit of y(x) as x approaches minus infinity?\n\n\n\nW)  0\n\nX)  1\n\nY)  Infinity\n\nZ)  Negative infinity", 
+    "tossupA": "Y)  LOG(2/3)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c299"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1 ONLY", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Why are massive compact halo objects (MACHOs) thought to be unable to explain the dark matter problem?\n\n\n\nW)  They would have evaporated by Hawking radiation in less than a Hubble time\n\nX)  Cosmic microwave background radiation observations indicate that MACHOs could not have formed in a Hubble time\n\nY)  Several MACHOs would be detectable in the solar system but are not observed\n\nZ)  There should be a lot more MACHOs observed through microlensing", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Indicate all of the following three statements that are TRUE regarding types of volcanic eruptions:\n\n\n\n1.  Strombolian eruptions feature short lived, explosive eruptions of moderately viscous lava\n\n2.  Pyroclastic flows and lahars are common features of Hawaiian volcanoes\n\n3.  Pelean eruptions involve runny basaltic lava flows", 
+    "tossupA": "Z) THERE SHOULD BE A LOT MORE MACHOs OBSERVED THROUGH MICROLENSING", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c29a"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "4, 2, 1, 3", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "DOE researchers at the Joint Genome Institute recently used a functional genomics approach to better understand stomatal control in grasses. What ion principally enters guard cells during the opening of stomata?", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Order the following four steps of the uranium fuel cycle chronologically, from first to last: \n\n\n\n1.  Differential isotopic centrifugation  \n\n2.  Preparation of uranium hexafluoride\n\n3.  Uranium baked into ceramic fuel pellets\n\n4.  Preparation of yellowcake", 
+    "tossupA": "POTASSIUM  (ACCEPT: K+)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c29b"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "12.0", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Which of the following statements concerning coordination chemistry is NOT TRUE?\n\n\n\nW)  Octahedral complexes generally have a higher splitting than tetrahedral complexes\n\nX)  Square planar complexes are common for d-8 metals\n\nY)  Carbon monoxide is a strong field ligand\n\nZ)  Square planar coordination complexes with achiral ligands can be chiral", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "At a certain temperature, the weak acid HCN has an acid dissociation constant in water equal to 2.0 x 10^-10. If a 2 molar solution of sodium cyanide was prepared, what is the pH of this solution, to one decimal place?", 
+    "tossupA": "Z)  SQUARE PLANAR COORDINATION COMPLEXES WITH ACHIRAL LIGANDS CAN BE CHIRAL", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c29c"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Unpolarized light is passed through two polarizing filters that are oriented an angle of 45 degrees from each other. What is the final light intensity divided by the initial light intensity?", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "A refrigerator pumps heat from the inside of a home at 7 degrees Celsius to the outside environment, where the temperature is 27 degrees Celsius. If 30 kJ of heat is pumped, what is the minimum amount of work that must have been supplied to the refrigerator, to the nearest kJ?", 
+    "tossupA": "1/4", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c29d"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MADS-box", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Indicate all of the following three statements that are true of thermoregulation in humans:\n\n\n\n1.  Thermogenin's mechanism of action is the acceleration of glycolysis in brown adipose tissue\n\n2.  When the body is too cold, the hypothalamus releases thyrotropin-releasing factor\n\n3.  Meissner's corpuscles in the skin play the role of sweat glands", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "What is the name of a conserved sequence motif in plants, present in proteins of the same name that are transcription factors that control floral organ identity and are similar to HOX genes?", 
+    "tossupA": "2 ONLY", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c29e"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "7", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "What is the integral with lower bound \u2013pi/4 and upper bound pi/4 of the quantity cos(t) + sqrt(1+t^2)sin^3(t) dt?", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Suppose that 3x is congruent to 5 mod 11, and 2y is congruent to 7 mod 11. What is (x + y) mod 11?", 
+    "tossupA": "SQRT(2)", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c29f"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "2 AND 3", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "On average, the water levels of sea lochs in Scotland have been falling for the last 10,000 years. Which of the following is the best explanation why?\n\n\n\nW)  Prolonged warming patterns over the last 10,000 years have caused the sea lochs to evaporate away\n\nX)  Changes in weather patterns have reduced precipitation and led to a decrease in water levels\n\nY)  Growth of polar glaciers until recently has locked water, leading to a decrease in water levels\n\nZ)  The recession of glaciers 10,000 years ago has caused crust to isostatically rebound, decreasing relative water levels", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Indicate all of the following three statements that are TRUE of the Hubble tuning fork diagram:\n\n\n\n1.  Elliptical galaxies are on the far right of the diagram\n\n2.  Irregular galaxies are not pictured on the diagram\n\n3.  The Milky-Way is thought to be an SBb galaxy", 
+    "tossupA": "Z)  THE RECESSION OF GLACIERS 10,000 YEARS AGO HAS CAUSED CRUST TO ISOSTATICALLY REBOUND, DECREASING RELATIVE WATER LEVELS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c2a0"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "TIDAL STREAM GENERATION", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "What chemical process, which generally uses neutral cobalt or iron carbonyl catalysts, converts the product of the water-gas shift reaction to higher alkanes?", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "What form of tidal energy conversion extracts kinetic energy from moving masses of water, in particular tides, by using underwater axial turbines?", 
+    "tossupA": "FISCHER-TROPSCH PROCESS", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c2a1"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "1 AND 2", 
+    "vendorNum": "SAMPLE-DE-HS", 
+    "tossupQ": "Indicate all of the following three functional groups that can be reduced by sodium borohydride:\n\n\n\nKetone\n\nAmide\n\nEster", 
+    "packetNum": 1, 
+    "date_modified": "2017-11-22T15:16:37.635000", 
+    "bonusQ": "Indicate all of the following three statements that are TRUE of Grignard reagents:\n\n\n\n1.  Grignard reagents are used in carbon-carbon bond forming reactions\n\n2.  Preparation of a Grignard reagent involves reaction of an alkyl or aryl hydride with magnesium in absence of water\n\n3.  In preparation of a Grignard reagent, the passivation layer of MgO covering the magnesium ribbon is necessary for initiation", 
+    "tossupA": "1 ONLY", 
+    "setNum": 1, 
+    "date_created": "2017-11-22T15:16:37.635000", 
+    "_id": {
+      "$oid": "5a1605556fd1dd0ce002c2a2"
+    }, 
+    "questionNum": 25
+  }
+]

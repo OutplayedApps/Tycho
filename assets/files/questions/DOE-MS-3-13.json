@@ -1,0 +1,427 @@
+[
+  {
+    "category": 6, 
+    "bonusA": "35 \r\n \r\n(Solution: 3000 cg = 30g; 5000 mg = 5g; 30g + 5g = 35 grams)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following types of scientists would most \r\nlikely use the PCR, or polymerase chain reaction, method in their experiments: \r\n \r\nW) nuclear chemist \r\nX) astronomer \r\nY) geneticist \r\nZ) physicist", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Giving your answer in grams, add 3000 centigrams to \r\n5000 milligrams:", 
+    "tossupA": "Y) GENETICIST", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccce7"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) SYNTHESIS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Order the following 3 elements from the one that most \r\neasily loses an electron to the one which will be the most difficult to remove an electron from: \r\npotassium; fluorine; nitrogen", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following BEST describes the following \r\nreaction: 4Fe + 3O\r\n2\r\n \u00e0\uf0e0 2Fe\r\n2\r\nO\r\n3\r\n \r\n \r\nW) synthesis \r\nX) combustion \r\nY) single replacement \r\nZ) double replacement", 
+    "tossupA": "POTASSIUM; NITROGEN; FLUORINE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccce9"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) THE 14\r\nTH", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following terms is LEAST related to the \r\naction of glaciers: \r\n \r\nW) esker \r\nX) terminal moraine \r\nY) karst topography \r\nZ) kettle lake", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice The Moon is full on September 7, 2006. On which of the \r\nfollowing days that month will a last quarter Moon occur: \r\n \r\nW) the 14\r\nth\r\n \r\nX) the 21\r\nst\r\n \r\nY) the 28\r\nth\r\n \r\nZ) the 29\r\nth", 
+    "tossupA": "Y) KARST TOPOGRAPHY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccea"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "9 \r\n \r\n(Solution: V = 1/3(l \u00d7 w \u00d7 h); 36 = 1/3(3 \u00d7 4 \u00d7 h); h = 9 m)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If 2 fair dice are rolled simultaneously, what is the probability that the 2 \r\ndice will show the same number expressed as a fraction in lowest terms?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the volume of a rectangular pyramid is 36 cubic meters and its base \r\nmeasures 3 meters in length and 4 meters in width, find its height, in meters:", 
+    "tossupA": "1/6", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccceb"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) OIL SHALE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following forms of coal typically has the \r\nHIGHEST percent carbon content: \r\n \r\nW) peat \r\nX) anthracite \r\nY) bituminous \r\nZ) lignite", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The U.S. contains a vast energy resource that could fuel \r\nthe nation for several hundred more years at our current rate of consumption if it were not so \r\ndifficult and expensive to mine. Which of the following BEST describes this resource: \r\n \r\n \r\nW) tar sands \r\nX) deep underground peat beds \r\nY) oil shale \r\nZ) propane", 
+    "tossupA": "X) ANTHRACITE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccec"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "92", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following BEST describes why all mammalian \r\nnucleated non-sex cells have the same chromosomes but appear and function in greatly different \r\nways: \r\n \r\nW) different cells lose and acquire different genes as they mature \r\nX) as cells mature they develop different genes \r\nY) different genes are turned on and off as cells mature \r\nZ) cells transport pieces of chromosomes called plasmids to control how different cells will function \r\nand appear", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What would be the number of chromosomes in a normal human \r\nskin cell that went through one complete sequence of mitosis and did not go through cytokinesis?", 
+    "tossupA": "Y) DIFFERENT GENES ARE TURNED ON AND OFF AS CELLS MATURE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccced"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) ORGANIC ACID", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice A litmus paper test is used to determine: \r\n \r\nW) whether a solution is acidic or basic \r\nX) simple metallic elements \r\nY) rates of reactions \r\nZ) bacterial counts in drinking water", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice A carboxyl group is the functional group in which of \r\nthe following classes of compounds: \r\n \r\nW) ester \r\nX) organic acid \r\nY) halocarbon \r\nZ) hydrocarbon", 
+    "tossupA": "W) WHETHER A SOLUTION IS ACIDIC OR BASIC", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccee"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) A COUNTERCLOCKWISE FLOW OF AIR INTO THE CENTER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is the most immediate driving force \r\nof surface ocean currents such as the North Pacific Drift and Gulf Stream currents: \r\n \r\nW) tides \r\nX) centripetal force of the oceans \r\nY) daily temperature variations \r\nZ) winds", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Looking at a weather map of the Northern Hemisphere, \r\nwhich of the following BEST describes the circulation of air around a low pressure system, \r\ndesignated with an \u201cL\u201d: \r\n \r\nW) a counterclockwise flow of air into the center \r\nX) a counterclockwise flow of air out of the center \r\nY) a clockwise flow of air into the center \r\nZ) a clockwise flow of air out of the center", 
+    "tossupA": "Z) WINDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccef"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) LONG-CHAIN HYDROCARBON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Which of the following is a polymer commonly used \r\nto manufacture plastic bottles, toys and indoor/outdoor carpeting: \r\n \r\nW) polyvinyl chloride \r\nX) polystyrene \r\nY) polypropylene \r\nZ) nylon", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Beeswax is BEST described as a: \r\n \r\nW) protein with small amounts of sugar \r\nX) petroleum derivative \r\nY) short-chain carbohydrate \r\nZ) long-chain hydrocarbon", 
+    "tossupA": "Y) POLYPROPYLENE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf1"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CERVICAL; THORACIC; LUMBAR; SACRAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What is the term for the front transparent covering of the human \r\neye through which light travels first?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Order the following 4 human vertebral bone types from \r\nUPPERMOST to the LOWERMOST in the vertebral column: sacral; lumbar; cervical; thoracic", 
+    "tossupA": "CORNEA", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf2"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) EFFICIENCY", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following statements is NOT true: \r\n \r\nW) neutral pH solutions have small but equal numbers of hydronium and hydroxide ions \r\nX) when an acid is added to water it will increase the solutions concentration of hydronium ions \r\nY) strong acids dissociate almost completely in water \r\nZ) strong bases do not dissociate in water", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice If the work input remains the same and there is an \r\nincrease in the output of a simple machine, there would also have to be an increase in the machine\u2019s: \r\n \r\nW) power \r\nX) efficiency \r\nY) friction \r\nZ) effort force", 
+    "tossupA": "Z) STRONG BASES DO NOT DISSOCIATE IN WATER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf3"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LARGEST = PACIFIC PLATE; SMALLEST = THE JUAN DE FUCA PLATE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true about rocks: \r\n \r\nW) corundum is harder than quartz \r\nX) pyrite is also known as \u2018fool\u2019s gold\u2019 \r\nY) halite occurs as a perfect cubic crystal \r\nZ) felsic rocks contain large amounts of magnesium and iron", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Of the following 4 tectonic plates, name the LARGEST and \r\nthe SMALLEST: the Pacific plate; the North American plate; the Juan de Fuca plate; the African \r\nplate", 
+    "tossupA": "Z) FELSIC ROCKS CONTAIN LARGE AMOUNTS OF MAGNESIUM AND IRON", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf4"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "DISTANCE = 6; MIDPOINT = (15, 8) \r\n \r\n(Solution: d = &radic;((18-12)<sup>2</sup> - (8-8)<sup>2</sup>) = -6; midpoint x = (x1 + x2)/2 = (12 + 18)/2 = 15 ; midpoint y = (y1 + y2)/2 = (8 + 8)/2 = 8)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following equations has a graph that is a circle: \r\n \r\nW) x<sup>2</sup> + y<sup>2</sup> = 25 \r\nX) 4y = 3x + 2 \r\nY) y = x<sup>2</sup> \r\nZ) x \u2013 3 = 0", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the distance between and give the coordinates of the midpoint \r\nbetween the following points: (12, 8) and (18, 8)", 
+    "tossupA": "W) x<sup>2</sup> + y<sup>2</sup> = 25", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf5"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "PURE WATER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Name all of the following 5 substances that are NOT \r\nderived from petroleum: amber; kerosene; asphalt; latex; paraffin", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Of the following 5 choices, which is the poorest \r\nconductor of electricity: sulfuric acid solution; copper wire; pure aluminum; salt solution; pure \r\nwater", 
+    "tossupA": "AMBER; LATEX", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf6"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GOLGI (ACCEPT GOLGI BODY OR GOLGI APPARATUS)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following types of nucleic acid carries a \r\ncomplementary copy of a gene from the DNA to the cytoplasm to instruct the order in which amino \r\nacids will be made into a protein: \r\n \r\nW) transfer RNA \r\nX) messenger RNA \r\nY) ribosomal RNA \r\nZ) DNA", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What cellular organelle functions to modify and package \r\nproteins it received from the rough endoplasmic reticulum and will typically prepare them for \r\nexporting outside the cell?", 
+    "tossupA": "X) MESSENGER RNA", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf7"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) THE PARTIAL MELTING AND REFREEZING OF SNOW CRYSTALS INTO \r\nICE GRAINS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following is NOT true about glaciations: \r\n \r\nW) the land under the West Antarctic Ice Sheet is being pushed down below sea level by the weight \r\nof the ice above \r\nX) most of the icebergs found in the North Atlantic come from the Iceland coast \r\nY) current ice sheets can be nearly 2 miles thick \r\nZ) glaciers can form near the equator at high altitude", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice In which of the following ways is firn formed on glaciers: \r\n \r\nW) the partial melting and refreezing of snow crystals into ice grains \r\nX) the polishing of rocks and boulders by abrasion in stream beds \r\nY) layers of sand and sediment originating in glaciers that are transported upslope by strong winds \r\nZ) friction between bedrock along the base of a glacier", 
+    "tossupA": "X) MOST OF THE ICEBERGS FOUND IN THE NORTH ATLANTIC COME \r\nFROM THE ICELAND COAST \r\n \r\n(Solution: they come from Greenland)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf9"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "336 \r\n \r\n(Solution: P(8,3) = 8!/(8-3)! = 8!/5! = 336)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Expand the following expression, giving your answer in standard \r\nbinomial form: (4x + 3y)<sup>2</sup>", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer How many different outcomes are possible if eight hydrogen fuel cars \r\ncompete in a race for which first, second, and third prizes will be awarded and no ties are possible?", 
+    "tossupA": "16x<sup>2</sup> + 24xy + 9y<sup>2</sup>", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccfa"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "NICHE; POPULATION; COMMUNITY; BIOSPHERE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the scientific technique astronomers have most \r\ncommonly used since the 1800\u2019s to analyze stars and other heavenly bodies for the presence of \r\ncertain elements?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Arrange the following 4 ecological systems in order of \r\nincreasing or broad level of complexity: population; community; niche; biosphere", 
+    "tossupA": "SPECTROSCOPY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccfb"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MUTUALISM (DO NOT ACCEPT: SYMBIOSIS OR COMMENSALISM)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer The ability to interbreed and produce sexually competent \r\noffspring is a classic characteristic of what taxonomical level of organisms?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Consider a microbial species that lives in the gut of cows and \r\nbreaks down cellulose. The cow benefits from the microbe predigesting cellulose and the microbe \r\nbenefits from the cow by having a place to live. What is scientific term for this sort of symbiosis?", 
+    "tossupA": "SPECIES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccfc"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2% \r\n \r\n(Solution: w/v% = 20g/1000ml \u00d7 100 = 2%)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Arrange the four states of matter in order of \r\nINCREASING kinetic energies for a given material:", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the weight per volume percent concentration of \r\na solution made by mixing 20 grams of glucose with enough water to make 1 liter of solution?", 
+    "tossupA": "SOLID; LIQUID; GAS; PLASMA", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccfd"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LEAST = ABYSSAL; GREATEST = NERITIC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer Arrange the following 4 layers of the Earth\u2019s atmosphere in \r\norder of DECREASING air pressure: stratosphere; exosphere; thermosphere; troposphere", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Of the following 4 ocean life zones, name the one that \r\ncontains the LEAST variety of ocean life and the one that contains the GREATEST variety of ocean \r\nlife, respectively: intertidal zone; neritic zone; bathyal (read as: bah-thee-ahl) zone; abyssal zone", 
+    "tossupA": "TROPOSPHERE; STRATOSPHERE; THERMOSPHERE; EXOSPHERE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccfe"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SPONGES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Oxygen released by plants during photosynthesis originates from \r\nwhat substance?", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Name all of the following 4 organisms that are considered to \r\nhave no true tissues: sponges; flatworms; round worms; rotifers", 
+    "tossupA": "WATER (ACCEPT: H\r\n2\r\nO)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccce8"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2x", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate the following radical expression: \u2013&radic;(&radic;16) (read as: the \r\nnegative square root of the square root of 16)", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Simplify the following expression if x represents a negative quantity: -(16x<sup>4</sup>)<sup>1/4</sup>", 
+    "tossupA": "\u20132", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccff"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Solve the following radical equation for x, when x is a real number: &#8732;(x-2) = 2", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the surface area of a right rectangular prism is 188 cubic centimeters \r\nand its length is 6 centimeters and its height is 7 centimeters, find its width, to the nearest whole \r\ncentimeter:", 
+    "tossupA": "18", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf0"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) KINETIC ENERGY CAN ONLY DECREASE WHEN POTENTIAL ENERGY \r\nDECREASES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the BEST evidence that \r\nlight travels as a wave: \r\n \r\nW) a metal that is heated produces different colors \r\nX) passing light through two pinholes can produce an interference pattern \r\nY) light has a constant speed in a vacuum \r\nZ) high frequencies have short wavelengths", 
+    "packetNum": 13, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT true: \r\n \r\nW) weight decreases as you move away from the Earth\u2019s surface \r\nX) mass times gravitational acceleration is weight \r\nY) gravitational potential energy increases with increasing height \r\nZ) kinetic energy can only decrease when potential energy decreases", 
+    "tossupA": "X) PASSING LIGHT THROUGH TWO PINHOLES CAN PRODUCE AN \r\nINTERFERENCE PATTERN", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecccf8"
+    }, 
+    "questionNum": 18
+  }
+]

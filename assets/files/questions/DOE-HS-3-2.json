@@ -1,0 +1,427 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "HALOGEN = IODINE;  METALLOID = SILICON;  TRANSITION METAL = IRON", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  In addition to iron, what 2 substances must be present for iron to \r\nrust?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Classify the following 3 elements as a halogen, metalloid, or \r\ntransition metal, respectively:  silicon;  iron;  iodine", 
+    "tossupA": "OXYGEN;  WATER  (ACCEPT:  O\r\n2\r\n, H\r\n2\r\nO)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5a8"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X)  JUGULAR ARTERY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  What is the most appropriate term for the genetic character of an \r\norganism having a pair of identical alleles for a certain trait: \r\n \r\nW)  dominant \r\nX)  recessive \r\nY)  homozygous \r\nZ)  heterozygous", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT a blood vessel located in the human \r\nhead or neck: \r\n \r\nW)  jugular vein  \r\nX)  jugular artery \r\nY)  internal carotid artery \r\nZ)  temporal vein", 
+    "tossupA": "Y)  HOMOZYGOUS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5aa"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$550.00 \r\n \r\n(Solution:  10,000 \u2013 4000 = 6000 bal;  6000 \u00d7 0.1 = 600;  6,600 \u00f7 12 months = $550.00)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Solve the following inequality for x:  |(x + 5)| > \u20137  (read as: the absolute \r\nvalue of, open parenthesis, x + 5, close parenthesis, is greater than \u20137)", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  The Adams family bought a home entertainment system for $10,000.00.  \r\nThey paid $4,000.00 down and must pay off the balance in 12 equal payments.  If the simple interest \r\non the balance is 10% of the amount borrowed, how much is each monthly installment?", 
+    "tossupA": "ALL REAL NUMBERS  (ACCEPT:  + INFINITY TO \u2013INFINITY)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5ab"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  SEDIMENTATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Short Answer  What is the name for the lowermost 12 to 18 kilometers of \r\nEarth\u2019s atmosphere?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT a process that makes up the \r\nEarth\u2019s hydrologic cycle: \r\n \r\nW)  precipitation \r\nX)  condensation \r\nY)  transpiration \r\nZ)  sedimentation", 
+    "tossupA": "TROPOSPHERE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5ac"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  100 NANOMETERS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  An isotonic solution of sodium chloride, also known as \r\nnormal saline, is what percent by mass: \r\n \r\nW)  0.045% \r\nX)  0.9% \r\nY)  2.5% \r\nZ)  10%", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following BEST describes the size of a \r\ntypical animal virus: \r\n \r\nW)  600 micrometers \r\nX)  100 nanometers \r\nY)  1 nanometer \r\nZ)  1 angstrom", 
+    "tossupA": "X)  0.9%", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5ad"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Al = 2;  S = 3;  O = 12", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What element is central to synthetic chemistry because of the \r\nunique ability of its atoms to bind to one another with single, double and triple bonds and form \r\nchains, branches and rings of varying sizes?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  How many atoms of each element are in the following molecule:  \r\nAl\r\n2\r\n(SO\r\n4\r\n)\r\n3", 
+    "tossupA": "CARBON", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5af"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X)  4 TO 1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following is the SI unit for the product of newtons and \r\nmeters: \r\n \r\nW)  henry \r\nX)  watt \r\nY)  erg \r\nZ)  joule", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  In a gearing arrangement where a 10-tooth pinion drives a 40-tooth \r\ngear, what is the gear ratio: \r\n \r\nW)  1 to 4 \r\nX)  4 to 1 \r\nY)  1 to 10 \r\nZ)  40 to 1", 
+    "tossupA": "Z)  JOULE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b0"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "62 \r\n \r\n(Solution:  2 + 4 + 8 + 16 + 32 = 62)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Simplify the following, giving your answer in proper scientific notation:  \r\n(2.0 \u00d7 10<sup>-6</sup>)<sup>4</sup>", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the sum of the first 5 terms of the geometric sequence in which \r\nthe first term is 2 and the common ratio is 2?", 
+    "tossupA": "1.6 \u00d7 10<sup>-23</sup>", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b2"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ENCELADUS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is the largest global reserve of \r\ncarbon on Earth: \r\n \r\nW)  oceans \r\nX)  soils \r\nY)  vegetation \r\nZ)  atmospheric CO\r\n2", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  What moon of Saturn was shown by the Cassini space-craft \r\nto be spewing a watery, gassy plume from its geothermally heated south pole?", 
+    "tossupA": "W)  OCEANS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b3"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "DOPING", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is a trace element in coal that \r\nis a pollutant and neurotoxin released into the atmosphere when coal is burned, for which some \r\nstates are currently developing technologies to reduce these emissions by 70 to 90%: \r\n \r\nW)  sulfur \r\nX)  mercury \r\nY)  carbon \r\nZ)  chromium", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  What is the term for the process of the addition of small \r\namounts of certain elements that makes semiconductors become useful electronic materials?", 
+    "tossupA": "X)  MERCURY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b4"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y)  THE SUN\u2019S RAYS STRIKE THE NORTHERN HEMISPHERE MORE \r\nDIRECTLY IN SUMMER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple choice  Main sequence stars are found in a region on the H-R diagram \r\nthat is oriented on the diagram from: \r\n  \r\nW)  upper left to lower left \r\nX)  upper left to lower right \r\nY)  upper right to lower left \r\nZ)  upper right to lower right", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following is the BEST explanation for why the \r\nNorthern Hemisphere\u2019s summer occurs when the Sun is not the closest to Earth in Earth\u2019s orbit \r\naround the Sun:  \r\n \r\nW)  the Sun\u2019s rays are made of mostly neutrinos that have such small mass that distance does not \r\nmatter \r\nX)  the Sun emits different amounts of energy at different times of the year  \r\nY)  the Sun\u2019s rays strike the Northern Hemisphere more directly in summer \r\nZ)  because of precession", 
+    "tossupA": "X)  UPPER LEFT TO LOWER RIGHT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b5"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "HYDROGEN BONDING", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the MOST common method for separating a mixture of \r\nliquids based on the differences in component volatilities?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What type of interaction occurs between molecules of H\r\n2\r\nO that \r\ncauses it to have a higher boiling point than H\r\n2\r\nS?", 
+    "tossupA": "DISTILLATION  (ACCEPT:  FRACTIONAL or SIMPLE DISTILLATION)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b6"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W)  IS ZERO", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Giving your answer as north, south, east, or west relative to a point on \r\nthe Equator, in what direction is the Earth\u2019s angular velocity as it rotates daily about its axis?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Ignoring air resistance, wind velocity, and the rotation of the Earth, \r\nif a projectile is fired directly upwards, the horizontal component of the projectile\u2019s velocity: \r\n \r\nW)  is zero \r\nX)  remains a non zero constant \r\nY)  continuously increases \r\nZ)  continuously decreases", 
+    "tossupA": "NORTH \r\n \r\n(Solution:  fingers of right hand go towards east (direction of Earth\u2019s rotation) and thumb goes north)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b7"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "100 \r\n \r\n(Solution:  &radic;(10000 * 1) =  100)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Evaluate the following radical expression:  5&radic;3 - &radic;75", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the positive geometric mean between the numbers 1 and 10,000:", 
+    "tossupA": "0", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b9"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  100%", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  In which of the following locations is oceanic crust \r\nconverging with oceanic crust: \r\n \r\nW)  the Aleutian Islands  \r\nX)  the Himalayan Mountains \r\nY)  the Mid-Atlantic Ridge \r\nZ)  the East Pacific Rise", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  About what percent of all glaciers in the world are \r\nretreating today: \r\n \r\nW)  25% \r\nX)  50% \r\nY)  75% \r\nZ)  100%", 
+    "tossupA": "W)  THE ALEUTIAN ISLANDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5ba"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y)  PETROCHEMICALS ARE USED TO MAKE LATEX", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  The process in which fat globules in milk are broken \r\nup into smaller, more evenly dispersed particles is BEST described as: \r\n \r\nW)  lactation  \r\nX)  pasteurization  \r\nY)  fermentation \r\nZ)  homogenization", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is LEAST accurate regarding \r\nnon-fuel petroleum products: \r\n \r\nW)  petroleum jelly is often used to make household toiletries \r\nX)  asphalt is often used in making roof shingles \r\nY)  petrochemicals are used to make latex \r\nZ)  printing inks and paint solvents are often petroleum-based", 
+    "tossupA": "Z)  HOMOGENIZATION", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5bb"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "GALAXIES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What scientific term is given to the apparent path of the Sun \r\naround the celestial sphere?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  The local group is a collection of what type of astronomical \r\nbodies?", 
+    "tossupA": "THE ECLIPTIC", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5bc"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "HALF-LIFE  (ACCEPT:  t\u00bd )", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What general term BEST describes the use of electrical current to \r\ncause a normally non-spontaneous reaction to occur?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  In a chemical reaction, what is the term that describes the time \r\nrequired for a reactant to reach half its original concentration?", 
+    "tossupA": "ELECTROLYSIS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5bd"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "3 \r\n \r\n(Solution:  t = 60s/20drops = 3 sec)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Neglecting air resistance, at what angle above the horizontal would \r\nyou aim your garden hose nozzle to obtain the greatest horizontal distance if the nozzle is at ground \r\nlevel: \r\n \r\nW)  0\u00ba \r\nX)  30\u00ba \r\nY)  45\u00ba \r\nZ)  60\u00ba", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Tim hears water dripping from a faucet while trying to take a nap.  If \r\nhe counts 20 drops in one minute, what is the period of the drops, in seconds?", 
+    "tossupA": "Y)  45\u00ba", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5be"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ESOPHAGUS;  CERVIX", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  The lambdoid suture is found in which of the following parts of \r\nthe human body: \r\n \r\nW)  scapula \r\nX)  pelvis \r\nY)  skull \r\nZ)  knee", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 5 organs in the human body that are NOT \r\ntypically considered part of the respiratory system:  nose;  bronchi;  pharynx; esophagus;  cervix", 
+    "tossupA": "Y)  SKULL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5bf"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "76 \r\n \r\n(Solution: 8km/h \u00d7 9.5 h = 76 km)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  If a car is going around a corner, which of the following statements \r\ncorrectly describes the relationship among the speeds of the wheels on the car: \r\n \r\nW)  the wheels all rotate at the same speed  \r\nX)  the wheels on the inside of the corner rotate faster because they have less distance to travel \r\nY)  the wheels on the inside of the corner rotate faster because they have more distance to travel  \r\nZ)  the wheels on the outside of the corner rotate faster because they have more distance to travel", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  How many kilometers will a mosquito travel in 9.5 hours if it moves in \r\na straight path with an average speed of 8 kilometers per hour?", 
+    "tossupA": "Z)  THE WHEELS ON THE OUTSIDE OF THE CORNER ROTATE FASTER \r\nBECAUSE THEY HAVE MORE DISTANCE TO TRAVEL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5a9"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "HELIUM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Our Sun is a: \r\n \r\nW)  A-type star \r\nX)  B-type star \r\nY)  G-type star \r\nZ)  K-type star", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What element was first discovered through spectroscopic analysis \r\nof the Sun?", 
+    "tossupA": "Y)  G-TYPE STAR", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5ae"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CLAM;  OYSTER;  MUSSEL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  The type of muscle that is in the walls of human arteries is: \r\n \r\nW)  smooth  \r\nX)  striated \r\nY)  skeletal \r\nZ)  fast twitch", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 organisms that are bivalves: \r\nclam;  oyster;  mussel;  snail", 
+    "tossupA": "W)  SMOOTH", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b1"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MUSCLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is a homologous structure to a whale \r\nflipper: \r\n \r\nW)  insect wing \r\nX)  human arm \r\nY)  a fish operculum \r\nZ)  shark fin", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  A sarcomere is a basic unit in what specific tissue of mammals?", 
+    "tossupA": "X)  HUMAN ARM", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5b8"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "15  \r\n \r\n(Solution:  current = watts/volts; 3600/240 = 15 amperes)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the SI unit given to a volt per ampere?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  What is the current, in amperes, for a 3600-watt electric conveyor \r\noperating on a 240-volt power source?", 
+    "tossupA": "OHM", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd5c0"
+    }, 
+    "questionNum": 27
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Often some of the strongest spectral lines in cold interstellar gas are \r\nproduced by: \r\n \r\nW)  neutral lithium \r\nX)  ionized iron \r\nY)  carbon and iron \r\nZ)  calcium and sodium", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  The cosmic background radiation discovered by Penzias and Wilson \r\nclosely matches the radiation from a black body with what temperature Kelvin, to the nearest whole \r\nnumber?", 
+    "tossupA": "Z)  CALCIUM AND SODIUM", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd2d"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "NH\r\n3\r\n;  CH\r\n3\r\nOH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following salt solutions, all at 1.0 molar \r\nconcentration, will have a pH value less than 7: \r\n \r\nW)  NH\r\n4\r\nCl   \r\nX)  NaC\r\n2\r\nH\r\n3\r\nO\r\n2\r\n   \r\nY)  KCl \r\nZ)  LiBr", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Name all of the following 4 compounds that exhibit  \r\nhydrogen bonding:  CH\r\n4\r\n;  H\r\n2\r\nS;  NH\r\n3\r\n;  CH\r\n3\r\nOH", 
+    "tossupA": "W)  NH\r\n4\r\nCl", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd2e"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "EXOSPHERE;  THERMOSPHERE;  STRATOSPHERE;  TROPOSPHERE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is the BEST example of a  \r\nnon-point source pollution: \r\n \r\nW)  leaching from a landfill \r\nX)  a leaking septic tank \r\nY)  fertilizer runoff from agricultural fields \r\nZ)  chemical spills at a mining site", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  Arrange the following 4 layers of the Earth\u2019s atmosphere in \r\norder of INCREASING air pressure:  stratosphere;  exosphere;  thermosphere;  troposphere", 
+    "tossupA": "Y)  FERTILIZER RUNOFF FROM AGRICULTURAL FIELDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd31"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "NUCLEAR MAGNETIC RESONANCE  (ACCEPT:  NMR or MAGNETIC \r\nRESONANCE SPECTROSCOPY)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Some vitamin tablets contain high concentrations of \r\nzinc and must be formulated to include high levels of which of the following minerals in order to \r\nprevent an induced anemia:  \r\n \r\nW)  copper \r\nX)  calcium \r\nY)  magnesium \r\nZ)  boron", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  What is the most common name for the technique that \r\nplaces a molecule in a strong magnetic field, irradiates the molecule with radio waves, and finally \r\ndetects changes in the spin of atoms in the molecule?", 
+    "tossupA": "W)  COPPER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd32"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "250  (ACCEPT:  250X or 250 TIMES) \r\n \r\n(Solution:  5000mm/20mm = 250)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Landform deposits called linear dunes that were recently found \r\non the moon Titan are MOST directly produced by: \r\n \r\nW)  tectonic activity \r\nX)  wind \r\nY)  erosion by the retreat and advance of large seas of liquid methane  \r\nZ)  streaks in the surface following low-angle meteorite impacts", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the magnifying power of the telescope with a focal length \r\nof 5 meters and an eyepiece of 20 millimeters?", 
+    "tossupA": "X)  WIND", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd33"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X)  BLUE AND PURPLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  The process in which an atom reradiates a photon after interacting \r\nwith an incident photon of the same energy is called: \r\n \r\nW)  Rayleigh scattering  \r\nX)  the Cherenkov effect \r\nY)  Bragg\u2019s Law \r\nZ)  Thomson scattering", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  A protanomalous person has decreased sensitivity of the red cones \r\nin his or her eyes.  Which of the following color pairs will this person have difficulty distinguishing \r\nbetween: \r\n \r\nW)  red and green \r\nX)  blue and purple \r\nY)  yellow and turquoise \r\nZ)  dark navy blue and black", 
+    "tossupA": "Z)  THOMSON SCATTERING", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd34"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "29  \r\n \r\n(Solution:  MgCO\r\n3\r\n = 24 + 12 + (3 \u00d7 16) = 84;  24/84 = 28.57%)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is typically TRUE of organic \r\ncompounds: \r\n \r\nW)  acetylene contains delocalized pi bonds \r\nX)  the simplest carboxylic acid is ethanoic acid \r\nY)  ketones have no hydrogen atoms directly attached to the carbonyl group \r\nZ)  alcohols contain nonpolar hydroxyl groups", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Rounded to the nearest whole number, what is the percent of \r\nmagnesium in magnesium carbonate, given the atomic mass of magnesium is 24 grams per mole?", 
+    "tossupA": "Y)  KETONES HAVE NO HYDROGEN ATOMS DIRECTLY ATTACHED TO THE \r\nCARBONYL GROUP", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd35"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CELL = BASIDIUM;  PRODUCT = BASIDIOSPORE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  In the famous experiment by Hershey and Chase that showed \r\nDNA was the genetic material, what did they use to transmit the DNA into E. coli: \r\n \r\nW)  other E. coli \r\nX)  electric shocks \r\nY)  a blender \r\nZ)  bacteriophage", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  In the Amanita mushroom, what is the name of the cell in which \r\nkaryogamy and meiosis occur and what is the product of meiosis, respectively?", 
+    "tossupA": "Z)  BACTERIOPHAGE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd36"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "\u00b12&radic;2\r\n AND \u00b11", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following are coterminal angles in standard position \r\n(read slowly): \r\n \r\nW)  550\u00ba and 185\u00ba \r\nX)  80\u00b0 and \u2013190\u00b0 \r\nY)  1160\u00b0 and 800\u00b0 \r\nZ)  181\u00b0 and \u2013118\u00b0", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Solve the following equation for x, expressing your answer in simplest \r\nradical form over the real numbers:  x<sup>4</sup> \u2013 9x<sup>2</sup> + 8 = 0", 
+    "tossupA": "Y)  1160\u00b0 AND 800\u00b0 \r\n \r\n(Solution:  80 +3(360\u00ba) = 1160\u00ba;  80 +2(360\u00ba) = 800\u00ba)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd37"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "GREENING  (ACCEPT:  CITRUS GREENING)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following instruments is BEST used to \r\nimage small, transparent and fluorescent specimens and obtain optical sections without the need for \r\nmechanical sectioning: \r\n \r\nW)  X-ray microanalyzer \r\nX)  scanning electron microscope \r\nY)  transmission electron microscope \r\nZ)  confocal laser scanning microscope", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  A relatively new scourge to the citrus growers in Florida, \r\nwhat is the common name of the citrus disease caused by a species of bacteria called C. liberibacter \r\nand spread by an introduced non-native insect?", 
+    "tossupA": "Z)  CONFOCAL LASER SCANNING MICROSCOPE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd39"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W)  THE LINEAR PORTION OF A STRESS/STRAIN CURVE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  In a compound gearing arrangement where a 40-tooth gear drives \r\nan 80-tooth gear which is directly connected to a 50-tooth gear that drives a 100-tooth gear, the total \r\nreduction is a factor of: \r\n \r\nW)  2 \r\nX)  2.5 \r\nY)  4 \r\nZ)  5", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Elastic deformation is BEST described as: \r\n \r\nW)  the linear portion of a stress/strain curve \r\nX)  the ultimate strength of a material \r\nY)  0.02% elongation \r\nZ)  permanent deformation", 
+    "tossupA": "Y)  4", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd3b"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "CO;  HCl;  LiBr;  KF", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following elements has the largest second \r\nionization energy: \r\n \r\nW)  fluorine  \r\nX)  nitrogen \r\nY)  boron \r\nZ)  lithium", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Arrange the following compounds in order of INCREASING \r\nionic characteristic:  HCl;  LiBr;  CO;  KF", 
+    "tossupA": "Z)  LITHIUM \r\n \r\n(Solution:  core electrons must be removed)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd3c"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W)  HOMEOBOX GENES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following are MOST often used to introduce foreign \r\ngenes into mammalian genomes: \r\n \r\nW)  sliceosomes (read as: sly-see-oh-somz) \r\nX)  zinc fingers \r\nY)  plasmids \r\nZ)  telomeres", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following regulate development in animals, plants \r\nand fungi, and were first discovered in Drosophila: \r\n \r\nW)  homeobox (read as: HOME-ee-oh-box) genes \r\nX)  p53 \r\nY)  shock genes \r\nZ)  oncogenes", 
+    "tossupA": "Y)  PLASMIDS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd3d"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "OIL SHALE  (ACCEPT:  SHALE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Orthoclase feldspar primarily weathers by which of the \r\nfollowing processes to form clay minerals: \r\n \r\nW)  abrasion \r\nX)  hydrolysis \r\nY)  exfoliation \r\nZ)  dissolution", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  What is the name for the sedimentary rock that carries high \r\nconcentrations of organic material in the form of kerogen, which can yield oil when heated and \r\ndistilled?", 
+    "tossupA": "X)  HYDROLYSIS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd3f"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "STRESS CONCENTRATION  (ACCEPT:  STRESS CONCENTRATION AT THE \r\nCHANGE IN DIAMETER)  (DO NOT ACCEPT:  STRESS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  Name all of the following 4 reagents that would NOT  \r\nbe labeled as a highly flammable substance: \r\nmethanol;  diethyl ether;  30% hydrogen peroxide;  benzene", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  What engineering term is MOST commonly used to \r\ndescribe why a shaft with a radius at a transition in diameter is stronger than the same shaft with an \r\nabrupt transition in diameter?", 
+    "tossupA": "30% HYDROGEN PEROXIDE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd40"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MERCURY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  If the surface temperature of a given star increased from \r\n20,000K to 60,000K, how many times as much energy would the star release?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  Name all of the following 4 celestial objects that, when viewed \r\nfrom the Earth, CANNOT be in opposition:  Moon;  Mercury;  Mars;  Neptune", 
+    "tossupA": "81  (ACCEPT:  3\r\n4\r\n)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd41"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "200 \r\n \r\n(Solution:  12,000/120 = 20,000/x;  x = 200)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What specific type of semiconductor is produced by adding \r\nphosphorus to silicon?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  How many turns are in the secondary coil of a transformer that has a \r\nprimary coil with 20,000 turns and is designed to step down 12,000 volts AC to 120 volts AC?", 
+    "tossupA": "N-TYPE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd42"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "0.08  (DO NOT ACCEPT 8.0%) \r\n \r\n(Solution:  100g/18 g mol\r\n-1\r\n = 5.56 moles;  0.5 mol/(5.56 + 0.5) = 0.0825)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  The hybridization of one \u2018s\u2019 (read as: one <pause> s) orbital and \r\n3 \u2018p\u2019 (read as: three <pause> p) orbitals and one \u2018d\u2019 (read as: one <pause> d) orbital creates how \r\nmany sp\r\n3\r\nd hybrid orbitals?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  A solution contains 0.50 moles of methanol in 100 grams of \r\nwater.  What is the mole fraction of methanol, to the second decimal place?", 
+    "tossupA": "5", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd43"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HELPER T CELLS;  CD8 CELLS;  CD4 CELLS;  PLASMA CELLS   \r\n(ACCEPT:  ALL)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Black water fever is a complication of malarial infection.  The term \r\nblack water comes from what oxidized product in the urine of infected individuals?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 human blood cells that are considered \r\nlymphocytes:  helper T cells;  CD8 cells;  CD4 cells;  plasma cells", 
+    "tossupA": "HEMOGLOBIN  (ACCEPT:  MET-HEMOGLOBIN)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd44"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "C = 40%;  H = 7%;  O = 53%  \r\n \r\n(Solution:  C\r\n \r\n= 24/60 \u00d7 100% = 40%;  H\r\n \r\n= 4/60 \u00d7 100% = 6.7%;  O\r\n \r\n= 32/60 \u00d7 100% = 53.3%)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  Calculate the atom percent composition, rounded to the nearest \r\nwhole number, for each atom in acetic acid:", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Calculate the mass percent composition, rounded to the nearest \r\nwhole number, for each atom in acetic acid:", 
+    "tossupA": "C = 25%;  H = 50%;  O = 25%", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd45"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "1,  2  AND 3  (ACCEPT:  ALL BUT #4)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  In early experiments in the mid-1900\u2019s, the source and fate of \r\noxygen involved in photosynthesis was mostly determined through experiments that used: \r\n \r\nW)  animals in closed containers that would die unless a plant was introduced into the container \r\nX)  a heavy isotope of oxygen as a tracer \r\nY)  fluorescent labeling of various enzymes and organic products \r\nZ)  simple accounting of the atomic mass of all the reactants and products", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  By number or name, identify all of the following 4 processes that \r\ncontribute directly to genetic variation in humans:  1) random fertilization of ova with sperm;  2)  \r\ncrossing over;  3) independent assortment;  4) mitosis", 
+    "tossupA": "X)  A HEAVY ISOTOPE OF OXYGEN AS A TRACER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd2f"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2,160 \r\n \r\n(Solution:  (14 \u2013 2)(180) = 2,160\u00ba)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If you roll 2 fair dice simultaneously, what is the probability, given as a \r\nfraction, that you will roll the number 6 on AT LEAST one die?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the sum of all interior angles, in degrees, in a regular polygon having \r\n14 sides:", 
+    "tossupA": "11/36", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd30"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  THEY ARE MORE CLOSELY SPACED OVER NORTH AMERICA IN THE \r\nSUMMER THAN IN THE WINTER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is the BEST example of an ocean \r\ncurrent found in the intertidal littoral zone that flows seaward: \r\n \r\nW)  rip current \r\nX)  tidal bore \r\nY)  the Antarctic Circumpolar Current \r\nZ)  equatorial tidal current", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT true of isotherms: \r\n \r\nW)  they are more widely spaced over the equatorial regions \r\nX)  they are more closely spaced over North America in the summer than in the winter \r\nY)  they tend to be linear in form in the Southern Hemisphere south of 40\u00ba latitude \r\nZ)  they are lines that connect places with the same average temperature", 
+    "tossupA": "W)  RIP CURRENT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd38"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  MAP THE COSMIC BACKGROUND RADIATION TO MUCH GREATER \r\nACCURACY AND PRECISION THAN PREVIOUS INSTRUMENTS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  A sidereal drive is a motor on a telescope that turns it in a \r\ncertain direction to keep the telescope aimed at a certain celestial object.  Giving your answer as \r\nnorth, south, east or west, in what direction does it turn?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  The Wilkinson Microwave Anisotropy Probe was specifically \r\ndesigned to: \r\n \r\nW)  map all matter in the universe down to a resolution of 1 arc second \r\nX)  map the cosmic background radiation to much greater accuracy and precision than previous \r\ninstruments \r\nY)  map the size and locations of the Local Group \r\nZ)  map the exact location of the active galactic center of the Milky Way", 
+    "tossupA": "WEST", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd3a"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(1, 2)  (ACCEPT:  1 AND 2)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What function is the inverse of y = 3x + 4?", 
+    "packetNum": 12, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Giving your answer as an ordered pair, find the solution of the system of \r\nthe following 2 equations:  2x + 3y = 8, and 3x \u2013 2y = \u20131", 
+    "tossupA": "y = (x-4)/3", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdd3e"
+    }, 
+    "questionNum": 18
+  }
+]

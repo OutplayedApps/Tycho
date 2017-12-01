@@ -1,0 +1,427 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "ELECTRON CAPTURE, ARGON-37", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  To identify the chemical compounds dissolved in a sample, a \r\nstudent dips a clean piece of nichrome wire into the sample and burns it in a flame. The flame \r\nburns red. What metal does the mixture probably contain?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What are the decay mode and the daughter nuclide, \r\nrespectively, of potassium-37?", 
+    "tossupA": "CALCIUM (ACCEPT: LITHIUM, STRONTIUM, RUBIDIUM)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf3a"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "RELATIVE MINIMUM (ACCEPT: MINIMUM) AT (0, 1)  \r\n \r\n[DO NOT ACCEPT: (0, 1) ALONE]", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the maximum number of spheres with a radius of 1 that can fit \r\ninside a cube with edge lengths of 6?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find all points of inflection and extrema, including type, of the function \r\nf(x) = ( e<sup>x</sup> + e<sup>-x</sup> ) / 2.", 
+    "tossupA": "27", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf3b"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "420", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the phrase that describes the process of producing an \r\nelectron and a positron when a high-energy photon travels through matter, directly converting \r\nradiant energy into matter?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A living room has floor dimensions of 3.5 meters by 4.2 meters and \r\na height of 2.4 meters. Given air density of 1.2 kilograms per cubic meter, g of 10 meters per \r\nsecond squared, and providing your answer to the nearest ten, what does the air in the room \r\nweigh in newtons?", 
+    "tossupA": "PAIR PRODUCTION", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf3c"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "EPIDERMIS, CORTEX, ENDODERMIS, PERICYCLE, PHLOEM (ACCEPT: 2, 5, 3, \r\n1, 4)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following are NOT found in the thylakoid \r\nmembranes of the chloroplast? \r\n \r\nW) Carotenoids \r\nX) Rubisco \r\nY) Water \r\nZ) ADP", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  By name or number, order the following five cell layers in a eudicot \r\n(read as: yuh-DY-koht) root from most lateral to most medial: 1) pericycle, 2) epidermis, 3) \r\nendodermis, 4) phloem, 5) cortex.", 
+    "tossupA": "X) RUBISCO", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf3d"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "7", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  Give the specific name for the following functional group: a \r\nnitrogen atom bonded to two carbon chains and a hydrogen atom?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  At 25\u00b0 Celsius, the vapor pressure of water is about 3 \r\nkilopascals and the vapor pressure of methanol is about 15 kilopascals. Assuming no deviation \r\nfrom Raoult\u2019s law, determine the vapor pressure, in kilopascals, of a mixture of 1 mole of \r\nmethanol and 2 moles of water.", 
+    "tossupA": "SECONDARY AMINE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf3e"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "IRON", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  The period of revolution of a particle traveling in uniform circular \r\nmotion is a function of what two variables?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  You are asked to determine whether a king\u2019s crown is really made \r\nof gold. You weigh the crown; it weighs 8 newtons in air and 7 newtons in water. Its volume is \r\n0.0001 cubic meters. Given that the density of gold is 19,000 kilograms per cubic meter, the \r\ndensity of lead is 11,000 kilograms per cubic meter, and the density of iron is 8,000 kilograms \r\nper cubic meter, the king\u2019s crown is made of which material?", 
+    "tossupA": "VELOCITY (ACCEPT: CENTRIPETAL FORCE) AND RADIUS (ACCEPT: \r\nCIRCUMFERENCE, DIAMETER)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf3f"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "EPILIMNION (ACCEPT: 2)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  The freshwater and saltwater zones within coastal \r\naquifers are separated by a transition zone, also called the zone of dispersion, within which \r\nthere is mixing between freshwater and saltwater. Which state of the Northern Atlantic Coastal \r\nPlain Aquifer System has the shallowest depth to the top of the transition zone?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  In a stratified period of a lake, oxygen supplied directly \r\nby the atmosphere and photosynthetic organisms replenishes the dissolved oxygen of which of \r\nthe following three choices: 1) epilimnion (read as: eh-pi-LIM-nee-ohn), 2) hypolimnion (read as: \r\nhy-p\u014de-LIM-nee-ohn), or 3) thermocline?", 
+    "tossupA": "NORTH CAROLINA", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf40"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2 x 10\r\n\u2212\r\n5\r\n WEST", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Neglecting friction, a 33-kilogram cart rolls down a slope that is 20 \r\nmeters high and 60 meters long. Using 10 meters per second squared for g, what is the velocity \r\nin meters per second at the base of the slope?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A long straight wire carries a 10 ampere current north. Give the \r\nmagnitude in teslas and the direction of the magnetic field induced at a point 10 centimeters \r\ndirectly under the wire?", 
+    "tossupA": "20", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf41"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "W) ALL OF THE ALCOHOL DEHYDROGENASE MOLECULES ARE BOUND TO \r\nACETALDEHYDE MOLECULES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Approximately how much energy does the Sun generate in joules \r\nper hour if it converts about 4 billion kilograms of mass into pure energy every second? \r\n \r\nW) 10\r\n9\r\n  \r\nX) 10\r\n18\r\n \r\nY) 10\r\n30\r\n \r\nZ) 10\r\n33", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  In the presence of alcohol dehydrogenase, the rate of reduction of \r\nacetaldehyde to ethanol increases as you increase the concentration of acetaldehyde. \r\nEventually, the rate of reaction reaches a maximum, where further increases in the \r\nconcentration of acetaldehyde have no effect. Which of the following BEST explains this result? \r\n \r\nW) All of the alcohol dehydrogenase molecules are bound to acetaldehyde molecules \r\nX) At high concentrations of acetaldehyde, the activation energy of the reaction decreases \r\nY) The enzyme is no longer specific for acetaldehyde \r\nZ) At high concentrations of acetaldehyde, the change in free energy of the reaction decreases", 
+    "tossupA": "Y) 10\r\n30", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf42"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "DENSITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following compounds is NOT a \r\ncommon cement in sedimentary rocks? \r\n \r\nW) SiO\r\n2\r\n \r\nX) Fe\r\n2\r\nO\r\n3\r\n \r\nY) Mg\r\n2\r\nSiO\r\n3\r\n \r\nZ) CaCO\r\n3", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  The Ghyben-Herzberg relation characterizes the \r\nrelationship between the depth of freshwater occurring above and below sea level in the \r\npresence of a saltwater intrusion. What physical property determines this relationship?", 
+    "tossupA": "Y) Mg\r\n2\r\nSiO\r\n3", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf44"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  If the coulomb constant is 9 \u00d7 10<sup>9</sup> newton meters squared per \r\ncoulomb squared, what force, in newtons, will two particles with charges of +2 and -2 coulombs \r\nkept 2 meters apart exert on each other? \r\n \r\nW) 4.5 \u00d7 10<sup>9</sup> away from each other  \r\nX) 4.5 \u00d7 10<sup>9</sup> toward each other \r\nY) 9.0 \u00d7 \u00a010\r\n9\r\n toward each other \r\nZ) 1.8 \u00d7 \u00a010\r\n10\r\n toward each other", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Pam buys a pendulum clock at a discount store and discovers \r\nwhen she gets home that it loses 6 minutes each day. If the pendulum has a period of 2 \r\nseconds, by how much must the length be changed, to the nearest centimeter, so that the clock \r\nkeeps accurate time?", 
+    "tossupA": "Y) 9.0 \u00d7 \u00a010\r\n9\r\n TOWARD EACH OTHER", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf45"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1, 2, 3 AND 4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following statements is TRUE about \r\nPopulation I stars and II stars? \r\n \r\nW) Population I stars tend to be older than Population II stars \r\nX)  Population I stars of a given mass tend to be more luminous than Population II stars of the \r\nsame mass \r\nY) Population I stars tend to be found in the spiral arms of galaxies, while Population II stars \r\ntend to be found in globular clusters \r\nZ) Population I stars tend to have fewer heavy elements than Population II stars", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  Eclipsing binaries are binary star systems whose \r\nmembers eclipse each other, blocking one another\u2019s light and thereby causing the system to \r\nlook fainter to observers on Earth. Assuming that the eclipsing binary stars are spherical with \r\ncircular orbits, by number, identify all of the following 5 choices which could influence the light \r\ncurve of an eclipsing binary: 1) orbital inclination, 2) luminosities of the stars, 3) orbital period, 4) \r\nradii of the stars, 5) spectral type of the stars.", 
+    "tossupA": "Y) POPULATION I STARS TEND TO BE FOUND IN THE SPIRAL ARMS OF \r\nGALAXIES, WHILE POPULATION II STARS TEND TO BE FOUND IN GLOBULAR \r\nCLUSTERS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf46"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ALANINE AND ASPARTATE (ACCEPT: 2 AND 5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Cowbirds, common cuckoos, and African honeyguides lay their \r\neggs in the nests of other birds. As a result, what term is typically used to describe these birds?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  By name or number, identify all of the following five choices that \r\nare NOT essential amino acids for humans: 1) phenylalanine, 2) alanine, 3) tryptophan, 4) \r\nhistidine, 5) aspartate?", 
+    "tossupA": "BROOD PARASITE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf48"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If x<sup>2</sup> + y<sup>2</sup> = 5\r\n2\r\n, find dy\r\ndx\r\n in terms of x and y in simplest form.", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  A rectangle has both a changing height and a changing width, but the \r\nheight and width change so that the area of the rectangle is always 200 square feet. What is the \r\nrate of change of the width of the rectangle in feet per second when the height is 5 feet, if the \r\nheight is decreasing at that moment at the rate of 0.5 feet per second?", 
+    "tossupA": "-x\r\ny", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf49"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "DYSPLASTIC NEVUS (ACCEPT: DYSPLASTIC MELANOCYTIC NEVUS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following organelles would you expect to be MOST \r\nactive during apoptosis of the cells that contain them? \r\n \r\nW) Endoplasmic reticulum \r\nX) Golgi bodies \r\nY) Lysosomes \r\nZ) Ribosomes", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the scientific name for a type of skin growth that looks \r\ndifferent than a common mole? It is usually larger, with borders that are not easy to see, uneven \r\ncolors, and is partially raised above the skin surface.", 
+    "tossupA": "Y) LYSOSOMES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf4a"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "COMPANY B", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Roughly, which of the following BEST represents the solar \r\nenergy intensity in watts per square meter incident on the Earth? \r\n \r\nW) 200 \r\nX) 1,400 \r\nY) 3,000 \r\nZ) 10,000", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  Companies A, B, and C are forced to pay one dollar of tax per ton \r\nof carbon dioxide equivalent emissions. If Company A emits 100 tons of carbon dioxide and 4 \r\ntons of nitrous oxide, Company B emits 10 tons of carbon dioxide and 5 tons of nitrous oxide, \r\nand Company C emits 200 tons of carbon dioxide and no nitrous oxide, which company has to \r\npay the largest tax?", 
+    "tossupA": "X) 1,400", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf4b"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1.5", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  By number, identify all of the following four situations in which an \r\nobject is NOT in equilibrium: 1) when moving to the right with a constant velocity; 2) when \r\nslowing to a stop; 3) when moving with a constant speed in a circle; 4) when in free fall.", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A brass ball with a mass of 200 grams at 20\u00b0 Celsius is placed in \r\nboiling water until it reaches equilibrium. Given that the specific heat of brass is 0.094 \r\nkilocalories per kilogram degree Celsius, and providing your answer as a decimal to the nearest \r\ntenth, how much thermal energy in kilocalories is absorbed by the ball?", 
+    "tossupA": "2, 3, AND 4", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf4c"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ICTERIDS AND POLYPLACOPHORES (ACCEPT: 4 AND 5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the name of a highly contagious, infectious viral disease \r\nin cows that causes symptoms such as respiratory disease, conjunctivitis, encephalitis, and \r\nbrain infections?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  By name or number, identify all of the following five choices that \r\nare NOT arthropods: 1) trilobites, 2) chelicerates (read as: ki-LI-keh-rah-tehs), 3) crustaceans, \r\n4) icterids (read as: ik-TEHR-ids), 5) polyplacophores (read as: poh-lee-PLAH-koh-fors).", 
+    "tossupA": "INFECTIOUS BOVINE RHINOTRACHEITIS (ACCEPT: IBR) (DO NOT ACCEPT: \r\nMAD COW DISEASE)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf4d"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "75", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  By name or number, identify all of the following four \r\nsubstances that are substitutional alloys: 1) brass, 2) steel, 3) sterling silver, 4) pewter.", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  A chemist is trying to identify a chemical by determining its \r\nmolar mass. A sample weighing 0.75 grams was dissolved in 0.10 kilograms of benzene and \r\nthe freezing point depression was determined to be 0.50\u00b0 Celsius. Given the K\r\nf\r\n for benzene of \r\n5\u00b0 Celsius kilograms per mole, what is the molar mass of the chemical in grams per mole to the \r\nnearest whole number?", 
+    "tossupA": "BRASS, STERLING SILVER, AND PEWTER (ACCEPT: 1, 3, AND 4)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf4f"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "PRESENCE OF A MAGNETIC FIELD, STRENGTH OF A MAGNETIC FIELD \r\n(ACCEPT: 1 AND 2)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is the closest to the maximum \r\nsolar altitude for Barrow, Alaska in the course of a year? \r\n \r\nW) 90\u00b0 \r\nX) 45\u00b0 \r\nY) 20\u00b0 \r\nZ) 0\u00b0", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  By name or number, identify all of the following three \r\nproperties that Zeeman splitting can be used to determine: 1) presence of a magnetic field, 2) \r\nstrength of a magnetic field, 3) metal abundances?", 
+    "tossupA": "X) 45\u00b0", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf50"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "45", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  A well near the beach is suspected to be contaminated with \r\nchloride ions from sea water. If chloride is present, which of the following will produce a cloudy \r\nsuspension when mixed with the water? \r\n \r\nW) Silver nitrate \r\nX) Sodium nitrate \r\nY) Potassium acetate  \r\nZ) Calcium bromide", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  The molar mass of carbon dioxide is 44 grams. Providing your \r\nanswer to the nearest integer, if 88 grams of solid carbon dioxide sublimates, how many liters of \r\ncarbon dioxide gas will be formed at standard temperature and pressure?", 
+    "tossupA": "W) SILVER NITRATE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf51"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ENDORPHINS, SEROTONIN, ENKEPHALINS, DOPAMINE (ACCEPT: 1, 2, 4, AND \r\n5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Amebocytes from Limulus organisms are currently used in the \r\nmedical field to test for the presence of what substances?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  By name or number, identify all of the following five molecules \r\nthat function as vertebrate neurotransmitters: 1) endorphins, 2) serotonin, 3) biotin, 4) \r\nenkephalins, 5) dopamine.", 
+    "tossupA": "BACTERIAL TOXINS  (ACCEPT: TOXINS)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf52"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3(6x + 5)e\r\n\u2212\r\n3x\r\n [ACCEPT: (18x + 15)e\r\n\u2212\r\n3x\r\n]", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Populations P1 and P<sub>2</sub> are normally distributed and have identical \r\nmeans; however, the standard deviation of P1 is twice the standard deviation of P<sub>2</sub>. Which of \r\nthe following is TRUE about the percentage of observations falling within two standard \r\ndeviations of the mean for each population? \r\n \r\nW) The percentage for P1 is twice the percentage for P<sub>2</sub> \r\nX) The percentage for P1 is greater, but not twice as great, as the percentage for P<sub>2</sub> \r\nY) The percentage for P<sub>2</sub> is twice the percentage for P1 \r\nZ) The percentages are identical", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the second derivative of the function f(x) = (3 + 2x)e\r\n\u2212\r\n3x\r\n.", 
+    "tossupA": "Z) THE PERCENTAGES ARE IDENTICAL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf43"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "ZIRCONIUM CLADDING (ACCEPT: ZIRCONIUM)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Short Answer  What is the term for a kind of landfill technology, currently in \r\nresearch and development, that accelerates the biological decomposition of organic wastes in a \r\nlandfill by promoting the conditions necessary for the microorganisms that degrade the waste?", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  When water levels drop in a spent nuclear fuel pool, temperatures \r\nin the fuel assembly rise, accelerating the oxidation of the material that encases uranium oxide \r\npellets. If the oxidation reactions become self-sustaining, a fire can form that proceeds as a burn \r\nfront along the axis of the fuel rod toward the source of the oxidant. What is the name of the \r\nencasing material that is burning?", 
+    "tossupA": "BIOREACTOR", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf47"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following series converges? \r\n \r\nW) 1\r\nn0.5\r\n\u221en=1   \r\nX) 1\r\nn+1\r\n\u221en=1   \r\nY) n\r\nen\r\n\u221en=1   \r\nZ) en\r\nn\r\n\u221en=1", 
+    "packetNum": 14, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the limit of xx as x approaches 0 from the positive side?", 
+    "tossupA": "Y) n\r\nen\r\n\u221en=1", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdf4e"
+    }, 
+    "questionNum": 21
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "Y)  AN AMINO ACYL tRNA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What common organic molecule is made of an adenine residue, a \r\nribose sugar, and three phosphates:", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Transfer RNA charged with an amino acid is most accurately \r\ncalled: \r\n \r\nW)  a nascent tRNA \r\nX)  a tRNA with an amino acid attached \r\nY)  an amino acyl tRNA  \r\nZ)  t-primed RNA", 
+    "tossupA": "ATP  (ACCEPT:  ADENOSINE TRIPHOSPHATE)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8c8"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "6 \r\n \r\n(Solution:  P<sub>1</sub>V1 = P<sub>2</sub>V2;  (1.5atm)(8L) = (P<sub>2</sub>)(2L);  = 6atm)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  In general, which of the following stereoisomers are the most \r\ndissimilar in terms of their physical and chemical properties: \r\n \r\nW)  conformational \r\nX)  mirror-image \r\nY)  enantiomers (EE-nan-tee-oh-mers) \r\nZ)  geometric", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Under constant temperature conditions, a sample of gas has a \r\nvolume of 8 liters at a pressure of 1.5 atmospheres.  If a 2 liter container is used to hold the gas, \r\ncalculate the new pressure, in atmospheres:", 
+    "tossupA": "Z)  GEOMETRIC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8c9"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "80 METERS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  For two objects separated by a distance d, if the mass of one of the \r\nobjects increases by two times, by what factor will the gravitational attraction between them \r\nincrease?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Assuming air resistance is negligible and the gravitational acceleration \r\nis 10 meters per second squared, what is the distance traveled, in meters, by a body in free fall after 4 \r\nseconds if it started from rest?", 
+    "tossupA": "TWO  (ACCEPT:  2 TIMES)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8ca"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MASS, SIZE, AND DENSITY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice The lunar maria are: \r\n \r\nW)  composed of granite \r\nX)  less than one billion years old \r\nY)  between three and four billion years old \r\nZ)  older than the lunar highlands", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer   Based on what three physical properties do astronomers divide \r\nthe planets into terrestrial and Jovian:", 
+    "tossupA": "Y)  BETWEEN THREE AND FOUR BILLION YEARS OLD", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8cb"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6 \r\n \r\n(Solution:  Isosceles, thus: AB = BC;  3x - 2 = x + 10;  x = 6)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What German mathematician in 1865 cut a long rectangular strip of \r\npaper, gave the paper a half-twist, and pasted the ends together, to show that a sheet can have only \r\none side?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  In a triangle ABC, angle A = 55\u00b0 and angle B = 70\u00b0.  If line segment  \r\nAB = 3x - 2 and line segment BC = x + 10, what is the value of x?", 
+    "tossupA": "AUGUSTUS MOBIUS  (ACCEPT:  MOBIUS)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8cc"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MOHO  (ACCEPT:  M-DISCONTINUITY OR MOHOROIVICIC DISCONTINUITY)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Portions of the Ogallala aquifer are located under: \r\n \r\nW)  Nebraska  \r\nX)  the San Jaoquin valley \r\nY)  Arizona  \r\nZ)  Florida", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  The seismic discontinuity that marks the base of the crust of \r\nthe Earth is known as the what?", 
+    "tossupA": "W)  NEBRASKA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8cd"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "TEMPERING", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Because of its enhanced capacity to refract light, which \r\nglass formula is most suitable for making lenses and prisms, as well as for imitation jewels: \r\n \r\nW)  soda-lime \r\nX)  potassium silicate \r\nY)  borosilicate \r\nZ)  lead", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer   What is the general term for the process by which glass is \r\nstrengthened, which involves reheating the glass until it almost softens and then rapidly and \r\nuniformly cooling it again, causing it to go into extreme compression?", 
+    "tossupA": "Z)  LEAD", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8ce"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "Z)  255", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Multiple Choice  The allowing of long file names was a primary \r\ndifference between: \r\n \r\nW)  DOS and Windows 3.11 \r\nX)  Windows 3.11 and Windows for Workgroups \r\nY)  Windows 3.11 and Windows 95 \r\nZ)  Windows 95 and Windows 98", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Multiple Choice  In Windows 98, long file names can be up to how \r\nmany characters long: \r\n \r\nW)  35 \r\nX)  75 \r\nY)  100 \r\nZ)  255", 
+    "tossupA": "Y)  WINDOWS 3.11 AND WINDOWS 95", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8cf"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "KERATIN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  The oval window is directly stimulated by the vibrations of what \r\nbone?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Hair is mostly composed of what protein?", 
+    "tossupA": "STAPES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d0"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  NH<sub>4</sub>+", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Hydrogen bonding is due to a combination of forces, the most \r\nimportant of which is what type of interaction: \r\n \r\nW)  dipole-dipole \r\nX)  dipole-induced dipole  \r\nY)  induced dipole-induced  \r\nZ)  induced", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following compounds contains a coordinate \r\ncovalent bond: \r\n \r\nW)  NH<sub>4</sub>+ \r\nX) N<sub>2</sub>H<sub>4</sub> \r\nY) N<sub>2</sub> \r\nZ)  NH<sub>3</sub>", 
+    "tossupA": "W)  DIPOLE-DIPOLE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d1"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "BOSE-EINSTEIN CONDENSATE  (ACCEPT:  BEC)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the most common name for the magnetic fusion confinement \r\nsystem first developed in the USSR that has the shape of a toroid?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  In 1995, two scientists from the University of Colorado created what \r\nnew state of matter that would lead to their winning of a Nobel prize:", 
+    "tossupA": "TOKAMAK", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d2"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "KEPLER\u2019S THIRD LAW", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  What is the most common name for the pattern found etched \r\non samples of iron meteorites? \r\n \r\nW)  Widmanst\u00e4tten pattern  \r\nX)  Rhombic pattern \r\nY)  Halley\u2019s pattern \r\nZ)  Chondritic Rhombite pattern", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  If the sidereal period \u201cP\u201d of a planet is measured in years, and \r\nthe semi-major axis of the planet\u2019s elliptical orbit, \u201ca\u201d, is measured in astronomical units, then the \r\nequation governing the planet\u2019s motion given by the formula, P<sub>2</sub> = a<sub>3</sub>, is best known as what law?", 
+    "tossupA": "W)  WIDMANST\u00c4TTEN PATTERN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d3"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "x<sup>4</sup> \u2013 4x<sup>3</sup> + 6x<sup>2</sup> \u2013 4x +1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  A parallelogram whose adjacent sides are unequal is called a: \r\n \r\nW)  rhombus \r\nX)  rhomboid \r\nY)  deltoid \r\nZ)  rectangle", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Use the Binomial Theorem to expand and simplify the following \r\nequation:  (x \u2013 1)<sup>4</sup>", 
+    "tossupA": "X)  RHOMBOID", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d4"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MODIFIED MERCALLI SCALE (ACCEPT:  MERCALLI)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  What type of seismic wave causes the most damage \r\nduring an earthquake: \r\n \r\nW)  shear \r\nX)  compressional  \r\nY)  expansional  \r\nZ)  surface", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  What scale is based on the amount of vibration felt by \r\npeople during low-magnitude earthquakes and the extent of building damage during high magnitude \r\nearthquakes?", 
+    "tossupA": "Z)  SURFACE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d5"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  VARICELLA-ZOSTER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  The leaf of the Sugar Maple tree is considered to be: \r\n \r\nW)  palmately lobed \r\nX)  palmately compound \r\nY)  pinnately lobed \r\nZ)  pinnately compound", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is the causative agent for \r\nchicken pox: \r\n \r\nW)  Bordetella pertussis \r\nX)  Varicella-zoster \r\nY)  Variolla-zoster \r\nZ)  Vermicelli pertussis", 
+    "tossupA": "W)  PALMATELY LOBED", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d6"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "JOINT PHOTOGRAPHIC EXPERTS GROUP", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Multiple Choice  Resetting a computer that is already turned on to its \r\ninitial state whereby any data or programs in main memory are erased is called a: \r\n \r\nW)  clean boot \r\nX)  cold boot \r\nY)  warm boot \r\nZ)  hot boot", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Short Answer  What does the acronym for the JPEG graphics file \r\nformat stand for?", 
+    "tossupA": "Y)  WARM BOOT", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d7"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Y)  CARBON TETRACHLORIDE AND OCTANE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  The IUPAC name 1,4-dimethylcyclohexane is an example of \r\nwhich of the following: \r\n \r\nW)  cyclic alkane \r\nX)  branched alkane \r\nY)  straight chain alkane \r\nZ)  haloalkane (pronounced:  HAL-o-alkane)", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following solutions are miscible: \r\n \r\nW)  carbon tetrachloride and water \r\nX)  oil and water \r\nY)  carbon tetrachloride and octane \r\nZ)  octane and water", 
+    "tossupA": "W)  CYCLIC ALKANE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d9"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W)  FRESNEL BIPRISM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the common commercial unit of energy equal to 3,600,000 \r\njoules:", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following types of prisms was developed for \r\nobtaining interference between 2 sections of a wave front with diffraction largely eliminated: \r\n \r\nW)  Fresnel biprism \r\nX)  Littrow prism \r\nY)  Nicol prism \r\nZ)  Broca prism", 
+    "tossupA": "KILOWATT HOUR", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8da"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "VOLCANIC RILLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What is the common astronomical name for areas where \r\ngravitational attraction of two or more celestial bodies prevents objects in that area from maintaining \r\nan orbit, such as the spacings of semi-major axes of orbits of asteroids in the asteroid belt?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the name for a lunar ditch where molten lava once \r\nflowed?", 
+    "tossupA": "KIRKWOOD GAPS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8db"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "b = ad/c", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the longest chord of a circle also known as?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Solve the following equation for b:  (a+b)/b = (c+d)/d", 
+    "tossupA": "DIAMETER OF THE CIRCLE  (ACCEPT:  DIAMETER)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8dc"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  DIORITE AND ANDESITE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  A sharp ridge of erosion-resistant rock formed between \r\nadjacent cirque glaciers, often forming a saw-toothed mountain ridge is known as: \r\n \r\nW)  ar\u00eate \r\nX)  scree \r\nY)  levee \r\nZ)  moraine", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Two common igneous rocks derived from andesitic \r\nmagma are: \r\n \r\nW)  andesite and alkali basalt \r\nX)  diorite and andesite \r\nY)  komatite and rhyolite  \r\nZ)  rhyolite and kimberlite", 
+    "tossupA": "W)  AR\u00caTE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8dd"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z)  VITAMIN B-1 AND PELLAGRA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the predominant immunoglobulin class found in human \r\ntears?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following vitamins is NOT properly matched with \r\none of its major symptoms of deficiency: \r\n \r\nW)  vitamin C and bleeding of gums \r\nX)  vitamin D and poor bone structure \r\nY)  vitamin A and night blindness \r\nZ)  vitamin B-1 and pellagra", 
+    "tossupA": "IgA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8de"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "BOMB CALORIMETER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following polymers is the first man-made \r\npolymer: \r\n \r\nW)  nylon \r\nX)  Teflon \r\nY)  bakelite \r\nZ)  celluloid", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  The change in enthalpy, \u2206H, (read as: delta H), is to a calorimeter \r\nas the change in internal energy, \u2206E, (read as: delta E), is to what?", 
+    "tossupA": "Y)  BAKELITE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8df"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TRIGLYCERIDE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  In what specific part of the uterus does implantation normally occur?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What  is the most common name for a molecule of glycerol with all \r\nthree hydroxyl groups esterified to fatty acids?", 
+    "tossupA": "ENDOMETRIUM", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8d8"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "625   \r\n \r\n(Solution:  KE = \u00bd mv2 = \u00bd (50)(5)2 = 625 Joules)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  According to quantum chromodynamics, what is the name for the \r\nparticle that transmits the color charge?", 
+    "packetNum": 6, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  What is the kinetic energy, in Joules, of a 50 Kilogram person who is \r\nmoving at 5 meters per second?", 
+    "tossupA": "GLUON", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd8e0"
+    }, 
+    "questionNum": 27
+  }
+]

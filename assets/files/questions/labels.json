@@ -1,0 +1,92 @@
+{
+    "DOE-MS": {
+        "metadata": {
+            "label": "Official DOE Sample Questions",
+            "displayLabel": true
+        }
+    },
+    "DOE-HS": {
+        "metadata": {
+            "label": "Official DOE Sample Questions",
+            "displayLabel": true
+        }
+    },
+    "SAMPLE-RR-HS": {
+        "metadata": {
+            "label": "Sample RR (easy and medium)",
+            "displayLabel": true
+        },
+        "1": {
+            "metadata": {
+                "label": "First Batch of Questions imported 11/22/17"
+            },
+            "1": {
+                "metadata": {
+                    "label": "Assorted Questions 3.docx"
+                }
+            },
+            "2": {
+                "metadata": {
+                    "label": "Easy Round 2017.docx",
+                    "year": 2017
+                }
+            },
+            "3": {
+                "metadata": {
+                    "label": "Medium Round 2012.docx",
+                    "year": 2012
+                }
+            },
+            "4": {
+                "metadata": {
+                    "label": "Easy-Medium Round 2017.docx",
+                    "year": 2017
+                }
+            },
+            "5": {
+                "metadata": {
+                    "label": "Medium Round 2017.docx",
+                    "year": 2017
+                }
+            },
+            "6": {
+                "metadata": {
+                    "label": "Easier_Round_2017.docx"
+                }
+            }
+        }
+        
+    },
+    "SAMPLE-DE-HS": {
+        "metadata": {
+            "label": "Sample DE (difficult)",
+            "displayLabel": true
+        },
+        "1": {
+            "metadata": {
+                "label": "First Batch of Questions imported 11/22/17"
+            },
+            "1": {
+                "metadata": {
+                    "label": "Hard Round 2017.docx",
+                    "year": 2017
+                }
+            },
+            "2": {
+                "metadata": {
+                    "label": "Assorted Questions Mid-LateDE.docx"
+                }
+            },
+            "3": {
+                "metadata": {
+                    "label": "Assorted-Questions-RR-EarlyDE.docx"
+                }
+            },
+            "4": {
+                "metadata": {
+                    "label": "Difficult_Round_2014.docx.txt"
+                }
+            }
+        }
+    }
+}

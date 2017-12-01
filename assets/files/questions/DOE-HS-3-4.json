@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "ECHINODERMS;  SEA URCHINS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Robert Hooke coined the term \u2018cell\u2019 mostly because of: \r\n \r\nW)  his observations of red blood cells \r\nX)  his observations of cork cells \r\nY)  his analysis of hundreds of different protozoans \r\nZ)  his readings of the works of other early microscopists", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 organisms that would be considered to \r\nhave radial symmetry:  flatworms;  cestodes;  Echinoderms;  sea urchins", 
+    "tossupA": "X)  HIS OBSERVATIONS OF CORK CELLS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdebd"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "MERCURY;  WATER;  ETHANOL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following properties BEST explains why small \r\nliquid water droplets on a clean sheet of glass often coalesce into larger spherical water droplets: \r\n \r\nW)  tensile strength  \r\nX)  capillary action  \r\nY)  surface tension \r\nZ)  viscosity", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Arrange the following 3 liquids in order of DECREASING surface \r\ntension at 20\u00baC:  water;  ethanol;  mercury", 
+    "tossupA": "Y)  SURFACE TENSION", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdebe"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y)  5,000 NEWTONS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  For a given time interval, when is the average velocity of an object \r\nequal to the instantaneous velocity for every time in the interval: \r\n \r\nW)  never \r\nX)  always \r\nY)  only when the velocity is changing at a constant rate \r\nZ)  only when the velocity is constant", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  In a tug-of-war, each person on a team pulls with an average force \r\nof 500 newtons.  What is the tension in the center of the rope if there are 10-man teams on each side: \r\n \r\nW)  0 newtons \r\nX)  2,500 newtons \r\nY)  5,000 newtons \r\nZ)  10,000 newtons", 
+    "tossupA": "Z)  ONLY WHEN THE VELOCITY IS CONSTANT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdebf"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "10 \r\n \r\n(Solution:  2\r\n2\r\n + 10\r\n2\r\n = c\r\n2\r\n;  c = 10.20 = 10)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following numbers is evenly divisible by 4: \r\n \r\nW)  1,722 \r\nX)  2,636 \r\nY)  4,114 \r\nZ)  6,126", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Rounded to the nearest centimeter, if side A of a right triangle measures 2 \r\ncentimeters and side B measures 10 centimeters, what is the length of the hypotenuse?", 
+    "tossupA": "X)  2,636 \r\n \r\n(Solution:  36, the last 2 digits, is a multiple of 4)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec0"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  THE RING OF FIRE IS DOMINATED BY VOLCANOES THAT ERUPT \r\nBASALTIC MAGMA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following BEST describes Earth\u2019s current \r\nclimate type: \r\n \r\nW)  glacial \r\nX)  interglacial \r\nY)  pre-ice age \r\nZ)  post-ice age", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT true about volcanoes: \r\n \r\nW)  stratovolcanoes are typically found at convergent plate boundaries \r\nX)  80% of all magma erupted by volcanoes on Earth is basaltic \r\nY)  Mount Kilimanjaro is a stratovolcano \r\nZ)  the Ring of Fire is dominated by volcanoes that erupt basaltic magma", 
+    "tossupA": "X)  INTERGLACIAL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec1"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "22", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is NOT true: \r\n \r\nW)  Vega is part of the summer triangle \r\nX)  the Seven Sisters is a star cluster \r\nY)  Cassiopeia is a constellation generally shaped like a W \r\nZ)  cosmic rays are electromagnetic radiation of very high energies", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  The north magnetic pole of the Sun reverses every so many years.  \r\nHow many years does it take for one complete cycle for the Sun to return to its original state or what \r\nmight be looked at as two reversals?", 
+    "tossupA": "Z)  COSMIC RAYS ARE ELECTROMAGNETIC RADIATION OF VERY HIGH \r\nENERGIES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec3"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z)  NEMATODA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  The cloaca (read as: klo-AY-ka) is a reproductive structure of: \r\n \r\nW)  female bird \r\nX)  male shark \r\nY)  female cestode \r\nZ)  male lobster", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following does NOT belong to the Arthropoda: \r\n \r\nW)  Arachnida \r\nX)  Diplopoda \r\nY)  Chilopoda \r\nZ)  Nematoda", 
+    "tossupA": "W)  FEMALE BIRD", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec4"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "4 \r\n \r\n(Solution:  8 \u00d7 10\r\n-6\r\ng/2g = 4 \u00d7 10\r\n-6\r\ng = 4 ppm)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  The conversion of olein, a liquid oil, into stearin, a solid fat, by the \r\naddition of hydrogen in the presence of a catalyst and high heat is commonly known as what type of \r\nreaction?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  How many parts per million of arsenic are in a 2-gram water \r\nsample if it contains 8.0 micrograms of arsenic?", 
+    "tossupA": "HYDROGENATION", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec5"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W)  THE SPRING MUST BE WITHIN ITS PROPORTIONAL ELASTIC LIMIT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What are typically given as the two parameters of a velocity vector?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following conditions must be true for Hooke\u2019s law to \r\napply: \r\n \r\nW)  the spring must be within its proportional elastic limit \r\nX)  the spring must me made of cold formed steel coils \r\nY)  the deflection of the spring must be less than one tenth the spring\u2019s free length \r\nZ)  the carbon content of the metal must be over 0.023 percent", 
+    "tossupA": "MAGNITUDE AND DIRECTION  (ACCEPT:  SPEED FOR MAGNITUDE)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec6"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "60", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Boolean algebra involves ideas or subjects that have how many possible \r\nstates?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the least common denominator of the following 3 fractions:  2/5 ,  7/6  and \r\n12\r\n7", 
+    "tossupA": "2", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec7"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  P-WAVE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  The zone of aeration is BEST described as pores in rock \r\nor soil that contain: \r\n \r\nW)  only water \r\nX)  only oil \r\nY)  air and water  \r\nZ)  oil and water", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is a compressional elastic seismic \r\nwave that causes rock particles to move back and forth parallel to wave direction: \r\n \r\nW)  Rayleigh-wave \r\nX)  P-wave \r\nY)  S-wave \r\nZ)  L-wave", 
+    "tossupA": "Y)  AIR AND WATER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec8"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z)  VITAMIN A AND ABSORPTION OF IRON", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is MOST closely related to the \r\nmosquito: \r\n \r\nW)  fly \r\nX)  wasp \r\nY)  human body louse \r\nZ)  dragonfly", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following vitamins is NOT properly \r\nmatched with its function in humans: \r\n \r\nW)  vitamin E and antioxidant action  \r\nX)  vitamin C and collagen production \r\nY)  vitamin D and calcium absorption  \r\nZ)  vitamin A and absorption of iron", 
+    "tossupA": "W)  FLY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec9"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y)  IT PLOTS LUMINOSITY VERSUS SURFACE TEMPERATURE WITH \r\nHIGHEST TEMPERATURES ON THE LEFT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following would have a Widmanst\u00e4tten Pattern:  \r\n \r\nW)  meteorite \r\nX)  comet \r\nY)  planet \r\nZ)  constellation", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following is the BEST description of the H-R \r\nDiagram: \r\n \r\nW)  it plots apparent brightness versus age \r\nX)  it plots luminosity versus surface temperature with highest temperatures on the right  \r\nY)  it plots luminosity versus surface temperature with highest temperatures on the left  \r\nZ)  it plots apparent magnitude versus average stellar temperature", 
+    "tossupA": "W)  METEORITE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdeca"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "PHOTOSYNTHESIS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is a function of the pollen tube in \r\nflowering plants: \r\n \r\nW)  attaches pollen to the developing anther \r\nX)  allows pollen to absorb nutrients as they develop in the anther \r\nY)  enables the ovule to breach through the micropyle \r\nZ)  carries the sperm nuclei to the ovule", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Most of the molecular oxygen in Earth\u2019s atmosphere came from \r\nwhat biological process?", 
+    "tossupA": "Z)  CARRIES THE SPERM NUCLEI TO THE OVULE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdecb"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "1s<sup>2</sup>2s<sup>2</sup>2p\r\n5\r\n  (ACCEPT:  [He]2s<sup>2</sup>2p\r\n5\r\n)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What simple alcohol is commercially produced by reacting \r\ncarbon monoxide and hydrogen gas under pressure and heat and in the presence of a catalyst?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  In standard chemical nomenclature, what is the ground-state \r\nelectron configuration for fluorine?", 
+    "tossupA": "METHANOL  (ACCEPT:  CH\r\n3\r\nOH or METHYL ALCOHOL or WOOD ALCOHOL) \r\n \r\n(Solution:  CO + 2H\r\n2\r\n \u00e0\uf0e0 CH\r\n3\r\nOH)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdecc"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  CAMBRIAN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Glacial till is: \r\n \r\nW)  sorted and stratified \r\nX)  sorted and unstratified \r\nY)  unsorted and stratified \r\nZ)  unsorted and unstratified", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  In which period of the Geological Time Scale did \r\ntrilobites first appear: \r\n \r\nW)  Permian  \r\nX)  Cambrian \r\nY)  Devonian \r\nZ)  Silurian", 
+    "tossupA": "Z)  UNSORTED AND UNSTRATIFIED", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdecf"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X)  CONSUME ONLY PASTEURIZED DAIRY PRODUCTS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT true: \r\n \r\nW)  phosphorous is used in the manufacture of detergents  \r\nX)  nitric acid is used in the manufacture of fertilizers \r\nY)  lead ore is most commonly mined in bauxite  \r\nZ)  flotation separation is used in the preparation of ores", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is one of the MAIN ways of \r\npreventing Brucellosis in humans: \r\n \r\nW)  avoid person-to-person contact  \r\nX)  consume only pasteurized dairy products \r\nY)  avoid flea bites  \r\nZ)  boil all drinking water", 
+    "tossupA": "Y)  LEAD ORE IS MOST COMMONLY MINED IN BAUXITE \r\n(Solution:  lead ore is galena)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded0"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "PARSEC", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following constellations are circumpolar for \r\npeople in North America and are found on opposite sides and close to Polaris: \r\n \r\nW)  Cassiopeia and Ursa Major \r\nX)  Orion and Leo \r\nY)  Aquarius and Capricorn \r\nZ)   Leo and Sagittarius", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is the astronomical distance at which a star would have a \r\nparallax of 1 arcsecond?", 
+    "tossupA": "W)  CASSIOPEIA AND URSA MAJOR", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded1"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CENTRIOLES;  FLAGELLA;  LYSOSOMES \r\n \r\n(Solution:  flagella are found in certain plants sperm cells; centrioles in some algae)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the scientific name for the openings in the grasshopper body \r\nthrough which air enters?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 4 cellular structures that are NOT typically \r\nfound in diploid higher plant cells:  centrioles;  flagella;  lysosomes;  plasmodesmata", 
+    "tossupA": "SPIRACLES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded2"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "C\r\n6\r\nH\r\n11\r\nN\r\n2\r\nO", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following classifications of crystalline solids is \r\nNOT true: \r\n \r\nW)  quartz is a covalent network solid \r\nX)  calcium carbonate is an ionic solid \r\nY)  sucrose is a molecular solid \r\nZ)  iron sulfide is a glassy solid", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the empirical formula for the following:  C\r\n18\r\nH\r\n33\r\nN\r\n6\r\nO\r\n3", 
+    "tossupA": "Z)  IRON SULFIDE IS A GLASSY SOLID", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded3"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "125 \r\n \r\n(Solution:  PE = 25 N \u00d7 5 m =  125 J)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  At normal operating speed for a motor vehicle, how many times as \r\nmuch kinetic energy does a car have if its velocity is doubled?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Relative to the floor, what is the gravitational potential energy, in \r\njoules, of a 25-newton bag of beans on a shelf 5 meters above the floor?", 
+    "tossupA": "4 TIMES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded4"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "MDCCLXXVI", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following numbers has 6 significant \r\nfigures: \r\n \r\nW)  55.0000 \r\nX)  555,000 \r\nY)  0.00500 \r\nZ)  0.55000", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  What is the Roman numeral equivalent of the year 1776?", 
+    "tossupA": "W)  55.0000", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdec2"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "SECOND", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Which one of the following 5 colors of light has the LEAST angle of \r\nrefraction in normal glass:  blue;  green;  orange;  yellow;  red", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  For a standing wave on a guitar string, the first overtone represents \r\nwhat harmonic?", 
+    "tossupA": "RED", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdecd"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3 3/4 2 2/3 3\r\n4\r\n2bbaa++", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Simplify the following, giving your answer in simplest radical form:  \r\n96x\r\n (read as: the ninth root of x to the sixth power)", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Multiply the following, giving your answer in standard form and without \r\nnegative exponents or radicals: \r\n23232)(ba+", 
+    "tossupA": "32x", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdece"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TUNICATES;  ROTIFERS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Organisms that have radial symmetry and belong to the Radiata \r\ntypically have how many germ layers?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 5 animal groups that are NOT \r\nechinoderms:  sea urchins;  sand dollars;  tunicates;  rotifers;  brittle stars", 
+    "tossupA": "2", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded5"
+    }, 
+    "questionNum": 27
+  }
+]

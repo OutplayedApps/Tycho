@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "Z) ALKALINE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice When an airplane\u2019s ailerons move in opposite \r\ndirections they usually cause a plane to:  \r\n \r\nW) pitch \r\nX) yaw \r\nY) roll \r\nZ) stall", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Calcium, strontium, and barium are commonly \r\ncalled what kind of elements? \r\n \r\nW) halides \r\nX) inert \r\nY) alkali metals \r\nZ) alkaline earth", 
+    "tossupA": "Y) ROLL", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc51"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TROPOSPHERE \r\n \r\nJunior National Science Bowl Round Robin 5 Page 1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice  In which of the geological time periods, did dinosaurs \r\nfirst appear: \r\n \r\nW) Jurassic \r\nX) Triassic \r\nY) Cretaceous \r\nZ) Tertiary", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer  In what layer of the Earth\u2019s atmosphere does most of our \r\nweather occur?", 
+    "tossupA": "X) TRIASSIC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc52"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) NEUROTRANSMITTERS \r\nJunior National Science Bowl Round Robin 5 Page 2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice A series of amino acids joined together will make a: \r\n \r\nW) polysaccharide \r\nX) DNA \r\nY) sugar \r\nZ) protein", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice When a nerve message reaches the end of an axon it sends \r\na message or impulse across the space between the nerves to continue its message to the next \r\nnerve by a substance best known as: \r\n \r\nW) synaptic nodes \r\nX) neuromotor stimluli \r\nY) neurotransmitters \r\nZ) intersynaptic dosimeters", 
+    "tossupA": "Z) PROTEIN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc54"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "15 OHMS \r\n \r\n(Solution: I = V/R,  R = V/I, R = 120/8 = 15)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following moves in the form of a \r\nlongitudinal compression wave: \r\n \r\nW) ocean wave \r\nX) sound wave \r\nY) light wave \r\nZ) electromagnetic wave", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the resistance of an electric drill that draws 8 \r\namps on a 120 volt line?", 
+    "tossupA": "X) SOUND WAVE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc55"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) STILL ILLUMINATES ABOUT HALF THE SURFACE OF THE MOON \r\n \r\nJunior National Science Bowl Round Robin 5 Page 3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Ergot, Amanita muscaris, Penicillium and smut are \r\nall organisms that belong to which one of the five classical Kingdoms of life?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice When the moon appears through the night as a thin \r\ncrescent, the suns light: \r\n \r\nW) is being blocked by the earth \r\nX) still illuminates about half the surface of the moon \r\nY) is only hitting the crescent region \r\nZ) only shines during the day", 
+    "tossupA": "FUNGI", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc56"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "6 \r\n \r\n(Solution: 6= 1+2+3)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice If a biker traveled at an average speed of 3 meters/second for 100 \r\nseconds, the length of the biker\u2019s path was about: \r\n \r\nW) 33 meters \r\nX) 300 meters \r\nY) 100 meters \r\nZ) 1 kilometer", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If a perfect number is an integer equal to the sum of all its divisors, \r\nexcept the number itself, what is the lowest perfect number?", 
+    "tossupA": "X) 300 METERS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc57"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "NATURAL SELECTION \r\nJunior National Science Bowl Round Robin 5 Page 4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Most animal eukaryotic cells have: \r\n \r\nW) a cell wall, nucleus, and cytoplasm \r\nX) a plasma membrane, nucleus, and cytoplasm \r\nY) a cell wall, nucleus, and nucleolus \r\nZ) a cell wall, nucleus, and mitochondrion", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the term used by Charles Darwin that he believed was \r\nthe principle mechanism of evolution and way that nature chose certain members of a population \r\nto survive over others?", 
+    "tossupA": "X) A PLASMA MEMBRANE, NUCLEUS, AND CYTOPLASM", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc58"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) URANIUM, WHICH HAS A DENSITY OF 19.5 GRAMS PER CUBIC \r\nCENTIMETER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Ultrasonic sound frequencies are typically \r\nconsidered to be \r\n \r\nW) above 20,000 kilohertz \r\nX) below 20,000 kilohertz \r\nY) above 20,000 Hertz \r\nZ) below 20,000 Hertz", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Predict which object made of the following metal \r\nwill sink in a pool of Mercury, which has a density 13.5 grams per cubic centimeter: \r\n \r\nW) aluminum, which has a density of 2.6 grams per cubic centimeter \r\nX) iron, which has a density of 7.9 grams per cubic centimeter \r\nY) lead, which has a density of 11.34 grams per cubic centimeter \r\nZ) uranium, which has a density of 19.5 grams per cubic centimeter", 
+    "tossupA": "Y) ABOVE 20,000 HERTZ", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc5b"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) TEMPERATURES \r\nJunior National Science Bowl Round Robin 5 Page 7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer On the Kelvin temperature scale give the whole \r\nnumber value that is the closest to absolute zero.", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Stars appear to have different colors because they \r\nhave different: \r\n \r\nW) distances \r\nX) ages \r\nY) temperatures \r\nZ) names", 
+    "tossupA": "0", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc5e"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "68 \r\n \r\n(Solution: mean or average is 62.6; median is middle, not average)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Solve the following equation: -4 + x = -5", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Give the median for the following data set: 32, 59, 68, 70, 84", 
+    "tossupA": "-1", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc5f"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "TROPOPAUSE \r\nJunior National Science Bowl Round Robin 5 Page 8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer Identify the type of structure associated with the \r\nfollowing man-made structures in the United States: Hungry Horse, Yellowtail, Glen Canyon, \r\nGrand Coulee, and Hoover", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer  What is the name of the boundary between the \r\ntroposphere and the stratosphere?", 
+    "tossupA": "DAMS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc60"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) .99", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice The electrons that are shared in chemical bonds \r\nbetween atoms are most accurately called: \r\n \r\nW) inner electrons \r\nX) quantum electrons \r\nY) valence electrons \r\nZ) jumping electrons", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice In grams per milliliter, which of the following is \r\nclosest to the density of ice: \r\n \r\nW) 0.26 \r\nX) 0.92 \r\nY) .99 \r\nZ) 3.00", 
+    "tossupA": "Y) VALENCE ELECTRONS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc61"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "STRATOSPHERE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer With a Mohs\u2019 hardness of 10, what is the hardest mineral \r\nknown?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Most of the ozone in the Earth\u2019s atmosphere is present in \r\nwhich layer?", 
+    "tossupA": "DIAMOND", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc63"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) PLANETS \r\nJunior National Science Bowl Round Robin 5 Page 10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the mineral that has tricked so many people \r\ninto thinking it was the real precious metal gold that its common name is \u201cfool\u2019s gold\u201d ?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Early astronomers observed lights that wandered \r\namong the stars, today we know these are: \r\n \r\nW) sun spots \r\nX) asteroid belts \r\nY) constellations \r\nZ) planets", 
+    "tossupA": "IRON PYRITE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc64"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "NEAP TIDES \r\n \r\nJunior National Science Bowl Round Robin 5 Page 11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer What is the name of the form of oxygen that is present in \r\nthe atmosphere that protects life on Earth by absorbing much of the ultraviolet radiation from the \r\nsun?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What are the names of the tides that occur when the \r\nsun\u2019s tidal bulges and the moon\u2019s tidal bulges are at right angles to each other?", 
+    "tossupA": "OZONE (ACCEPT: O3)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc66"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$12,500.00", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer The identity element for multiplication is what number?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer After a discount of 20%, the price of a motorcycle was $10,000. \r\nWhat was the original price of the motorcycle?", 
+    "tossupA": "1", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc67"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "9 PROTONS, 10 NEUTRONS \r\nJunior National Science Bowl Round Robin 5 Page 13", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Whole multiples of the fundamental tone are usually \r\ncalled:", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer If an atom of fluorine has an atomic number of 9 and \r\nan atomic mass of 18.998 , how many protons and neutrons are in the nucleus?", 
+    "tossupA": "HARMONICS (ACCEPT: HARMONIC OVERTONES OR PERFECT \r\nOVERTONES)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc69"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "24 \r\n \r\n(Solution: A = 1/2bh)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If 2 sides of a quadrilateral are parallel and the other sides are equal \r\nbut NOT parallel, what is the quadrilateral known as?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Find the area of a triangle whose base is 8 and whose height is 6:", 
+    "tossupA": "TRAPEZOID", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc53"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "-40", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer In order from the beginning, what are the first 5 letters \r\nof the Greek alphabet?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer Rounded to the nearest whole number, what is the \r\ntemperature in Fahrenheit of a substance at -40\u00b0C ?", 
+    "tossupA": "alpha, beta, gamma, delta, epsilon", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc59"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "x<sup>2</sup> + 14 x + 49 \r\n \r\nJunior National Science Bowl Round Robin 5 Page 5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Identify the quotient, dividend, and divisor for 15 \u00f7 3:", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Give the product of (x + 7)<sup>2</sup> in standard form:", 
+    "tossupA": "QUOTIENT = 5; DIVIDEND = 15; DIVISOR = 3", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc5a"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ISOBARS \r\nJunior National Science Bowl Round Robin 5 Page 6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer  In what layer of the Earth\u2019s atmosphere does most of \r\nour weather occur?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Lines on a weather map connecting places of equal air \r\npressure are called:", 
+    "tossupA": "TROPOSPHERE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc5c"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "THE TICK (ACCEPT: DERMACENTAR)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What main artery carries oxygenated blood immediately \r\naway from left ventricle of the heart?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the vector that transmits Rocky Mountain Spotted \r\nFever to humans?", 
+    "tossupA": "AORTA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc5d"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "FLEA \r\n \r\n \r\n \r\nJunior National Science Bowl Round Robin 5 Page 9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer  What is the protein found in red blood cells that carries \r\noxygen:", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What is the vector for the germ which caused the black \r\nplague?", 
+    "tossupA": "HEMOGLOBIN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc62"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "PEANUT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the term used for the unusual infectious \r\nagents that cause mad cow disease?", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer George Washington Carver found over 100 uses for \r\nthe organic molecules derived from what common plant?", 
+    "tossupA": "PRIONS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc65"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "OUTSIDE OF CELLS (ACCEPT: IN BETWEEN CELLS OR IN THE \r\nINTERSTITIUM) \r\n \r\nJunior National Science Bowl Round Robin 5 Page 12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Mendel did most of his original experimentation using this \r\ntype of plant:", 
+    "packetNum": 5, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Where is intercellular fluid normally found?", 
+    "tossupA": "PEA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235ceccc68"
+    }, 
+    "questionNum": 24
+  }
+]

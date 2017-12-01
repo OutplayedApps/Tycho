@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "Y)  IN PROBABILITY AND MATHEMATICS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the most common term for the substance recognized as \r\nforeign and able to elicit antibody production:", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Mendel succeeded in forming the basis of modern hereditary theory \r\nin part because of his training: \r\n \r\nW)  as a printer of rare and scientific documents  \r\nX)  in calligraphy of scientific manuscripts for the Royal Austrian Science Society \r\nY)  in probability and mathematics \r\nZ)  as a scientific apostolic nuncio", 
+    "tossupA": "ANTIGEN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4c7"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "HALIDE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  Which of the halogens is a liquid at room temperature:", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the general term for a salt of one of the halogens?", 
+    "tossupA": "BROMINE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4c8"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X)  10 KILOGRAMS OF TUNGSTEN  \r\n \r\n(Solution:  W = 19.3 g/cc, Hg = 13.5 g/cc, Ag = 10.5 g/cc, H<sub>2</sub>O = 1.0 g/cc)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the unit for electric current equal to 1 coulomb per second?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following is the most dense at standard temperature \r\nand pressure: \r\n \r\nW)  10 kilograms of pure water \r\nX)  10 kilograms of tungsten \r\nY)  2 kilograms of silver \r\nZ)  1 kilogram of mercury", 
+    "tossupA": "AMPERE  (ACCEPT:  AMP)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4c9"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "ASTEROIDS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  As of  the summer of 2001, what planet was shown to have the \r\nmost known moons orbiting it in our solar system?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What is another name for minor planets, starlike bodies, or \r\nplanetoids, the vast majority of which have orbits roughly midway between the orbits of Jupiter and \r\nMars?", 
+    "tossupA": "SATURN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ca"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CORE,  MANTLE,  CRUST  (accept in any order)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Boundaries that form where lithospheric plates are \r\nbreaking apart to move away from each other are called: \r\n \r\nW)  transform boundaries \r\nX)  divergent margin boundaries \r\nY)  suture zone boundaries \r\nZ)  subduction boundaries", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  Based on compositional boundaries, name the three different \r\nlayers that make up the structure of the solid portion of the planet Earth?", 
+    "tossupA": "X)  DIVERGENT MARGIN BOUNDARIES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4cc"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "LAMBDA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer   What do the abbreviations TC and TD stand for that are \r\nseen on some laboratory pipettes?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENEAL SCIENCE  Short Answer  What Greek letter is used to symbolize wavelength?", 
+    "tossupA": "TO CONTAIN AND TO DELIVER", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4cd"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "21 \r\n \r\n(Solution:  1 + 4 + 16 = 21)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Multiple Choice  Software that is often distributed free of charge and \r\nusually intended for sale after a trial period is called: \r\n \r\nW)  freeware \r\nX)  shareware \r\nY)  open source \r\nZ)  public-domain", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Short Answer   The binary number 10101 (read as:  one, zero, one, \r\nzero, one) is equivalent to what decimal number?", 
+    "tossupA": "X)  SHAREWARE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4ce"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "O, A, B, AND AB  (accept in any order)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the most common scientific term for plant water loss through \r\nstomata:", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What are the four main human blood types?", 
+    "tossupA": "TRANSPIRATION", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4cf"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "OCTET RULE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following atomic features is the most important \r\nin controlling the reactivity of an atom: \r\n \r\nW)  core electrons \r\nX)  valence-shell electrons \r\nY)  protons \r\nZ)  neutrons", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the rule that states that main-group elements tend to \r\nundergo reactions that leave them with 8 outer-shell electrons?", 
+    "tossupA": "X)  VALENCE-SHELL ELECTRONS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d0"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "63", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the remainder of (148 + 10) / 7 ?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  If y varies directly as x, and y = 42 when x = 30, find y if x = 45:", 
+    "tossupA": "4", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d3"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  URBAN DUST DOME", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following types of moraines does NOT \r\nparallel ice flow: \r\n \r\nW)  medial \r\nX)  lateral \r\nY)  double lateral \r\nZ)  end", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  The combination of lingering air and abundance of \r\nparticulates and other pollutants in the air over cities produces what is commonly known as the: \r\n \r\nW)  urban depletion area \r\nX)  urban dust dome \r\nY)  urban frontal zone \r\nZ)  urban overcast zone", 
+    "tossupA": "Z)  END", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d4"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CATABOLISM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  The spines of cacti are a modification of what plant structure?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the most common biochemical term for the degradative \r\nphases of metabolism?", 
+    "tossupA": "LEAF  (ACCEPT:  LEAVES)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d7"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "POLAR COVALENT BOND", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  In the periodic table, what name is given to the number \r\nrepresenting the total of a given element\u2019s protons and neutrons?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the general term for a bond in which the shared bonding \r\nelectrons are attracted somewhat more strongly by one atom than the other?", 
+    "tossupA": "ATOMIC MASS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d8"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MARS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  Which of the Galilean moons orbiting Jupiter is the most \r\ngeologically active object in the entire solar system, commonly referred to as the \u201cpizza moon,\u201d and \r\nhas the longest diameter of 3,630 kilometers?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  The Tharsis bulge is the major geological feature of what \r\nplanet?", 
+    "tossupA": "IO", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4da"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  ALTOSTRATUS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  What scale is used to classify the strength of hurricanes \r\nbased on its greatest wind speed: \r\n \r\nW)  Saffir-Simpson  \r\nX)  Beaufort \r\nY)  Modified Mercalli  \r\nZ)  Fujita", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is NOT classified as a low-level \r\ncloud: \r\n \r\nW)  altostratus \r\nX)  nimbostratus \r\nY)  stratocumulus \r\nZ)  stratus", 
+    "tossupA": "W)  SAFFIR-SIMPSON", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4dc"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "CESIUM  (ACCEPT:  CS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the name of the element with the symbol Sb?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Which element has the lowest ionization energy of all stable \r\nneutral atoms?", 
+    "tossupA": "ANTIMONY", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4de"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "19", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the perimeter of a right triangle whose leg lengths are 6 and 8 and \r\nwhose hypotenuse is 10?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  The average of -40, 36, 5, 0, 10 and x is 5.  What is the value of x?", 
+    "tossupA": "24 \r\n \r\n(Solution:  perimeter = 6+8+10=24)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4cb"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1/2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  How many nanometers are in an angstrom?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  For a perfectly spherical planet of uniform density, the gravitational \r\nacceleration at a point half way to the surface from its center will be what fraction of the \r\ngravitational acceleration at the surface?", 
+    "tossupA": "0.1  (ACCEPT:  ONE-TENTH)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d1"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  LENSES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What planet is the most distant gas giant from the sun?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  Refracting telescopes always contain which of the following: \r\n \r\nW)  mirrors \r\nX)  lenses \r\nY)  television systems \r\nZ)  film", 
+    "tossupA": "NEPTUNE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d2"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "9.5873 \u00d7 103", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  Rounded to the nearest decimal place, convert 13 Kelvin \r\ninto degrees Centigrade:", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  Express the number 9587.3 in proper scientific notation \r\nwith the correct amount of significant figures:", 
+    "tossupA": "-260", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d5"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 7, 
+    "bonusA": "17", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "COMPUTER SCIENCE  Multiple Choice  The file extension  .MID  (read as:  dot, M, I, D) \r\nusually means that the file can be opened by what type of program: \r\n \r\nW)  text editor \r\nX)  graphics \r\nY)  database \r\nZ)  music", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "COMPUTER SCIENCE  Short Answer  The decimal number 15 is equivalent to what octal \r\nnumber?", 
+    "tossupA": "Z)  MUSIC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d6"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer  In additive color synthesis, what do equal proportions of two primary \r\ncolors create?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer  If the speed of a charged particle is doubled while it is moving in a \r\ncircular orbit in a uniform magnetic field, by what multiple will the orbital radius increase?", 
+    "tossupA": "A SECONDARY COLOR", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4d9"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$150.00", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  The price of a postage stamp changes from 33 cents to 34 cents.  What is \r\nthe percent increase in price?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  After a 20% increase, the new price of a tennis racket is $180.00.  What \r\nwas the original price of the racket?", 
+    "tossupA": "3  (ACCEPT:  3.03)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4db"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ANTON VAN LEEUWENHOEK  (ACCEPT:  LEEUWENHOEK)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  To prepare a tincture of iodine the iodine is mixed in what general \r\ntype of solvent?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What person, in 1676, reported to the Royal Society of London the \r\nfirst known observations of protozoans?", 
+    "tossupA": "ALCOHOL", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4dd"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "PAULI EXCLUSION PRINCIPLE  (ACCEPT:  EXCLUSION PRINCIPLE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  According to the typical color triangle, what are the three primary \r\ncolors of light?", 
+    "packetNum": 1, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  That no two electrons in an atom can have an identical set of quantum \r\nnumbers is best known as what principle?", 
+    "tossupA": "RED, GREEN, AND BLUE", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd4df"
+    }, 
+    "questionNum": 27
+  }
+]

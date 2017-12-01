@@ -1,0 +1,427 @@
+[
+  {
+    "category": 6, 
+    "bonusA": "X) TERMITE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice All EXCEPT which of the following organisms DOES \r\nNOT belong to the phylum Echinodermata [i-ky-nuh-DUHR-muht-uh]? \r\n \r\nW) Sea cucumber \r\nX) Sea urchin \r\nY) Sea anemone [uh-NEM-uh-nee] \r\nZ) Brittle star", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The gut of what arthropod serves as a home to the \r\ncellulose-digesting protist known as Trichonympha [trik-uh-NIMF-uh]? \r\n \r\nW) Tarantula hawk \r\nX) Termite \r\nY) Pillbug \r\nZ) Praying mantis", 
+    "tossupA": "Y) SEA ANEMONE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd084"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Z) IT HAS MULTIPLE GEOTHERMAL HEAT PUMPS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice The heat energy stored in water while it flows through a tube has \r\nbeen studied by which of the following scientists? \r\n \r\nW) Maxwell \r\nX) Archimedes [ahr-kuh-MEE-deez] \r\nY) Bernoulli \r\nZ) Pascal", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice Which of the following is NOT a characteristic of the SC Johnson \r\ncogeneration project at its Waxdale manufacturing facility in Wisconsin? \r\n \r\nW) It converts methane gas from a landfill to use as electricity \r\nX) It recovers waste heat to create steam \r\nY) It has reduced greenhouse gas emissions \r\nZ) It has multiple geothermal heat pumps", 
+    "tossupA": "Y) BERNOULLI", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd085"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is NOT a true statement about \r\nelectric and gravitational fields? \r\n \r\nW) Both can act in a vacuum \r\nX) Both obey an inverse-square law \r\nY) Both are only attractive \r\nZ) Both are proportional to the product of the quantity that causes the field", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the speed in meters per second of an object that \r\nmoves 0.3 kilometers in 1 minute?", 
+    "tossupA": "Y) BOTH ARE ONLY ATTRACTIVE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd086"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) THE IONS ARE TRANSPORTED INTO THE CELL VIA TRANSPORT PROTEINS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following statements about wood in a tree is \r\nNOT true? \r\n \r\nW) Wood is made of secondary xylem [ZY-luhm] and fibers \r\nX) The oldest wood is at the center of the tree while younger wood is towards the periphery \r\nY) Annual rings consist of both early (spring) wood and late (summer) wood \r\nZ) True wood is only found in monocots, while dicots do not produce true wood", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Sometimes, there is more of a particular ion inside of a cell \r\nthan there is outside of the cell. Which of the following will a cell do if it requires even more of \r\nthis particular ion? \r\n \r\nW) Nothing, since the ions diffuse into the cell across the membrane \r\nX) The lipid molecules of the membrane \u201dflip\u201d the ions across \r\nY) The ions are transported into the cell via channel proteins \r\nZ) The ions are transported into the cell via transport proteins", 
+    "tossupA": "Z) TRUE WOOD IS ONLY FOUND IN MONOCOTS, WHILE DICOTS DO NOT \r\nPRODUCE TRUE WOOD", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd087"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Given the equation x<sup>2</sup>=\u221ax, which of the following conclusions is \r\ntrue? \r\n \r\nW) The equation is true for all real x \r\nX) The equation is true when x = 0 \r\nY) The equation is true when x is negative \r\nZ) The equation is true for no real x", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If the area of a sector of a circle with a central angle of 60\u00ba is 24\u03c0, what \r\nis the radius of the circle?", 
+    "tossupA": "X) THE EQUATION IS TRUE WHEN x = 0", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd088"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "3, 2, 4, 1 (ACCEPT: SEA WATER, SNOW-FREE SEA ICE, MELTING SNOW, \r\nFRESH SNOW", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Old sea ice is the category of sea ice that has been \r\naround for the longest time. It can be subdivided into which of the following groups? \r\n \r\nW) Second-year ice and multi-year ice \r\nX) Frazil ice and slush \r\nY) 0 to 10 centimeter ice and 10 to 30 centimeter ice \r\nZ) Dark old sea ice and light old sea ice", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Organize the following four surfaces from the lowest to \r\nhighest albedo: 1) fresh snow, 2) snow-free sea ice, 3) sea water, 4) melting snow.", 
+    "tossupA": "W) SECOND-YEAR ICE AND MULTI-YEAR ICE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd089"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) MOSS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice What is the dominant food source for the largest whale \r\non Earth? \r\n \r\nW) Krill \r\nX) Squid \r\nY) Penguins \r\nZ) Seals", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following plants has a life cycle dominated \r\nby gametophytes [guh-MEE-tuh-fyts]? \r\n \r\nW) Fern \r\nX) Moss \r\nY) Pine tree \r\nZ) Wheat", 
+    "tossupA": "W) KRILL", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd08a"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "(ANY FIVE) HYDROCHLORIC, HYDROBROMIC, HYDROIODIC, NITRIC, \r\nSULFURIC, PERCHLORIC, CHLORIC", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer While at the beach, you notice that one ocean wave \r\novertakes another. The two waves then become one wave, which has double the amplitude of \r\nthe original waves. This is an example of what type of interference?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer There are at least seven strong acids. Give the common \r\nnames of five of them.", 
+    "tossupA": "CONSTRUCTIVE", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd08b"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "FOXGLOVE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer In addition to carbohydrates and proteins, your body must also \r\ndigest fats. What chemical, produced in the liver, aids in the digestion of fats?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer While hiking in the remote wilderness, you start to run low on \r\nfood. You\u2019ve noted that there is plenty of thistle, prickly pear, sassafras, and foxglove growing \r\nnearby. Which of these plants would you absolutely NOT want to eat?", 
+    "tossupA": "BILE (ACCEPT: GALL)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd08c"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "13", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Ben started with an allowance of $1.50. His allowance was doubled \r\nevery week for the next 5 weeks. Which of the following types of function does this represent? \r\n \r\nW) Quadratic \r\nX) Linear \r\nY) Exponential \r\nZ) Absolute value", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer A tangent segment to a circle from an exterior point has a length of 12. \r\nThe radius drawn to the point of tangency has a length of 5. What is the length of the segment \r\ndrawn from the exterior point to the center of the circle?", 
+    "tossupA": "Y) EXPONENTIAL", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd08d"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) CONDUCTION OF ENERGY FROM THE SURROUNDING WATER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following characteristics are exhibited by \r\nbiota that occur early in the succession of a region? \r\n \r\nW) Deep roots \r\nX) High productivity \r\nY) Long lifespans \r\nZ) Highly diversified group of species", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice What is the major source of heat energy that leads to \r\nthe melting of sea ice? \r\n \r\nW) Absorption of ocean water radiation by the ice \r\nX) Convection of heat from the surrounding air \r\nY) Conduction of energy from the surrounding water \r\nZ) Radiation of energy from land", 
+    "tossupA": "X) HIGH PRODUCTIVITY", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd08e"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "110 + x", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Looking at a package of 13-watt, energy efficient light bulbs, Debra \r\nread that the new 13-watt bulbs give off the same amount of light as an incandescent 60-watt \r\nbulb. Using the new bulbs will result in a wattage decrease closest to which of the following \r\npercentages? \r\n \r\nW) 70% \r\nX) 75% \r\nY) 78% \r\nZ) 80%", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer In degrees, what is the supplement of the complement of x + 20\u00b0?", 
+    "tossupA": "Y) 78%", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd08f"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) HIGHER VOLTAGE REDUCES THE AMOUNT OF POWER LOST", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following statements is NOT true about hydropower? \r\n \r\nW) The first hydropower plant was built at Niagara Falls in 1879 \r\nX) The U.S. is the largest producer of hydropower \r\nY) The amount of electricity generated depends on how far the water drops and how much \r\nwater moves through the system \r\nZ) It provides about one fifth of the world\u2019s electricity", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Multiple Choice In a transmission line, the voltage coming from the generator is \r\nincreased from 25,000 volts to around 400,000 volts. Why must the voltage be raised so high? \r\n \r\nW) Higher voltage produces more power \r\nX) Higher voltage increases the power lost \r\nY) Higher voltage reduces the amount of power lost \r\nZ) Transformers raise the voltage to protect the generator from overcurrents or overvoltages", 
+    "tossupA": "X) THE U.S. IS THE LARGEST PRODUCER OF HYDROPOWER", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd090"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "EMULSION", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer You measure the current through a resistor as 15 \r\namperes. The voltage drop across the resistor is 5 volts. According to Ohm's law, to the nearest \r\ntenth of an ohm, what is the resistance?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer In an alien environment, you find a plant that excretes a \r\nliquid. This liquid, over time, separates into two distinct liquids. When mixed again, the two \r\nliquids become one, but only for a few hours. What would be the scientific name for this type of \r\nmixture?", 
+    "tossupA": "0.3", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd091"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "50% BLACK MICE, 50% WHITE MICE (ACCEPT: 50/50)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer At the end of meiosis I [my-OH-sis one], cell division results \r\nin two cells with replicated chromosomes (meaning the sister chromatids are still present), but \r\nthe chromosomes are no longer in homologous [huh-MOL-uh-guhs] pairs. What is the ploidy \r\nlevel of these cells?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer In mice, black fur B [Big B] is dominant over white fur b [little \r\nb]. If a bb [little B little B] mouse is crossed with a Bb [big B little b] mouse, what percentages \r\nof white mice and black mice would you expect in the F1 generation?", 
+    "tossupA": "HAPLOID (ACCEPT: MONOPLOID)", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd092"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "32\u03c0 \u2013 64", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice A wagon wheel has 8 spokes. What percentage of the area of the \r\nwheel is represented by a spoke and the space between it and the next spoke? \r\n \r\nW) 8% \r\nX) 12.5% \r\nY) 40% \r\nZ) 45%", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer If a square inscribed in a circle has a side length equal to 8 inches, \r\nwhat is the area in square inches inside the circle but outside the square?", 
+    "tossupA": "X) 12.5%", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd093"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) AFTER JUPITER WAS FORMED, PLANETESIMALS IN THAT LOCATION WERE \r\nPERTURBED BY JUPITER'S GRAVITY AND COULD NOT FORM A PLANET", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What is the name of the meteor shower visible in the \r\nNorthern Hemisphere beginning in mid-July of each year, with a peak in activity between August \r\n9 and 14?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice What is the current explanation for the formation of the \r\nasteroid belt? \r\n \r\nW) There was too big of a gap between Mars and Jupiter to form a planet \r\nX) Mars had two moons and planetesimals [plan-i-TES-uh-muhls] in that location were not \r\nlarge enough to form another moon \r\nY) The planetesimals in that location were moving too slowly to accrete to form a planet \r\nZ) After Jupiter was formed, planetesimals in that location were perturbed by Jupiter's gravity \r\nand could not form a planet", 
+    "tossupA": "PERSEID", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd094"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) PLANTS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT an example of hydrolysis [hy-\r\nDROL-uh-sis] of a biomolecule? \r\n \r\nW) Conversion of fats to fatty acids and glycerol [GLIS-uh-rol] \r\nX) Conversion of proteins to amino acids \r\nY) Conversion of nucleotides to DNA [NOO-klee-uh-tyds] \r\nZ) Conversion of starch to monosaccharides [mon-uh-SAK-uh-ryds]", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Which of the following would most likely contain an \r\nalkaloid? \r\n \r\nW) Plants \r\nX) Fish \r\nY) Reptiles \r\nZ) Mammals", 
+    "tossupA": "Y) CONVERSION OF NUCLEOTIDES TO DNA", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd095"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) SKIN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice Assuming no errors in cellular or genetic mechanics, \r\nwhich of the following increases genetic diversity in organisms that reproduce sexually as \r\nopposed to asexually? \r\n \r\nW) Homologous recombination [huh-MOL-uh-guhs] \r\nX) Translation \r\nY) Transcription \r\nZ) Replication", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Atopic dermatitis is a medical condition affecting \r\nwhich part of the human body? \r\n \r\nW) Liver \r\nX) Hair \r\nY) Skin \r\nZ) Heart", 
+    "tossupA": "W) HOMOLOGOUS RECOMBINATION", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd096"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "INVERTER (ACCEPT: DC/AC CONVERTER)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following statements is NOT true about the Grand \r\nCoulee Dam? \r\n \r\nW) It is the largest U.S. hydropower producer \r\nX) It is part of the Columbia Basin Project, which irrigates more than 600,000 acres of land \r\nY) It is an arch-gravity dam \r\nZ) It contains nearly 12 million cubic yards of concrete", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What intermediate device is required for electricity from a \r\nphotovoltaic panel to be useable with a standard household wall outlet?", 
+    "tossupA": "Y) IT IS AN ARCH-GRAVITY DAM", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd097"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "MULTIPLE TIGHT COILS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What are the three elements that compose glucose and \r\nfructose?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer In a mad frenzy, you decide to build the world's most \r\npowerful electromagnet to wipe out everyone's cell phone SIM cards. While constructing the \r\ndevice, you use low resistance wiring, an iron-iridium core, multiple tight coils, and a high-\r\nvoltage low-amperage battery. When you activate the device, it generates enough power to \r\nwipe out only your own cell phone. Which of these components had the greatest effect on the \r\nstrength of your electromagnet?", 
+    "tossupA": "CARBON, OXYGEN, AND HYDROGEN", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd098"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) SKELETAL MUSCLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is NOT a potential control \r\nmechanism for regulating gene expression in eukaryotic [yoo-KAR-ee-oh-tik] organisms? \r\n \r\nW) The breakdown of RNA \r\nX) The transport of mRNA from the nucleus \r\nY) The lactose operon \r\nZ) Transcription", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice You are looking through a microscope at an unlabeled \r\nsample of human tissue. You notice the tissue is multinucleated, and contains striations. What \r\ntissue are you examining? \r\n \r\nW) Skeletal muscle \r\nX) Areolar [uh-REE-uh-luhr] connective tissue \r\nY) Cardiac muscle \r\nZ) Fibrocartilage", 
+    "tossupA": "Y) THE LACTOSE OPERON", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd099"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) A CAR DEALERSHIP USING A SPOTLIGHT FOR ADVERTISEMENT", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following statements is NOT true about \r\nlight pollution? \r\n \r\nW) Using a short wavelength light at night minimizes the impact of artificial light \r\nX) Some birds sing at unnatural hours in the presence of artificial light \r\nY) It is caused by allowing artificial light to shine outward and upward into the sky at night, rather \r\nthan focusing it downward \r\nZ) Brightly lit highways create nocturnal light levels that are as much as a million times brighter \r\nthan normal, disorienting amphibians and other animals", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following would be the most damaging \r\nkind of light pollution for an astronomer using a telescope at an observatory? \r\n \r\nW) Everyone on a street leaving on their porch light \r\nX) A car dealership using a spotlight for advertisement \r\nY) Neon lighting on advertisements \r\nZ) Everyone in town leaving their living room lights on after they go to bed", 
+    "tossupA": "W) USING A SHORT WAVELENGTH LIGHT AT NIGHT MINIMIZES THE IMPACT \r\nOF ARTIFICIAL LIGHT", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd09b"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) HALF TO LOOK LIKE MOCKER SWALLOWTAILS AND HALF TO LOOK LIKE \r\nPALATABLE CATERPILLARS OF ANOTHER SPECIES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice While body surfing off the coast of Florida, you are \r\nstung by a sea jelly. Which of the following cells is responsible for your irritation? \r\n \r\nW) Nematocyst [NEM-uh-tuh-sist] \r\nX) Choanocyte [KOH-uh-nuh-syt] \r\nY) Hepatocyte [HEP-uh-tuh-syt] \r\nZ) Trichome [TRIK-ohm]", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice A biologist hypothesizes that palatable mocker \r\nswallowtail caterpillars mimic non palatable swallowtail caterpillars. She makes hundreds of \r\ndecoy caterpillars out of modeling clay to put on plants. She will count the number of decoys \r\nthat are destroyed by experienced predators. How might she paint the decoys to test her \r\nhypothesis most efficiently? \r\n \r\nW) Half to look like mocker swallowtails and half to look like non palatable caterpillars of another \r\nspecies \r\nX) All to look like mocker swallowtails \r\nY) Half to look like mocker swallowtails and half to look like swallowtails \r\nZ) Half to look like mocker swallowtails and half to look like palatable caterpillars of another \r\nspecies", 
+    "tossupA": "W) NEMATOCYST", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd09c"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "y=-52x+12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer If the area of square is numerically the same as the length of its \r\ndiagonal, what is the length of its side?", 
+    "packetNum": 10, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the equation, in slope intercept form, of the perpendicular \r\nbisector of the segment whose endpoints are (-3, 5) and (7, 9)?", 
+    "tossupA": "\u221a2", 
+    "setNum": 7, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd09a"
+    }, 
+    "questionNum": 23
+  }
+]

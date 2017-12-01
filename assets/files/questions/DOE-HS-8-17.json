@@ -1,0 +1,393 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "X) RUBBER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer In a hydrogen fuel cell, two moles of H2 are oxidized by one mole \r\nof O2 to form two moles of water. If the cell is 100% efficient, how many moles of electrons are \r\ntransferred in this process?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Multiple Choice The polymerization of a 1,3 diene [DY-een] will produce a \r\nmaterial that can be used to make which of the following polymers?  \r\n \r\nW) Nylon \r\nX) Rubber \r\nY) Styrene \r\nZ) Thermoplastic", 
+    "tossupA": "4", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece114"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) ACTIVATED APC PROTEIN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following correctly describes why antifungal \r\nmedications are often harder to design than antibacterials?  \r\n \r\nW) Antifungals must target peptidoglycan [pep-ti-doh-GLY-kan] \r\nX) Both fungi and humans are eukaryotes [yoo-KAR-ee-ohts] \r\nY) Bacteria and humans have similar cellular structures  \r\nZ) Most antifungals target chitin building enzymes", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Tunicamycin [too-ni-kuh-MY-sin] is a drug produced by some \r\nbacteria. It is used as a tool by molecular biologists because it induces eukaryotic [yoo-KAR-\r\nee-oh-tik] cells to arrest at the G1 checkpoint of the cell cycle. Using this information about \r\ntunicamycin and your knowledge of the cell cycle, which of the following would you expect to \r\nobserve in a tunicamycin-arrested cell? \r\n \r\nW) Activated APC protein \r\nX) Chiasmata [ky-AZ-muh-tuh] \r\nY) Replication bubbles \r\nZ) Spindle fibers", 
+    "tossupA": "X) BOTH FUNGI AND HUMANS ARE EUKARYOTES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece115"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "3 (ACCEPT: INCREASING THE RATE CONSTANT)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Power companies estimate the over-time cost of designing, \r\nbuilding, operating, and decommissioning a power plant in order to calculate which of the \r\nfollowing?  \r\n  \r\nW) Intrinsic cost \r\nX) Comprehensive fuel cost  \r\nY) Levelized cost  \r\nZ) Future-versus-present earnings", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Identify all of the following three changes that would increase the \r\nhalf-life of a first order reaction: 1) increasing the starting concentration; 2) decreasing the \r\nstarting concentration; 3) increasing the rate constant.", 
+    "tossupA": "Y) LEVELIZED COST", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece116"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "NEPTUNE and URANUS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following clays has the highest cation \r\n[KAT-eye-uhn] exchange capacity (CEC)? \r\n \r\nW) Kaolinites [KAY-uh-luh-nyts] \r\nX) Vermiculites [ver-MIK-yoo-lyts] \r\nY) Chlorides \r\nZ) Allophanes", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer Which two planets in our solar system have the highest \r\nfraction of methane in their atmospheres?", 
+    "tossupA": "X) VERMICULITES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece117"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "x = 1 + 2t, y = t, z = -1 + 4t", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is correct about the symmetry of even \r\nfunctions? \r\n \r\nW) They are symmetric about the y-axis  \r\nX) They are symmetric about the x-axis \r\nY) They are symmetric about the origin \r\nZ) They do not necessarily have symmetry", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer For a line passing through the point (1, 0, -1) and parallel to the vector \r\n(2, 1, 4), give the parametric equations for x, y, and z.", 
+    "tossupA": "W) THEY ARE SYMMETRIC ABOUT THE y-AXIS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece118"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) ORBICULARIS OCULI", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Amniotes became very well adapted to life on land. Which of the \r\nfollowing is not an adaptation of amniotes to a terrestrial existence?   \r\n \r\nW) Eggs resistant to desiccation  \r\nX) Buccal pumping   \r\nY) Water-conserving kidneys  \r\nZ) Thoracic breathing", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice What facial muscle functions to enable blinking? \r\n \r\nW) Zygomaticus [zy-guh-MA-ti-kuhs] \r\nX) Orbicularis oculi [or-bee-kyoo-LUH-ris] \r\nY) Orbicularis oris \r\nZ) Corrugator supercillii", 
+    "tossupA": "X) BUCCAL PUMPING", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece119"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "STRUCTURAL ISOMERISM: 2, 3 (IONIZATION, POLYMERIZATION); \r\nSTEREOISOMERISM: 1, 4 (GEOMETRICAL, OPTICAL)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice \u201cSoda-lime\u201d glass accounts for 90% of the glass produced and \r\ncan be made by mixing a modifier, or flux, with sand. Which of the following is an example of a \r\nsoda-lime glass modifier? \r\n \r\nW) SiO2 \r\nX) Ca(OH)2 \r\nY) Na2O  \r\nZ) MgO", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer Categorize each of the following four examples of isomerism as \r\neither structural isomerism or stereoisomerism [ster-ee-oh-EYE-suh-mer]: 1) geometrical; 2) \r\nionization; 3) polymerization [puh-lim-er-uh-ZAY-shuhn]; 4) optical.", 
+    "tossupA": "Y) Na2O", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece11a"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1, 2, 3 (ACCEPT: ALL OF THEM)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Multiple Choice Which of the following laws or principles gives a physical \r\ninterpretation for the sign convention used in Faraday\u2019s law of induction? \r\n \r\nW) Lenz\u2019s law \r\nX) Ampere\u2019s law \r\nY) Coulomb\u2019s law \r\nZ) Gauss\u2019s law", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer By number, give all of the following three statements that are true of \r\nCarnot engines: 1) Carnot\u2019s theorem limits the efficiency of engines to less than that of a Carnot \r\nengine; 2) The Carnot cycle consists of only reversible steps; 3) The concept of entropy arose \r\nfrom the limits stated by the Carnot cycle.", 
+    "tossupA": "W) LENZ\u2019S LAW", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece11b"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "1000", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Which of the following describes the the ratio between \r\nthe distance from a point to the center of a black hole and the circumference of a circle around \r\nthe black hole? \r\n \r\nW) Less than pi  \r\nX) Equal to pi  \r\nY) Greater than pi  \r\nZ) Undefined", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Short Answer How much volcanic material, in cubic kilometers, does a \r\nvolcano have to eject to be considered an 8 on the Volcanic Explosivity Index, or VEI?", 
+    "tossupA": "Z) UNDEFINED", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece11c"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Z) A DRUG INCREASES THE LEVEL OF ACETYLCHOLINESTERASE PRESENT \r\nAT THE SYNAPSE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Short Answer What fluid, produced by ependymal cells, fills the space between \r\nthe arachnoid [uh-RAK-noid] and the pia mater as well as the ventricles of the brain?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Bungarotoxin [bung-garoh-TOK-sins] is a fast-acting lethal toxin \r\nthat is the primary component of venom from the South Asian snake called a krait. It blocks \r\nnerve transmission at cholinergic [koh-luh-NUR-jik] synapses by competing with acetylcholine \r\n[uh-seet-l-KOH-leen] to bind irreversibly at the acetylcholine receptor. Which of the following \r\nwould be LEAST LIKELY to also impact nerve transmission at the cholinergic synapses? \r\n \r\nW) A drug floods the synapse with a molecule that resembles acetylcholine and is able to bind \r\nat the acetylcholine receptor, but cannot be recognized by acetylcholinesterase [uh-seet-l-\r\nKOH-leen-STUH-rays] \r\nX) A chemical covalently binds to the acetylcholine receptor and is not easily inactivated \r\nY) A chemical covalently bonds acetylcholinesterase at the enzyme active site \r\nZ) A drug increases the level of acetylcholinesterase present at the synapse", 
+    "tossupA": "CEREBROSPINAL FLUID", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece11d"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Under what arithmetic operation is the set of even integers NOT \r\nclosed?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer An object is moving along a line in such a way that its position s at time \r\nt seconds is given by s = 4t<sup>3</sup> - 12t<sup>2</sup> + 24t [s equals four t cubed minus twelve t squared plus \r\ntwenty-four t]. Determine the minimum velocity of the object, in units per second.", 
+    "tossupA": "DIVISION", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece11e"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "60% GREATER (ACCEPT: 60%)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following processes is used to produce additional \r\nATP for the light-independent reactions of photosynthesis? \r\n \r\nW) Cyclic electron flow \r\nX) Lactic acid fermentation \r\nY) Glycolysis [gly-KOL-uh-sis] \r\nZ) Beta oxidation", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Assume we have two inlets to a hydroelectric plant\u2019s turbines: one \r\ninlet is at 50 m depth, and the second inlet is at 80 m depth. How much greater, by percentage, \r\nis the pressure at the deeper compared to the shallower one?", 
+    "tossupA": "W) CYCLIC ELECTRON FLOW", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece11f"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "3 ONLY (ACCEPT: BETA-MINUS DECAY USUALLY OCCURS IN NUCLEI WITH AN \r\nEXCESS NUMBER OF NEUTRONS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer Identify all of the following four types of reactions that follow \r\nZaitsev\u2019s rule: 1) SN1; 2) SN2; 3) E1; 4) E2", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer Identify all of the following three statements that are true of \r\nnuclear chemistry: 1) Helium has a higher binding energy per nucleon than uranium; 2) Alpha \r\nparticles have a +1 charge; 3) Beta-minus decay usually occurs in nuclei with an excess \r\nnumber of neutrons.", 
+    "tossupA": "3 and 4 (ACCEPT: E1 and E2)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece120"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) PEP CARBOXYKINASE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice All except which of the following can act as direct substrates for \r\nthe production of acetyl CoA? \r\n \r\nW) Lactate \r\nX) Amino acids \r\nY) Fatty acids \r\nZ) Ketone bodies", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Which of the following enzymes is unique to gluconeogenesis \r\n[gloo-koh-nee-uh-JEN-uh-sis]?  \r\n \r\nW) PEP carboxykinase [kahr-bok-si-KY-nays] \r\nX) Pyruvate kinase [py-ROO-vayt] \r\nY) Hexokinase [hek-soh-KY-nays] \r\nZ) Phosphofructokinase [fohs-foh-frook-toh-KY-nays]", 
+    "tossupA": "W) LACTATE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece121"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) ORIENTATION ANGLE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What is the name for the topography that is created \r\nthrough extension of crust, producing distinct horsts and grabens?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice In the unified model of active galactic nuclei (AGN), \r\nwhat is the most important variable that determines what class of AGN is observed? \r\n \r\nW) Orientation angle \r\nX) Metallicity \r\nY) Supermassive black hole age \r\nZ) Galaxy type", 
+    "tossupA": "BASIN AND RANGE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece122"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "P680 (ACCEPT: PIGMENT 680)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Short Answer The presence of what class of compounds in nuclear reactors slows \r\ndown the neutrons in the core, preventing the development of a potential nuclear bomb?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What extremely powerful biological oxidizing agent is used in \r\nphotosynthesis to oxidize water and is named for its absorption maximum in the red part of the \r\nvisible spectrum?", 
+    "tossupA": "MODERATORS (DO NOT ACCEPT: CONTROL RODS)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece123"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "69", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice Two spheres with radii [RAY-dee-y]of 2 and 8 are resting on a \r\ntabletop so that they are touching. How far apart are their points of contact on the table? \r\n \r\nW) 2 \r\nX) 4 \r\nY) 8 \r\nZ) 9", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer You are given that xy = 6 and x<sup>2</sup>y + xy<sup>2</sup> + x + y = 63 [x times y equals six \r\nand x squared times y plus x times y squared plus x plus y equals sixty-three].  Calculate: \r\nx<sup>2</sup> + y2 [x squared plus y squared].", 
+    "tossupA": "Y) 8", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece124"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y) ATOMIC ORBITALS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer Identify all of the following three experiments that demonstrate the \r\nparticle nature of light: 1) photoelectric effect; 2) dual-slit experiment; 3) Davisson-Germer \r\nexperiment.", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice Which of the following is NOT featured in the Bohr model of the \r\natom? \r\n  \r\nW) Quantized energy levels \r\nX) Densely packed nucleus \r\nY) Atomic orbitals  \r\nZ) Electrostatic attraction", 
+    "tossupA": "1 (ACCEPT: PHOTOELECTRIC EFFECT)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece125"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) MYOSIN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice During starvation, muscles convert most of the amino acids \r\nreleased from muscle breakdown to what two specific amino acids for use in gluconeogenesis \r\n[gloo-koh-nee-uh-JEN-uh-sis]? \r\n \r\nW) Arginine and glycine [AHR-juh-neen] \r\nX) Arginine and glutamine \r\nY) Alanine and glutamine \r\nZ) Glutamine and glycine [GLY-seen]", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice If you were to selectively extract protein molecules from the H-\r\nzone of a sarcomere [SAHR-kuh-meer], which of the following would be found in the extract? \r\n \r\nW) Actin  \r\nX) Myosin [MY-uh-sin] \r\nY) Titin \r\nZ) Tropomyosin [troh-puh-mee-UH-sin]", 
+    "tossupA": "Y) ALANINE AND GLUTAMINE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece126"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "16", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer Identify all of the following four elements that would burn red \r\nwhen subjected to a flame test: 1) lithium; 2) selenium; 3) barium; 4) calcium.", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer A particular polymer has a chain length of 8. If the same \r\nconditions were used to create another polymer, with the only difference being that a \r\ndifunctional initiator will be used, what would the resulting chain length be?", 
+    "tossupA": "1 AND 4 (ACCEPT: LITHIUM AND CALCIUM)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece127"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) (1)25%, (2) 0%, (3) 75%", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice  What was the principle reason that the Kapteyn \r\nmodel and the Shapley model of the size of the Galaxy were incorrect? \r\nW) They only examined the distribution of stars and failed to examine the distribution of globular \r\nclusters \r\nX) They used data that was not sensitive enough to detect the faintest stars in the Galaxy \r\nY) They failed to account for extinction due to dust \r\nZ) They only examined the distribution of globular clusters and failed to examine the distribution \r\nof stars", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following sets of values best \r\napproximates an average micrite limestone in a ternary diagram with end members (1) \r\nallochemical grains, (2) chemical cement, (3) microcrystalline matrix? \r\n \r\nW) (1) 10%,(2) 90%, (3) 0%  \r\nX) (1) 25%, (2) 0%, (3) 75% \r\nY) (1) 75%, (2) 10%, (3) 15%  \r\nZ) (1) 50%, (2) 45%, (3) 5%", 
+    "tossupA": "Y) THEY FAILED TO ACCOUNT FOR EXTINCTION DUE TO DUST", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece12a"
+    }, 
+    "questionNum": 25
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1015", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Two planes are orthogonal to each other. How many lines exist that are \r\na given fixed distance d from both of these planes?", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Evaluate the following expression: \u2211i=1, n=14 n<sup>2</sup> [the sum from n equals one \r\nto fourteen of n squared]", 
+    "tossupA": "FOUR", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece128"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) WIEN\u2019S LAW CAN BE USED TO PREDICT THE COLOR OF A BLACK BODY", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer By number rank the following three systems of materials, from \r\nlowest to highest, in terms of their coefficients of kinetic friction: 1) rubber on concrete; 2) human \r\njoints; 3) ice on ice.", 
+    "packetNum": 17, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Multiple Choice Which of the following statements is correct about the behavior of \r\nblack bodies? \r\n \r\nW) At high enough temperatures, black bodies will stop emitting in the microwave region \r\nX) The Stefan-Boltzmann law relates the power radiated by a black body to temperature \r\nsquared \r\nY) Approximating a human as a black body shows that most of a person\u2019s energy is radiated \r\naway as ultraviolet light \r\nZ) Wien\u2019s law can be used to predict the color of a black body", 
+    "tossupA": "2, 3, 1", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece129"
+    }, 
+    "questionNum": 22
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "Y) 1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the inverse function of f(x) = x<sup>5</sup> + 1?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Multiple Choice  For a function, f(x), suppose that f is continuous on \r\nthe closed interval [-1, 3], differentiable on the open interval (-1, 3), and that f(-1) = -2 and  \r\nf(3) = 2. Which of the following is the value of the derivative for at least one value, c, on the \r\nopen interval (-1, 3)? \r\nW) -1 \r\nX) 0 \r\nY) 1 \r\nZ) 2", 
+    "tossupA": "f<sup>-1</sup> = <sup>5</sup>&radic;(x-1)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde8b"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "WATER (ACCEPT: H\r\n2\r\nO)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  A solution is prepared by mixing 1 gram of ethanol with 100 \r\ngrams of water to give a final volume of 101 milliliters. Calculate to the nearest integer the mass \r\npercent of ethanol in the solution.", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What is the conjugate acid in the reaction of sulfuric acid and \r\nsodium hydroxide?", 
+    "tossupA": "1", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde8c"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "REVERSE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  There is an igneous rock where all crystals are visible \r\nand the same size. Knowing only these two facts, what can be said about the cooling history of \r\nthis rock? \r\n \r\nW) It cooled in stages, at different levels within the crust \r\nX) It cooled rapidly near the surface \r\nY) It cooled on the surface and was quenched \r\nZ) It cooled slowly, at one time, at depth", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What type of fault occurs if the hanging wall moves \r\ndownward relative to the footwall?", 
+    "tossupA": "Z) IT COOLED SLOWLY, AT ONE TIME, AT DEPTH", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde8d"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "FACE-CENTERED CUBIC (ACCEPT: FCC)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is a covalent bond formed by orbitals \r\noverlapping end to end? \r\n \r\nW) Alpha \r\nX) Beta \r\nY) Sigma \r\nZ) Pi", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  The radius of a gold atom is 144 picometers and its density is \r\n19.32 grams per cubic centimeter. What kind of crystal structure does the unit cell of elemental \r\ngold have?", 
+    "tossupA": "Y) SIGMA", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde8e"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) FILTER WATER FROM THE HEMOLYMPH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the technical term, rarely used by the general public, by \r\nwhich scientists designate the sense used by moths to find mates?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  The fat body of insects is an important organ for metabolism. \r\nWhich of the following is NOT a function of the fat body?  \r\n \r\nW) Metabolize fat, sugar, and protein \r\nX) Store fat, sugar, and protein \r\nY) Filter water from the hemolymph (read as: HEE-moh-lim(p)f) \r\nZ) Synthesize hemolymph (read as: HEE-moh-lim(p)f) proteins", 
+    "tossupA": "CHEMORECEPTION (DO NOT ACCEPT: SMELL)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde8f"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "CH\r\n4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  The convex meniscus of mercury in a capillary tube indicates \r\nwhich of the following? \r\n \r\nW) Mercury is highly attracted to glass \r\nX) Mercury is polar \r\nY) Mercury\u2019s cohesion is greater than its adhesion \r\nZ) Mercury is soluble in water", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  What compound is the reducing agent in the reaction:  \r\nCH\r\n4\r\n + 2O\r\n2\r\n \u2192 (read as: yields) CO\r\n2\r\n + 2H\r\n2\r\nO.", 
+    "tossupA": "Y) MERCURY\u2019S COHESION IS GREATER THAN ITS ADHESION", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde90"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "10", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  If f(x) = (x-2)<sup>2</sup> / (x-4) at which value or \r\nvalues of x does the graph of f(x) have a vertical asymptote?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Given: u(4) = -2 and u\u2019(4) = 3 (read as: u of 4 equals negative 2, and u \r\nprime of 4 equals 3). If f(x) = xu(x) (read as: f of x equals x u of x), then evaluate f\u2019(4) (read as: f \r\nprime of 4).", 
+    "tossupA": "-2", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde91"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "83", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  A 2 meter by 2 meter raft sinks 10 centimeters into the water. \r\nWhich of the following approximates its weight in newtons? \r\n \r\nW) 5000 \r\nX) 3900 \r\nY) 2500 \r\nZ) 1600", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Suppose a bat emits sound waves at a frequency of 83 kilohertz \r\nwhile flying with a velocity of 9.0 meters per second as it chases a moth that flies with a velocity \r\nof 8.0 meters per second. Given the speed of sound as 343 meters per second, to the nearest \r\ninteger, what frequency in kilohertz does the moth detect?", 
+    "tossupA": "X) 3900", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde92"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W) SYSTEMATIC", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following series of spectral line emissions of the \r\nhydrogen atom is in the visible spectrum? \r\n \r\nW) Paschen \r\nX) Balmer \r\nY) Brackett \r\nZ) Lyman", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  To check the accuracy of a graduated cylinder, a student \r\nrepeatedly filled the cylinder to the 25-milliliter mark using water delivered from a buret and then \r\nread the volume delivered. The results of the trials in milliliters were as follows: 1) 26.54, 2) \r\n26.51, 3) 26.60, 4) 26.49, and 5) 26.57. What type of error do these results primarily \r\ndemonstrate? \r\n \r\nW) Systematic \r\nX) Random \r\nY) Conceptual \r\nZ) Observational", 
+    "tossupA": "X) BALMER", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde94"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1.6", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the family name for composite particles made from \r\nquarks?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A 1.0-kilogram block is fastened to a spring whose spring \r\nconstant is 16 newtons per meter. The block is pulled a distance of 11 centimeters from its \r\nequilibrium position at x = 0 on a frictionless surface and released from rest at t = 0. What is the \r\nperiod rounded to the nearest tenth of the oscillation?", 
+    "tossupA": "HADRONS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde95"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) DOMINANCE OF REPTILES INCREASES WITH TIME", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT a discovery attributed \r\nto Edwin Hubble? \r\n \r\nW) The existence of galactic redshifts \r\nX) The redshift observed in light spectra from distant galaxies is proportional to their distance \r\nfrom Earth \r\nY) The Andromeda nebula is a separate galaxy from the Milky Way \r\nZ) The existence of the asteroid 1373 Cincinnati", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following is NOT consistent with the \r\nCenozoic rock record? \r\n \r\nW) Flowering plants \r\nX) Foraminifera \r\nY) Dominance of reptiles increases with time  \r\nZ) Dominance of mammals increases with time", 
+    "tossupA": "W) THE EXISTENCE OF GALACTIC REDSHIFTS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde96"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "84", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  The potential voltage difference between two points is 100 volts. If \r\na particle with a charge of 2 coulombs is transported from one of these points to the other, what \r\nis the magnitude of the work done in joules?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Three particles A, B, and C form an equilateral triangle with a side \r\nlength of 140 centimeters. A lies at the origin with a mass of 1.1 kilograms. B lies on the x axis \r\nwith a mass of 2.5 kilograms. C lies in Quadrant I with a mass of 3.4 kilograms. To the nearest \r\ncentimeter, what is the x coordinate of the center of mass of this system?", 
+    "tossupA": "200", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde97"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "X) DIRECT FUEL INJECTION AND A TURBOCHARGER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Short Answer  In the nuclear fission process to create electricity, Uranium 235 is \r\nsplit into many different products including thorium, protactinium, and actinium. With what stable \r\nelement does it eventually end its decay chain?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  Which of the following vehicle engine technologies improves \r\nengine fuel efficiency the most? \r\n \r\nW) Cylinder deactivation \r\nX) Direct fuel injection and a turbocharger \r\nY) Integrated starter/generator  \r\nZ) Variable valve timing and lift", 
+    "tossupA": "LEAD", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde98"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "(-2, 2] (ACCEPT: ALL REAL NUMBERS GREATER THAN NEGATIVE 2 AND LESS \r\nTHAN OR EQUAL TO 2)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Suppose the average score on a national test is 500, with a standard \r\ndeviation of 100. If each score is increased by 25, what are the new mean and standard \r\ndeviation, respectively?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the set of all real numbers on which the function ln [ (x \u00a0+ \u00a02)/ (1 + &radic;(2-x)) ] is well defined?", 
+    "tossupA": "525 AND 100", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde99"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) INCREASING PRESSURE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following areas exhibits the highest \r\ntotal relief? \r\n \r\nW) Tibetan plateau \r\nX) Rocky Mountains \r\nY) Great Plains \r\nZ) Hawaiian Islands and seamounts", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Multiple Choice  Which of the following will cause adiabatic warming? \r\n \r\nW) Increasing pressure  \r\nX) Decreasing pressure  \r\nY) Condensation releasing latent heat \r\nZ) Heat being added to the volume of air", 
+    "tossupA": "Z) HAWAIIAN ISLANDS AND SEAMOUNTS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde9a"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2 AND 4", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following statements concerning the magnetic field \r\ninside and far from the surface of a long, current-carrying solenoid is TRUE? \r\n \r\nW) It is zero \r\nX) It is non-zero and nearly uniform \r\nY) It varies with 1/r as measured from the solenoid axis \r\nZ) It is independent of the current in the solenoid", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Given that objects that have mass greater than 0, by number, \r\nidentify all of the following four statements that are TRUE: 1) momentum is a form of energy; 2) \r\nif an object has momentum, then it must also have mechanical energy; 3) if an object does not \r\nhave momentum, then it does not have mechanical energy either; 4) if two objects of different \r\nmass have the same momentum, then the less massive object will have the greater kinetic \r\nenergy.", 
+    "tossupA": "X) IT IS NON-ZERO AND NEARLY UNIFORM", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde9b"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "0.2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the name of the type of surface generated by the equation  \r\nz \u00a0= \u00a0x<sup>2</sup>+ \u00a0y<sup>2</sup>?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  If the probability of event A is 0.25, the probability of event B is 0.5, \r\nand the probability of the union of A and B is 0.55, expressing your answer as a decimal to the \r\nnearest tenth, what is the probability of the intersection of A and B?", 
+    "tossupA": "ELLIPTIC PARABOLOID", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde9c"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "Y) IT IS PROPORTIONAL TO L\r\n2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Which of the following is the purpose of a fuel cell stack in a fuel \r\ncell vehicle? \r\n \r\nW) Store hydrogen gas compressed at extremely high pressure to increase driving range \r\nX) Govern the flow of electricity \r\nY) Store energy generated from regenerative braking \r\nZ) Convert hydrogen and oxygen gas into electricity to power the electric motor", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Multiple Choice  In an experiment, students find the relationship between the \r\nperiod of a stick vibrating at its natural frequency and the length L of the stick, measuring the \r\nperiod of the vibrations with a photogate. Which of the following statements BEST reflects the \r\nresults of the experiment with regard to the period of the vibrating stick? \r\n \r\nW) It is proportional to L \r\nX) It is inversely proportional to L \r\nY) It is proportional to L\r\n2\r\n \r\nZ) It is inversely proportional to L\r\n2", 
+    "tossupA": "Z) CONVERT HYDROGEN AND OXYGEN GAS INTO ELECTRICITY TO POWER \r\nTHE ELECTRIC MOTOR", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde9d"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "49 + 49&radic;3 (ACCEPT: 49(1 + &radic;3))", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following is a function for which f(-x) = -f(x) (read as: f \r\nof negative x equals negative f of x)? \r\n \r\nW) sin(x)  \r\nX) x<sup>2</sup> \r\nY) cos(x) \r\nZ) e<sup>x</sup>", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer The four lateral faces of a square pyramid are equilateral triangles. If \r\nthe area of the base is 49 square centimeters, what is the total surface area, in square \r\ncentimeters, in simplest radical form?", 
+    "tossupA": "W) sin(x)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde9f"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "METHANE CLATHRATE (ACCEPT: METHANE HYDRATE, HYDROMETHANE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Short Answer  In an experiment, students burned samples of methanol, ethanol, \r\nvegetable oil, peanut oil, and kerosene. Which two were the cleanest burning?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  What kind of compound consists of methane surrounded by a \r\ncrystal cage of water molecules, forming a solid similar to ice?", 
+    "tossupA": "METHANOL AND ETHANOL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdea1"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "20", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Given 9.8 meters per second squared as g, how much kinetic \r\nenergy in joules is lost when a 100-gram ball dropped from a 2 meter height rebounds to 1.5 \r\nmeters? \r\n \r\nW) 1.96 \r\nX) 1.47  \r\nY) 0.98 \r\nZ) 0.49", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  As a rock with a mass of 4-kilograms drops from the edge of a 40-\r\nmeter-high cliff, it experiences air resistance with an average strength of 20 newtons during the \r\ndescent. Given g as 10 meters per second squared, at what speed, in meters per second, will \r\nthe rock hit the ground?", 
+    "tossupA": "Z) 0.49", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdea2"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) CAP", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Cyclic photophosphorylation (read as: F\u014cE-t\u014de-fohs-fohr-i-LAY-\r\nshon) functions mainly for which of the following purposes? \r\n \r\nW) Generating NADPH \r\nX) Generating PGAL \r\nY) Recycling electrons resulting from the absorption of light in Photosystem I \r\nZ) Regenerating RuBP", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following compounds acts as an activator protein \r\nfor the lactose operon in Escherichia (read as: ehsh-eh-RIK-ee-ah) coli? \r\n \r\nW) AP-1 \r\nX) AP-2y \r\nY) CAP \r\nZ) SAP", 
+    "tossupA": "Y) RECYCLING ELECTRONS RESULTING FROM THE ABSORPTION OF LIGHT \r\nIN PHOTOSYSTEM I", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdea3"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "6", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the common name for a mechanical and electrically \r\nconductive link between two abutting neurons?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  How many horizontal layers are classically identified in the \r\nneocortex?", 
+    "tossupA": "GAP JUNCTION (ACCEPT: NEXUS)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde93"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HORSESHOE CRABS (ACCEPT: MEROSTOMATA)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the name of the main respiratory structure in arachnids?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Book lungs evolved from book gills. What ancient arthropod \r\ngroup, still extant today, has book gills?", 
+    "tossupA": "BOOK LUNGS (DO NOT ACCEPT: LUNGS)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecde9e"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) COCKROACH", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  How many copies of each chromosome does a male wasp have?", 
+    "packetNum": 8, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is NOT in the insect group Apterygota \r\n(read as: ahp-teh-ri-G\u014cE-tah)? \r\n \r\nW) Cockroach \r\nX) Firebrat \r\nY) Bristletail \r\nZ) Silverfish", 
+    "tossupA": "1", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdea0"
+    }, 
+    "questionNum": 22
+  }
+]

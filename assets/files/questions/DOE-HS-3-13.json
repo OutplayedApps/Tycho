@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "W)  INCREASED ACCESS OF TRANSCRIPTIONAL FACTORS TO DNA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is the form of highly condensed chromatin \r\nthat is not transcribable in its present form and typical of the type of chromatin visible in the light \r\nmicroscope when the cell is in interphase: \r\n \r\nW)  Z DNA \r\nX)  euchromatin \r\nY)  heterochromatin \r\nZ)  histochromatin", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Which of the following is a primary consequence of histone \r\nacetylation: \r\n \r\nW)  increased access of transcriptional factors to DNA \r\nX)  decreased access of transcriptional factors to DNA \r\nY)  increased rate of cells entering mitosis \r\nZ)  G-1 block", 
+    "tossupA": "Y)  HETEROCHROMATIN", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd71f"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  B\r\n2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What type of magnetism exists in substances in which electrons \r\nare unpaired and are very weakly attracted by magnetic fields?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following diatomic molecules will exhibit \r\nparamagnetism: \r\n \r\nW)  B\r\n2\r\n \r\nX)  N\r\n2\r\n \r\nY)  C\r\n2\r\n \r\nZ)  F\r\n2", 
+    "tossupA": "PARAMAGNETISM  (ACCEPT:  PARAMAGNETIC)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd720"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "VACUUM;  PARAFFIN;  MICA;  PURE WATER \r\n \r\n(Solution: vacuum = 1.00;  paraffin = 2.2;  mica = 7.0;  water = 80.0)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  What percent of energy in our Universe is believed to consist of \r\ndark matter and normal matter: \r\n \r\nW)   4.4% \r\nX)  16% \r\nY)  27% \r\nZ)  73%", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Order the following 4 substances from the one with the LOWEST \r\ndielectric constant to the HIGHEST at 20\u00baC:  mica;  paraffin;  vacuum;  pure water", 
+    "tossupA": "Y)  27%", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd721"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "3 (DO NOT ACCEPT 3 and \u20131) \r\n \r\n(Solution:  2x \u2013 1 = (x + 2)(x \u2013 2);  (x \u2013 3)(x + 1) = 0;  x = 3, x \u2260 -1 \u2013 the log(-1) does not exist in the \r\nreal number system)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Solve the following trigonometric equation for x, giving your answer in \r\ndegrees such that 0\u00ba \u2264 x < 360\u00ba:  2 sin x \u2013 1 = 0", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Solve the following logarithmic equation in base 10 for x over the real \r\nnumbers:  \r\nlog (2x \u2013 1) = log (x + 2) + log (x \u2013 2)", 
+    "tossupA": "30\u00ba AND 150\u00ba", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd722"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  THE WESTERN COAST OF NORTH AMERICA", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following BEST describes the largest size of \r\nsediment particle that can be transported by a particular flow in a river: \r\n \r\nW)  discharge \r\nX)  competency \r\nY)  capacity \r\nZ)  bed load", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  A ship accidentally loses a cargo of floating rubber balls \r\noff the East coast of Japan.  If they follow the prevailing currents, in which of the following \r\nlocations will most of them likely FIRST wash on shore: \r\n \r\nW)  the western coast of North America \r\nX)  the eastern coast of Australia \r\nY)  the western coast of Australia \r\nZ)  the south-central coast of Alaska", 
+    "tossupA": "X)  COMPETENCY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd723"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y)  MOLECULAR MASS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is a mint-flavoring used in \r\nchewing gum, toothpaste, and mouthwashes produced naturally in fruits and vegetables: \r\n \r\nW)  wintergreen \r\nX)  xylitol \r\nY)  winterol \r\nZ)  arabinose", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Multiple Choice  The separation of proteins using SDS polyacrylamide \r\ngel electrophoresis is primarily based on: \r\n \r\nW)  charge only \r\nX)  charge and shape \r\nY)  molecular mass \r\nZ)  shape only", 
+    "tossupA": "X)  XYLITOL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd724"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) KIRKWOOD GAPS ARE GAPS IN THE MAIN ASTEROID BELT CAUSED BY \r\nTHE GRAVITATIONAL EFFECTS OF MARS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following is LEAST accurate: \r\n \r\nW)  magnetic fields can be strongly amplified when 2 neutron stars merge \r\nX)  Saturn\u2019s moon Titan has been found to have large dunes \r\nY)  hydrogen and nitrogen isotopes have been found in organic matter of primitive meteorites \r\nZ)  interplanetary dust particles are typically nitrogen-rich and carbon-poor", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple Choice  Which of the following is LEAST accurate: \r\n \r\nW)  the imaginary north-south line that passes through the zenith on the celestial sphere is the \r\nmeridian \r\nX)  Kirkwood gaps are gaps in the main asteroid belt caused by the gravitational effects of Mars \r\nY)  Population TWO stars are composed mostly of hydrogen and helium \r\nZ)  a negative sign indicates the celestial coordinate is in the southern hemisphere", 
+    "tossupA": "Z)  INTERPLANETARY DUST PARTICLES ARE TYPICALLY NITROGEN-RICH \r\nAND CARBON-POOR", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd725"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ERYTHROPOIETIN AND CORTICOTROPIN \r\n(Solution: erythropoietin = kidney;  corticotropin = pituitary)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is a primary target of certain HIV drugs, \r\nsuch as AZT, specifically because HIV is a retrovirus: \r\n \r\nW)  reverse transcriptase \r\nX)  HIV receptors \r\nY)  CD 4 cells \r\nZ)  CD 8 cells", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following 5 products that are NOT produced by the \r\nadult human liver:  clotting factors;  glycogen;  erythropoietin;  bile;  corticotropin (read as: core-\r\ntick-oh-TRO-pin)", 
+    "tossupA": "W)  REVERSE TRANSCRIPTASE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd726"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  GLUTAMINE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following is a term used to describe the electronic \r\ngeometry around a central atom that has 5 regions of high electron density:    \r\n \r\nW)  tetrahedral  \r\nX)  trigonal pyramidal \r\nY)  trigonal bipyramidal \r\nZ)  octahedral", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following is NOT an aromatic amino acid: \r\n \r\nW)  glutamine  \r\nX)  tryptophan \r\nY)  phenylalanine \r\nZ)  tyrosine", 
+    "tossupA": "Y)  TRIGONAL BIPYRAMIDAL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd727"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z)  95%", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Giving your answer in hertz, what is the lowest frequency possible for \r\na string that is 90-centimeters long and whose wave speed is 360 meters per second?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Current accounting of the composition of the universe suggests that \r\ndark energy and dark matter together make up about what percent of the energy in the universe: \r\n \r\nW)  65% \r\nX)  75% \r\nY)  85% \r\nZ)  95%", 
+    "tossupA": "200 \r\n \r\n(Solution:  f = v/ \u03bb;  = 360/1.8m = 200)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd728"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  625", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Multiple Choice  Which of the following was the primary instrument used to \r\ngather 5 to 35 micrometer spectra data from the Deep Impact mission: \r\n \r\nW)  Chandra X-ray observatory \r\nX)  Arecibo radio telescope \r\nY)  Hubble gamma-ray telescope \r\nZ)  Spitzer infrared spectrograph", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Multiple choice  By what multiple does the brightness of two stars differ with \r\napparent magnitudes of \u20133 and +4:  \r\n \r\nW)  2.5 \r\nX)  25   \r\nY)  250 \r\nZ)  625", 
+    "tossupA": "Z)  SPITZER INFRARED SPECTROGRAPH", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd72a"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X)  HYDROTHERMAL PRECIPITATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following glacial features are deposited in \r\nannual layers and can be used by geologists to determine seasonal variations during past ice ages: \r\n \r\nW)  drumlins  \r\nX)  moraines \r\nY)  varves \r\nZ)  eskers", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Which of the following is a geothermal process that has \r\nmostly led to concentrated stores of copper and zinc in the Earth\u2019s crust: \r\n \r\nW)  soil leaching \r\nX)  hydrothermal precipitation \r\nY)  igneous cooling \r\nZ)  evaporation of water", 
+    "tossupA": "Y)  VARVES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd72b"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W)  PYRUVATE YIELDING ACETYL Co-A", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  During the electron transport system, a store of potential energy is \r\ncreated that will be converted into high energy phosphates. The potential energy is best described as:  \r\n \r\nW)  ADP \r\nX)  ATP \r\nY)  the hydrogen ion gradient \r\nZ)  the sodium differential", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  What is the first part in the breakdown of glucose, starting in \r\nglycolysis and through the Krebs cycle, where CO\r\n2\r\n is released: \r\n \r\nW)  pyruvate yielding Acetyl Co-A \r\nX)  3-phosphoglycerate (read as: 3-foss-foe-GLISS-err-ate) yielding 2-phosphoglycerate \r\nY)  isocitrate yielding alpha ketogluterate \r\nZ)  oxaloacetate (read as: ox-AL-oh-ACETATE) yielding citrate", 
+    "tossupA": "Y)  THE HYDROGEN ION GRADIENT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd72d"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "Z)  KI \r\n(Solution:  common ion effect)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following molecules has the highest bond \r\nenthalpy, or energy it would take to break apart the bond: \r\n \r\nW)  F\r\n2\r\n \r\nX)  H\r\n2\r\n \r\nY)  HCl \r\nZ)  CO", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Silver iodide, or AgI, is LEAST soluble in which of the \r\nfollowing aqueous solutions: \r\n \r\nW)  NaOH \r\nX)  distilled water \r\nY)  HNO\r\n3\r\n   \r\nZ)  KI", 
+    "tossupA": "Z)  CO", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd72e"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y)  QUARKS CAN BE ISOLATED FROM THEIR HADRONS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  In using a frequency of light that causes the photoelectric effect, \r\nwhich of the following will occur when there is an increase in the intensity of the incident light beam \r\non a metal surface:  \r\n \r\nW)  the maximum kinetic energy of ejected electrons will increase exponentially \r\nX)  the maximum kinetic energy of ejected electrons will increase linearly  \r\nY)  it will increase the work function \r\nZ)  more electrons will be ejected from the metal", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Which of the following is NOT true according to the Standard \r\nModel of Particle Physics: \r\n \r\nW)  quarks carry color charge \r\nX)  hadrons are color-neutral particles \r\nY)  quarks can be isolated from their hadrons \r\nZ)  the carrier particle for the electromagnetic interaction has zero charge", 
+    "tossupA": "Z)  MORE ELECTRONS WILL BE EJECTED FROM THE METAL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd72f"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "1 AND 4  (ACCEPT:  1 - LOW HEMATOCRIT;  4 - INCREASED TRANSFERRIN \r\nLEVEL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Which of the following is NOT true: \r\n \r\nW)  long-term variation in Earth\u2019s insolation is partially caused by precession \r\nX)  there has yet to be any scientifically well-documented case of a human whose immune system \r\nhas eradicated HIV from their body \r\nY)  Candida albicans is a common fungal infective agent in humans \r\nZ)  most scientific evidence supports the belief that C<sub>3</sub> plants evolved from C<sub>4</sub> plants", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  By number or name, identify all of the following blood \r\nmeasures that would suggest a woman is deficient in iron:  1) low hematocrit;  2) larger than average \r\nsize of erythrocytes;  3) high levels of TSH;  4) increased transferrin level", 
+    "tossupA": "Z)  MOST SCIENTIFIC EVIDENCE SUPPORTS THE BELIEF THAT C<sub>3</sub> PLANTS \r\nEVOLVED FROM C<sub>4</sub> PLANTS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd732"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "HBrO;  HBrO\r\n2\r\n;  HBrO\r\n3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  Order the following 3 ionic solids in terms of their lattice energies \r\nor enthalpies, going from the HIGHEST to the LOWEST:  LiBr;  KBr;  NaBr", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Arrange the following 3 oxoacids or oxyacids in order of \r\nINCREASING acid strength:  HBrO\r\n3\r\n; \r\n \r\nHBrO\r\n2\r\n;  HBrO", 
+    "tossupA": "LiBr;  NaBr;  KBr", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd735"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "134  \r\n \r\n(Solution:  v\r\n2\r\n = v\r\n2E\r\n + v\r\n2N\r\n;  KE = \u00bd m(v\r\n2E\r\n + v\r\n2N\r\n) = \u00bd (3kg)[(5m/s)\r\n2\r\n + (8 m/s)\r\n2\r\n] = 133.5J)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  If a rock is spun on a sling with a frequency of 100 revolutions per \r\nminute, what is the rock\u2019s period, in seconds?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A 3-kilogram model airplane has velocity components of 5 meters per \r\nsecond due east and 8 meters per second due north.  What is the plane\u2019s kinetic energy, in joules to \r\nthe nearest whole number?", 
+    "tossupA": "0.6 \r\n \r\n(Solution:  T = 1/f = 0.6 sec)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd736"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "8 + &radic;2i  (ACCEPT:  8 + i&radic;2)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Simplify the following radical expression, giving your answer in \r\nstandard bi form: &radic;(-144/49)", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Multiply the following complex numbers, giving your answer in \r\nstandard form:  (2 + i&radic;2)(3 \u2013  i&radic;2)", 
+    "tossupA": "12/7 i", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd729"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "240", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  If the temperature of an object is doubled, and all other things \r\nremain the same, how many times as fast will it radiate energy?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  How many sidereal minutes are in 4 sidereal hours?", 
+    "tossupA": "16  (ACCEPT:  2<sup>4</sup>)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd72c"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5 \r\n \r\n(Solution:  31 = 3<sup>3</sup> + 3(3) \u2013 k;  k = 5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  In degrees, what is the least positive angle that is coterminal with 650\u00b0?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Given the function f(x) = x<sup>3</sup> + 3x \u2013 k and f(3) = 31, solve for k:", 
+    "tossupA": "290\u00b0 \r\n \r\n(Solution: 650\u00b0 \u2013 360\u00b0 = 290\u00b0)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd730"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  FROM ASTHENOSPHERE MATERIAL SQUEEZING THROUGH CRACKS \r\nCAUSED BY BENDING IN EARTH\u2019S CRUST", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  It is estimated that the supercontinent Pangaea began to \r\nbreak up at the end of the Triassic Period about how many years ago: \r\n \r\nW)  2.5 billion years \r\nX)  225 million years \r\nY)  5 million years \r\nZ)  150,000 years", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  A group of small volcanoes, called the petit spot \r\nvolcanoes, was recently found.  What makes this find so unusual is they are believed to be formed: \r\n \r\nW)  from asthenosphere material squeezing through cracks caused by bending in Earth\u2019s crust  \r\nX)  from plumes rising rapidly from the boundary between Earth\u2019s core and mantle  \r\nY)  at a convergent plate boundary \r\nZ)  at a mid-ocean ridge", 
+    "tossupA": "X)  225 MILLION YEARS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd731"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "22", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  Name all of the following 4 objects that would NOT be found \r\non Earth:  meteors;  craters;  asteroid impact remnants;  bolides", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  For someone standing at 22\u00b0 North latitude, how many degrees \r\nabove the horizon will the north celestial pole be?", 
+    "tossupA": "METEORS;  BOLIDES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd733"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "NUCLEUS;  MITOCHONDRION;  CHLOROPLAST   \r\n(ACCEPT:  ALL BUT LYSOSOME)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  How many codons in the entire genetic code call for amino acids?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Name all of the following organelles that are bounded by a double \r\nmembrane:  nucleus;  mitochondrion;  chloroplast;  lysosome", 
+    "tossupA": "61", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd734"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "NADH  = 3;  FADH\r\n2\r\n = 2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What part of the human brain releases the most corticotropin?", 
+    "packetNum": 13, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the average yield of ATP for every NADH and for every \r\nFADH\r\n2\r\n,\r\n \r\nrespectively, that pass through the electron transport system?", 
+    "tossupA": "PITUITARY", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd737"
+    }, 
+    "questionNum": 27
+  }
+]

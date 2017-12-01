@@ -1,0 +1,427 @@
+[
+  {
+    "category": 4, 
+    "bonusA": "15", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Multiple Choice Which of the following is closest in value to the number 10: \r\n \r\nW) 9.995 \r\nX) 10.01 \r\nY) 9.99 \r\nZ) 10.05", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the average of the positive whole numbers of 1 through 29?", 
+    "tossupA": "W) 9.995", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e4"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "MITOSIS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice An intracellular substance is so named because it is located in \r\nwhich of the following places: \r\n \r\nW) inside and outside of cells \r\nX) underneath cells \r\nY) outside of cells \r\nZ) within cells", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What process involves a nucleated cell doubling its DNA and \r\nduplicating chromosomes so the cell can then divide and produce two identical daughter cells?", 
+    "tossupA": "Z) WITHIN CELLS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e6"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) JUST AFTER SUNRISE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer Which 2 of the following 5 elements is the Earth\u2019s outer core \r\nthought to be primarily made of: aluminum; sodium; iron; silicon; nickel", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice In a 24 hour period, when does the coldest temperature of \r\nthe day typically occur: \r\n \r\nW) at midnight \r\nX) just after sunrise \r\nY) just after sunset \r\nZ) between 3 and 4 AM", 
+    "tossupA": "IRON AND NICKEL (in any order)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e8"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "NEWTON", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the common term for the force of gravity that is \r\nexerted on an object?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What metric unit is most appropriate for weight?", 
+    "tossupA": "WEIGHT", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9ec"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SILICON AND OXYGEN (in any order)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following does NOT satisfy the scientific \r\ndefinition of a mineral: \r\n \r\nW) it is always an inorganic substance \r\nX) it has a distinct chemical composition \r\nY) it can be a solid or a molten substance \r\nZ) it must form by natural processes", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Which 2 of the following 5 elements are most abundant in \r\nthe Earth\u2019s crust: iron; nickel; carbon; silicon; oxygen", 
+    "tossupA": "Y) IT CAN BE A SOLID OR A MOLTEN SUBSTANCE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9ed"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) 100 MILLIGRAMS = 1 CENTIGRAM", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice In which of the following biomes will there be trees \r\nwhose leaves change color in autumn, fall off in winter, and grow back in the spring: \r\n \r\nW) temperate deciduous forest \r\nX) rainforest \r\nY) coniferous forest \r\nZ) scrubland", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following metric masses are NOT equal: \r\n \r\nW) 1000 milligrams = 1 gram \r\nX) 100 milligrams = 1 centigram \r\nY) 100 decigrams = 1 decagram \r\nZ) 100 grams = 1 hectogram", 
+    "tossupA": "W) TEMPERATE DECIDUOUS FOREST", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9ef"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CELL WALL (ACCEPT: WALL)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice To which of the following categories of living organisms \r\ndoes E. coli belong: \r\n \r\nW) viruses \r\nX) protozoans \r\nY) fungi \r\nZ) bacteria", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What outer structure possessed by plant cells protects them \r\nfrom environmental changes and helps them maintain their shape during stress and times of water \r\nloss?", 
+    "tossupA": "Z) BACTERIA", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f0"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "REACTANTS = SODIUM AND FLUORINE;  PRODUCTS = SODIUM FLUORIDE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Air is best described as a: \r\n \r\nW) compound \r\nX) mixture \r\nY) solution \r\nZ) hydrocarbon", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer In the reaction sodium plus fluorine yields sodium \r\nfluoride, what are the reactants and products, respectively?", 
+    "tossupA": "X) MIXTURE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f1"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "23 AND 29", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Round the number 590,695 to the nearest hundred:", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Name all the prime numbers greater than 20 and less than 30:", 
+    "tossupA": "590,700", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f3"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CARBON DIOXIDE (ACCEPT: CO\r\n2\r\n)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the most basic function of human \r\neye lashes: \r\n \r\nW) to shade the eye from bright sun \r\nX) to prevent small particles from entering the eyes \r\nY) to attract a mate \r\nZ) to help disperse tears when blinking", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What molecule is released from muscles as a waste product, \r\ntransported to the lungs in blood, and exhaled as a gas?", 
+    "tossupA": "X) TO PREVENT SMALL PARTICLES FROM ENTERING THE EYES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f5"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "CRYSTAL (ACCEPT: CRYSTAL LATTICE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer Which one of the 4 states of matter is described as \r\nhaving a definite shape and volume?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the specific name for the type of solid where the \r\natoms or molecules of the solid are arranged in a geometric repeating arrangement?", 
+    "tossupA": "SOLID", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f6"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "SPRING (TIDES)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following sea creatures is LEAST likely to \r\nbe living in the intertidal shore along the state of Maine\u2019s rocky coast: \r\n \r\nW) zebra mussel \r\nX) barnacle \r\nY) anemone \r\nZ) limpet", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer What is the specific name for the very high and very low \r\ntides that occur when the Sun and Moon are in line with the Earth?", 
+    "tossupA": "W) ZEBRA MUSSEL", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f7"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "29.73", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Evaluate the following expression: \u23d0\uf8e620 \u2013 30\u23d0\uf8e6 + \u23d0\uf8e630 \u2013 20\u23d0\uf8e6 (read as: \r\nopen absolute value 20 minus 30 close absolute value, plus open absolute value 30 minus 20, close \r\nabsolute value)", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Giving your answer as a decimal to two places, divide the following: \r\n11\r\n327", 
+    "tossupA": "20", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f8"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "METER AND SECOND", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer 10 kilowatts is equal to how many watts?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What are the SI units for length and time?", 
+    "tossupA": "10,000", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f9"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GLUCOSE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer Of the 4 general types of biological molecules, proteins, \r\ncarbohydrates, lipids and nucleic acids, which one typically accounts for the majority of dietary \r\ncalories in the human diet?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Starch and glycogen are polymers of what simple sugar?", 
+    "tossupA": "CARBOHYDRATES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e1"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "SILICON AND OXYGEN", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer What is the only common substance on Earth that exists \r\nnaturally in the solid, liquid and gaseous states?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer Silicon dioxide is made of what two elements?", 
+    "tossupA": "WATER", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e2"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MERCURY; VENUS; EARTH; MARS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer What energy source is the primary driver of the Earth\u2019s water \r\ncycle?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Name all the terrestrial planets from the one that is CLOSEST \r\nto the Sun to the one that is FARTHEST from the Sun:", 
+    "tossupA": "SUN (ACCEPT: SOLAR)", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e3"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "CONTROL (ACCEPT: CONTROL GROUP)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Convert 300 milliliters into liters:", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What is the name for the manipulated variable group in all \r\nexperiments that is compared to the experimental group?", 
+    "tossupA": "0.3", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e5"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Short Answer The overall charge of an atom of a certain element \r\ndepends on the gaining or losing of what sub-atomic particles?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer How many electrons are in the outer shell of a noble gas \r\nwith an atomic mass greater than 3?", 
+    "tossupA": "ELECTRONS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e7"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "15.951", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Giving your answer to the second decimal place, add the following three \r\nnumbers: 47 + 4.7 + 0.47", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Giving your answer to the third decimal place, subtract the following two \r\nnumbers: 18 \u2013 2.049", 
+    "tossupA": "52.17", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9e9"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "CALORIE (ACCEPT: KILOCALORIE)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What planet in our Solar System is about the same size as \r\nthe Earth, is tectonically active, and has a thick atmosphere composed of carbon dioxide?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer The amount of energy stored in food is commonly \r\nmeasured in what unit?", 
+    "tossupA": "VENUS", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9ea"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CHLOROPLAST", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Short Answer What are the most photosynthetic organs of most higher plants?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer What higher plant cell organelle is responsible for using \r\nsunlight to convert carbon dioxide and water into sugar and oxygen?", 
+    "tossupA": "LEAVES", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9eb"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "$132.00", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Giving your answer as a decimal number, what does 10 to the minus \r\nthree power equal?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer What is the total price of admission to the theater for 2 adults and 4 \r\nchildren if the ticket price for adults is $30.00 and for children is $18.00?", 
+    "tossupA": "0.001", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9ee"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "COAL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice The size, shape and arrangement of crystals or mineral \r\ngrains in igneous rocks is called: \r\n \r\nW) hardness \r\nX) density \r\nY) texture \r\nZ) streak", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Short Answer Which one of the following 5 choices is NOT a mineral: \r\ndiamond; asbestos; graphite; coal; talc", 
+    "tossupA": "Y) TEXTURE", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f2"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "CELLULOSE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Most plastics are based on monomers that are composed \r\nof what element that forms the backbone of the polymer?", 
+    "packetNum": 1, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What natural polymer is the main component of cotton?", 
+    "tossupA": "CARBON", 
+    "setNum": 3, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9f4"
+    }, 
+    "questionNum": 20
+  }
+]

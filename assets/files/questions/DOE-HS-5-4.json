@@ -1,0 +1,427 @@
+[
+  {
+    "category": 3, 
+    "bonusA": "0", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following conditions is necessary and sufficient for \r\nan object in equilibrium? \r\n \r\nW) It is at rest  \r\nX) It is moving with constant velocity \r\nY) It is either moving with constant velocity or with constant acceleration \r\nZ) It is moving with constant acceleration", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  An object with a mass of 1 gram is whirled in a horizontal circle with \r\na radius of 0.5 meters at a constant speed of 2 meters per second. What is the work done on \r\nthe object, in joules, during one revolution?", 
+    "tossupA": "X) IT IS MOVING WITH CONSTANT VELOCITY", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded6"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "FRONT DEVELOPMENT, WAVE DEVELOPMENT, CYCLONIC CIRCULATION \r\n(ACCEPT: 3, 2, 1)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  What theory states that our solar system formed from \r\nthe compression of a giant, swirling cloud of gas and dust?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  By name or number, order the following three events \r\nfrom earliest to latest as two air masses of different densities develop into a mid-latitude \r\ncyclone: 1) cyclonic circulation, 2) wave development, 3) front development.", 
+    "tossupA": "NEBULAR", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded7"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "0.004", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Which of the following will INCREASE the current from a solar \r\npanel? \r\n \r\nW) Using a lead acid cell in series with the solar cells \r\nX) Using a wet cell in series with the solar cells \r\nY) Connecting the solar cells in series \r\nZ) Connecting the solar cells in parallel", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  Given a DC circuit with a voltage source delivering 20 volts and a \r\ncircuit resistance of 5 kiloohms, what is the value of the current in amperes?", 
+    "tossupA": "Z) CONNECTING THE SOLAR CELLS IN PARALLEL", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded8"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "FLOW AND HEAD (ACCEPT: 2 AND 3)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  An RLC circuit must contain of all of the following, EXCEPT:  \r\n \r\nW) A capacitor  \r\nX) An inductor \r\nY) A diode \r\nZ) A resistor", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  By name or number, identify all of the following four factors that \r\ndirectly affect the amount of electricity generated from hydroelectric dams: 1) water \r\ntemperature, 2) flow, 3) head, 4) time of day.", 
+    "tossupA": "Y) A DIODE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecded9"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1/e", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  A line with the equation y = cx + c, where c is a non-zero real \r\nnumber, must intersect which of the following?  \r\n \r\nW) Positive x-axis \r\nX) Positive y-axis \r\nY) Negative x-axis \r\nZ) Negative y-axis", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the slope of the line tangent to the parametric curve at the given \r\npoint: x \u00a0= et, and y = lnt (read as: y equals the natural log of t) at t = 1.", 
+    "tossupA": "Y) NEGATIVE x-AXIS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdeda"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "INCREASE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  Name the three layers of the Sun\u2019s atmosphere.", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  The region around Sweden has undergone elastic \r\nstrain due to pressure from ancient ice cover. What will happen to the elevation of this region \r\nover the next 10,000 years?", 
+    "tossupA": "PHOTOSPHERE, CHROMOSPHERE, CORONA", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdedb"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "20", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Multiple Choice  Neglecting the effect of air resistance, a stone dropped off of a \r\n197-meter high building lands on the ground at which of the following approximate times in \r\nseconds? \r\n \r\nW) 3 \r\nX) 4 \r\nY) 6 \r\nZ) 18", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  A capacitor has a very large capacitance of 10 farads and is \r\ncharged by placing a potential difference of 2 volts between its plates. How much energy in \r\njoules is stored in the capacitor?", 
+    "tossupA": "Y) 6", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdedc"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "DOBSON UNIT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Multiple Choice  Which of the following BEST describes how planets \r\nare distinguishable from stars in the night sky? \r\n \r\nW) Planets appear brighter than stars \r\nX) Planets appear redder than stars \r\nY) Planets appear bigger than stars \r\nZ) Planets have periods of retrograde motion while stars do not", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What unit equal to 0.01 millimeters thickness at STP is \r\nused to measure Earth\u2019s atmospheric ozone layer?", 
+    "tossupA": "Z) PLANETS HAVE PERIODS OF RETROGRADE MOTION WHILE STARS DO \r\nNOT", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdedd"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "1", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Multiple Choice  Which of the following statements is NOT true about the current \r\nelectricity system in the United States? \r\n \r\nW) It is 99.7% reliable \r\nX) It consists of more than 9,000 electric generating units \r\nY) It has more than 1,000,000 megawatts of generating capacity \r\nZ) It is largely decentralized", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  Taking the latent heat of fusion to be 80 calories per gram, how \r\nmuch energy, in kilocalories, does it take to bring 10 grams of ice at 0\u00b0 Celsius to liquid water at \r\n20\u00b0 Celsius?", 
+    "tossupA": "Z) IT IS LARGELY DECENTRALIZED", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdede"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HONEY BEE (ACCEPT: 4)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Insect symbionts are represented in all EXCEPT which of the \r\nfollowing three groups: 1) bacteria, 2) fungi, or 3) animals?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  By name or number, list all of the following four pollinators that \r\nare  members of the order Hymenoptera (read as: hy-meh-NOHP-teh-rah): 1) ruby-throated \r\nhummingbird, 2) monarch butterfly, 3) green bottle fly, 4) honey bee.", 
+    "tossupA": "ANIMALS (ACCEPT: 3)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdedf"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "WATER, CHOLESTEROL, BILIRUBIN (ACCEPT: 1, 2, AND 4)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Multiple Choice  Which of the following is NOT synthesized by the human liver? \r\n \r\nW) Hemoglobin \r\nX) Fibrinogen (read as; fy-BRI-noh-jehn) \r\nY) Albumin \r\nZ) Lipoprotein", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  By name or number, give all of the following five choices that are \r\ncomponents of bile in vertebrates: 1) water, 2) cholesterol, 3) lymph, 4) bilirubin, 5) amylase.", 
+    "tossupA": "W) HEMOGLOBIN", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee1"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "240 (ACCEPT: 250, 260, 270, 280, 290)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY  Short Answer  As the grade of coal increases, how do the concentrations of \r\ncarbon and sulfur change, respectively?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY  Short Answer  If burned over the course of a minute, providing your answer to the \r\nnearest ten, about how many kilowatts of power would a pound of human fat release?", 
+    "tossupA": "CARBON INCREASES AND SULFUR DECREASES", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee2"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "VACUUM CLEANER (ACCEPT: 4)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What is the phrase that refers to the energy required by an \r\nincident photon to cause the photoelectric effect?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  By name or number, identify all of the following four household \r\nitems that make use of the Bernoulli principle: 1) refrigerator, 2) can opener, 3) washing \r\nmachine, 4) vacuum cleaner.", 
+    "tossupA": "WORK FUNCTION", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee3"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "17", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following statements is NOT true about Taylor series? \r\n \r\nW) Taylor series are defined for infinitely differentiable functions \r\nX) All Taylor series are power series \r\nY) All Taylor series are convergent \r\nZ) The first n terms of a Taylor series approximate a function with a polynomial", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Considering the function fx \u00a0= \u00a03x<sup>2</sup>- 4x \u00a0+ \u00a01, what is the average rate of \r\nchange from x = 2 to x = 5?", 
+    "tossupA": "Y) ALL TAYLOR SERIES ARE CONVERGENT", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee5"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W) PHOSPHORUS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following statements is TRUE of ceramics? \r\n \r\nW) They are homogeneous  \r\nX) They are heterogeneous (read as: heh-teh-roh-JEE-nee-is)  \r\nY) They are chelates \r\nZ) They are a form of glass", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following elements has the valence electron \r\nconfiguration of 3s<sup>2</sup>3p\r\n3\r\n? \r\n \r\nW) Phosphorus \r\nX) Oxygen \r\nY) Bromine \r\nZ) Nitrogen", 
+    "tossupA": "X) THEY ARE HETEROGENEOUS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee6"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CURVED MIRRORS (ACCEPT: MIRRORS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE  Short Answer  What term is often used to describe a winter storm that \r\nstrikes the East Coast of the United States, involving a low pressure system that picks up \r\nmoisture from the ocean and often dumps snow on land?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE  Short Answer  What optical device completely eliminates chromatic \r\naberration in telescopes?", 
+    "tossupA": "NOR\u2019EASTER", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee7"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "10", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following represents the electron-pair geometry \r\nof the central oxygen atom of ozone? \r\n \r\nW) Linear \r\nX) Trigonal planar \r\nY) Tetrahedral \r\nZ) Trigonal bipyramidal", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Within a single atom, what is the maximum number of \r\nelectrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read \r\nas: L equals 2)?", 
+    "tossupA": "X) TRIGONAL PLANAR", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee8"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "TEMPERATURE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  One group of carbohydrates is known as polyhydroxylated \r\naldehydes. By what other term is this group described?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  Bacteria depend on cell membrane lipids to provide structure and \r\nstability. What physical environmental factor is most likely to cause these membranes to lose \r\nstability?", 
+    "tossupA": "ALDOSE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee9"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "YOGURT, BLOOD, AND KETCHUP (ACCEPT: 2, 4, AND 5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the IUPAC name for SnCl\r\n2\r\n \u00a0\u2219 6H\r\n2\r\nO?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  By name or number, list all of the following five substances \r\nthat are NOT Newtonian fluids: 1) gasoline, 2) yogurt, 3) water, 4) blood, 5) ketchup.", 
+    "tossupA": "TIN (II) CHLORIDE HEXAHYDRATE", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdeea"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "80/3 (ACCEPT: 26 2/3)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  Which of the following statements is NOT an advantage of a \r\nrepeated-measures design compared to an independent-measures design to compare two \r\ntreatment conditions? \r\n \r\nW) It requires fewer subjects  \r\nX) It is better suited to study development that takes place over time \r\nY) It reduces problems caused by individual differences \r\nZ) It reduces the confounding effects of other factors", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  The linear function y = f(x) contains the two points (2, 1) and (5, 8). In \r\nsimplest form, what is f(13)?", 
+    "tossupA": "Z) IT REDUCES THE CONFOUNDING EFFECTS OF OTHER FACTORS", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdeeb"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "AMPLITUDE = 7, PERIOD = 12, HORIZONTAL SHIFT = - \u03c0/12 (ACCEPT: \u03c0/12 \r\nLEFT), VERTICAL SHIFT = -5 (ACCEPT: 5 DOWN)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  A population has a mean of 73 and a standard deviation of 8. If the \r\ndistribution is standardized to create a new distribution with a mean of 100 and a standard \r\ndeviation of 20, what is the new value of a score of 65 from the original distribution?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What are, respectively, the amplitude, period, horizontal shift, and \r\nvertical shift of y = -5 + 7cos [\u03c0/6\r\n \r\n(x + \u03c0/12)] (read as: y equals negative 5 plus 7 cosine of open \r\nbracket pi over 6 open parenthesis x plus pi over 12 close parenthesis close bracket)?", 
+    "tossupA": "80", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdeec"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ABSCISSION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  If a person suffers an injury and is no longer able to walk but the \r\nheart was not affected, which peripheral nervous system component is most likely to have been \r\ndamaged?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What is the technical name of the process, usually occurring in \r\nthe fall, through which deciduous plants systematically shed their leaves? A thin layer of cells \r\nmay be produced during this process, thus further sealing the site of detachment.", 
+    "tossupA": "SOMATIC (ACCEPT: SOMATOMOTOR SYSTEM)", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdeed"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "40", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the numerical value of 115\r\n2\r\n?", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  What is the coefficient corresponding to x<sup>3</sup> in the binomial expansion \r\nof (x + 2)\r\n5\r\n (read as: the quantity x plus 2 to the power of 5)?", 
+    "tossupA": "13225", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee0"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "W) CO-FACTORS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Name the plant tissue beneath the epidermis that makes up the \r\ncells that surround a stoma.", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Multiple Choice  Mineral salts participate in enzymatic activity as which of the \r\nfollowing? \r\n \r\nW) Co-factors  \r\nX) Activators \r\nY) Stabilizers  \r\nZ) Catalysts", 
+    "tossupA": "PARENCHYMA", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdee4"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "10", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Which of the following can bond to a metal ion? \r\n \r\nW) Ligand \r\nX) Lewis acid \r\nY) Bronsted-Lowry acid \r\nZ) Enantiomer", 
+    "packetNum": 4, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  How many milliliters of 0.75 molar HCl are required to \r\ncompletely neutralize 25.0 milliliters of 0.15 molar Ba(OH)\r\n2\r\n?", 
+    "tossupA": "W) LIGAND", 
+    "setNum": 5, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cecdeee"
+    }, 
+    "questionNum": 27
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "category": 1, 
+    "bonusA": "APPLE", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Vestigial (pronounced VES-ti-gee-al) structures: \r\n \r\nW) have no known function in their present owners \r\nX) function in an analogous fashion in all species \r\nY) evolve homologously until functional \r\nZ) control nervous system functions", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Mallus ioeusis and Mallus sylvestris are the genera and \r\nspecies of what common tree?", 
+    "tossupA": "W) HAVE NO KNOWN FUNCTION IN THEIR PRESENT OWNERS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9af"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "W) S \r\nJunior National Science Bowl Round Robin 3 Page 1", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice  What is the decibel scale most often used to \r\nmeasure? \r\n \r\nW) size of bells \r\nX) magnitude of hurricanes \r\nY) loudness of a sound \r\nZ) brightness of lights", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice What is the name of the lowest energy subshell of \r\nan atom where electrons are found: \r\n \r\nW) s \r\nX) p \r\nY) d \r\nZ) a", 
+    "tossupA": "Y) LOUDNESS OF A SOUND", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b0"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) SUMMER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice Which of the following are the highest of the clouds in \r\nthe troposphere and are composed entirely of ice crystals: \r\n \r\nW) stratus \r\nX) cirrus \r\nY) cumulus \r\nZ) altocumulus", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice In the Northern Hemisphere, when is the Earth the \r\ngreatest distance from the sun: \r\n \r\nW) winter \r\nX) spring \r\nY) summer \r\nZ) fall", 
+    "tossupA": "X) CIRRUS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b1"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2 AMPERE \r\n \r\n(Solution: current = watts/volts; 200/100 = 2 ampere)", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following units is used to measure \r\nelectric current: \r\n \r\nW) voltage \r\nX) ohms \r\nY) amperes \r\nZ) watts", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer What is the current, in amperes, running through a \r\n200-watt light bulb running on a 100 volt power source.", 
+    "tossupA": "Y) AMPERES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b3"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) STARS \r\n \r\nJunior National Science Bowl Round Robin 3 Page 3", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What is the scientific term often used by astronomers \r\nand geoscientists that refers to the point directly overhead?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice The light year is a useful unit of measure for the \r\ndistance between: \r\n \r\nW) planets \r\nX) stars \r\nY) atoms \r\nZ) asteroids", 
+    "tossupA": "ZENITH", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b4"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) A CELL WALL", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following parts of a plant produces pollen: \r\n \r\nW) petal \r\nX) stamen \r\nY) pistil \r\nZ) sepal", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Multiple Choice Plant cells differ from animal cells in that only plant cells \r\npossess: \r\n \r\nW) a nucleus \r\nX) mitochondria \r\nY) a cell wall \r\nZ) lysosomes", 
+    "tossupA": "X) STAMEN", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b5"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "5/6 \r\n \r\n \r\nJunior National Science Bowl Round Robin 3 Page 4", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Solve the following equation: \r\n4\r\n3x = -12", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Convert the periodic decimal 0.8333 or 0.83 \u201cbar\u201d into a fraction:", 
+    "tossupA": "-16", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b6"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) DUST AND OTHER DEBRIS FROM COMETS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Multiple Choice When, in the geological time scale, did dinosaurs roam \r\nthe Earth in large numbers: \r\n \r\nW) Jurassic \r\nX) Triassic \r\nY) Cretaceous \r\nZ) Tertiary", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Meteor showers are composed of: \r\n \r\nW) large pieces of falling rocks \r\nX) dust and other debris from comets \r\nY) falling stars \r\nZ) solar flares", 
+    "tossupA": "W) JURASSIC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b7"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Z) THEY CAN ONLY BE SEEN WHEN THEY PASS THROUGH THE \r\nATMOSPHERE \r\nJunior National Science Bowl Round Robin 3 Page 5", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer Rounded to the nearest whole number, how many \r\ncentimeters are in 2 inches ?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is NOT true of comets: \r\n \r\nW) they have highly elliptical orbits around the sun \r\nX) they leave a trail of particles that reflect sun light \r\nY) they are made of rocks and condensed gases \r\nZ) they can only be seen when they pass through the atmosphere", 
+    "tossupA": "5", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b8"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) 200", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer What is the name for the apparent force that causes \r\nhurricanes to be deflected to the right in the Northern hemisphere and to the left in the Southern \r\nhemisphere?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice The supercontinent Pangea started to break apart into \r\nour present day continents approximately how many million years ago: \r\n \r\nW) 100 \r\nX) 200 \r\nY) 300 \r\nZ) 400", 
+    "tossupA": "THE CORIOLIS EFFECT (ACCEPT: CORIOLIS FORCE)", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b9"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice Which of the following is the least dense at \r\nstandard temperature and pressure: \r\n \r\nW) 10 kilogram of pure water \r\nX) 10 kilogram of aluminum \r\nY) 2 kilogram of silver \r\nZ) 1 kilogram of gold", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Short Answer How many electron does the s subshell of an atom \r\nhold?", 
+    "tossupA": "W) 10 kilogram of pure water", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9bb"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "ENAMEL, DENTIN, PULP \r\n \r\n \r\nJunior National Science Bowl Round Robin 3 Page 7", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the scientific name for the knee \r\ncap: \r\n \r\nW) fibula \r\nX) malleus \r\nY) patella \r\nZ) scapula", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer Organize the following 3 tooth layers from the outermost to \r\nthe innermost of a tooth: dentin, enamel, pulp", 
+    "tossupA": "Y) PATELLA", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9bc"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "X) CONDUCT HEAT AND ELECTRICITY \r\n \r\nJunior National Science Bowl Round Robin 3 Page 8", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice The particles in an atom that determine which \r\nelement it is are the: \r\n \r\nW) nuclei \r\nX) electrons \r\nY) neutrons \r\nZ) protons", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice All metals: \r\n \r\nW) melt at high temperatures \r\nX) conduct heat and electricity \r\nY) contain iron \r\nZ) react with air and water", 
+    "tossupA": "Z) PROTONS", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9be"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "PLACENTA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following parts of a cell is most directly \r\nresponsible for synthesizing proteins: \r\n \r\nW) ribosomes \r\nX) endoplasmic reticulum \r\nY) vacuoles \r\nZ) lysosomee", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer This structure that develops in the wall of the uterus \r\nfunctions in the pregnant mammals to transfer nourishment and oxygen and remove wastes from \r\nthe developing offspring.", 
+    "tossupA": "W) RIBOSOMES", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9bf"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) STRATOVOLCANOES \r\n \r\n \r\n \r\nJunior National Science Bowl Round Robin 3 Page 9", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer Which equinox marks the beginning of spring in the \r\nNorthern Hemisphere?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice Steep-sided volcanoes such as Mounts Rainier, Hood, \r\nand Fuji, are examples of what kind of volcanoes: \r\n \r\nW) stratovolcanoes \r\nX) tephra cone volcanoes \r\nY) shield volcanoes \r\nZ) tower volcanoes", 
+    "tossupA": "VERNAL EQUINOX", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c0"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "SYNAPSE \r\nJunior National Science Bowl Round Robin 3 Page 10", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "LIFE SCIENCE Multiple Choice Which of the following is the scientific name for the \r\nthigh bone: \r\n \r\nW) tibia \r\nX) femur \r\nY) fibula \r\nZ) humerus", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "LIFE SCIENCE Short Answer When a nerve message reaches the end of an axon it sends a \r\nmessage or impulse across the space between the nerves to continue its message to the next \r\nnerve. What is the space across which the message is sent usually called?", 
+    "tossupA": "X) FEMUR", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c2"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Z) POLYSACCHARIDES", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "PHYSICAL SCIENCE Multiple Choice When a car turns a corner on dry pavement, the \r\nwheels do not slide sideways and the car completes the turn due to what interaction between the \r\ntires and the pavement? \r\n \r\nW) friction \r\nX) torque \r\nY) drag \r\nZ) acceleration", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICAL SCIENCE Multiple Choice Complex carbohydrates are called: \r\n \r\nW) polypeptides \r\nX) polynuclides \r\nY) polypropylenes \r\nZ) polysaccharides", 
+    "tossupA": "W) FRICTION", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c3"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) ALFRED WEGENER", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "EARTH SCIENCE Short Answer With a Mohs\u2019 hardness of 1, what is the softest mineral \r\nknown?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE Multiple Choice The first scientist to propose the hypothesis of the past \r\nexistence of the supercontinent Pangea was: \r\n \r\nW) James Hutton \r\nX) John Filmore Hayford \r\nY) Charles Darwin \r\nZ) Alfred Wegener", 
+    "tossupA": "TALC", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c5"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "X) 4 KILOGRAMS \r\n \r\nJunior National Science Bowl Round Robin 3 Page 12", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer What vitamin is the most directly associated with the \r\ndisease scurvy?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Which of the following is the best estimate of what \r\na gallon of water weighs in kilograms? \r\n \r\nW) 2 kilograms \r\nX) 4 kilograms \r\nY) 6 kilograms \r\nZ) 8 kilograms", 
+    "tossupA": "VITAMIN C", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c6"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "15 \r\n \r\nJunior National Science Bowl Round Robin 3 Page 13", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What is the name for a set that contains no elements?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Solve the following expression: 225 + 25 \u00f7 5", 
+    "tossupA": "EMPTY SET", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c7"
+    }, 
+    "questionNum": 27
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "83% \r\n \r\nJunior National Science Bowl Round Robin 3 Page 2", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer The identity element for addition is what number?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer On a math test, 20 students averaged a score of 80% while 10 students \r\naveraged 90%. To the nearest whole number, what is the mean score of the entire class?", 
+    "tossupA": "0", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9b2"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-6x + 15xz (ACCEPT: 15xz \u2013 6x)\r\nJunior National Science Bowl Round Robin 3 Page 6", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer Add the following numbers: 0.5 + 0.05 + 0.005", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Remove the grouping symbols in the following expression: -3x(2 \u2013 \r\n5z)", 
+    "tossupA": "0.555", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9ba"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "Y) ASTEROID IMPACTS", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Short Answer How much does one cubic centimeter of water weigh \r\nat standard temperature and pressure?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Multiple Choice Craters on the moon is evidence of : \r\n \r\nW) lakes that once existed \r\nX) visits from other life \r\n forms \r\nY) asteroid impacts \r\nZ) plate tectonics", 
+    "tossupA": "1 gram", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9bd"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "SOLID, LIQUID, GAS, PLASMA", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "GENERAL SCIENCE Multiple Choice The Sahara Desert in Africa is what type of desert? \r\n \r\nW) subtropical \r\nX) continental \r\nY) rain shadow \r\nZ) coastal", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE Short Answer What are the 4 physical states of matter?", 
+    "tossupA": "W) SUBTROPICAL", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c1"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "W) 5,163   \r\nJunior National Science Bowl Round Robin 3 Page 11", 
+    "vendorNum": "DOE-MS", 
+    "tossupQ": "MATH Short Answer What kind of fraction has the absolute value of the numerator greater \r\nthan the denominator?", 
+    "packetNum": 3, 
+    "grade": "MS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Which of the following numbers is divisible by 3: \r\n \r\nW) 5,163 \r\nX) 2,465 \r\nY) 1,315 \r\nZ) 313", 
+    "tossupA": "IMPROPER FRACTION", 
+    "setNum": 2, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecc9c4"
+    }, 
+    "questionNum": 22
+  }
+]

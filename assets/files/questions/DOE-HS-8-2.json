@@ -1,0 +1,393 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "TRIPLE POINT", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice In proteins, a beta sheet is an example of what type of \r\nstructure? \r\n \r\nW) Primary \r\nX) Secondary \r\nY) Tertiary  \r\nZ) Quaternary", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer On a phase diagram, what is the name for the one point in phase \r\nspace where gas, liquid, and solid phases all coexist in equilibrium [ee-kwuh-LIB-ree-uhm]?", 
+    "tossupA": "X) SECONDARY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a1"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) PORCUPINE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Short Answer A group of butterflies occurs in many color patterns.  The butterflies \r\ncan interbreed and the offspring are fertile.  What is the most appropriate taxonomical rank for \r\nthis group of butterflies?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Which of the following animals is most likely to be responsible for \r\ngirdling a tree?  \r\n \r\nW) Skunk \r\nX) Porcupine  \r\nY) Raccoon \r\nZ) Yellow bellied marmot", 
+    "tossupA": "SPECIES", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a2"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "X) A SQUARE PIZZA, 15\u201d BY 15\u201d", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Solve for x in (2x \u2013 9)<sup>2</sup> = 81 [two x minus 9 quantity squared equals \r\n81]", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice Which of the following pizzas has the greatest area on its top? \r\n \r\nW) A rectangular pizza, 18\u201d by 12\u201d [ eighteen inches by twelve inches] \r\nX) A square pizza, 15\u201d by 15\u201d [fifteen inches by fifteen inches] \r\nY) A circular pizza with a 14\u201d diameter [fourteen inch diameter] \r\nZ) A circular pizza with an 8\u201d radius [eight inch radius]", 
+    "tossupA": "x = 0 or x = 9 (must give both answers)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a5"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) THYROID", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Mistletoe is a vascular plant that imbeds root-like structures into \r\nthe limbs of a tree, robbing it of moisture and nutrients. The mistletoe provides no resources to \r\nthe tree on which it depends. The ecological relationship between the mistletoe and the tree is \r\nan example of which of the following? \r\n \r\nW) Commensalism  \r\nX) Herbivory [hur-buh-VOH-re] \r\nY) Mimicry  \r\nZ) Parasitism", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice  Which of the following glands contributes to thermoregulation by \r\nadjusting the resting metabolic rate? \r\n \r\nW) Pancreas \r\nX) Thyroid \r\nY) Anterior pituitary [pi-TOO-i-ter-ee] \r\nZ) Adrenal", 
+    "tossupA": "Z) PARASITISM", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a6"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "TIN: BRONZE; ZINC: BRASS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following is not one of the characteristics of \r\nindirect coulometry [koo-LOM-i-tree]? \r\n \r\nW) Utilizes a constant current source and both indicating and generating electrodes \r\nX) Can detect microgram amounts \r\nY) Requires the use of standards even if the current efficiency is known \r\nZ) Can use unstable reagents", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer Bronze and brass are both alloys that are made by combining \r\ncopper and another substance.  What other substances are most typically used to make bronze \r\nand brass, respectively?", 
+    "tossupA": "Y) REQUIRES THE USE OF STANDARDS EVEN IF THE CURRENT EFFICIENCY \r\nIS KNOWN", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a7"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1, 2, AND 3 (ACCEPT: ALL OF THEM)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer What type of electrical circuit component can be used to store \r\nenergy electrostatically?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer Indicate, by number, all of the following three forces that would act \r\non a rock as it slides along the ground after being kicked:  1) gravity; 2) friction; 3) air resistance.", 
+    "tossupA": "CAPACITOR", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a8"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "X) 40%", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Short Answer The geologic eras are separated by what sort of major \r\nbiological event?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following is nearest the percentage of the \r\nSouth American continent drained by the Amazon River? \r\n \r\nW) 15% \r\nX) 40% \r\nY) 60% \r\nZ) 75%", 
+    "tossupA": "MASS EXTINCTION (ACCEPT: MASS EXTINCTION EVENTS)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a9"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "X) IMPRINTING", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following visual disorders results in large pressure \r\nincreases within the eye? \r\n \r\nW) Glaucoma \r\nX) Astigmatism  \r\nY) Macular degeneration \r\nZ) Cataracts", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice Konrad Lorenz, a noted behavioral psychologist, was famous for \r\nconditioning a gaggle of geese at a particular age in their development to adopt his rubber boots \r\nas their mother.  This kind of animal behavior results from which of the following? \r\n \r\nW) Habituation \r\nX) Imprinting \r\nY) Instinct \r\nZ) Nurturing", 
+    "tossupA": "W) GLAUCOMA", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0aa"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "-(x+1)/2x", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice A man buys candies for x cents per dozen and sells them for x over 9 \r\ncents per candy. If he buys the candies for $1.08 per dozen, what is his profit per candy, in \r\ncents? \r\n \r\nW) 1 cent \r\nX) 3 cents \r\nY) 8 cents \r\nZ) 12 cents", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer Simplify the following fraction for values of x for which it is defined: \r\n(6x<sup>2</sup>+4x-2)/(4x-12x<sup>2</sup>) [the fraction with numerator six x squared plus four x minus two and denominator four x minus twelve x squared].", 
+    "tossupA": "X) 3 CENTS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0ab"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "3, 4, 2, 1 (ACCEPT: PETROLEUM, HYDROPOWER, NUCLEAR, COAL)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following countries has the highest percentage of its \r\nelectricity production from geothermal energy? \r\n \r\nW) United States \r\nX) Philippines \r\nY) Greenland  \r\nZ) Iceland", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer Order the following four sources of energy from least to greatest in \r\nterms of the percentage share of total electricity generation in the United States:  1) coal;  \r\n2) nuclear; 3) petroleum; 4) hydropower.", 
+    "tossupA": "Z) ICELAND", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0ac"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "2 ONLY (ACCEPT: THEY ARE GENERALLY LESS STABLE THAN SIGMA BONDS)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Multiple Choice Which of the following elements would be most likely to violate \r\nthe octet rule? \r\n \r\nW) Boron \r\nX) Carbon \r\nY) Nitrogen \r\nZ) Oxygen", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer Identify all of the following three statements that characterize pi \r\nbonds:  1) They have maximum electron density on the internuclear axis; 2) They are generally \r\nless stable than sigma bonds; 3) A triple bond consists of one pi bond and two sigma bonds.", 
+    "tossupA": "W) BORON", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0ad"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "Y) AUSTRALOPITHECUS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following is the most similar to the ecosystem type \r\nthat would be found at 4000m elevation in the Andes? \r\n \r\nW) Tundra \r\nX) Broadleaf forest \r\nY) Chaparral [shap-uh-RAL] \r\nZ) Temperate grassland", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Multiple Choice What is the name of the genus of the early hominid Lucy? \r\n \r\nW) Ardipithecus [ahr-de-PITH-i-cuhs] \r\nX) Homo  \r\nY) Australopithecus [aw-stray-loh-PITH-i-kuhs] \r\nZ) Paranthropus [par-RUN-throh-puhs]", 
+    "tossupA": "W) TUNDRA", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0ae"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W) FISSURES", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice Frost wedging or freeze-thaw weather is most \r\nprominent in which of the following locations? \r\n \r\nW) Anchorage, Alaska  \r\nX) Chicago, Illinois \r\nY) Phoenix, Arizona \r\nZ) San Diego, California", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice Which of the following types of volcanic vents creates \r\nwide-spread basalt deposits called flood basalts? \r\n \r\nW) Fissures \r\nX) Cinder cones \r\nY) Composite cone \r\nZ) Stratovolcanoes", 
+    "tossupA": "X) CHICAGO, ILLINOIS", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0af"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "-198 (DO NOT ACCEPT: 198)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Multiple Choice Which of the following values refers to the maximum amount of \r\nnon-expansion work that can be extracted from a closed system? \r\n  \r\nW) Enthalpy  \r\nX) Entropy  \r\nY) Helmholtz free energy  \r\nZ) Gibbs free energy", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer The addition of 2.0 moles of sulfur dioxide to 1.0 mole of diatomic \r\noxygen forms 2.0 moles of sulfur trioxide at a constant pressure and releases 198 kilojoules of \r\nenergy as heat. In kilojoules, what is the change in enthalpy for this reaction?", 
+    "tossupA": "Z) GIBBS FREE ENERGY", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b0"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y) 2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Short Answer Consider two sets, A and B, that show a correlation coefficient R equal \r\nto 0.6. If all the members of set A are multiplied by 3 and all members of set B are reduced by 2, \r\nwhat is the new value of R?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Multiple Choice How many roots satisfy the equation &radic;(6-x)=x&radic;(6-x) [square root \r\nof quantity six minus x equals x times the square root of quantity six minus x]? \r\n \r\nW) 0 \r\nX) 1 \r\nY) 2 \r\nZ) 3", 
+    "tossupA": "0.6 (ACCEPT: IT STAYS THE SAME)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b1"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "1 AND 3", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer Identify all of the following three quantities that are constant for a \r\nbody in uniform circular motion:  1) kinetic energy; 2) speed; 3) angular velocity.", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer Indicate, by number, all of the following three optical properties that \r\nare involved in the production of rainbows:  1) dispersion; 2) absorption; 3) total internal \r\nreflection.", 
+    "tossupA": "1, 2, AND 3 (ACCEPT: KINETIC ENERGY, SPEED, AND ANGULAR VELOCITY OR \r\nALL OF THEM)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b2"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "HYDROGEN BOND", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY Multiple Choice Which of the following neurotransmitters typically has a fast \r\nexcitation response? \r\n \r\nW) Aminobutyric acid [uh-MEE-noh-byoo-TIR-ik] \r\nX) Acetylcholine [uh-seet-l-KOH-leen] \r\nY) Glycine [GLY-seen] \r\nZ) Histamine", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY Short Answer What is the primary force that holds the antiparallel stands of a \r\nDNA helix together?", 
+    "tossupA": "X) ACETYLCHOLINE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b3"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "1-C, 2-D, 3-A, 4-B (HCLO \u2013 HYPOCHLOROUS ACID; HCLO2 \u2013 CHLOROUS ACID; \r\nHCLO3 \u2013 CHLORIC ACID; HCLO4 \u2013 PERCHLORIC ACID)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY Short Answer What law gives the solubility of a gaseous species as a linear \r\nfunction of its partial pressure about a liquid solvent?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY Short Answer Match the four acids with their proper IUPAC [I-U- pak] names:  \r\n1) HClO [H-C-L-O]; 2) HClO2 [H-C-L-O two]; 3) HClO3 [H-C-L-O three]; 4) HClO4 [H-C-L-O \r\nfour]; A) chloric acid; B) perchloric acid; C) hypochlorous acid; and D) chlorous acid", 
+    "tossupA": "HENRY\u2019S LAW", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b4"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "1, 4 (ACCEPT: MEAN AND RANGE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH Multiple Choice The bob on a pendulum swings through an arc 3 feet long when the \r\nstring swings through an angle of 0.5 radians. What is the length of the pendulum in feet? \r\n \r\nW) 4 \r\nX) 5 \r\nY) 6 \r\nZ) 7", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH Short Answer You have a sample of 30 values that correspond to the amounts of \r\nmoney you spent on gas in each of 30 months. You notice that the highest value was mistakenly \r\nrecorded with an extra zero, but after correcting it, it remains the highest value. Identify all of the \r\nfollowing four values that change after the correction:  1. Mean, 2. Median, 3. Interquartile \r\nRange, 4. Range.", 
+    "tossupA": "Y) 6", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b5"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Y) MAGNETIC PROPERTIES OF IRON", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Multiple Choice In which of the following climates is chemical \r\nweathering generally most effective? \r\n \r\nW) Temperate \r\nX) Hot and arid \r\nY) Tropical  \r\nZ) Arctic", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice The reasons why the earth\u2019s core is believed to be \r\nlargely molten iron do NOT include which of following? \r\n \r\nW) Density of iron \r\nX) Conductivity of iron \r\nY) Magnetic properties of iron \r\nZ) Abundance of iron in the universe", 
+    "tossupA": "Y) TROPICAL", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b7"
+    }, 
+    "questionNum": 25
+  }, 
+  {
+    "category": 5, 
+    "bonusA": "HYDROGEN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ENERGY Short Answer Named after its inventor, what battery powered the earliest \r\ntelegraphs?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ENERGY Short Answer What valuable co-product of the water-gas-shift reaction is left when \r\nthe resultant CO2 [C \u2013O- two] is removed?", 
+    "tossupA": "DANIELL CELL (ACCEPT: GROVE CELL)", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a3"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z) IMPROVED PREDICTIVE MODELING CAPABILITIES TO TREAT TSUNAMIS \r\nAS A SINGLE GIANT WAVE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH AND SPACE Short Answer What gas can naturally form in a crystalline solid in ocean \r\nfloor sediments?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH AND SPACE Multiple Choice NOAA\u2019s 2008-2017 Tsunami Programs Strategic Plan \r\naims to minimize loss of life and disruption to economically vital coastal communities from future \r\ntsunamis. Which of the following is NOT an anticipated outcome of the national tsunami effort?\u201d  \r\n \r\nW) Timely and accurate tsunami forecast and warning products  \r\nX) Tsunami products that are understandable and usable  \r\nY) Resilient communities inhabited by a public educated to take appropriate actions  \r\nZ) Improved predictive modeling capabilities to treat tsunamis as a single giant wave", 
+    "tossupA": "METHANE", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0a4"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "ERWIN SCHRODINGER", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS Short Answer The idea that energy is quantized in order to explain the observed \r\nblack-body radiation was first postulated by what German scientist?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS Short Answer What scientist first described the wave mechanics of quantum \r\nparticles with his namesake wave function?", 
+    "tossupA": "MAX PLANCK", 
+    "setNum": 8, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110dec6fd1dd235cece0b6"
+    }, 
+    "questionNum": 22
+  }
+]

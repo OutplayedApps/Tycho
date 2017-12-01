@@ -1,0 +1,427 @@
+[
+  {
+    "category": 2, 
+    "bonusA": "X)  DIAMOND \r\n \r\n(Solution: MgO = 2800\u00baC; diamond = 3550\u00baC;  NaCl = 801\u00baC;  Cs = 645\u00baC)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the scientific term for the ratio between the density of a \r\ngiven substance to that of water when both are at the same temperature?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following pure substances has the highest melting \r\npoint at 1 atmosphere of pressure: \r\n \r\nW)  magnesium oxide \r\nX)  diamond \r\nY)  sodium chloride \r\nZ)  cesium chloride", 
+    "tossupA": "SPECIFIC GRAVITY  (ACCEPT:  RELATIVE DENSITY)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd864"
+    }, 
+    "questionNum": 1
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "INTERFERENCE PATTERN  (ACCEPT:  INTERFERENCE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  According to one of the most common color triangles, if blue and \r\ngreen are primary colors, what is the third primary color?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  What is the most common name for the pattern of light and dark lines \r\nproduced when coherent light is passed through two horizontal slits in a thin opaque sheet, causing \r\nsuperposition of waves projected on a wall?", 
+    "tossupA": "RED", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd866"
+    }, 
+    "questionNum": 3
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "W)  FELDSPAR", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  Which of the following is best classified as a plutonic \r\nintrusive rock: \r\n \r\nW)  obsidian \r\nX)  granite \r\nY)  basalt \r\nZ)  pumice", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  The principle constituent of most granites is: \r\n \r\nW)  feldspar \r\nX)  muscovite \r\nY)  calcite \r\nZ)  dolomite", 
+    "tossupA": "X)  GRANITE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd868"
+    }, 
+    "questionNum": 5
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "18 \r\n \r\n(Solution: 0.9g/100 mL \u00d7 2000 mL = 18.0 g)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  The related quantities charted on a line graph are most \r\noften called: \r\n \r\nW)  results  \r\nX)  lines \r\nY)  sets \r\nZ)  variables", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  How many grams of sodium chloride is in 2,000 milliliters \r\nof 0.9% NaCl solution?", 
+    "tossupA": "Z)  VARIABLES", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd869"
+    }, 
+    "questionNum": 6
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "MERCURY;  VENUS;  MARS;  JUPITER;  SATURN   (in any order)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What basic force of the universe is most responsible for holding \r\nthe planets of our solar system in their orbits?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  What are the proper names of the 5 celestial bodies called \r\nwanderers by Greek astronomers because they had unusual paths in the sky throughout the year?", 
+    "tossupA": "GRAVITY", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd86a"
+    }, 
+    "questionNum": 7
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "IRON SULFIDE  (ACCEPT:  IRON(II) SULFIDE or FERROUS SULFIDE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Multiple Choice  Group 1 cations and group 7 anions combine to form: \r\n \r\nW)  metal alloys \r\nX)  alkali halides \r\nY)  alkaloids \r\nZ)  organometallic compounds", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  Give the chemical name for the compound formed when pure iron \r\nand pure sulfur are mixed together and heated:", 
+    "tossupA": "X)  ALKALI HALIDES", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd86b"
+    }, 
+    "questionNum": 8
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y)  SUBTRACTIVE COLOR SYNTHESIS", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  A white-colored object illuminated by a green light will appear as \r\nwhat color to the human eye?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  A child learns that mixing approximately equal amounts of the \r\npaint colors orange and green produces brown.  This is an example of: \r\n \r\nW)  additive color mixing \r\nX)  summative color generation \r\nY)  subtractive color synthesis \r\nZ)  neutral coloration", 
+    "tossupA": "GREEN", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd86d"
+    }, 
+    "questionNum": 10
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 3 \u00d7 5  (ACCEPT:  2<sup>4</sup> \u00d7 3 \u00d7 5)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Multiple Choice  One-fifth of 0.04% is equal to: \r\n \r\nW)  8 \u00d7 10<sup>-2</sup> \r\nX)  8 \u00d7 10<sup>-3</sup> \r\nY)  8 \u00d7 10<sup>-4</sup> \r\nZ)  8 \u00d7 10<sup>-5</sup>", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Find the prime factorization of 240:", 
+    "tossupA": "Z)  8 \u00d7 10<sup>-5</sup> \r\n \r\n(Solution: (0.2)(0.0004) = 0.00008)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd86e"
+    }, 
+    "questionNum": 11
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "Z)  COMPOSITE VOLCANO", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Multiple Choice  When spreading centers reach above the ocean\u2019s surface, \r\nthey typically form which of the following types of volcanoes: \r\n \r\nW)  shield  \r\nX)  composite \r\nY)  stratovolcano \r\nZ)  cinder cone", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Multiple Choice  Mount Vesuvius in Italy is a typical: \r\n \r\nW)  mud volcano \r\nX)  caldera \r\nY)  cinder cone \r\nZ)  composite volcano", 
+    "tossupA": "W)  SHIELD", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd86f"
+    }, 
+    "questionNum": 12
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "COLLAGEN", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Short Answer  The fertilizer potash provides plants with what element \r\nnecessary for healthy growth and which is also the seventh most abundant element on Earth?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  From what protein is gelatin, which is used as a food \r\nadditive, most commonly derived?", 
+    "tossupA": "POTASSIUM  (ACCEPT:  K)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd870"
+    }, 
+    "questionNum": 13
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "URSA MINOR  (DO NOT ACCEPT:  LITTLE DIPPER)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  First proposed by Georges Lemaitre, what is the name, most \r\nlikely coined by Fred Hoyle, for the theory that the universe originated at a finite time many eons \r\nago from an extremely compressed hot state?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  In what constellation is the star Polaris found?", 
+    "tossupA": "BIG BANG", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd871"
+    }, 
+    "questionNum": 14
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "CENTRIPETAL  (ACCEPT:  CENTRIPETAL FORCE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  Although in many respects difficult to define, what term is MOST \r\noften described as a push or a pull that can cause an object to accelerate?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Short Answer  What is the MOST common term for the inwardly directed force \r\nexerted on an object to keep the object moving in a circle?", 
+    "tossupA": "FORCE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd874"
+    }, 
+    "questionNum": 17
+  }, 
+  {
+    "category": 6, 
+    "bonusA": "SULFUR OXIDES;  NITROGEN OXIDES  (in any order)   \r\n(ACCEPT:  SULFUR DIOXIDE or SO<sub>2</sub> AND NITROGEN DIOXIDE or NO<sub>2</sub>)    \r\n(DO NOT ACCEPT:  SULFURIC ACID or NITRIC ACID)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "GENERAL SCIENCE  Multiple Choice  Anthropogenic means: \r\n \r\nW)  generated by humans \r\nX)  created many years ago \r\nY)  carried in primate genes \r\nZ)  harmful to elderly people", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "GENERAL SCIENCE  Short Answer  The primary anthropogenic cause of acid rain is the  \r\nemission of what 2 gases?", 
+    "tossupA": "W)  GENERATED BY HUMANS", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd877"
+    }, 
+    "questionNum": 20
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "225 \r\n \r\n(Solution: 1 L \u00d7 (3.0 mol/L)(75 g/mol) = 225 g)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the atomic number for the ground state element with the \r\nfollowing electron configuration:  1s22s22p5 (read as: 1, s, 2; 2, s, 2; 2, p, 5)", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Short Answer  How many grams of KCl, with a molar mass of 75, are needed to \r\nmake 1 liter of a 3 molar solution?", 
+    "tossupA": "9", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd879"
+    }, 
+    "questionNum": 22
+  }, 
+  {
+    "category": 3, 
+    "bonusA": "Y)  AVERAGE SPEED", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "PHYSICS  Short Answer  What specific law of motion most directly implies that every action \r\nhas an equal and opposite reaction?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "PHYSICS  Multiple Choice  Jay walks to his car and drives to the store.  The trip takes 20 \r\nminutes.  Jay figures how far he traveled on foot and by car and divides the distance by how long the \r\ntrip took. Which of the following BEST describes what Jay has computed: \r\n \r\nW)  total velocity \r\nX)  average acceleration \r\nY)  average speed  \r\nZ)  instantaneous velocity", 
+    "tossupA": "NEWTON\u2019S THIRD LAW  (ACCEPT:  THIRD LAW)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd87b"
+    }, 
+    "questionNum": 24
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "CYTOSINE;  THYMINE", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  What is the MOST common anatomical synonym for ventral, when \r\nlocating a part of the human body in relation to another part?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What are the names for the pyrimidine bases found in DNA?", 
+    "tossupA": "ANTERIOR", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd865"
+    }, 
+    "questionNum": 2
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "Y)  5181", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  What is the smaller of two integers whose sum is 19 and whose product is \r\n48?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Multiple Choice  Which of the following numbers is evenly divisible by both 11 and 3: \r\n \r\nW)  7791 \r\nX)  7553 \r\nY)  5181 \r\nZ)  8769", 
+    "tossupA": "3 \r\n \r\n(Solution: 16 + 3 = 19;  16 \u00d7 3 = 48)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd867"
+    }, 
+    "questionNum": 4
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "THYROID", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  From what chamber of the human heart does blood carried by the left \r\npulmonary artery leave?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  What human gland or organ produces tri-iodothyronine  (read as: \r\nTRY- I-OH-doh-THY-row-neen)?", 
+    "tossupA": "RIGHT VENTRICLE", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd86c"
+    }, 
+    "questionNum": 9
+  }, 
+  {
+    "category": 2, 
+    "bonusA": "W)  ETHANOL", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "CHEMISTRY  Short Answer  What is the pH of a solution with a pOH of 6.8 at 25\u00baC?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "CHEMISTRY  Multiple Choice  Which of the following substances is water soluble: \r\n \r\nW)  ethanol  \r\nX)  dichloro-methane \r\nY)  chloroform \r\nZ)  benzene", 
+    "tossupA": "7.2", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd872"
+    }, 
+    "questionNum": 15
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "GLUCOSE  (ACCEPT:  \u0392-D-GLUCOPYRANOSYL or D-GLUCOSE)", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  Yersinia, Drosophila and Homo are all what taxonomical category?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  From what monosaccharide is cellulose primarily composed?", 
+    "tossupA": "GENUS  (ACCEPT:  GENERA)", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd873"
+    }, 
+    "questionNum": 16
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "2.7 \u00d7 10<sup>8</sup>", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Giving your answer in centimeters, what is the length of a side of a \r\nsquare whose diagonal measures 12&radic;2 centimeters?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Multiply the following 4 numbers and give your answer in scientific \r\nnotation:  30,000 \u00d7 3,000 \u00d7 30 \u00d7 0.1", 
+    "tossupA": "12", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd875"
+    }, 
+    "questionNum": 18
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "CENOZOIC", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "EARTH SCIENCE  Short Answer  What is the oldest Eon on the Geological Time Scale within \r\nwhich the first organisms appeared between 550 million and 3.4 billion years ago?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "EARTH SCIENCE  Short Answer  Homo sapiens evolved during which geological era of the \r\nGeological Time Scale?", 
+    "tossupA": "PRECAMBRIAN", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd876"
+    }, 
+    "questionNum": 19
+  }, 
+  {
+    "category": 0, 
+    "bonusA": "LONGITUDE = RIGHT ASCENSION;  LATITUDE = DECLINATION", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "ASTRONOMY  Short Answer  What is the primary elemental product of stellar hydrogen \r\nfusion?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "ASTRONOMY  Short Answer  In the equatorial celestial coordinate system, what terms are \r\nsynonymous with longitude and latitude, respectively?", 
+    "tossupA": "HELIUM", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd878"
+    }, 
+    "questionNum": 21
+  }, 
+  {
+    "category": 4, 
+    "bonusA": "12A \u2013 4.03B + 1.2", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "MATH  Short Answer  Giving your answer in standard form, what is the last term in the \r\nbinomial expansion of the following:  (x + y)<sup>6</sup>", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "MATH  Short Answer  Simplify the following expression by combining like terms:   \r\n12.03A \u2013 4.03B \u2013 0.03(A \u2013 40)", 
+    "tossupA": "y<sup>6</sup>", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd87a"
+    }, 
+    "questionNum": 23
+  }, 
+  {
+    "category": 1, 
+    "bonusA": "RIGHT ATRIUM", 
+    "vendorNum": "DOE-HS", 
+    "tossupQ": "BIOLOGY  Short Answer  The sinoatrial (read as: sine-oh-AYE-tree-al) node is located in what \r\nhuman organ?", 
+    "packetNum": 2, 
+    "grade": "HS", 
+    "date_modified": "2017-11-20T11:04:14.747000", 
+    "bonusQ": "BIOLOGY  Short Answer  In what chamber of the human heart is the sinoatrial (read as: sine-\r\noh-AYE-tree-al) node located?", 
+    "tossupA": "HEART", 
+    "setNum": 1, 
+    "date_created": "2017-11-20T11:04:14.747000", 
+    "_id": {
+      "$oid": "5a110deb6fd1dd235cecd87c"
+    }, 
+    "questionNum": 27
+  }
+]
