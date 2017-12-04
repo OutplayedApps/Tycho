@@ -246,25 +246,28 @@ export class NsbappPage {
     }
     timer.object = Observable.timer(0, 200);
     timer.subscription = timer.object.subscribe(t=> {
-      //if (this.progress == NsbappPage.PROGRESS_READ_TOSSUP_Q || this.progress == NsbappPage.PROGRESS_READ_BONUS_Q ) {
-      //  console.log(this.progress);
         this.currentQuestionDisplayed.question += this.currentQuestionDisplayed.questionArray.shift() + " ";
         if (this.currentQuestionDisplayed.questionArray.length == 0) {
-          this.timeUp(timer);
+          this.timeUp(timer, true, true);
         }
-      //}
     });
     return timer;
   }
 
-  timeUp(timer, showDialog = true) {
+  timeUp(timer, showDialog = true, startBuzzer = false) {
     if (timer.subscription) timer.subscription.unsubscribe();
     timer.text = timer.origText;
     timer.subscription = null;
     timer.object = null;
     if (showDialog === true && this.options.mode == 'GAME') {
-      // Don't show time up dialog in the game. todo: show some text instead.
-      this.nextQuestion();
+      if (startBuzzer) {
+        this.buzz();
+      }
+      else {
+        // todo: show some "time up" text.
+        this.nextQuestion();
+      }
+      
     }
     else if (showDialog === true) {
       this.nsbService.timeUp();
