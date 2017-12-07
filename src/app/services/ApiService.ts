@@ -1,10 +1,11 @@
 import { Injectable } from '@angular/core';
-import { Http, Response } from '@angular/http';
+import { Http, Response, ResponseContentType, RequestOptions } from '@angular/http';
 import {LoadingController, AlertController} from 'ionic-angular';
 import 'rxjs/add/operator/mergeMap';
 import { AppVersion } from '@ionic-native/app-version';
 import { Market } from '@ionic-native/market';
 import compareVersions from 'compare-versions';
+import pako from 'pako';
 
 @Injectable()
 export class ApiService {
@@ -24,15 +25,43 @@ export class ApiService {
       .map((res:Response) => res.json());
   };
 
-  getNSBQuestionFile(vendorNum, setNum, packetNum) {
-    var fileName = vendorNum + "-" + setNum + "-" + packetNum;
-    return this.http.get("assets/files/questions/"+ fileName +".json")
-      .map((res:Response) => res.json());
+ getGzipFile(url:string) {
+    //url = "https://wiki.mozilla.org/images/f/ff/Example.json.gz";
+    return this.http.get(url, new RequestOptions({ responseType: ResponseContentType.Blob }))
+      .map((res:Response) => {
+        var blob = res.blob();
+        var arrayBuffer;
+        var fileReader = new FileReader();
+        fileReader.onload = function() {
+            arrayBuffer = this.result;
+            try {
+              let result:any = pako.ungzip(new Uint8Array(arrayBuffer), {"to": "string"});
+              let obj = JSON.parse(result);
+              console.log(obj);
+            } catch (err) {
+              console.log("Error " + err);
+            }
+        };
+        fileReader.readAsArrayBuffer(blob);
+        
+        (<any>window).res = res;
+        return "abcdefg";
+      });
   }
 
   getNSBMetadata() {
-    return this.http.get("assets/files/questions/metadata.json")
-      .map((res:Response) => res.json());
+    return this.getJSONFile("assets/files/questions/metadata.json");
+  }
+
+  getQuizbowlTossups() {
+    return this.getGzipFile("assets/files/quizbowlQuestions/tossups.json.gzip");
+  }
+  getQuizbowlBonuses() {
+    return this.getJSONFile("assets/files/quizbowlQuestions/bonuses.json.gzip");
+  }
+
+  getQuizbowlMetadata() {
+    return this.getJSONFile("assets/files/quizbowlQuestions/metadata.json");
   }
 
   getFileStructure() {
