@@ -7,7 +7,7 @@
 <ion-header>
 
   <ion-navbar>
-    <ion-title>Science Bowl - Options</ion-title>
+    <ion-title>{{nsbService.getGameTypeFormatted()}}</ion-title>
   </ion-navbar>
 
 </ion-header>
@@ -16,9 +16,13 @@
 <ion-content padding>
   <div *ngIf="options && options.mode && options.difficulty && nsbService.metadata">
     <ion-list radio-group [(ngModel)]="options.difficulty" (ngModelChange)="getVendors()">
-      <ion-item *ngFor="let o of optionValues.difficulty" > 
-        <ion-label color="dark">{{o.label || o}}</ion-label>
-        <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
+      <ion-item>
+          <ion-label>Difficulty</ion-label>
+          <ion-select [(ngModel)]="options.difficulty">
+              <ion-option *ngFor="let o of getDifficulties()" [value]="o.value || o.label || o">
+                {{o.label || o}}
+              </ion-option>
+          </ion-select>
       </ion-item>
       <ion-item>
           <ion-label>Vendor</ion-label>

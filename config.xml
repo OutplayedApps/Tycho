@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.outplayed.nsbapp" version="2.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.outplayed.nsbapp" version="2.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Tycho: Play Science Bowl</name>
     <description>Prepare for science bowl! Science could never be so much fun -- this is the best way to prepare for nationals and learn some science!</description>
     <author email="questions@outplayedapps.com" href="http://outplayed.com/">Outplayed Apps</author>
@@ -123,8 +123,6 @@
     <allow-navigation href="http://192.168.87.23:8102" />
     <allow-navigation href="http://192.168.56.1:8100" />
     <allow-navigation href="http://192.168.42.11:8100" />
-    <engine name="android" spec="^6.3.0" />
-    <engine name="ios" spec="4.5.4" />
     <plugin name="com-sarriaroman-photoviewer" spec="^1.1.11" />
     <plugin name="cordova-plugin-console" spec="^1.1.0" />
     <plugin name="cordova-plugin-device" spec="^1.1.7" />
@@ -138,4 +136,6 @@
     <plugin name="cordova-plugin-zip" spec="^3.1.0" />
     <plugin name="cordova-plugin-app-version" spec="^0.1.9" />
     <plugin name="cordova-plugin-market" spec="^1.2.0" />
+    <engine name="android" spec="^6.3.0" />
+    <engine name="ios" spec="4.5.4" />
 </widget>

@@ -26,7 +26,6 @@ export class ApiService {
   };
 
  getGzipFile(url:string) {
-    //url = "https://wiki.mozilla.org/images/f/ff/Example.json.gz";
     return this.http.get(url, new RequestOptions({ responseType: ResponseContentType.Blob }))
       .map((res:Response) => {
         var blob = res.blob();
@@ -52,6 +51,7 @@ export class ApiService {
   }
 
   getNSBMetadata() {
+    console.log("get nsb metadata");
     return this.getJSONFile("assets/files/questions/metadata.json");
   }
 
@@ -60,6 +60,7 @@ export class ApiService {
   }
 
   getQuizbowlMetadata() {
+    console.log("get qb metadata");
     return this.getJSONFile("assets/files/quizbowlQuestions/metadata.json");
   }
 

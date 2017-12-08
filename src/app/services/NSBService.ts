@@ -11,7 +11,8 @@ export interface optionsInterface {
     vendorNum: string,
     setNum: string,
     packetNum: string,
-    category: number
+    category: number,
+    gameType: string // QB or NSB
 }
 
 @Injectable()
@@ -23,10 +24,17 @@ export class NSBService {
 
   constructor(private http:Http, public apiService: ApiService, public tts: TextToSpeech) {
     this.optionValues = {
-        difficulty: [
-            {"label": "Middle School", value: "MS"},
-            {"label": "High School", value: "HS"}
-        ],
+        difficulty: {
+            "NSB": [
+                {"label": "Middle School", value: "MS"},
+                {"label": "High School", value: "HS"}
+            ],
+            "QB": [
+                {"label": "Middle School", value: "MS"},
+                {"label": "High School", value: "HS"},
+                {"label": "Collegiate / Open", value: "College"}
+            ],
+        },
         mode: [
             {"label": "Reader mode", value: "READER"},
             {"label": "Game mode", value: "GAME"}
@@ -48,7 +56,11 @@ export class NSBService {
             {"value": 5, "name": "ENERGY"},
             {"value": 6, "name": "GENERAL SCIENCE"},
             {"value": 7, "name": "COMPUTER SCIENCE"}
-        ]
+        ],
+        gameType: {
+            "NSB": {"name": "National Science Bowl" },
+            "QB": {"name": "Quizbowl"}
+        }
     }
     this.options = {
         difficulty: "HS",
@@ -57,18 +69,34 @@ export class NSBService {
         vendorNum: "DOE-MS",
         setNum: "1",
         packetNum: "1",
-        category: this.optionValues.category[0]
+        category: this.optionValues.category[0],
+        gameType: "NSB"
     };
 }
+    getGameTypeFormatted() {
+        if (!this.optionValues.gameType[this.options.gameType]) {
+            return "";
+        }
+        return this.optionValues.gameType[this.options.gameType].name;
+    }
 
     loadMetaData() {
         this.apiService.presentLoadingCustom();
-        return this.apiService.getNSBMetadata().subscribe(metadata => {
+        var metadataFn;
+        switch (this.options.gameType) {
+            case "QB":
+                metadataFn = () => {return this.apiService.getQuizbowlMetadata()};
+                break;
+            case "NSB":
+            default:
+                metadataFn = () => {return this.apiService.getNSBMetadata()};
+                break;
+        }
+        return metadataFn().map(metadata => {
           (<any>window).loading.dismiss();
           console.log(metadata);
           this.metadata = metadata;
-          
-        });
+        }).toPromise();
     }
 
     getQuestionsBySetKey(setKey) {

@@ -3,6 +3,12 @@
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
 
 ### Release notes:
+#### 2.0.6
+````
+12/4/2017
+- start buzz timer when game mode finishes reading question
+````
+
 #### 2.0.5
 ```
 - You can now choose a "random" option for vendor, which lets you filter between categories! This helps people more when they practice by themselves and want to hone in on a specific topic.
@@ -54,6 +60,9 @@ This app uses questions from the National Science Bowl website to help prepare t
 In Reader Mode, tossups and bonuses will all appear at once. This is ideal for coaches reading questions to different teams during actual rounds at practice or tournaments.
 
 In Game Mode, tossups and bonuses will be read to you as if it's an actual science bowl round. This is good for players who are practicing questions by themselves, as you can select by category or by difficulty.
+
+Disclaimer: The app is not sponsored by the National Science Bowl®, U.S. Department of Energy or the U.S. Government.
+The questions taken from the National Science Bowl® website are the property of the Department of Energy and are available to the general public at no cost.
 ```
 
 # Updates
@@ -163,7 +172,7 @@ ionic cordova build --release android
 
 jarsigner -tsa http://timestamp.digicert.com -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore nsbapp.keystore platforms\android\build\outputs\apk\android-release-unsigned.apk nsbapp
 
-C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.5.apk
+C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.6.apk
 ```
 
 Release (iOS):

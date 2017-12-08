@@ -29,18 +29,34 @@ export class NsbmenuPage {
 
   ngOnInit() { //runs only on init.
     (<any>window).This = this;
+
     this.options = this.nsbService.options;
     this.optionValues = this.nsbService.optionValues;
     this.setChosen = null;
-    this.nsbService.loadMetaData();
 
-    console.log('ionViewDidLoad NsbappPage');
+    this.nsbService.options["gameType"] = this.navParams.get('gameType');
+    console.log("game type is " + this.nsbService.options["gameType"] );
+    this.nsbService.loadMetaData().then(() => {
+      this.getVendors();
+      this.getSets();
+      this.getPackets();
+    });
 
-    console.log('ngoninit nsbmenupage');
+
+    /*this.apiService.getQuizbowlTossups().then((data) => {
+      console.log(data);
+    });*/
+    console.log('ngoninit');
+
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad NsbmenuPage');
+
+    
+  }
+
+  ionViewWillEnter() {
+    
   }
 
   trackByFn(index, item) {
@@ -48,6 +64,7 @@ export class NsbmenuPage {
   }
 
   getSets() {
+    if (this.options.gameType == "QB") return [];
     if (this.options.vendorNum == 'RANDOM') return [];
     let sets = [];
     var setNum = 0;
@@ -65,6 +82,7 @@ export class NsbmenuPage {
 
   getCategories() {
     // Set default category
+    if (this.options.gameType == "QB") return [];
     var categories = this.nsbService.optionValues.category;
     if (!~categories.indexOf(this.options.category)) {
       this.options.category = this.optionValues.category[0]; // Default: all
@@ -88,6 +106,10 @@ export class NsbmenuPage {
     return displayName;
   }
 
+  getDifficulties() {
+    return this.optionValues.difficulty[this.options.gameType];
+  }
+
   prettifyVendorName(name) {
     /* Grabs vendor name from metadata.
      */
@@ -97,6 +119,7 @@ export class NsbmenuPage {
   }
 
   getVendors() {
+    if (this.options.gameType == "QB") return [];
     let vendors = [];
     for (let vendorNum in this.nsbService.metadata) {
       if (~vendorNum.indexOf("-" + this.options.difficulty))
@@ -111,6 +134,7 @@ export class NsbmenuPage {
   }
 
   getPackets() {
+    if (this.options.gameType == "QB") return [];
     if (this.options.vendorNum == 'RANDOM') return [];
     let packets = [];
     var packetNum = 0;

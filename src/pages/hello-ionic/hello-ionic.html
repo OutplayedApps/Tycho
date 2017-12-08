@@ -16,10 +16,14 @@
           <div class="logo">
           </div>
       </ion-col>
-      <ion-col text-center col-12>
+      <ion-col text-center col-12 col-sm-6>
           <button ion-button color="primary" large
-          [navPush]="NsbmenuPage" class="mainBtn">Play Science Bowl</button>
+          (click)="navigateNsbmenuPage(ParamsNSB)" class="mainBtn">Play Science Bowl</button>
       </ion-col>
+      <ion-col text-center col-12 col-sm-6>
+        <button ion-button color="secondary" large
+        (click)="navigateNsbmenuPage(ParamsQB)" class="mainBtn">Play Quizbowl</button>
+    </ion-col>
       <!--ion-col text-center col-12 col-sm-6>
           <button ion-button color="secondary" large
           [navPush]="listPage" class="mainBtn">Quizbowl study guides</button>

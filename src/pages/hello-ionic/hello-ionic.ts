@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Platform } from 'ionic-angular';
+import { Platform, NavController } from 'ionic-angular';
 
 import {ListPage} from '../list/list';
 import {PacketListPage} from "../packet-list/packet-list";
@@ -15,8 +15,13 @@ export class HelloIonicPage {
   packetListPage = PacketListPage;
   aboutPage = AboutPage;
   NsbmenuPage = NsbmenuPage;
+  ParamsNSB = { "gameType": "NSB"};
+  ParamsQB = { "gameType": "QB"};
 
-  constructor() {
+  constructor(public navCtrl: NavController) {
+  }
+  navigateNsbmenuPage(params) {
+      this.navCtrl.push(NsbmenuPage, params);
   }
   
 }
