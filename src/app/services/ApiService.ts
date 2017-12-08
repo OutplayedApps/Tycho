@@ -32,21 +32,23 @@ export class ApiService {
         var blob = res.blob();
         var arrayBuffer;
         var fileReader = new FileReader();
-        fileReader.onload = function() {
-            arrayBuffer = this.result;
-            try {
-              let result:any = pako.ungzip(new Uint8Array(arrayBuffer), {"to": "string"});
-              let obj = JSON.parse(result);
-              console.log(obj);
-            } catch (err) {
-              console.log("Error " + err);
-            }
-        };
-        fileReader.readAsArrayBuffer(blob);
-        
-        (<any>window).res = res;
-        return "abcdefg";
-      });
+        return new Promise(function(resolve, reject) {
+          fileReader.readAsArrayBuffer(blob);
+          fileReader.onload = function() {
+              arrayBuffer = this.result;
+              try {
+                let result:any = pako.ungzip(new Uint8Array(arrayBuffer), {"to": "string"});
+                let obj = JSON.parse(result);
+                resolve(obj);
+              } catch (err) {
+                reject("Error ungzipping / parsing file: " + err);
+              }
+          };
+          fileReader.onerror = function(err){
+            reject("Error reading file: " + err);
+          }
+        });
+      }).toPromise();
   }
 
   getNSBMetadata() {
@@ -54,10 +56,7 @@ export class ApiService {
   }
 
   getQuizbowlTossups() {
-    return this.getGzipFile("assets/files/quizbowlQuestions/tossups.json.gzip");
-  }
-  getQuizbowlBonuses() {
-    return this.getJSONFile("assets/files/quizbowlQuestions/bonuses.json.gzip");
+    return this.getGzipFile("assets/files/quizbowlQuestions/tossups-HS.json.gzip");
   }
 
   getQuizbowlMetadata() {
