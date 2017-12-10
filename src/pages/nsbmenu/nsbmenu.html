@@ -33,6 +33,7 @@
           <ion-select [(ngModel)]="options.vendorNum" (ionChange)="getSets()">
               <ion-option *ngFor="let o of vendors" [value]="o.value">{{prettifyVendorName(o.value)}}</ion-option>
               <ion-option *ngIf="options.gameType=='NSB'" [value]="'RANDOM'">Random</ion-option>
+              <ion-option *ngIf="options.gameType=='QB'" [value]="'ALL'">All</ion-option>
           </ion-select>
       </ion-item>
       <ion-item *ngIf = "options.vendorNum && options.vendorNum == 'RANDOM'">

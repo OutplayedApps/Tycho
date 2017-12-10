@@ -153,7 +153,7 @@ export class NsbmenuPage {
     var packets = [];
     if (this.options.vendorNum == 'RANDOM') {this.packets = []; return;}
     if (this.options.gameType == "QB") {
-      packets = this.nsbService.getPacketsQB();
+      packets = this.nsbService.getPacketsQB(this.sets);
     }
     else {
       var packetNum = 0;

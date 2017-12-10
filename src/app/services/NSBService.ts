@@ -256,33 +256,40 @@ export class NSBService {
             vendors.push({"name": key, "value": key});
         }
         // Set default vendorNum
-        if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
-            this.options.vendorNum = vendors[0];
-        }
+        this.options.vendorNum = vendors[0];
         return vendors;
     }
 
     getSetsQB() {
-        var allSets = this.metadata[this.options.difficulty][this.options.vendorNum];
         var sets = [];
-        for (let i in allSets) {
-            var set = allSets[i];
-            /*
-            difficulty:            7
-            id:            328
-            name:            "2017 Sivakumar Day Inter-Nationals"
-            rounds:            (2) ["1", "2"]
-            year:            2017    
-            */
-            if (!set.rounds || !set.rounds.length) continue; // Don't add empty sets with no packets in them.
-            sets.push({ "name": set.name, "value": set.id});
-        };
-        return sets;
+        var vendorNums = [this.options.vendorNum];
+        if (this.options.vendorNum == 'ALL') { // Allow looping through of all sets.
+            vendorNums = Object.keys(this.metadata[this.options.difficulty]); // this is an array of {"name": "", "value": ""}.
+        }
+        for (let v in vendorNums) {
+            let vendorNum = vendorNums[v];
+            var allSets = this.metadata[this.options.difficulty][vendorNum];
+            for (let i in allSets) {
+                var set = allSets[i];
+                /*
+                difficulty:            7
+                id:            328
+                name:            "2017 Sivakumar Day Inter-Nationals"
+                rounds:            (2) ["1", "2"]
+                year:            2017    
+                */
+                if (!set.rounds || !set.rounds.length) continue; // Don't add empty sets with no packets in them.
+                set.value = set.id;
+                sets.push(set);
+            };
+        }
+        return sets.sort((a, b) => {return a.year - b.year});
     }
 
-    getPacketsQB() {
-        var set = this.metadata[this.options.difficulty][this.options.vendorNum].filter((set) =>
-        { return set.id==this.options.setNum; });
+    getPacketsQB(sets) {
+        var set = sets.filter((set) =>
+        { return set.value==this.options.setNum; });
+        console.log("sets!", sets, this.options.setNum, set);
         var packetsOrig = set[0].rounds;
         var packets = [];
         for (let i in packetsOrig) {
