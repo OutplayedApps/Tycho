@@ -7,7 +7,7 @@
 <ion-header>
 
   <ion-navbar>
-    <ion-title>Science Bowl</ion-title>
+    <ion-title>Tycho: Play {{nsbService.getGameTypeFormatted()}}</ion-title>
 
     <ion-buttons end>
         <button ion-button icon-only menuToggle="TipMenu">
@@ -27,7 +27,7 @@
 <ion-scroll scrollY="true"
 >
   <div class="currentQuestion" *ngIf="currentQuestion">
-    Set {{options.setName}} | Round {{options.packetName}} | {{ currentQuestionNumber + 1}} out of {{questions.length}}<br><br>
+    Set: {{options.setName}} | Round: {{options.packetName}} | {{ currentQuestionNumber + 1}} out of {{questions.length}}<br><br>
     <div [innerHTML]="currentQuestionDisplayed.question">
 
     </div>
