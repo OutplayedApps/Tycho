@@ -179,10 +179,18 @@ export class NsbmenuPage {
       });
     }
     else {
-      var packetInfo = this.nsbService.metadata[this.options.vendorNum][this.options.setNum][this.options.packetNum];
+      // Passes the file name in the packetInfo object on to the nsbapp page.
+      var packetInfo;
+      if (this.options.gameType == "NSB") {
+        packetInfo = this.nsbService.metadata[this.options.vendorNum][this.options.setNum][this.options.packetNum];
+        /* {fileName: 'DOE-MS-1-2 (vendorNum)-(setNum)-(packetNum)', numQuestions: 20} */
+      }
+      else { // "QB"
+        packetInfo = {"fileName": this.options.setNum + "-" + this.options.packetNum};
+      }
+      console.log(packetInfo);
       this.navCtrl.push(NsbappPage, {
         options: this.nsbService.options,
-        numQuestions: packetInfo.numQuestions,
         fileName: packetInfo.fileName
       });
     }

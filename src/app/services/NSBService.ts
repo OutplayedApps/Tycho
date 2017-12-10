@@ -114,6 +114,19 @@ export class NSBService {
     getQuestionsBySetKey(setKey) {
         return this.apiService.getJSONFile("assets/files/questions/all.json").map(data => {
             return data[setKey];
+        }).toPromise();
+    }
+
+    getQuestionsBySetKeyQB(setKey) {
+        /* Just gets tossups for now. */
+        return this.apiService.getQuizbowlTossups().then(data => {
+            var questions = data[setKey];
+            console.log(data, questions);
+            for (let i in questions) {
+                questions["bonusQ"] = "";
+                questions["bonusA"] = "";
+            }
+            return questions;
         });
     }
 
@@ -158,21 +171,29 @@ export class NSBService {
         }
     }
 
-    getSetAndFilter(options, fileName) {
+    getSetAndFilter(fileName) {
         // gets set by file name, and then filters it.
         this.apiService.presentLoadingCustom();
-        if (!fileName && options.vendorNum == 'RANDOM') {
-            return this.getRandomQuestionsByCategory(options.category.value).map(data => {
-                (<any>window).loading.dismiss();
-                return this.formatMultipleChoice(data);
-            });
+        var fn;
+
+        switch (this.options.gameType) {
+            case "QB":
+                fn = () => {return this.getQuestionsBySetKeyQB(fileName);};
+                break;
+            case "NSB":
+            default:
+                if (!fileName && this.options.vendorNum == 'RANDOM') {
+                    fn = () => {return this.getRandomQuestionsByCategory(this.options.category)};
+                }
+                else {
+                    fn = () => {return this.getQuestionsBySetKey(fileName);}
+                }
+            break;
         }
-        else {
-            return this.getQuestionsBySetKey(fileName).map(data => {
-                (<any>window).loading.dismiss();
-                return this.formatMultipleChoice(data);
-            });
-        }
+        return fn().then(data => {
+            (<any>window).loading.dismiss();
+            return this.formatMultipleChoice(data);
+        });
     }
 
     formatMultipleChoice(array) {
