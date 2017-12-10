@@ -260,8 +260,8 @@ export class NSBService {
         { return set.id==this.options.setNum; });
         var packetsOrig = set[0].rounds;
         var packets = [];
-        for (let i in packets) {
-            var packetName = packets[i];
+        for (let i in packetsOrig) {
+            var packetName = packetsOrig[i];
             var packetValue = packetName;
             packets.push({"name": packetName, "value": packetValue});
         }
