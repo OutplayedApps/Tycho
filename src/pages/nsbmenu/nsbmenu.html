@@ -21,8 +21,8 @@
     <ion-list radio-group>
       <ion-item>
           <ion-label>Difficulty</ion-label>
-          <ion-select [(ngModel)]="options.difficulty">
-              <ion-option *ngFor="let o of getDifficulties()" [value]="o.value || o.label || o">
+          <ion-select [(ngModel)]="options.difficulty" (ionChange)="getVendors()">
+              <ion-option *ngFor="let o of difficulties" [value]="o.value || o.label || o">
                 {{o.label || o}}
               </ion-option>
           </ion-select>
@@ -30,27 +30,27 @@
       <ion-item *ngIf="options.difficulty">
           <ion-label *ngIf="options.gameType=='NSB'">Vendor</ion-label>
           <ion-label *ngIf="options.gameType=='QB'">Sub-difficulty</ion-label>
-          <ion-select [(ngModel)]="options.vendorNum">
-              <ion-option *ngFor="let o of getVendors()" [value]="o">{{prettifyVendorName(o)}}</ion-option>
+          <ion-select [(ngModel)]="options.vendorNum" (ionChange)="getSets()">
+              <ion-option *ngFor="let o of vendors" [value]="o">{{prettifyVendorName(o)}}</ion-option>
               <ion-option *ngIf="options.gameType=='NSB'" [value]="'RANDOM'">Random</ion-option>
           </ion-select>
       </ion-item>
       <ion-item *ngIf = "options.vendorNum && options.vendorNum == 'RANDOM'">
         <ion-label>Category</ion-label>
         <ion-select [(ngModel)]="options.category">
-            <ion-option *ngFor="let o of getCategories()" [value]="o">{{o.name}}</ion-option>
+            <ion-option *ngFor="let o of categories" [value]="o">{{o.name}}</ion-option>
         </ion-select>
       </ion-item>
       <ion-item *ngIf = "options.vendorNum && options.vendorNum != 'RANDOM'">
         <ion-label>Set</ion-label>
-        <ion-select [(ngModel)]="options.setNum">
-            <ion-option *ngFor="let o of getSets()" [value]="o">{{o}}</ion-option>
+        <ion-select [(ngModel)]="options.setNum" (ionChange)="getPackets()">
+            <ion-option *ngFor="let o of sets" [value]="o.value">{{o.name}}</ion-option>
         </ion-select>
       </ion-item>
       <ion-item *ngIf = "options.setNum && options.vendorNum != 'RANDOM'">
           <ion-label>Packet</ion-label>
           <ion-select [(ngModel)]="options.packetNum">
-              <ion-option *ngFor="let o of getPackets()" [value]="o">{{o}}</ion-option>
+              <ion-option *ngFor="let o of packets" [value]="o">{{o}}</ion-option>
           </ion-select>
       </ion-item>
     </ion-list>

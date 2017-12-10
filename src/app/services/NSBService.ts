@@ -238,18 +238,16 @@ export class NSBService {
     }
 
     getSetsQB() {
-        let sets = [];
-        var setNum = 0;
-        for (let key in this.metadata) {
-          setNum++;
-          if (key == "metadata") continue;
-          sets.push(
-            //this.getDisplayNameFromMetadata(
-              this.metadata[key].name
-              //setNum + "")
-          );
-        }
-        return sets;
+        return this.metadata[this.options.difficulty][this.options.vendorNum].map(function(set) {
+            /*
+            difficulty:            7
+            id:            328
+            name:            "2017 Sivakumar Day Inter-Nationals"
+            rounds:            (2) ["1", "2"]
+            year:            2017    
+            */
+            return { "name": set.name, "value": set.id};
+        });
     }
 
 }

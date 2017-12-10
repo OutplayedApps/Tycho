@@ -22,6 +22,11 @@ export class NsbmenuPage {
   optionValues: any;
   setInfo: any;
   setChosen: any;
+  difficulties: any[];
+  vendors: any[];
+  sets: any[];
+  packets: any[];
+  categories: any[];
 
   constructor(public navCtrl: NavController, public navParams: NavParams,
               public apiService: ApiService, public nsbService: NSBService) {
@@ -37,6 +42,8 @@ export class NsbmenuPage {
     this.nsbService.options["gameType"] = this.navParams.get('gameType');
     console.log("game type is " + this.nsbService.options["gameType"] );
     this.nsbService.loadMetaData().then(() => {
+      this.getDifficulties();
+      console.log("difficulties", this.difficulties);
       this.getVendors();
       this.getSets();
       this.getPackets();
@@ -70,7 +77,7 @@ export class NsbmenuPage {
     if (!~categories.indexOf(this.options.category)) {
       this.options.category = this.optionValues.category[0]; // Default: all
     }
-    return categories;
+    this.categories = categories;
   }
 
   getDisplayNameFromMetadata(currentMetadata, displayName="") {
@@ -90,7 +97,7 @@ export class NsbmenuPage {
   }
 
   getDifficulties() {
-    return this.optionValues.difficulty[this.options.gameType];
+    this.difficulties = this.optionValues.difficulty[this.options.gameType];
   }
 
   prettifyVendorName(name) {
@@ -103,41 +110,51 @@ export class NsbmenuPage {
   }
 
   getVendors() {
-    if (this.options.gameType == "QB") return this.nsbService.getVendorsQB();
-    let vendors = [];
-    for (let vendorNum in this.nsbService.metadata) {
-      if (~vendorNum.indexOf("-" + this.options.difficulty))
-        vendors.push(vendorNum);
+    var vendors = [];
+    if (this.options.gameType == "QB") {
+      vendors = this.nsbService.getVendorsQB();
+    } 
+    else {
+      for (let vendorNum in this.nsbService.metadata) {
+        if (~vendorNum.indexOf("-" + this.options.difficulty))
+          vendors.push(vendorNum);
+      }
+      // Set default vendorNum
+      if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
+        this.options.vendorNum = vendors[0];
+      }
     }
-    // Set default vendorNum
-    if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
-      this.options.vendorNum = vendors[0];
-    }
-
-    return vendors;
+    this.vendors = vendors;
   }
 
   getSets() {
-    if (this.options.vendorNum == 'RANDOM') return [];
-    if (this.options.gameType == "QB") return this.nsbService.getSetsQB();
-    let sets = [];
-    var setNum = 0;
-    for (let key in this.nsbService.metadata[this.options.vendorNum]) {
-      setNum++;
-      if (key == "metadata") continue;
-      sets.push(
-        this.getDisplayNameFromMetadata(
-          this.nsbService.metadata[this.options.vendorNum][key]["metadata"],
-          setNum + "")
-      );
+    /* Gets sets. This function is called when the ion-select for vendorNum is changed.
+     */
+    var sets = [];
+    if (this.options.vendorNum == 'RANDOM') { sets = []; this.getCategories(); return; }
+    if (this.options.gameType == "QB") {
+      sets = this.nsbService.getSetsQB();
     }
-    return sets;
+    else {
+      var setNum = 0;
+      for (let key in this.nsbService.metadata[this.options.vendorNum]) {
+        setNum++;
+        if (key == "metadata") continue;
+        var setToDisplay = this.getDisplayNameFromMetadata(
+          this.nsbService.metadata[this.options.vendorNum][key]["metadata"],
+          setNum + "");
+        sets.push({"name": setToDisplay, "value": setToDisplay});
+      }
+    }
+    this.sets = sets;
+    // Set default set
+    this.options.setNum = sets[0].value;
   }
 
   getPackets() {
-    if (this.options.gameType == "QB") return [];
-    if (this.options.vendorNum == 'RANDOM') return [];
-    let packets = [];
+    var packets = [];
+    if (this.options.gameType == "QB") {this.packets = []; return; }
+    if (this.options.vendorNum == 'RANDOM') {this.packets = [];}
     var packetNum = 0;
     for (let key in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
       packetNum++;
@@ -148,7 +165,8 @@ export class NsbmenuPage {
           packetNum + "")
       );
     }
-    return packets;
+    // Todo: set default packet.
+    this.packets = packets;
   }
 
   navigateNsbappPage() {
