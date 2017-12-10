@@ -121,9 +121,9 @@ export class NSBService {
         }).toPromise();
     }
 
-    getQuestionsBySetKeyQB(setKey) {
+    getQuestionsBySetKeyQB(difficulty, setKey) {
         /* Just gets tossups for now. */
-        return this.apiService.getQuizbowlTossups().then(data => {
+        return this.apiService.getQuizbowlTossups(difficulty).then(data => {
             var questions = data[setKey];
             console.log(data, questions);
             for (let i in questions) {
@@ -182,7 +182,7 @@ export class NSBService {
 
         switch (this.options.gameType) {
             case "QB":
-                fn = () => {return this.getQuestionsBySetKeyQB(fileName);};
+                fn = () => {return this.getQuestionsBySetKeyQB(this.options.difficulty, fileName);};
                 break;
             case "NSB":
             default:

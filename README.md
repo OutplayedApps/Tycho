@@ -181,3 +181,10 @@ export PATH=/afs/ir.stanford.edu/users/a/s/ashwin99/Documents/local/bin/:$PATH
 
 ionic cordova build ios --release
 ```
+
+# Deploying to web
+cd www
+git remote add origin https://github.com/OutplayedApps/Tycho.git
+git add -A
+git commit -m "commit"
+git push -f origin master:gh-pages

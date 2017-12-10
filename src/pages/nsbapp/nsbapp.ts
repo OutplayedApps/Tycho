@@ -44,7 +44,7 @@ export class NsbappPage {
   static readonly PROGRESS_READ_BONUS_Q = 2;
   static readonly PROGRESS_READ_BONUS_Q_AND_A = 3;
   static readonly BUZZ_BTN_DEFAULT_TXT = "BUZZ";
-  hasBonuses: bool;
+  hasBonuses: boolean;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,

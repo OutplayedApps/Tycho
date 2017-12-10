@@ -55,8 +55,8 @@ export class ApiService {
     return this.getJSONFile("assets/files/questions/metadata.json");
   }
 
-  getQuizbowlTossups() {
-    return this.getGzipFile("assets/files/quizbowlQuestions/tossups-HS.json.gzip");
+  getQuizbowlTossups(difficulty) {
+    return this.getGzipFile("assets/files/quizbowlQuestions/tossups-" + difficulty + ".json.gzip");
   }
 
   getQuizbowlMetadata() {
