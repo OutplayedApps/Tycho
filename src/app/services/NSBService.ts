@@ -54,8 +54,8 @@ export class NSBService {
             {"label": "Game mode", value: "GAME"}
         ],
         audio: [
-            {"label": "Audio on (Read questions out loud)", value: "TRUE"},
-            {"label": "Audio off (Text only)", value: "FALSE"}
+            {"label": "On", value: "TRUE"},
+            {"label": "Off", value: "FALSE"}
         ],
         vendorNum: String,
         setNum: String,

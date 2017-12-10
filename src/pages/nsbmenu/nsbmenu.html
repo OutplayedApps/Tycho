@@ -61,14 +61,14 @@
           <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
         </ion-item>
 
-    </ion-list>
-
-    <ion-list radio-group [(ngModel)]="options.audio">
-        <ion-item *ngFor="let o of optionValues.audio" > 
-          <ion-label color="dark">{{o.label || o}}</ion-label>
-          <ion-radio value="{{o.value || o.label || o}}"></ion-radio>
+        <ion-item>
+            <ion-label>Audio (Read out loud)</ion-label>
+            <ion-select [(ngModel)]="options.audio">
+                <ion-option *ngFor="let o of optionValues.audio" [value]="o.value || o.label || o">
+                  {{o.label || o}}
+                </ion-option>
+            </ion-select>
         </ion-item>
-
     </ion-list>
   </div>
   <ion-list>

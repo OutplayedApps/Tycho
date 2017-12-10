@@ -52,12 +52,12 @@
         </ion-col>
         <ion-col col-6 col-sm-3 [class.hidden]="nsbService.options.mode == 'GAME'">
           <button color="timerButtonColor" (click)="clickTimer(timers.tossup)" ion-button btn-lg>
-            <ion-icon name="timer"></ion-icon> <b>{{timers.tossup.text}} s</b>
+            <ion-icon name="timer"></ion-icon> &nbsp;<b>{{timers.tossup.text}} s</b>
           </button>
         </ion-col>
-        <ion-col col-6 col-sm-3 [class.hidden]="nsbService.options.mode == 'GAME'">
+        <ion-col col-6 col-sm-3 [class.hidden]="nsbService.options.mode == 'GAME' || nsbService.options.gameType == 'QB' ">
           <button color="timerButtonColor" (click)="clickTimer(timers.bonus)" ion-button btn-lg>
-            <ion-icon name="timer"></ion-icon> <b>{{timers.bonus.text}} s</b>
+            <ion-icon name="timer"></ion-icon> &nbsp;<b>{{timers.bonus.text}} s</b>
           </button>
         </ion-col>
       </ion-row>
