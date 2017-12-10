@@ -30198,8 +30198,8 @@ page-nsbapp .buzzButton {
 
 button.buzzBtn {
   border-radius: 50%;
-  width: 40vh;
-  height: 40vh;
+  width: 25vh;
+  height: 25vh;
   position: absolute;
   margin-left: auto;
   margin-right: auto;
@@ -30233,6 +30233,10 @@ ion-scroll {
 
 .hidden {
   display: none;
+}
+
+.currentQuestion {
+  font-size: 120%;
 }
 
 .item-block {
