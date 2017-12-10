@@ -11,6 +11,8 @@ export interface optionsInterface {
     vendorNum: string,
     setNum: string,
     packetNum: string,
+    setName: string,
+    packetName: string,
     category: number,
     gameType: string // QB or NSB
 }
@@ -81,6 +83,8 @@ export class NSBService {
         vendorNum: "DOE-MS",
         setNum: "1",
         packetNum: "1",
+        setName: "1",
+        packetName: "1",
         category: this.optionValues.category[0],
         gameType: "NSB"
     };
@@ -123,8 +127,8 @@ export class NSBService {
             var questions = data[setKey];
             console.log(data, questions);
             for (let i in questions) {
-                questions["bonusQ"] = "";
-                questions["bonusA"] = "";
+                questions[i]["bonusQ"] = "";
+                questions[i]["bonusA"] = "";
             }
             return questions;
         });

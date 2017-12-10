@@ -173,6 +173,7 @@ export class NsbmenuPage {
   }
 
   navigateNsbappPage() {
+    this.populateSetAndPacketNames();
     if (this.options.vendorNum == 'RANDOM') {
       this.navCtrl.push(NsbappPage, {
         options: this.nsbService.options
@@ -194,6 +195,12 @@ export class NsbmenuPage {
         fileName: packetInfo.fileName
       });
     }
+  }
+
+  populateSetAndPacketNames() {
+    /* Inefficient way to pass the set and packet names to the nsbapp page, as it usually only stores setNum / packetNum. */
+    this.options.setName = this.sets.filter((set) => {return set.value == this.options.setNum; })[0].name;
+    this.options.packetName = this.packets.filter((pkt) => {return pkt.value == this.options.packetNum; })[0].name;
   }
 
 }

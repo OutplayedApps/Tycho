@@ -44,6 +44,7 @@ export class NsbappPage {
   static readonly PROGRESS_READ_BONUS_Q = 2;
   static readonly PROGRESS_READ_BONUS_Q_AND_A = 3;
   static readonly BUZZ_BTN_DEFAULT_TXT = "BUZZ";
+  hasBonuses: bool;
 
   constructor(public navCtrl: NavController,
               public navParams: NavParams,
@@ -58,9 +59,10 @@ export class NsbappPage {
     this.timers.bonus.origText = this.timers.bonus.text;
     this.currentQuestionDisplayed = {"question": "", "answer": "", "questionArray": []};
     this.buzzBtnText = NsbappPage.BUZZ_BTN_DEFAULT_TXT;
+    this.hasBonuses = true;
   }
 
-  ionViewWillEnter() {
+  ngOnInit() {
     (<any>window).This = this;
     //this.apiService.presentLoadingCustom();
     this.nsbService.options = this.navParams.get('options');
@@ -68,12 +70,14 @@ export class NsbappPage {
     this.options = this.nsbService.options;
     this.data = null; // todo fix
     
-    console.log(this.navParams.get('fileName'));
+    console.log("Loading key name ", this.navParams.get('fileName'));
     this.nsbService.getSetAndFilter(this.navParams.get('fileName')).then((data) => {
       this.questions = data;
       this.currentQuestionNumber = -1;
 
       this.progress = -1;
+      this.hasBonuses = this.nsbService.options.gameType == "NSB";
+
       this.nextQuestion();
     });
     
@@ -150,6 +154,11 @@ export class NsbappPage {
         textToSpeak = this.currentQuestionDisplayed.answer;
         break;
       case NsbappPage.PROGRESS_READ_BONUS_Q:
+        // When no bonus is there (such as quizbowl), skip to next tossup.
+        if (!this.hasBonuses) {
+          this.advanceQuestion(1);
+          return;
+        }
         this.currentQuestionDisplayed.question = "<b>BONUS: </b>" + this.currentQuestion.bonusQ;
         this.currentQuestionDisplayed.answer = "";
         textToSpeak = this.currentQuestionDisplayed.question;
@@ -181,7 +190,7 @@ export class NsbappPage {
   getNextQuestionButtonText() {
     switch (this.progress) {
       case NsbappPage.PROGRESS_READ_TOSSUP_Q_AND_A:
-        return "Next Bonus";
+        return (this.hasBonuses) ? "Next Bonus" : "Next Tossup";
       case NsbappPage.PROGRESS_READ_TOSSUP_Q:
       case NsbappPage.PROGRESS_READ_BONUS_Q:
         return "Show Answer";
