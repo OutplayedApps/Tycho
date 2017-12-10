@@ -33,7 +33,19 @@ export class NSBService {
                 {"label": "Middle School", value: "MS"},
                 {"label": "High School", value: "HS"},
                 {"label": "Collegiate / Open", value: "College"}
-            ],
+            ]
+        },
+        subDifficulties: {
+            // Quizbowl
+            1: "Middle School",
+            2: "Easy High School",
+            3: "Regular High School",
+            4: "Hard High School",
+            5: "National High School",
+            6: "Easy College",
+            7: "Regular College",
+            8: "Hard College",
+            9: "Open"
         },
         mode: [
             {"label": "Reader mode", value: "READER"},

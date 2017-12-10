@@ -27,11 +27,12 @@
               </ion-option>
           </ion-select>
       </ion-item>
-      <ion-item>
-          <ion-label>Vendor</ion-label>
+      <ion-item *ngIf="options.difficulty">
+          <ion-label *ngIf="options.gameType=='NSB'">Vendor</ion-label>
+          <ion-label *ngIf="options.gameType=='QB'">Sub-difficulty</ion-label>
           <ion-select [(ngModel)]="options.vendorNum">
               <ion-option *ngFor="let o of getVendors()" [value]="o">{{prettifyVendorName(o)}}</ion-option>
-              <ion-option [value]="'RANDOM'">Random</ion-option>
+              <ion-option *ngIf="options.gameType=='NSB'" [value]="'RANDOM'">Random</ion-option>
           </ion-select>
       </ion-item>
       <ion-item *ngIf = "options.vendorNum && options.vendorNum == 'RANDOM'">

@@ -90,13 +90,13 @@ export class NsbmenuPage {
   }
 
   getDifficulties() {
-    //console.log(this.optionValues.difficulty, this.options.gameType, this.optionValues.difficulty[this.options.gameType]);
-    return this.optionValues.difficulty["NSB"];
+    return this.optionValues.difficulty[this.options.gameType];
   }
 
   prettifyVendorName(name) {
     /* Grabs vendor name from metadata.
      */
+    if (this.options.gameType == "QB") return this.nsbService.optionValues.subDifficulties[name]; // description of sub-difficulty.
     return this.getDisplayNameFromMetadata(
       this.nsbService.metadata[name]["metadata"],
       name);
