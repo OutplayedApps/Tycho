@@ -70,7 +70,7 @@ export class NSBService {
             {"value": 7, "name": "COMPUTER SCIENCE"}
         ],
         gameType: {
-            "NSB": {"name": "National Science Bowl" },
+            "NSB": {"name": "Science Bowl" },
             "QB": {"name": "Quizbowl"}
         }
     }
