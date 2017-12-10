@@ -212,4 +212,32 @@ export class NSBService {
         return text ? String(text).replace(/<[^>]+>/gm, '') : '';
     }
 
+    getVendorsQB() {
+        /* Gets "vendors", i.e., sub-difficulties. */
+        let vendors = [];
+        for (let key in this.metadata[this.options.difficulty]) {
+            vendors.push(key);
+        }
+        // Set default vendorNum
+        if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
+            this.options.vendorNum = vendors[0];
+        }
+        return vendors;
+    }
+
+    getSetsQB() {
+        let sets = [];
+        var setNum = 0;
+        for (let key in this.metadata) {
+          setNum++;
+          if (key == "metadata") continue;
+          sets.push(
+            //this.getDisplayNameFromMetadata(
+              this.metadata[key].name
+              //setNum + "")
+          );
+        }
+        return sets;
+    }
+
 }

@@ -14,8 +14,11 @@
 
 
 <ion-content padding>
+  <div  *ngIf="!(options && options.mode && options.difficulty && nsbService.metadata)">
+    Loading...
+  </div>
   <div *ngIf="options && options.mode && options.difficulty && nsbService.metadata">
-    <ion-list radio-group [(ngModel)]="options.difficulty" (ngModelChange)="getVendors()">
+    <ion-list radio-group>
       <ion-item>
           <ion-label>Difficulty</ion-label>
           <ion-select [(ngModel)]="options.difficulty">

@@ -63,23 +63,6 @@ export class NsbmenuPage {
     return index;
   }
 
-  getSets() {
-    if (this.options.gameType == "QB") return [];
-    if (this.options.vendorNum == 'RANDOM') return [];
-    let sets = [];
-    var setNum = 0;
-    for (let key in this.nsbService.metadata[this.options.vendorNum]) {
-      setNum++;
-      if (key == "metadata") continue;
-      sets.push(
-        this.getDisplayNameFromMetadata(
-          this.nsbService.metadata[this.options.vendorNum][key]["metadata"],
-          setNum + "")
-      );
-    }
-    return sets;
-  }
-
   getCategories() {
     // Set default category
     if (this.options.gameType == "QB") return [];
@@ -107,7 +90,8 @@ export class NsbmenuPage {
   }
 
   getDifficulties() {
-    return this.optionValues.difficulty[this.options.gameType];
+    //console.log(this.optionValues.difficulty, this.options.gameType, this.optionValues.difficulty[this.options.gameType]);
+    return this.optionValues.difficulty["NSB"];
   }
 
   prettifyVendorName(name) {
@@ -119,7 +103,7 @@ export class NsbmenuPage {
   }
 
   getVendors() {
-    if (this.options.gameType == "QB") return [];
+    if (this.options.gameType == "QB") return this.nsbService.getVendorsQB();
     let vendors = [];
     for (let vendorNum in this.nsbService.metadata) {
       if (~vendorNum.indexOf("-" + this.options.difficulty))
@@ -127,10 +111,27 @@ export class NsbmenuPage {
     }
     // Set default vendorNum
     if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
-      this.options.vendorNum = this.options.difficulty == "MS" ? "DOE-MS": "DOE-HS";
+      this.options.vendorNum = vendors[0];
     }
 
     return vendors;
+  }
+
+  getSets() {
+    if (this.options.vendorNum == 'RANDOM') return [];
+    if (this.options.gameType == "QB") return this.nsbService.getSetsQB();
+    let sets = [];
+    var setNum = 0;
+    for (let key in this.nsbService.metadata[this.options.vendorNum]) {
+      setNum++;
+      if (key == "metadata") continue;
+      sets.push(
+        this.getDisplayNameFromMetadata(
+          this.nsbService.metadata[this.options.vendorNum][key]["metadata"],
+          setNum + "")
+      );
+    }
+    return sets;
   }
 
   getPackets() {
