@@ -22,10 +22,10 @@ export class NsbmenuPage {
   optionValues: any;
   setInfo: any;
   setChosen: any;
-  difficulties: any[];
-  vendors: any[];
-  sets: any[];
-  packets: any[];
+  difficulties: DropdownOption[];
+  vendors: DropdownOption[];
+  sets: DropdownOption[];
+  packets: DropdownOption[];
   categories: any[];
 
   constructor(public navCtrl: NavController, public navParams: NavParams,
@@ -117,12 +117,12 @@ export class NsbmenuPage {
     else {
       for (let vendorNum in this.nsbService.metadata) {
         if (~vendorNum.indexOf("-" + this.options.difficulty))
-          vendors.push(vendorNum);
+          vendors.push({"name": vendorNum, "value": vendorNum});
       }
     }
     this.vendors = vendors;
     // Set default vendor.
-    if (this.vendors.length) this.options.setNum = this.vendors[0].value;
+    if (this.vendors.length) this.options.vendorNum = this.vendors[0].value;
   }
 
   getSets() {
@@ -160,16 +160,16 @@ export class NsbmenuPage {
       for (let key in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
         packetNum++;
         if (key == "metadata") continue;
-        packets.push(
-          this.getDisplayNameFromMetadata(
-            this.nsbService.metadata[this.options.vendorNum][this.options.setNum][key]["metadata"],
-            packetNum + "")
-        );
+        var packetName = this.getDisplayNameFromMetadata(
+          this.nsbService.metadata[this.options.vendorNum][this.options.setNum][key]["metadata"],
+          packetNum + "");
+        var packetValue = packetName;
+        packets.push({"name": packetName, "value": packetValue});
       }
     }
     this.packets = packets;
     // Set default packet.
-    if (this.packets.length) this.options.packetNum = this.packets[0];
+    if (this.packets.length) this.options.packetNum = this.packets[0].value;
   }
 
   navigateNsbappPage() {

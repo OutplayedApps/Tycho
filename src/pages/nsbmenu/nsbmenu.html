@@ -31,7 +31,7 @@
           <ion-label *ngIf="options.gameType=='NSB'">Vendor</ion-label>
           <ion-label *ngIf="options.gameType=='QB'">Sub-difficulty</ion-label>
           <ion-select [(ngModel)]="options.vendorNum" (ionChange)="getSets()">
-              <ion-option *ngFor="let o of vendors" [value]="o">{{prettifyVendorName(o)}}</ion-option>
+              <ion-option *ngFor="let o of vendors" [value]="o.value">{{prettifyVendorName(o.value)}}</ion-option>
               <ion-option *ngIf="options.gameType=='NSB'" [value]="'RANDOM'">Random</ion-option>
           </ion-select>
       </ion-item>
@@ -50,7 +50,7 @@
       <ion-item *ngIf = "options.setNum && options.vendorNum != 'RANDOM'">
           <ion-label>Packet</ion-label>
           <ion-select [(ngModel)]="options.packetNum">
-              <ion-option *ngFor="let o of packets" [value]="o">{{o}}</ion-option>
+              <ion-option *ngFor="let o of packets" [value]="o.value">{{o.name}}</ion-option>
           </ion-select>
       </ion-item>
     </ion-list>

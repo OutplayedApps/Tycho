@@ -228,7 +228,7 @@ export class NSBService {
         /* Gets "vendors", i.e., sub-difficulties. */
         let vendors = [];
         for (let key in this.metadata[this.options.difficulty]) {
-            vendors.push(key);
+            vendors.push({"name": key, "value": key});
         }
         // Set default vendorNum
         if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
@@ -258,7 +258,13 @@ export class NSBService {
     getPacketsQB() {
         var set = this.metadata[this.options.difficulty][this.options.vendorNum].filter((set) =>
         { return set.id==this.options.setNum; });
-        var packets = set[0].rounds;
+        var packetsOrig = set[0].rounds;
+        var packets = [];
+        for (let i in packets) {
+            var packetName = packets[i];
+            var packetValue = packetName;
+            packets.push({"name": packetName, "value": packetValue});
+        }
         console.log(set, packets);
         return packets;
     }
