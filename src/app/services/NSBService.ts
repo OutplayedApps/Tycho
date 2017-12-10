@@ -250,4 +250,12 @@ export class NSBService {
         });
     }
 
+    getPacketsQB() {
+        var set = this.metadata[this.options.difficulty][this.options.vendorNum].filter((set) =>
+        { return set.id==this.options.setNum; });
+        var packets = set[0].rounds;
+        console.log(set, packets);
+        return packets;
+    }
+
 }

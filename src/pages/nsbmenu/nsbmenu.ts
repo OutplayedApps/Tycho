@@ -119,12 +119,10 @@ export class NsbmenuPage {
         if (~vendorNum.indexOf("-" + this.options.difficulty))
           vendors.push(vendorNum);
       }
-      // Set default vendorNum
-      if (this.options.vendorNum != 'RANDOM' && !~vendors.indexOf(this.options.vendorNum)) {
-        this.options.vendorNum = vendors[0];
-      }
     }
     this.vendors = vendors;
+    // Set default vendor.
+    if (this.vendors.length) this.options.setNum = this.vendors[0].value;
   }
 
   getSets() {
@@ -147,26 +145,31 @@ export class NsbmenuPage {
       }
     }
     this.sets = sets;
-    // Set default set
-    this.options.setNum = sets[0].value;
+    // Set default set.
+    if (this.sets.length) this.options.setNum = this.sets[0].value;
   }
 
   getPackets() {
     var packets = [];
-    if (this.options.gameType == "QB") {this.packets = []; return; }
-    if (this.options.vendorNum == 'RANDOM') {this.packets = [];}
-    var packetNum = 0;
-    for (let key in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
-      packetNum++;
-      if (key == "metadata") continue;
-      packets.push(
-        this.getDisplayNameFromMetadata(
-          this.nsbService.metadata[this.options.vendorNum][this.options.setNum][key]["metadata"],
-          packetNum + "")
-      );
+    if (this.options.vendorNum == 'RANDOM') {this.packets = []; return;}
+    if (this.options.gameType == "QB") {
+      packets = this.nsbService.getPacketsQB();
     }
-    // Todo: set default packet.
+    else {
+      var packetNum = 0;
+      for (let key in this.nsbService.metadata[this.options.vendorNum][this.options.setNum]) {
+        packetNum++;
+        if (key == "metadata") continue;
+        packets.push(
+          this.getDisplayNameFromMetadata(
+            this.nsbService.metadata[this.options.vendorNum][this.options.setNum][key]["metadata"],
+            packetNum + "")
+        );
+      }
+    }
     this.packets = packets;
+    // Set default packet.
+    if (this.packets.length) this.options.packetNum = this.packets[0];
   }
 
   navigateNsbappPage() {
