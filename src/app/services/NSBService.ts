@@ -238,7 +238,10 @@ export class NSBService {
     }
 
     getSetsQB() {
-        return this.metadata[this.options.difficulty][this.options.vendorNum].map(function(set) {
+        var allSets = this.metadata[this.options.difficulty][this.options.vendorNum];
+        var sets = [];
+        for (let i in allSets) {
+            var set = allSets[i];
             /*
             difficulty:            7
             id:            328
@@ -246,8 +249,10 @@ export class NSBService {
             rounds:            (2) ["1", "2"]
             year:            2017    
             */
-            return { "name": set.name, "value": set.id};
-        });
+            if (!set.rounds || !set.rounds.length) continue; // Don't add empty sets with no packets in them.
+            sets.push({ "name": set.name, "value": set.id});
+        };
+        return sets;
     }
 
     getPacketsQB() {
