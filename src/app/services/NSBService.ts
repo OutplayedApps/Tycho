@@ -60,17 +60,22 @@ export class NSBService {
         vendorNum: String,
         setNum: String,
         packetNum: String,
-        category: [
-            {"value": -1, "name": "ALL CATEGORIES"},
-            {"value": 0, "name": "EARTH AND SPACE"},
-            {"value": 1, "name": "BIOLOGY"},
-            {"value": 2, "name": "CHEMISTRY"},
-            {"value": 3, "name": "PHYSICS"},
-            {"value": 4, "name": "MATHEMATICS"},
-            {"value": 5, "name": "ENERGY"},
-            {"value": 6, "name": "GENERAL SCIENCE"},
-            {"value": 7, "name": "COMPUTER SCIENCE"}
-        ],
+        category: {
+            "NSB": [
+                {"value": -1, "name": "ALL CATEGORIES"},
+                {"value": 0, "name": "EARTH AND SPACE"},
+                {"value": 1, "name": "BIOLOGY"},
+                {"value": 2, "name": "CHEMISTRY"},
+                {"value": 3, "name": "PHYSICS"},
+                {"value": 4, "name": "MATHEMATICS"},
+                {"value": 5, "name": "ENERGY"},
+                {"value": 6, "name": "GENERAL SCIENCE"},
+                {"value": 7, "name": "COMPUTER SCIENCE"}
+            ],
+            "QB": [
+
+            ]
+        },
         gameType: {
             "NSB": {"name": "Science Bowl" },
             "QB": {"name": "Quizbowl"}
@@ -287,6 +292,7 @@ export class NSBService {
     }
 
     getPacketsQB(sets) {
+        if (this.options.setNum == 'RANDOM') return [];
         var set = sets.filter((set) =>
         { return set.value==this.options.setNum; });
         console.log("sets!", sets, this.options.setNum, set);

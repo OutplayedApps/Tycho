@@ -36,7 +36,7 @@
               <ion-option *ngIf="options.gameType=='QB'" [value]="'ALL'">All</ion-option>
           </ion-select>
       </ion-item>
-      <ion-item *ngIf = "options.vendorNum && options.vendorNum == 'RANDOM'">
+      <ion-item *ngIf = "options.vendorNum && options.vendorNum == 'RANDOM' && options.gameType=='NSB'">
         <ion-label>Category</ion-label>
         <ion-select [(ngModel)]="options.category">
             <ion-option *ngFor="let o of categories" [value]="o">{{o.name}}</ion-option>
@@ -45,10 +45,17 @@
       <ion-item *ngIf = "options.vendorNum && options.vendorNum != 'RANDOM'">
         <ion-label>Set</ion-label>
         <ion-select [(ngModel)]="options.setNum" (ionChange)="getPackets()">
+            <ion-option *ngIf="options.gameType=='QB' && false" [value]="'RANDOM'">Random</ion-option>
             <ion-option *ngFor="let o of sets" [value]="o.value">{{o.name}}</ion-option>
         </ion-select>
       </ion-item>
-      <ion-item *ngIf = "options.setNum && options.vendorNum != 'RANDOM'">
+      <ion-item *ngIf = "options.vendorNum && options.vendorNum == 'RANDOM' && options.gameType=='QB'">
+          <ion-label>Category</ion-label>
+          <ion-select [(ngModel)]="options.category">
+              <ion-option *ngFor="let o of categories" [value]="o">{{o.name}}</ion-option>
+          </ion-select>
+        </ion-item>
+      <ion-item *ngIf = "options.setNum && options.vendorNum != 'RANDOM' && options.setNum != 'RANDOM'">
           <ion-label>Packet</ion-label>
           <ion-select [(ngModel)]="options.packetNum">
               <ion-option *ngFor="let o of packets" [value]="o.value">{{o.name}}</ion-option>

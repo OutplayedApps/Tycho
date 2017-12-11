@@ -71,13 +71,10 @@ export class NsbmenuPage {
   }
 
   getCategories() {
-    // Set default category
-    if (this.options.gameType == "QB") return [];
-    var categories = this.nsbService.optionValues.category;
-    if (!~categories.indexOf(this.options.category)) {
-      this.options.category = this.optionValues.category[0]; // Default: all
-    }
+    var categories = this.nsbService.optionValues.category[this.options.gameType];
+
     this.categories = categories;
+    this.options.category = this.optionValues.category[0]; // Default: all
   }
 
   getDisplayNameFromMetadata(currentMetadata, displayName="") {
@@ -199,7 +196,7 @@ export class NsbmenuPage {
 
   populateSetAndPacketNames() {
     /* Inefficient way to pass the set and packet names to the nsbapp page, as it usually only stores setNum / packetNum. */
-    this.options.setName = this.sets.filter((set) => {return set.value == this.options.setNum; })[0].name;
+    this.options.setName = this.options.setNum == 'RANDOM' ? 'RANDOM' : this.sets.filter((set) => {return set.value == this.options.setNum; })[0].name;
     this.options.packetName = this.packets.filter((pkt) => {return pkt.value == this.options.packetNum; })[0].name;
   }
 
