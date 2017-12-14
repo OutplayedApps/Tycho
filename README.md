@@ -170,9 +170,11 @@ keytool -list -keystore nsbapp.keystore
 
 ionic cordova build --release android
 
+# jarsigner under jdk/bin/tools. zipalign under android-sdk-folder/build-tools/#/
+
 jarsigner -tsa http://timestamp.digicert.com -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore nsbapp.keystore platforms\android\build\outputs\apk\android-release-unsigned.apk nsbapp
 
-C:\Android\android-sdk\build-tools\26.0.1\zipalign.exe -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.0.6.apk
+zipalign -v 4 platforms\android\build\outputs\apk\android-release-unsigned.apk release-2.1.0.apk
 ```
 
 Release (iOS):
