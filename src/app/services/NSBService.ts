@@ -121,7 +121,7 @@ export class NSBService {
     }
 
     getQuestionsBySetKey(setKey) {
-        return this.apiService.getJSONFile("assets/files/questions/all.json").map(data => {
+        return this.apiService.getJSONFile(this.apiService.getFileUrl("NSB")).map(data => {
             return data[setKey];
         }).toPromise();
     }
@@ -141,7 +141,7 @@ export class NSBService {
 
     getRandomQuestionsByCategory(categoryNum) {
         categoryNum = parseInt(categoryNum);
-        return this.apiService.getJSONFile("assets/files/questions/all.json").map(data => {
+        return this.apiService.getJSONFile(this.apiService.getFileUrl("NSB")).map(data => {
             data = this.filterQuestionsByCategory(data, parseInt(categoryNum));
             this.shuffle(data);
             return data;

@@ -10,9 +10,11 @@ import pako from 'pako';
 @Injectable()
 export class ApiService {
   private fileStructure;
+  private cachedFiles;
 
   constructor(private http:Http, public loadingCtrl:LoadingController, public alertCtrl: AlertController,
     private market: Market, private appVersion: AppVersion) {
+      this.cachedFiles = {};
   }
 
   getFile(url:string) {
@@ -22,11 +24,12 @@ export class ApiService {
 
   getJSONFile(url:string) {
     return this.http.get(url)
-      .map((res:Response) => res.json());
+    .map((res:Response) => res.json());
+    
   };
 
- getGzipFile(url:string) {
-    return this.http.get(url, new RequestOptions({ responseType: ResponseContentType.Blob }))
+  unzipAndCacheGzipFile(url:string) {
+    this.cachedFile = this.http.get(url, new RequestOptions({ responseType: ResponseContentType.Blob }))
       .map((res:Response) => {
         var blob = res.blob();
         var arrayBuffer;
@@ -48,6 +51,23 @@ export class ApiService {
           }
         });
       }).toPromise();
+      return this.cachedFile;
+  }
+
+  getFileUrl(gameType, difficulty?) {
+    if (gameType == 'QB') {
+      return "assets/files/quizbowlQuestions/tossups-" + difficulty + ".json.gzip";
+    }
+    else {
+      return "assets/files/questions/all.json";
+    }
+  }
+
+  getGzipFile(url:string) {
+    if (!this.cachedFiles[url]) {
+      this.cachedFiles[url] = this.unzipAndCacheGzipFile(url);
+    }
+    return this.cachedFiles[url];
   }
 
   getNSBMetadata() {
@@ -56,7 +76,7 @@ export class ApiService {
   }
 
   getQuizbowlTossups(difficulty) {
-    return this.getGzipFile("assets/files/quizbowlQuestions/tossups-" + difficulty + ".json.gzip");
+    return this.getGzipFile(this.getFileUrl("QB", difficulty));
   }
 
   getQuizbowlMetadata() {

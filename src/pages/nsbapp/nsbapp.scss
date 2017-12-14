@@ -31,10 +31,10 @@ button.buzzBtn {
 .mode.game {
     @media (max-height: 500px) {
         button.buzzBtn {
-        margin-right: 0;
+            margin-right: 0;
         }
         div.currentQuestion {
-        padding-right: 50vh;
+            padding-right: 50vh;
         }
     }
 }
@@ -43,5 +43,5 @@ button.buzzBtn {
 }
 
 .currentQuestion {
-    font-size: 120%;
+    font-size: 100%;
 }
