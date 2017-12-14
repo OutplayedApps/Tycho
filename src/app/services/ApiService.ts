@@ -29,7 +29,7 @@ export class ApiService {
   };
 
   unzipAndCacheGzipFile(url:string) {
-    this.cachedFile = this.http.get(url, new RequestOptions({ responseType: ResponseContentType.Blob }))
+    return this.http.get(url, new RequestOptions({ responseType: ResponseContentType.Blob }))
       .map((res:Response) => {
         var blob = res.blob();
         var arrayBuffer;
@@ -51,7 +51,6 @@ export class ApiService {
           }
         });
       }).toPromise();
-      return this.cachedFile;
   }
 
   getFileUrl(gameType, difficulty?) {
