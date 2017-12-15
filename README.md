@@ -3,10 +3,11 @@
 Tycho is a mobile app that allows people to access study guides to learn science, literature, and history for academic competitions.
 
 ### Release notes:
-#### 2.0.6
+#### 2.1.0
 ````
-12/4/2017
-- start buzz timer when game mode finishes reading question
+- Tycho is also now available for quizbowl (all academic subjects).
+- Over 83,000 quizbowl questions have been added! Check it out!
+- Start buzz timer when game mode finishes reading question.
 ````
 
 #### 2.0.5
@@ -14,6 +15,7 @@ Tycho is a mobile app that allows people to access study guides to learn science
 - You can now choose a "random" option for vendor, which lets you filter between categories! This helps people more when they practice by themselves and want to hone in on a specific topic.
 Minor:
 - Audio is off by default.
+- 
 ```
 ```
 v 2.0.4
