@@ -70,7 +70,7 @@ export class NsbappPage {
     this.options = this.nsbService.options;
     this.data = null; // todo fix
     
-    console.log("Loading key name ", this.navParams.get('fileName'));
+    // console.log("Loading key name ", this.navParams.get('fileName'));
     this.nsbService.getSetAndFilter(this.navParams.get('fileName')).then((data) => {
       this.questions = data;
       this.currentQuestionNumber = -1;

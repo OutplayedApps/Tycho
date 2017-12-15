@@ -18,7 +18,7 @@ export class ListPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public apiService: ApiService) {
     this.type = navParams.get('type');
-    console.log(this.type);
+    // console.log(this.type);
     if (!this.type) this.type = "cat";
     this.params = {catName: navParams.get('catName'),
       subcatName: navParams.get('subcatName'),
@@ -32,7 +32,7 @@ export class ListPage {
    {
     this.apiService.presentLoadingCustom();
      var queryUrl = "";
-     console.log("TYPE IS "+this.type);
+     // console.log("TYPE IS "+this.type);
      switch (this.type) {
        case "cat":
          queryUrl = "http://outplayedapps.com/tycho-api/?query=cats";
@@ -83,7 +83,7 @@ export class ListPage {
       };
       this.items = data2;
 
-      console.log(data2);
+      // console.log(data2);
     });
 
 

@@ -115,7 +115,7 @@ export class NSBService {
         }
         return metadataFn().map(metadata => {
           (<any>window).loading.dismiss();
-          console.log(metadata);
+          // console.log(metadata);
           this.metadata = metadata;
         }).toPromise();
     }
@@ -130,7 +130,7 @@ export class NSBService {
         /* Just gets tossups for now. */
         return this.apiService.getQuizbowlTossups(difficulty).then(data => {
             var questions = data[setKey];
-            console.log(data, questions);
+            // console.log(data, questions);
             for (let i in questions) {
                 questions[i]["bonusQ"] = "";
                 questions[i]["bonusA"] = "";
@@ -239,8 +239,8 @@ export class NSBService {
             text: this.htmlToPlaintext(text),
             rate: speed
         })
-        .then(() => console.log('Success'))
-        .catch((reason: any) => console.log(reason));
+        .then(() =>  console.log('Success'))
+        .catch((reason: any) =>  console.log(reason));
     }
 
     stopSpeaking() {
@@ -295,7 +295,7 @@ export class NSBService {
         if (this.options.setNum == 'RANDOM') return [];
         var set = sets.filter((set) =>
         { return set.value==this.options.setNum; });
-        console.log("sets!", sets, this.options.setNum, set);
+        // console.log("sets!", sets, this.options.setNum, set);
         var packetsOrig = set[0].rounds;
         var packets = [];
         for (let i in packetsOrig) {
@@ -303,7 +303,7 @@ export class NSBService {
             var packetValue = packetName;
             packets.push({"name": packetName, "value": packetValue});
         }
-        console.log(set, packets);
+        // console.log(set, packets);
         return packets;
     }
 

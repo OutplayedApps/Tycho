@@ -8,6 +8,15 @@ Tycho is a mobile app that allows people to access study guides to learn science
 - Tycho is also now available for quizbowl (all academic subjects).
 - Over 83,000 quizbowl questions have been added! Check it out!
 - Start buzz timer when game mode finishes reading question.
+
+Train your brain! Prepare for science bowl AND quizbowl competitions with questions from the NSB website and QuizDB / Quinterest and exclusive sample questions!
+
+This app uses questions for science bowl and quizbowl let individuals practice questions of a specific subject or difficulty, and just to let people learn!
+
+In Reader Mode, tossups and bonuses will all appear at once. This is ideal for coaches reading questions to different teams during actual rounds at practice or tournaments.
+
+In Game Mode, tossups and bonuses will be read to you as if it's an actual science bowl round. This is good for players who are practicing questions by themselves, as you can select by category or by difficulty.
+
 ````
 
 #### 2.0.5

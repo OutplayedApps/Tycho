@@ -40,10 +40,10 @@ export class NsbmenuPage {
     this.setChosen = null;
 
     this.nsbService.options["gameType"] = this.navParams.get('gameType');
-    console.log("game type is " + this.nsbService.options["gameType"] );
+    // console.log("game type is " + this.nsbService.options["gameType"] );
     this.nsbService.loadMetaData().then(() => {
       this.getDifficulties();
-      console.log("difficulties", this.difficulties);
+      // console.log("difficulties", this.difficulties);
       this.getVendors();
       this.getSets();
       this.getPackets();
@@ -51,9 +51,9 @@ export class NsbmenuPage {
 
 
     /*this.apiService.getQuizbowlTossups().then((data) => {
-      console.log(data);
+      // console.log(data);
     });*/
-    console.log('ngoninit');
+    // console.log('ngoninit');
 
   }
 
@@ -186,7 +186,7 @@ export class NsbmenuPage {
       else { // "QB"
         packetInfo = {"fileName": this.options.setNum + "-" + this.options.packetNum};
       }
-      console.log(packetInfo);
+      // console.log(packetInfo);
       this.navCtrl.push(NsbappPage, {
         options: this.nsbService.options,
         fileName: packetInfo.fileName

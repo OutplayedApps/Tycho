@@ -70,7 +70,7 @@ export class ApiService {
   }
 
   getNSBMetadata() {
-    console.log("get nsb metadata");
+    // console.log("get nsb metadata");
     return this.getJSONFile("assets/files/questions/metadata.json");
   }
 
@@ -79,7 +79,7 @@ export class ApiService {
   }
 
   getQuizbowlMetadata() {
-    console.log("get qb metadata");
+    // console.log("get qb metadata");
     return this.getJSONFile("assets/files/quizbowlQuestions/metadata.json");
   }
 
@@ -96,7 +96,7 @@ export class ApiService {
       }
       return this.http.get("https://tychoadmin.herokuapp.com/mobile_api/?time="+date_modified).map((res:Response) => res.json());
     }).subscribe(response => {
-      console.log(response);
+      // console.log(response);
     });
   }
 
@@ -111,7 +111,7 @@ export class ApiService {
     });
 
     loading.onDidDismiss(() => {
-      console.log('Dismissed loading');
+      // console.log('Dismissed loading');
     });
 
     loading.present();
@@ -132,12 +132,12 @@ export class ApiService {
   openUpdateDialog() {
     /* Opens dialog if update is available. */
     this.getJSONFile("http://tiny.cc/tychoupdate").subscribe(data => {
-      console.log(data);
+      // console.log(data);
       this.appVersion.getVersionNumber().then(currentVersion => {
-      console.log("Current version: " + (currentVersion) + ", updated against: " + data.version);
+      // console.log("Current version: " + (currentVersion) + ", updated against: " + data.version);
         if (compareVersions(currentVersion, data.version) >= 0) {
           // same or greater-than version.
-          console.log("Same version!");
+          // console.log("Same version!");
           return;
         }
         var description = data.description.replace(/\n/g, "<br>");
@@ -159,7 +159,7 @@ export class ApiService {
     this.appVersion.getPackageName().then(appId => {
       return this.market.open(appId);
     }).then(d => {
-      console.log("Thank you for updating!")
+      // console.log("Thank you for updating!")
     }).catch(e => {
       this.error();
     });

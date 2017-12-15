@@ -27,7 +27,7 @@ export class SplashPage {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad SplashPage');
+    // console.log('ionViewDidLoad SplashPage');
   }
 
   ionViewDidEnter() {

@@ -25,7 +25,7 @@ export class ItemDetailsPage {
               public photoViewer: PhotoViewer) {
     // If we navigated to this page, we will have an item available as a nav param
     this.selectedItem = navParams.get('item');
-    console.log(this.selectedItem);
+    // console.log(this.selectedItem);
   }
 
   ionViewDidLoad() {
@@ -33,11 +33,11 @@ export class ItemDetailsPage {
     this.apiService.presentLoadingCustom();
     var url = '//cdn.mozilla.net/pdfjs/tracemonkey.pdf';
     url = 'assets/files/YGKschoolsofthought.pdf'
-    console.log(this.selectedItem);
-    console.log(this.selectedItem.googleDocsId);
+    // console.log(this.selectedItem);
+    // console.log(this.selectedItem.googleDocsId);
     url = 'https://www.googleapis.com/drive/v3/files/fileId/export?fileId='+this.selectedItem.googleDocsId+'&mimeType=text/html&key=AIzaSyDIzqeDtau8sP6OtsURRSsSjUxDR1Qd1RA';
     this.apiService.getFile(url).subscribe(data => {
-      console.log(data);
+      // console.log(data);
       function stripScripts(s) {
         var div = document.createElement('div');
         div.innerHTML = s;
@@ -68,7 +68,7 @@ export class ItemDetailsPage {
 
   }
   pageClickHandler(e: HTMLElement){
-    console.log(e); // here is the element which has been clicked
+    // console.log(e); // here is the element which has been clicked
     (<any>window).e = e;
     if (e.tagName=="IMG") {
       //e.setAttribute("imageViewer","");
