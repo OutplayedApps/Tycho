@@ -1,10 +1,10 @@
 {
   "name": "tycho",
-  "app_id": "aa488f20",
   "integrations": {
     "gulp": {},
     "cordova": {}
   },
   "type": "ionic-angular",
-  "watchPatterns": []
+  "watchPatterns": [],
+  "id": "aa488f20"
 }

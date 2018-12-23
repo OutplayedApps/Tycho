@@ -5,6 +5,7 @@
     "homepage": "http://ionicframework.com/",
     "private": true,
     "scripts": {
+        "start": "ionic serve",
         "clean": "ionic-app-scripts clean",
         "build": "ionic-app-scripts build",
         "ionic:build": "ionic-app-scripts build",
@@ -65,6 +66,7 @@
         "@ionic/app-scripts": "^3.1.2",
         "gulp": "^3.9.1",
         "gulp-shell": "^0.6.3",
+        "ionic": "^4.6.0",
         "typescript": "^2.0.9"
     },
     "cordovaPlugins": [
